@@ -32,8 +32,9 @@ jest.mock('fs', () => ({
 // Mock next/image
 jest.mock('next/image', () => ({
   __esModule: true,
-  default: (props: any) => {
+  default: (props: JSX.IntrinsicElements['img']) => {
     // eslint-disable-next-line @next/next/no-img-element
+    // eslint-disable-next-line jsx-a11y/alt-text
     return <img {...props} />;
   },
 }));
