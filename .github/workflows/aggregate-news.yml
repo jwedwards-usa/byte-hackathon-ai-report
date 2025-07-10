@@ -1,0 +1,65 @@
+name: Aggregate AI News
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+          cache: true
+          cache-dependency-path: ai-report/go.sum
+
+      - name: Download Go dependencies
+        run: go mod download
+        working-directory: ai-report
+
+      - name: Run aggregator
+        run: go run cmd/aggregator/main.go
+        working-directory: ai-report
+        env:
+          TZ: UTC
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet ai-report/public/news-data.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'AI Report Bot'
+          git config --global user.email 'bot@ai-report.com'
+          git add ai-report/public/news-data.json ai-report/public/archive/
+          git commit -m "chore: update AI news ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push
+
+      - name: Trigger site deploy
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'deploy.yml',
+              ref: 'main'
+            }) 
