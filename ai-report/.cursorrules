@@ -1,0 +1,130 @@
+# AI Report - Cursor Rules
+
+## Project Context
+You are working on AI Report, a Drudge Report-style news aggregator for AI news. This is a Next.js 15 static site optimized for GitHub Pages with minimal JavaScript and maximum performance.
+
+## Key Principles
+1. **Static First**: Always prefer build-time solutions over runtime
+2. **Minimal Dependencies**: Question every new package addition
+3. **Performance Obsessed**: Every KB matters
+4. **Accessibility First**: WCAG 2.1 AA compliance is non-negotiable
+5. **SEO Optimized**: Server-side rendering, semantic HTML
+
+## Code Style Guidelines
+
+### TypeScript
+- Use strict mode always
+- No `any` types - use `unknown` if needed
+- Prefer interfaces over types for objects
+- Use const assertions for literals
+- Explicit return types for functions
+
+### React/Next.js
+- Server components by default
+- Client components only when absolutely necessary
+- No useState/useEffect unless required
+- Prefer data fetching at build time
+- Use Next.js Image component for all images
+
+### CSS
+- Pure CSS only, no Tailwind or CSS-in-JS
+- BEM-like naming: `.block__element--modifier`
+- Mobile-first responsive design
+- CSS variables for theming
+- Separate concerns: structure vs. presentation
+
+### File Organization
+```
+- One component per file
+- Co-locate tests with components
+- Group by feature, not file type
+- Use index files sparingly
+- Keep files under 200 lines
+```
+
+## Common Tasks
+
+### Adding a News Item
+1. Update `public/news-data.json`
+2. Add image to `public/images/YYYY-MM-DD/` if needed
+3. Ensure alt text is descriptive
+4. Test locally before committing
+
+### Modifying Styles
+1. Edit `app/styles.css` only
+2. Test on mobile first
+3. Check print styles
+4. Verify accessibility (focus states)
+
+### Adding Features
+1. Check SPEC.md first
+2. Ensure it works without JavaScript
+3. Update tests
+4. Document in README
+5. Update TASKS.md progress
+
+## Do's and Don'ts
+
+### DO:
+- ✅ Use semantic HTML elements
+- ✅ Add descriptive alt text to all images
+- ✅ Test with keyboard navigation
+- ✅ Optimize images before adding
+- ✅ Keep bundle size minimal
+- ✅ Write self-documenting code
+- ✅ Follow the established patterns
+
+### DON'T:
+- ❌ Add client-side state management
+- ❌ Use external API calls at runtime
+- ❌ Install UI component libraries
+- ❌ Add animations or transitions
+- ❌ Use CSS frameworks
+- ❌ Implement features not in SPEC.md
+- ❌ Break the Drudge Report aesthetic
+
+## Testing Checklist
+Before committing any changes:
+- [ ] Runs without JavaScript enabled
+- [ ] Lighthouse score still 95+
+- [ ] No TypeScript errors
+- [ ] No console errors
+- [ ] Mobile responsive
+- [ ] Keyboard navigable
+- [ ] Images have alt text
+- [ ] Links work correctly
+
+## Performance Budget
+- HTML: < 20KB
+- CSS: < 10KB
+- JS: < 50KB
+- Images: < 200KB each
+- Total page weight: < 500KB
+
+## Git Commit Messages
+Format: `type(scope): description`
+
+Types:
+- `feat`: New feature
+- `fix`: Bug fix
+- `style`: CSS changes
+- `perf`: Performance improvement
+- `docs`: Documentation
+- `test`: Test changes
+- `chore`: Maintenance
+
+Example: `feat(images): add date-based image organization`
+
+## When in Doubt
+1. Check SPEC.md for requirements
+2. Refer to existing code patterns
+3. Prioritize performance and accessibility
+4. Keep it simple
+5. Ask for clarification
+
+## Remember
+This is a news aggregator, not a web app. Every decision should optimize for:
+- Fast loading
+- Easy reading
+- Simple maintenance
+- Reliable deployment 
