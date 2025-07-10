@@ -1,6 +1,6 @@
 # AI Report
 
-[View the live site](https://jwedwards-usa.github.io/byte-hackathon-ai-report/ai-report/)
+[View the live site](https://jwedwards-usa.github.io/byte-hackathon-ai-report/)
 
 A Drudge Report-style news aggregator for artificial intelligence news, built with Next.js 15, TypeScript, and optimized for GitHub Pages hosting. Features an automated Go-based news aggregator that updates content hourly.
 
