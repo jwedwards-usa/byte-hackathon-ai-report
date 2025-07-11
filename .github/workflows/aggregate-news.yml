@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 */3 * * *'   # every 3 hours
   workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual trigger (optional)'
+        required: false
+        default: 'manual trigger'
 
 permissions:
   contents: write
@@ -49,7 +54,8 @@ jobs:
           git config --global user.name 'AI Report Bot'
           git config --global user.email 'bot@ai-report.com'
           git add ai-report/public/news-data.json ai-report/public/archive/
-          git commit -m "chore: update AI news ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          REASON="${{ github.event.inputs.reason }}"
+          git commit -m "chore: update AI news ($(date -u +'%Y-%m-%d %H:%M UTC')) - ${REASON}"
           git push
 
       - name: Trigger site deploy

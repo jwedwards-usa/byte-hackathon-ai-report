@@ -5,6 +5,11 @@ on:
     # Run every hour at minute 0
     - cron: '0 */3 * * *'
   workflow_dispatch: # Allow manual trigger
+    inputs:
+      reason:
+        description: 'Reason for manual trigger (optional)'
+        required: false
+        default: 'manual trigger'
 
 jobs:
   aggregate:
@@ -55,7 +60,8 @@ jobs:
           git config --global user.email 'bot@ai-report.com'
           git add public/news-data.json
           git add public/archive/
-          git commit -m "Update AI news - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          REASON="${{ github.event.inputs.reason }}"
+          git commit -m "Update AI news - $(date -u +'%Y-%m-%d %H:%M UTC') - ${REASON}"
           git push
       
       - name: Trigger site rebuild
