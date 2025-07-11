@@ -2,7 +2,6 @@ package sources
 
 import (
 	"fmt"
-	"time"
 
 	"github.com/ai-report/aggregator/internal/aggregator"
 )
@@ -66,16 +65,7 @@ func NewWebScraperSource(scraper WebScraper) *WebScraperSource {
 
 func (w *WebScraperSource) FetchNews() ([]aggregator.RawNewsItem, error) {
 	// Stub implementation - would scrape websites
-	// For now, return sample data
-	return []aggregator.RawNewsItem{
-		{
-			Title:       "Sample AI News Article",
-			URL:         w.scraper.URL,
-			Description: "This is a placeholder for web scraping implementation",
-			PublishedAt: time.Now(),
-			Source:      w.scraper.Name,
-		},
-	}, nil
+	return []aggregator.RawNewsItem{}, nil
 }
 
 func (w *WebScraperSource) GetName() string {

@@ -1,27 +1,23 @@
 {
   "mainHeadline": {
-    "text": "Sample AI News Article",
-    "url": "https://arstechnica.com/ai/"
+    "text": "The Download: cybersecurity’s shaky alert system, and mobile IVF",
+    "url": "https://www.technologyreview.com/2025/07/11/1120003/the-download-cybersecuritys-shaky-alert-system-and-mobile-ivf/"
   },
   "topStories": [
-    {
-      "text": "The Download: cybersecurity’s shaky alert system, and mobile IVF",
-      "url": "https://www.technologyreview.com/2025/07/11/1120003/the-download-cybersecuritys-shaky-alert-system-and-mobile-ivf/"
-    },
     {
       "text": "CYBERSECURITY’S GLOBAL ALARM SYSTEM IS BREAKING DOWN",
       "url": "https://www.technologyreview.com/2025/07/11/1119370/cybersecurity-alarm-system-breaking-down/"
     },
     {
-      "text": "OPENAI\u0026#8217;S NEXT BIG LAUNCH COULD BE AN AI WEB BROWSER",
+      "text": "OPENAI’S NEXT BIG LAUNCH COULD BE AN AI WEB BROWSER",
       "url": "https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "Gemini AI can now turn photos into videos",
       "url": "https://www.theverge.com/news/703885/google-gemini-ai-photo-video-feature-availability"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift",
       "url": "https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/"
@@ -35,7 +31,7 @@
       "url": "https://www.technologyreview.com/2025/07/11/1119976/first-babies-born-simplified-ivf-mobile-lab/"
     },
     {
-      "text": "A Republican state attorney general is formally investigating why AI chatbots don\u0026#8217;t like Donald Trump",
+      "text": "A Republican state attorney general is formally investigating why AI chatbots don’t like Donald Trump",
       "url": "https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking"
     },
     {
@@ -47,15 +43,15 @@
       "url": "https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/"
     },
     {
-      "text": "Dive deeper with AI Mode and get gaming help in Circle to Search",
-      "url": "https://blog.google/products/search/circle-to-search-ai-mode-gaming/"
-    }
-  ],
-  "centerColumn": [
+      "text": "Grok searches for Elon Musk’s opinion before answering tough questions",
+      "url": "https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions"
+    },
     {
       "text": "AWS doubles down on infrastructure as strategy in the AI race with SageMaker upgrades",
       "url": "https://venturebeat.com/ai/aws-doubles-down-on-infrastructure-as-strategy-in-the-ai-race-with-sagemaker-upgrades/"
-    },
+    }
+  ],
+  "centerColumn": [
     {
       "text": "Meta is trying to win the AI race with money — but not everyone can be bought",
       "url": "https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money"
@@ -63,10 +59,6 @@
     {
       "text": "Google’s open MedGemma AI models could transform healthcare",
       "url": "https://www.artificialintelligence-news.com/news/google-open-medgemma-ai-models-healthcare/"
-    },
-    {
-      "text": "Inside the AI startup frenzy: ‘Everyone’s pivoting, then pivoting again’",
-      "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company"
     },
     {
       "text": "LLM Inference Handbook",
@@ -77,12 +69,20 @@
       "url": "https://venturebeat.com/ai/elon-musk-introduced-grok-4-last-night-calling-it-the-smartest-ai-in-the-world-what-businesses-need-to-know/"
     },
     {
+      "text": "Inside the AI startup frenzy: ‘Everyone’s pivoting, then pivoting again’",
+      "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company"
+    },
+    {
       "text": "Employee AI agent adoption: Maximizing gains while navigating challenges",
       "url": "https://venturebeat.com/ai/employee-ai-agent-adoption-maximizing-gains-while-navigating-challenges/"
     },
     {
       "text": "Open vs. closed models: AI leaders from GM, Zoom and IBM weigh trade-offs for enterprise use",
       "url": "https://venturebeat.com/ai/open-vs-closed-models-ai-leaders-from-gm-zoom-and-ibm-weigh-trade-offs-for-enterprise-use/"
+    },
+    {
+      "text": "Skip the AI ‘bake-off’ and build autonomous agents: Lessons from Intuit and Amex",
+      "url": "https://venturebeat.com/ai/dont-wait-for-a-bake-off-how-intuit-and-amex-beat-competitors-to-production-ai-agents/"
     }
   ],
   "rightColumn": [
@@ -95,15 +95,11 @@
       "url": "https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch"
     },
     {
-      "text": "Tencent improves testing creative AI models with new benchmark",
-      "url": "https://www.artificialintelligence-news.com/news/tencent-improves-testing-creative-ai-models-new-benchmark/"
-    },
-    {
       "text": "$8.8 trillion protected: How one CISO went from ‘that’s BS’ to bulletproof in 90 days",
       "url": "https://venturebeat.com/security/ciso-dodges-bullet-protecting-8-8-trillion-from-shadow-ai/"
     },
     {
-      "text": "YouTube \u0026#8216;clarifies\u0026#8217; its plan to demonetize spammy AI slop",
+      "text": "YouTube ‘clarifies’ its plan to demonetize spammy AI slop",
       "url": "https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam"
     },
     {
@@ -117,7 +113,11 @@
     {
       "text": "Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown",
       "url": "https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo"
+    },
+    {
+      "text": "Building the Hugging Face MCP Server",
+      "url": "https://huggingface.co/blog/building-hf-mcp"
     }
   ],
-  "lastUpdated": "2025-07-11T13:39:48Z"
+  "lastUpdated": "2025-07-11T09:14:09-05:00"
 }
