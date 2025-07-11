@@ -3,6 +3,7 @@ package sources
 import (
 	"encoding/json"
 	"fmt"
+	"html"
 	"net/http"
 	"strings"
 	"time"
@@ -67,7 +68,7 @@ func (h *HackerNewsSource) FetchNews() ([]aggregator.RawNewsItem, error) {
 		// Check if item matches our keywords
 		if h.matchesKeywords(item) {
 			newsItem := aggregator.RawNewsItem{
-				Title:       item.Title,
+				Title:       html.UnescapeString(item.Title),
 				URL:         item.URL,
 				Description: fmt.Sprintf("HN Score: %d | Comments: %d", item.Score, item.Descendants),
 				PublishedAt: time.Unix(item.Time, 0),

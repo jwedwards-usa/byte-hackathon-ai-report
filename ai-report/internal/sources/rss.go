@@ -2,6 +2,7 @@ package sources
 
 import (
 	"fmt"
+	"html"
 	"time"
 
 	"github.com/ai-report/aggregator/internal/aggregator"
@@ -66,7 +67,7 @@ func (r *RSSSource) FetchNews() ([]aggregator.RawNewsItem, error) {
 		}
 
 		newsItem := aggregator.RawNewsItem{
-			Title:       item.Title,
+			Title:       html.UnescapeString(item.Title),
 			URL:         item.Link,
 			Description: item.Description,
 			PublishedAt: publishedAt,
