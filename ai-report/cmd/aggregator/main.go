@@ -217,23 +217,10 @@ func min(a, b int) int {
 
 // NewsData represents the structure of news-data.json
 type NewsData struct {
-	MainHeadline NewsItem   `json:"mainHeadline"`
-	TopStories   []NewsItem `json:"topStories"`
-	LeftColumn   []NewsItem `json:"leftColumn"`
-	CenterColumn []NewsItem `json:"centerColumn"`
-	RightColumn  []NewsItem `json:"rightColumn"`
-	LastUpdated  string     `json:"lastUpdated"`
-}
-
-type NewsItem struct {
-	Text  string     `json:"text"`
-	URL   string     `json:"url"`
-	Image *ImageData `json:"image,omitempty"`
-}
-
-type ImageData struct {
-	Src    string `json:"src"`
-	Alt    string `json:"alt"`
-	Width  int    `json:"width"`
-	Height int    `json:"height"`
+	MainHeadline aggregator.NewsItem   `json:"mainHeadline"`
+	TopStories   []aggregator.NewsItem `json:"topStories"`
+	LeftColumn   []aggregator.NewsItem `json:"leftColumn"`
+	CenterColumn []aggregator.NewsItem `json:"centerColumn"`
+	RightColumn  []aggregator.NewsItem `json:"rightColumn"`
+	LastUpdated  string               `json:"lastUpdated"`
 } 

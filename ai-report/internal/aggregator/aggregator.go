@@ -265,9 +265,7 @@ func normalizeTitle(title string) string {
 	title = strings.ReplaceAll(title, " — ", " ")
 	title = strings.ReplaceAll(title, ":", "")
 	title = strings.ReplaceAll(title, "'", "")
-	title = strings.ReplaceAll(title, "'", "")
-	title = strings.ReplaceAll(title, """, "")
-	title = strings.ReplaceAll(title, """, "")
+	title = strings.ReplaceAll(title, "\"", "")
 	
 	// Remove source suffixes
 	suffixes := []string{
