@@ -128,7 +128,8 @@ export default async function Home() {
 
       <footer className="footer">
         <p>&copy; 2024 AI Report. All rights reserved.</p>
-        <p>A Drudge Report-style aggregator for AI news</p>
+        <p>A news aggregator focused on artificial intelligence</p>
+        <p className="legal-disclaimer">AI Report is an independent news aggregation service. It is not affiliated with, endorsed by, or connected to any other news service or website.</p>
       </footer>
     </div>
   );

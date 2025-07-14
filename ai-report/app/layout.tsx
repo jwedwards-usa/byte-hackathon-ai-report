@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "AI Report - Your Source for Artificial Intelligence News",
-  description: "AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates. A Drudge Report-style aggregator for AI news.",
+  description: "AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates. An independent news aggregator focused on AI developments.",
   keywords: "AI news, artificial intelligence, machine learning, deep learning, GPT, ChatGPT, AI updates, tech news",
   authors: [{ name: "AI Report" }],
   creator: "AI Report",
