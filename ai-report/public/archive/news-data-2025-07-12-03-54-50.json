@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Moonshot AI’s Kimi K2 outperforms GPT-4 in key benchmarks — and it’s free",
+    "url": "https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI’s Windsurf deal is off — and Windsurf’s CEO is going to Google",
+      "url": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai"
+    },
+    {
+      "text": "Sample AI News Article",
+      "url": "https://arstechnica.com/ai/"
+    },
+    {
+      "text": "The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift",
+      "url": "https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A new paradigm for AI: How ‘thinking as optimization’ leads to better general-purpose models",
+      "url": "https://venturebeat.com/ai/a-new-paradigm-for-ai-how-thinking-as-optimization-leads-to-better-general-purpose-models/"
+    },
+    {
+      "text": "OPENAI’S NEXT BIG LAUNCH COULD BE AN AI WEB BROWSER",
+      "url": "https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt"
+    },
+    {
+      "text": "Gemini AI can now turn photos into videos",
+      "url": "https://www.theverge.com/news/703885/google-gemini-ai-photo-video-feature-availability"
+    },
+    {
+      "text": "The Download: cybersecurity’s shaky alert system, and mobile IVF",
+      "url": "https://www.technologyreview.com/2025/07/11/1120003/the-download-cybersecuritys-shaky-alert-system-and-mobile-ivf/"
+    },
+    {
+      "text": "CYBERSECURITY’S GLOBAL ALARM SYSTEM IS BREAKING DOWN",
+      "url": "https://www.technologyreview.com/2025/07/11/1119370/cybersecurity-alarm-system-breaking-down/"
+    },
+    {
+      "text": "A Republican state attorney general is formally investigating why AI chatbots don’t like Donald Trump",
+      "url": "https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking"
+    },
+    {
+      "text": "This tool strips away anti-AI protections from digital art",
+      "url": "https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/"
+    },
+    {
+      "text": "The great AI agent acceleration: Why enterprise adoption is happening faster than anyone predicted",
+      "url": "https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The unholy alliance that killed the AI moratorium",
+      "url": "https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump"
+    },
+    {
+      "text": "IBM Power11 targets enterprise AI adoption with zero-downtime architecture",
+      "url": "https://www.artificialintelligence-news.com/news/ibm-power11-enterprise-servers-zero-downtime-ai/"
+    },
+    {
+      "text": "The first babies have been born following “simplified” IVF in a mobile lab",
+      "url": "https://www.technologyreview.com/2025/07/11/1119976/first-babies-born-simplified-ivf-mobile-lab/"
+    },
+    {
+      "text": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html"
+    },
+    {
+      "text": "AWS doubles down on infrastructure as strategy in the AI race with SageMaker upgrades",
+      "url": "https://venturebeat.com/ai/aws-doubles-down-on-infrastructure-as-strategy-in-the-ai-race-with-sagemaker-upgrades/"
+    },
+    {
+      "text": "Meta is trying to win the AI race with money — but not everyone can be bought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money"
+    },
+    {
+      "text": "Google’s open MedGemma AI models could transform healthcare",
+      "url": "https://www.artificialintelligence-news.com/news/google-open-medgemma-ai-models-healthcare/"
+    },
+    {
+      "text": "Inside the AI startup frenzy: ‘Everyone’s pivoting, then pivoting again’",
+      "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Solo.io wins ‘most likely to succeed’ award at VB Transform 2025 innovation showcase",
+      "url": "https://venturebeat.com/ai/solo-io-wins-most-likely-to-succeed-award-at-vb-transform-2025-innovation-showcase/"
+    },
+    {
+      "text": "Grok searches for Elon Musk’s opinion before answering tough questions",
+      "url": "https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions"
+    },
+    {
+      "text": "LLM Inference Handbook",
+      "url": "https://bentoml.com/llm/"
+    },
+    {
+      "text": "Elon Musk introduced Grok 4 last night, calling it the ‘smartest AI in the world’ — what businesses need to know",
+      "url": "https://venturebeat.com/ai/elon-musk-introduced-grok-4-last-night-calling-it-the-smartest-ai-in-the-world-what-businesses-need-to-know/"
+    },
+    {
+      "text": "YouTube ‘clarifies’ its plan to demonetize spammy AI slop",
+      "url": "https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam"
+    },
+    {
+      "text": "China’s energy dominance in three charts",
+      "url": "https://www.technologyreview.com/2025/07/10/1119941/china-energy-dominance-three-charts/"
+    },
+    {
+      "text": "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
+      "url": "https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/"
+    },
+    {
+      "text": "$8.8 trillion protected: How one CISO went from ‘that’s BS’ to bulletproof in 90 days",
+      "url": "https://venturebeat.com/security/ciso-dodges-bullet-protecting-8-8-trillion-from-shadow-ai/"
+    }
+  ],
+  "lastUpdated": "2025-07-12T03:54:50Z"
+}

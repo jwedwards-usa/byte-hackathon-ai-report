@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI is rewriting the rules of the insurance industry",
+    "url": "https://www.artificialintelligence-news.com/news/ai-is-rewriting-the-rules-of-insurance-industry/"
+  },
+  "topStories": [
+    {
+      "text": "The unholy alliance that killed the AI moratorium",
+      "url": "https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump"
+    },
+    {
+      "text": "Sample AI News Article",
+      "url": "https://arstechnica.com/ai/"
+    },
+    {
+      "text": "The Download: cybersecurity’s shaky alert system, and mobile IVF",
+      "url": "https://www.technologyreview.com/2025/07/11/1120003/the-download-cybersecuritys-shaky-alert-system-and-mobile-ivf/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OPENAI’S NEXT BIG LAUNCH COULD BE AN AI WEB BROWSER",
+      "url": "https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt"
+    },
+    {
+      "text": "The Download: flaws in anti-AI protections for art, and an AI regulation vibe shift",
+      "url": "https://www.technologyreview.com/2025/07/10/1119961/the-download-anti-ai-art-regulation-vibe-shift/"
+    },
+    {
+      "text": "A Republican state attorney general is formally investigating why AI chatbots don’t like Donald Trump",
+      "url": "https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking"
+    },
+    {
+      "text": "Gemini AI can now turn photos into videos",
+      "url": "https://www.theverge.com/news/703885/google-gemini-ai-photo-video-feature-availability"
+    },
+    {
+      "text": "OpenAI closes its deal to buy Jony Ive’s io and build AI hardware",
+      "url": "https://www.theverge.com/news/703114/openai-io-jony-ive-sam-altman-ai-hardware"
+    },
+    {
+      "text": "We're light-years away from true artificial intelligence, says martha wells",
+      "url": "https://www.scientificamerican.com/article/were-light-years-away-from-true-artificial-intelligence-says-murderbot/"
+    },
+    {
+      "text": "CYBERSECURITY’S GLOBAL ALARM SYSTEM IS BREAKING DOWN",
+      "url": "https://www.technologyreview.com/2025/07/11/1119370/cybersecurity-alarm-system-breaking-down/"
+    },
+    {
+      "text": "This tool strips away anti-AI protections from digital art",
+      "url": "https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The first babies have been born following “simplified” IVF in a mobile lab",
+      "url": "https://www.technologyreview.com/2025/07/11/1119976/first-babies-born-simplified-ivf-mobile-lab/"
+    },
+    {
+      "text": "AWS doubles down on infrastructure as strategy in the AI race with SageMaker upgrades",
+      "url": "https://venturebeat.com/ai/aws-doubles-down-on-infrastructure-as-strategy-in-the-ai-race-with-sagemaker-upgrades/"
+    },
+    {
+      "text": "Meta is trying to win the AI race with money — but not everyone can be bought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money"
+    },
+    {
+      "text": "LLM Inference Handbook",
+      "url": "https://bentoml.com/llm/"
+    },
+    {
+      "text": "Elon Musk introduced Grok 4 last night, calling it the ‘smartest AI in the world’ — what businesses need to know",
+      "url": "https://venturebeat.com/ai/elon-musk-introduced-grok-4-last-night-calling-it-the-smartest-ai-in-the-world-what-businesses-need-to-know/"
+    },
+    {
+      "text": "Google’s open MedGemma AI models could transform healthcare",
+      "url": "https://www.artificialintelligence-news.com/news/google-open-medgemma-ai-models-healthcare/"
+    },
+    {
+      "text": "Inside the AI startup frenzy: ‘Everyone’s pivoting, then pivoting again’",
+      "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company"
+    },
+    {
+      "text": "Employee AI agent adoption: Maximizing gains while navigating challenges",
+      "url": "https://venturebeat.com/ai/employee-ai-agent-adoption-maximizing-gains-while-navigating-challenges/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Skip the AI ‘bake-off’ and build autonomous agents: Lessons from Intuit and Amex",
+      "url": "https://venturebeat.com/ai/dont-wait-for-a-bake-off-how-intuit-and-amex-beat-competitors-to-production-ai-agents/"
+    },
+    {
+      "text": "Announcing the winners of VentureBeat’s 7th Annual Women in AI awards",
+      "url": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-7th-annual-women-in-ai-awards/"
+    },
+    {
+      "text": "Grok searches for Elon Musk’s opinion before answering tough questions",
+      "url": "https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions"
+    },
+    {
+      "text": "$8.8 trillion protected: How one CISO went from ‘that’s BS’ to bulletproof in 90 days",
+      "url": "https://venturebeat.com/security/ciso-dodges-bullet-protecting-8-8-trillion-from-shadow-ai/"
+    },
+    {
+      "text": "YouTube ‘clarifies’ its plan to demonetize spammy AI slop",
+      "url": "https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam"
+    },
+    {
+      "text": "China’s energy dominance in three charts",
+      "url": "https://www.technologyreview.com/2025/07/10/1119941/china-energy-dominance-three-charts/"
+    },
+    {
+      "text": "Automatically Packaging a Haskell Library as a Swift Binary XCFramework",
+      "url": "https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html"
+    },
+    {
+      "text": "Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown",
+      "url": "https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo"
+    }
+  ],
+  "lastUpdated": "2025-07-11T15:25:59Z"
+}
