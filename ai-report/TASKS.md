@@ -11,25 +11,25 @@ When working on tasks, please:
 ## 🚀 Phase 1: Core Features (Current)
 **Progress: 100%**
 
-- [x] Set up Next.js project with TypeScript (2025-01-10)
-- [x] Configure for GitHub Pages deployment (2025-01-10)
-- [x] Create Drudge Report-style layout (2025-01-10)
-- [x] Implement three-column design (2025-01-10)
-- [x] Add JSON-driven content system (2025-01-10)
-- [x] Support images with accessibility (2025-01-10)
-- [x] Create date-based image organization (2025-01-10)
-- [x] Add SEO optimization (2025-01-10)
-- [x] Implement responsive design (2025-01-10)
-- [x] Add print styles (2025-01-10)
-- [x] Create skip-to-content link (2025-01-10)
-- [x] Write comprehensive documentation (2025-01-10)
-- [x] Build Go-based news aggregator (2025-01-10)
-  - [x] RSS feed integration
-  - [x] Hacker News integration
-  - [x] Intelligent ranking algorithm
-  - [x] Duplicate detection
-  - [x] Automatic archiving
-  - [x] GitHub Actions automation
+- [x] Set up Next.js project with TypeScript (2025-07-12)
+- [x] Configure for GitHub Pages deployment (2025-07-12)
+- [x] Create classic news aggregator-style layout (2025-07-12)
+- [x] Implement three-column design (2025-07-12)
+- [x] Add JSON-driven content system (2025-07-12)
+- [x] Support images with accessibility (2025-07-12)
+- [x] Create date-based image organization (2025-07-12)
+- [x] Add SEO optimization (2025-07-12)
+- [x] Implement responsive design (2025-07-12)
+- [x] Add print styles (2025-07-12)
+- [x] Create skip-to-content link (2025-07-12)
+- [x] Write comprehensive documentation (2025-07-12)
+- [x] Build Go-based news aggregator (2025-07-12)
+  - [x] RSS feed integration (2025-07-12)
+  - [x] Hacker News integration (2025-07-12)
+  - [x] Intelligent ranking algorithm (2025-07-12)
+  - [x] Duplicate detection (2025-07-12)
+  - [x] Automatic archiving (2025-07-12)
+  - [x] GitHub Actions automation (2025-07-12)
 
 ## 🔧 Phase 2: Enhancements (Next)
 **Progress: 10%**
@@ -55,6 +55,7 @@ When working on tasks, please:
   - [ ] Build web scrapers for tech sites
   - [ ] Add image downloading/optimization
   - [ ] Implement source reliability scoring
+  - [x] Clean up stale news archives (2025-07-12)
 
 ### User Experience
 - [ ] Add dark mode support
@@ -72,6 +73,7 @@ When working on tasks, please:
   - [ ] Build date picker (no JS)
   - [ ] Display historical news-data
   - [ ] Add "On this day" feature
+- [x] Add legal disclaimer and remove third-party references (2025-07-12)
 
 ### Performance
 - [ ] Implement image optimization pipeline
@@ -224,11 +226,11 @@ When working on tasks, please:
   - [ ] Source priority settings
 
 ## 🚢 Deployment & DevOps
-**Progress: 20%**
+**Progress: 25%**
 
-- [x] Create GitHub Actions workflows (2025-01-10)
-  - [x] Hourly news aggregation
-  - [x] Automatic deployment trigger
+- [x] Create GitHub Actions workflows (2025-07-12)
+  - [x] Scheduled news aggregation (2025-07-12)
+  - [x] Automatic deployment trigger (2025-07-12)
 - [ ] Enhance CI/CD pipeline
   - [ ] Add staging environment
   - [ ] Implement blue-green deployment
@@ -244,6 +246,7 @@ When working on tasks, please:
   - [ ] Kubernetes deployment
   - [ ] Auto-scaling setup
   - [ ] Health checks
+- [x] Move README to root and update (2025-07-12)
 
 ## Notes
 - Tasks should be completed in order within each phase
