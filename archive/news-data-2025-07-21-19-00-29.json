@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude",
+    "url": "https://arxiv.org/abs/2501.10484"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI says ChatGPT users send over 2.5 billion prompts every day",
+      "url": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion"
+    },
+    {
+      "text": "PAPER SUMMARY ATTACK: JAILBREAKING LLMS THROUGH LLM SAFETY PAPERS",
+      "url": "https://arxiv.org/abs/2507.13474"
+    },
+    {
+      "text": "Domain-randomized deep learning for neuroimage analysis",
+      "url": "https://arxiv.org/abs/2507.13458"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+      "url": "https://simonwillison.net/2025/Jul/21/gemini-imo/#atom-everything"
+    },
+    {
+      "text": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
+      "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership"
+    },
+    {
+      "text": "From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study",
+      "url": "https://arxiv.org/abs/2501.03572"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "MCP Client Development with Streamlit: Build Your AI-Powered Web App",
+      "url": "https://towardsdatascience.com/mcp-client-development-with-streamlit-build-your-ai-powered-web-app/"
+    },
+    {
+      "text": "Directly Try Solving Alignment for 5 weeks",
+      "url": "https://www.lesswrong.com/posts/abd9ufFpLrn5kvnLn/directly-try-solving-alignment-for-5-weeks"
+    },
+    {
+      "text": "Advanced Topic Modeling with LLMs",
+      "url": "https://towardsdatascience.com/advanced-topic-modeling-with-llms/"
+    },
+    {
+      "text": "Detecting High-Stakes Interactions with Activation Probes",
+      "url": "https://www.lesswrong.com/posts/utcZSRv2JfahD8yfz/detecting-high-stakes-interactions-with-activation-probes"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Generative Deep Learning Framework for Inverse Design of Fuels",
+      "url": "https://arxiv.org/abs/2504.12075"
+    },
+    {
+      "text": "PRIDE -- Parameter-Efficient Reduction of Identity Discrimination for Equality in LLMs",
+      "url": "https://arxiv.org/abs/2507.13743"
+    },
+    {
+      "text": "Convergent transformations of visual representation in brains and models",
+      "url": "https://arxiv.org/abs/2507.13941"
+    },
+    {
+      "text": "Adversarial Training Improves Generalization Under Distribution Shifts in Bioacoustics",
+      "url": "https://arxiv.org/abs/2507.13727"
+    },
+    {
+      "text": "A Deep Learning-Based Ensemble System for Automated Shoulder Fracture Detection in Clinical Radiographs",
+      "url": "https://arxiv.org/abs/2507.13408"
+    },
+    {
+      "text": "Robust Anomaly Detection with Graph Neural Networks using Controllability",
+      "url": "https://arxiv.org/abs/2507.13954"
+    },
+    {
+      "text": "Adaptive Linguistic Prompting (ALP) Enhances Phishing Webpage Detection in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2507.13357"
+    },
+    {
+      "text": "CaSTFormer: Causal Spatio-Temporal Transformer for Driving Intention Prediction",
+      "url": "https://arxiv.org/abs/2507.13425"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Generalist Forecasting with Frozen Video Models via Latent Diffusion",
+      "url": "https://arxiv.org/abs/2507.13942"
+    },
+    {
+      "text": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting",
+      "url": "https://arxiv.org/abs/2412.02503"
+    },
+    {
+      "text": "SamGoG: A Sampling-Based Graph-of-Graphs Framework for Imbalanced Graph Classification",
+      "url": "https://arxiv.org/abs/2507.13741"
+    },
+    {
+      "text": "Search-Optimized Quantization in Biomedical Ontology Alignment",
+      "url": "https://arxiv.org/abs/2507.13742"
+    },
+    {
+      "text": "MolPIF: A Parameter Interpolation Flow Model for Molecule Generation",
+      "url": "https://arxiv.org/abs/2507.13762"
+    },
+    {
+      "text": "MUSO: Achieving Exact Machine Unlearning in Over-Parameterized Regimes",
+      "url": "https://arxiv.org/abs/2410.08557"
+    },
+    {
+      "text": "On Logical Extrapolation for Mazes with Recurrent and Implicit Networks",
+      "url": "https://arxiv.org/abs/2410.03020"
+    },
+    {
+      "text": "\"PhyWorldBench\": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models",
+      "url": "https://arxiv.org/abs/2507.13428"
+    }
+  ],
+  "lastUpdated": "2025-07-21T19:00:29-05:00"
+}

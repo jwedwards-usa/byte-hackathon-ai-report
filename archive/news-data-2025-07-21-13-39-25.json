@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI says ChatGPT users send over 2.5 billion prompts every day",
+    "url": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion"
+  },
+  "topStories": [
+    {
+      "text": "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude",
+      "url": "https://arxiv.org/abs/2501.10484"
+    },
+    {
+      "text": "Domain-randomized deep learning for neuroimage analysis",
+      "url": "https://arxiv.org/abs/2507.13458"
+    },
+    {
+      "text": "PAPER SUMMARY ATTACK: JAILBREAKING LLMS THROUGH LLM SAFETY PAPERS",
+      "url": "https://arxiv.org/abs/2507.13474"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Advanced Topic Modeling with LLMs",
+      "url": "https://towardsdatascience.com/advanced-topic-modeling-with-llms/"
+    },
+    {
+      "text": "Detecting High-Stakes Interactions with Activation Probes",
+      "url": "https://www.lesswrong.com/posts/utcZSRv2JfahD8yfz/detecting-high-stakes-interactions-with-activation-probes"
+    },
+    {
+      "text": "GDM also claims IMO gold medal",
+      "url": "https://www.lesswrong.com/posts/csCofgK3ebjQbSfyv/gdm-also-claims-imo-gold-medal"
+    },
+    {
+      "text": "Instacart’s former CEO is taking the reins of a big chunk of OpenAI",
+      "url": "https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai"
+    },
+    {
+      "text": "LLM Daydreaming (gwern.net)",
+      "url": "https://www.lesswrong.com/posts/ZffDM6MkHDkXb9Si6/llm-daydreaming-gwern-net"
+    },
+    {
+      "text": "From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study",
+      "url": "https://arxiv.org/abs/2501.03572"
+    },
+    {
+      "text": "Creative writing with LLMs, part 1: Prompting for fiction",
+      "url": "https://www.lesswrong.com/posts/D9MHrR8GrgSbXMqtB/creative-writing-with-llms-part-1-prompting-for-fiction"
+    },
+    {
+      "text": "GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination",
+      "url": "https://arxiv.org/abs/2507.13511"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "ParaStudent: Generating and Evaluating Realistic Student Code by Teaching LLMs to Struggle",
+      "url": "https://arxiv.org/abs/2507.12674"
+    },
+    {
+      "text": "Convergent transformations of visual representation in brains and models",
+      "url": "https://arxiv.org/abs/2507.13941"
+    },
+    {
+      "text": "Revisiting LLM Value Probing Strategies: Are They Robust and Expressive?",
+      "url": "https://arxiv.org/abs/2507.13490"
+    },
+    {
+      "text": "CaSTFormer: Causal Spatio-Temporal Transformer for Driving Intention Prediction",
+      "url": "https://arxiv.org/abs/2507.13425"
+    },
+    {
+      "text": "Using LLMs to identify features of personal and professional skills in an open-response situational judgment test",
+      "url": "https://arxiv.org/abs/2507.13881"
+    },
+    {
+      "text": "Physics-guided impact localisation and force estimation in composite plates with uncertainty quantification",
+      "url": "https://arxiv.org/abs/2507.13376"
+    },
+    {
+      "text": "AI-Assisted Fixes to Code Review Comments at Scale",
+      "url": "https://arxiv.org/abs/2507.13499"
+    },
+    {
+      "text": "Humans learn to prefer trustworthy AI over human partners",
+      "url": "https://arxiv.org/abs/2507.13524"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "On Logical Extrapolation for Mazes with Recurrent and Implicit Networks",
+      "url": "https://arxiv.org/abs/2410.03020"
+    },
+    {
+      "text": "Policy Verification in Stochastic Dynamical Systems Using Logarithmic Neural Certificates",
+      "url": "https://arxiv.org/abs/2406.00826"
+    },
+    {
+      "text": "MolPIF: A Parameter Interpolation Flow Model for Molecule Generation",
+      "url": "https://arxiv.org/abs/2507.13762"
+    },
+    {
+      "text": "Reframing attention as a reinforcement learning problem for causal discovery",
+      "url": "https://arxiv.org/abs/2507.13920"
+    },
+    {
+      "text": "MoDyGAN: Combining Molecular Dynamics With GANs to Investigate Protein Conformational Space",
+      "url": "https://arxiv.org/abs/2507.13950"
+    },
+    {
+      "text": "BreastSegNet: Multi-label Segmentation of Breast MRI",
+      "url": "https://arxiv.org/abs/2507.13604"
+    },
+    {
+      "text": "Signs of the Past, Patterns of the Present: On the Automatic Classification of Old Babylonian Cuneiform Signs",
+      "url": "https://arxiv.org/abs/2507.13959"
+    },
+    {
+      "text": "ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies",
+      "url": "https://arxiv.org/abs/2507.13998"
+    }
+  ],
+  "lastUpdated": "2025-07-21T13:39:25-05:00"
+}

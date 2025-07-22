@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI says ChatGPT users send over 2.5 billion prompts every day",
+    "url": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion"
+  },
+  "topStories": [
+    {
+      "text": "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude",
+      "url": "https://arxiv.org/abs/2501.10484"
+    },
+    {
+      "text": "Instacart’s former CEO is taking the reins of a big chunk of OpenAI",
+      "url": "https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai"
+    },
+    {
+      "text": "From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study",
+      "url": "https://arxiv.org/abs/2501.03572"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Enhancing Breast Cancer Detection with Vision Transformers and Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2507.13372"
+    },
+    {
+      "text": "STACK: Adversarial Attacks on LLM Safeguard Pipelines",
+      "url": "https://arxiv.org/abs/2506.24068"
+    },
+    {
+      "text": "GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination",
+      "url": "https://arxiv.org/abs/2507.13511"
+    },
+    {
+      "text": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+      "url": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/"
+    },
+    {
+      "text": "SpecMaskFoley: Steering Pretrained Spectral Masked Generative Transformer Toward Synchronized Video-to-audio Synthesis via ControlNet",
+      "url": "https://arxiv.org/abs/2505.16195"
+    },
+    {
+      "text": "DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs",
+      "url": "https://arxiv.org/abs/2507.13737"
+    },
+    {
+      "text": "Multi-Agent LLMs as Ethics Advocates for AI-Based Systems",
+      "url": "https://arxiv.org/abs/2507.08392"
+    },
+    {
+      "text": "Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters",
+      "url": "https://arxiv.org/abs/2507.13618"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios",
+      "url": "https://arxiv.org/abs/2502.02145"
+    },
+    {
+      "text": "Generalist Bimanual Manipulation via Foundation Video Diffusion Models",
+      "url": "https://arxiv.org/abs/2507.12898"
+    },
+    {
+      "text": "Stonefish: Supporting Machine Learning Research in Marine Robotics",
+      "url": "https://arxiv.org/abs/2502.11887"
+    },
+    {
+      "text": "Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning",
+      "url": "https://arxiv.org/abs/2502.03304"
+    },
+    {
+      "text": "VLMs have Tunnel Vision: Evaluating Nonlocal Visual Reasoning in Leading VLMs",
+      "url": "https://arxiv.org/abs/2507.13361"
+    },
+    {
+      "text": "SafeAgent: Safeguarding LLM Agents via an Automated Risk Simulator",
+      "url": "https://arxiv.org/abs/2505.17735"
+    },
+    {
+      "text": "Multi-Centre Validation of a Deep Learning Model for Scoliosis Assessment",
+      "url": "https://arxiv.org/abs/2507.14093"
+    },
+    {
+      "text": "When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction",
+      "url": "https://arxiv.org/abs/2507.13825"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Eye-tracked Virtual Reality: A Comprehensive Survey on Methods and Privacy Challenges",
+      "url": "https://arxiv.org/abs/2305.14080"
+    },
+    {
+      "text": "Neural Architecture Search with Mixed Bio-inspired Learning Rules",
+      "url": "https://arxiv.org/abs/2507.13485"
+    },
+    {
+      "text": "Exploring Graph Representations of Logical Forms for Language Modeling",
+      "url": "https://arxiv.org/abs/2505.14523"
+    },
+    {
+      "text": "Meta4XNLI: A Crosslingual Parallel Corpus for Metaphor Detection and Interpretation",
+      "url": "https://arxiv.org/abs/2404.07053"
+    },
+    {
+      "text": "Reading Between the Lines: Combining Pause Dynamics and Semantic Coherence for Automated Assessment of Thought Disorder",
+      "url": "https://arxiv.org/abs/2507.13551"
+    },
+    {
+      "text": "CDUPatch: Color-Driven Universal Adversarial Patch Attack for Dual-Modal Visible-Infrared Detectors",
+      "url": "https://arxiv.org/abs/2504.10888"
+    },
+    {
+      "text": "Localized FNO for Spatiotemporal Hemodynamic Upsampling in Aneurysm MRI",
+      "url": "https://arxiv.org/abs/2507.13789"
+    },
+    {
+      "text": "Search-Optimized Quantization in Biomedical Ontology Alignment",
+      "url": "https://arxiv.org/abs/2507.13742"
+    }
+  ],
+  "lastUpdated": "2025-07-21T13:28:29-05:00"
+}

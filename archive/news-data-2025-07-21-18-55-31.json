@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude",
+    "url": "https://arxiv.org/abs/2501.10484"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI says ChatGPT users send over 2.5 billion prompts every day",
+      "url": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion"
+    },
+    {
+      "text": "Domain-randomized deep learning for neuroimage analysis",
+      "url": "https://arxiv.org/abs/2507.13458"
+    },
+    {
+      "text": "PAPER SUMMARY ATTACK: JAILBREAKING LLMS THROUGH LLM SAFETY PAPERS",
+      "url": "https://arxiv.org/abs/2507.13474"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+      "url": "https://simonwillison.net/2025/Jul/21/gemini-imo/#atom-everything"
+    },
+    {
+      "text": "From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study",
+      "url": "https://arxiv.org/abs/2501.03572"
+    },
+    {
+      "text": "MCP Client Development with Streamlit: Build Your AI-Powered Web App",
+      "url": "https://towardsdatascience.com/mcp-client-development-with-streamlit-build-your-ai-powered-web-app/"
+    },
+    {
+      "text": "Directly Try Solving Alignment for 5 weeks",
+      "url": "https://www.lesswrong.com/posts/abd9ufFpLrn5kvnLn/directly-try-solving-alignment-for-5-weeks"
+    },
+    {
+      "text": "Advanced Topic Modeling with LLMs",
+      "url": "https://towardsdatascience.com/advanced-topic-modeling-with-llms/"
+    },
+    {
+      "text": "Detecting High-Stakes Interactions with Activation Probes",
+      "url": "https://www.lesswrong.com/posts/utcZSRv2JfahD8yfz/detecting-high-stakes-interactions-with-activation-probes"
+    },
+    {
+      "text": "Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations",
+      "url": "https://arxiv.org/abs/2507.13705"
+    },
+    {
+      "text": "Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2507.13992"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Convergent transformations of visual representation in brains and models",
+      "url": "https://arxiv.org/abs/2507.13941"
+    },
+    {
+      "text": "Cross-Lingual Auto Evaluation for Assessing Multilingual LLMs",
+      "url": "https://arxiv.org/abs/2410.13394"
+    },
+    {
+      "text": "Adaptive Linguistic Prompting (ALP) Enhances Phishing Webpage Detection in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2507.13357"
+    },
+    {
+      "text": "Sparse Rewards Can Self-Train Dialogue Agents",
+      "url": "https://arxiv.org/abs/2409.04617"
+    },
+    {
+      "text": "SAFT: Structure-Aware Fine-Tuning of LLMs for AMR-to-Text Generation",
+      "url": "https://arxiv.org/abs/2507.13381"
+    },
+    {
+      "text": "CaSTFormer: Causal Spatio-Temporal Transformer for Driving Intention Prediction",
+      "url": "https://arxiv.org/abs/2507.13425"
+    },
+    {
+      "text": "Robust Anomaly Detection with Graph Neural Networks using Controllability",
+      "url": "https://arxiv.org/abs/2507.13954"
+    },
+    {
+      "text": "Graph Neural Network Surrogates for Contacting Deformable Bodies with Necessary and Sufficient Contact Detection",
+      "url": "https://arxiv.org/abs/2507.13459"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "SamGoG: A Sampling-Based Graph-of-Graphs Framework for Imbalanced Graph Classification",
+      "url": "https://arxiv.org/abs/2507.13741"
+    },
+    {
+      "text": "MolPIF: A Parameter Interpolation Flow Model for Molecule Generation",
+      "url": "https://arxiv.org/abs/2507.13762"
+    },
+    {
+      "text": "PARAM-1 BharatGen 2.9B Model",
+      "url": "https://arxiv.org/abs/2507.13390"
+    },
+    {
+      "text": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting",
+      "url": "https://arxiv.org/abs/2412.02503"
+    },
+    {
+      "text": "MUSO: Achieving Exact Machine Unlearning in Over-Parameterized Regimes",
+      "url": "https://arxiv.org/abs/2410.08557"
+    },
+    {
+      "text": "Reframing attention as a reinforcement learning problem for causal discovery",
+      "url": "https://arxiv.org/abs/2507.13920"
+    },
+    {
+      "text": "MoDyGAN: Combining Molecular Dynamics With GANs to Investigate Protein Conformational Space",
+      "url": "https://arxiv.org/abs/2507.13950"
+    },
+    {
+      "text": "Signs of the Past, Patterns of the Present: On the Automatic Classification of Old Babylonian Cuneiform Signs",
+      "url": "https://arxiv.org/abs/2507.13959"
+    }
+  ],
+  "lastUpdated": "2025-07-21T18:55:31-05:00"
+}
