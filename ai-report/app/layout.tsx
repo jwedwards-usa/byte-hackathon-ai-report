@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -58,12 +59,42 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        {/* GoatCounter Analytics - Privacy-friendly, no cookies */}
+        <Script 
+          data-goatcounter="https://dwell-media-group.goatcounter.com/count"
+          src="//gc.zgo.at/count.js"
+          strategy="afterInteractive"
+        />
+      </head>
       <body>
         <a href="#main-content" className="skip-to-content">
           Skip to main content
         </a>
         <div id="main-content">
           {children}
+        </div>
+        
+        {/* Cookie/Privacy Banner */}
+        <div className="privacy-banner" role="region" aria-label="Privacy Notice">
+          <input type="checkbox" id="privacy-banner-toggle" className="privacy-banner-checkbox" />
+          <div className="privacy-banner-content">
+            <p>
+              <strong>Privacy Notice:</strong> AI Report is a static news aggregator that does not use cookies or collect personal data. 
+              We use privacy-friendly analytics (GoatCounter) that respects your privacy.
+              We aggregate publicly available content from various AI news sources. 
+              <a href="#privacy-policy" className="privacy-link">Learn more about our privacy practices</a>
+            </p>
+            <label 
+              htmlFor="privacy-banner-toggle"
+              className="privacy-banner-button" 
+              role="button"
+              tabIndex={0}
+              aria-label="Dismiss privacy notice"
+            >
+              Got it
+            </label>
+          </div>
         </div>
       </body>
     </html>

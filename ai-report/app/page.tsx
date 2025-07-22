@@ -130,6 +130,59 @@ export default async function Home() {
         <p>&copy; 2024 AI Report. All rights reserved.</p>
         <p>A news aggregator focused on artificial intelligence</p>
         <p className="legal-disclaimer">AI Report is an independent news aggregation service. It is not affiliated with, endorsed by, or connected to any other news service or website.</p>
+        
+        {/* Visitor Analytics Notice */}
+        <div className="visitor-counter">
+          <p className="analytics-notice">
+            📊 Privacy-friendly analytics by <a href="https://www.goatcounter.com/" target="_blank" rel="noopener noreferrer">GoatCounter</a>
+          </p>
+        </div>
+        
+        {/* Privacy Policy Section */}
+        <div id="privacy-policy" className="privacy-policy">
+          <h2>Privacy Policy</h2>
+          <p>
+            <strong>Last Updated: {new Date().toLocaleDateString()}</strong>
+          </p>
+          <h3>Information We Don&apos;t Collect</h3>
+          <p>
+            AI Report is a static website that does not:
+          </p>
+          <ul>
+            <li>Use cookies or tracking technologies</li>
+            <li>Collect personal information</li>
+            <li>Store user data</li>
+            <li>Require user accounts or registration</li>
+            <li>Use invasive advertising</li>
+          </ul>
+          <h3>Analytics</h3>
+          <p>
+            We use GoatCounter for privacy-friendly analytics. GoatCounter:
+          </p>
+          <ul>
+            <li>Does not use cookies</li>
+            <li>Does not track personal data</li>
+            <li>Provides only aggregate statistics</li>
+            <li>Is open source and privacy-focused</li>
+            <li>Learn more at <a href="https://www.goatcounter.com/privacy" target="_blank" rel="noopener noreferrer">GoatCounter Privacy Policy</a></li>
+          </ul>
+          <h3>Content Sources</h3>
+          <p>
+            We aggregate publicly available content from various AI news sources. All content remains the property of its original publishers.
+          </p>
+          <h3>External Links</h3>
+          <p>
+            Our site contains links to external websites. We are not responsible for the privacy practices of these sites.
+          </p>
+          <h3>GDPR & CCPA Compliance</h3>
+          <p>
+            As we do not collect any personal data, there is no data to request, modify, or delete under GDPR or CCPA regulations.
+          </p>
+          <h3>Contact</h3>
+          <p>
+            For privacy-related questions, please contact us through the repository issues on GitHub.
+          </p>
+        </div>
       </footer>
     </div>
   );

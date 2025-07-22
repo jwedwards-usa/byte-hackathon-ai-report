@@ -241,9 +241,39 @@ When working on tasks, please:
 ### Analytics & Monitoring
 - [ ] Integrate analytics
   - [ ] Add privacy-friendly analytics
+    - [ ] Implement self-hosted Plausible Analytics
+    - [ ] Or use privacy-focused Fathom Analytics
+    - [ ] Configure cookie-less tracking
+  - [ ] Add Google Analytics (with consent)
+    - [ ] Implement Google Analytics 4 (GA4)
+    - [ ] Create Google Analytics property
+    - [ ] Add gtag.js script with async loading
+    - [ ] Implement cookie consent mechanism
+    - [ ] Add opt-out functionality for GDPR
+    - [ ] Configure enhanced measurement events
+    - [ ] Set up custom events for news clicks
+    - [ ] Create privacy-compliant data retention settings
+  - [ ] Add visitor counter
+    - [x] Third-party visitor counter (2025-07-12)
+      - [x] Integrate GoatCounter <script data-goatcounter="https://dwell-media-group.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script> (2025-07-12)
+      - [x] Add counter widget to page (2025-07-12)
+    - [ ] Display options (2025-07-12)
+      - [x] Add subtle counter in footer (2025-07-12)
+      - [ ] Show today/total visitors
+      - [ ] Add graph visualization (optional)
   - [ ] Track popular articles
+    - [ ] Implement click tracking (privacy-compliant)
+    - [ ] Store aggregate data only
+    - [ ] Display "Most Read" section
   - [ ] Monitor performance metrics
+    - [ ] Add Core Web Vitals tracking
+    - [ ] Monitor page load times
+    - [ ] Track aggregator performance
   - [ ] Create dashboard
+    - [ ] Build analytics dashboard page
+    - [ ] Show visitor trends
+    - [ ] Display popular content
+    - [ ] Add performance metrics
 - [ ] Add error monitoring
   - [ ] Implement error boundary
   - [ ] Add Sentry integration
@@ -254,6 +284,23 @@ When working on tasks, please:
   - [ ] Monitor fetch success rates
   - [ ] Alert on failures
   - [ ] Generate health reports
+
+### Privacy Considerations for Analytics
+- [ ] Update privacy policy
+  - [ ] Disclose analytics usage
+  - [ ] Explain data collection practices
+  - [ ] Add opt-out instructions
+  - [ ] Document data retention
+- [ ] Implement consent management
+  - [ ] Create cookie consent banner
+  - [ ] Store user preferences
+  - [ ] Honor Do Not Track signals
+  - [ ] Provide data deletion options
+- [ ] Configure privacy settings
+  - [ ] Anonymize IP addresses
+  - [ ] Disable user ID tracking
+  - [ ] Limit data sharing
+  - [ ] Set short retention periods
 
 ### Internationalization
 - [ ] Add multi-language support
@@ -298,16 +345,16 @@ When working on tasks, please:
   - [ ] Document aggregator architecture
 
 ## 🎨 Design Improvements
-**Progress: 0%**
+**Progress: 50%**
 
-- [ ] Refine typography
-  - [ ] Implement modular scale
-  - [ ] Improve line heights
-  - [ ] Add font loading strategy
-- [ ] Enhance mobile experience
-  - [ ] Improve touch targets
-  - [ ] Add swipe gestures (CSS)
-  - [ ] Optimize for thumb reach
+- [x] Refine typography (2025-07-12)
+  - [x] Implement modular scale (2025-07-12)
+  - [x] Improve line heights (2025-07-12)
+  - [x] Add font loading strategy (2025-07-12)
+- [x] Enhance mobile experience (2025-07-12)
+  - [x] Improve touch targets (2025-07-12)
+  - [x] Add swipe gestures (CSS) (2025-07-12)
+  - [x] Optimize for thumb reach (2025-07-12)
 - [ ] Create design system
   - [ ] Document color palette
   - [ ] Define spacing system
@@ -315,7 +362,7 @@ When working on tasks, please:
   - [ ] Add Storybook
 
 ## 🔒 Security & Compliance
-**Progress: 0%**
+**Progress: 30%**
 
 - [ ] Security hardening
   - [ ] Add CSP headers
@@ -323,11 +370,11 @@ When working on tasks, please:
   - [ ] Add rate limiting
   - [ ] Security audit
   - [ ] Secure aggregator endpoints
-- [ ] Privacy compliance
-  - [ ] Add cookie banner
-  - [ ] Create privacy policy
-  - [ ] GDPR compliance
-  - [ ] CCPA compliance
+- [x] Privacy compliance (2025-07-12)
+  - [x] Add cookie banner (2025-07-12)
+  - [x] Create privacy policy (2025-07-12)
+  - [x] GDPR compliance (2025-07-12)
+  - [x] CCPA compliance (2025-07-12)
 - [ ] Accessibility audit
   - [ ] WCAG 2.1 AAA compliance
   - [ ] Screen reader testing
@@ -370,6 +417,55 @@ When working on tasks, please:
   - [ ] Log aggregation
   - [ ] Alert system
 - [x] Move README to root and update (2025-07-12)
+
+## 📝 Implementation Notes
+
+### Visitor Counter Options for Static Sites
+1. **GitHub Actions Counter**
+   - Pros: Free, no external dependencies, privacy-friendly
+   - Cons: Updates only on builds, not real-time
+   - Implementation: Store count in JSON, increment via GitHub Action
+
+2. **Edge Function Counter**
+   - Pros: Real-time, serverless, scalable
+   - Cons: Requires deployment platform (Vercel/Netlify)
+   - Implementation: Use KV storage or database
+
+3. **Third-Party Services**
+   - Pros: Easy setup, real-time, often free tier
+   - Cons: External dependency, potential privacy concerns
+   - Options: GoatCounter, Plausible, Simple Analytics
+
+### Google Analytics Integration for Static Sites
+1. **Basic Implementation**
+   ```html
+   <!-- Add to layout.tsx head -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+   <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+     gtag('config', 'GA_MEASUREMENT_ID');
+   </script>
+   ```
+
+2. **Privacy Compliance**
+   - Implement cookie consent before loading GA
+   - Use gtag('consent', 'update', {...}) for consent management
+   - Enable IP anonymization: gtag('config', 'GA_ID', { 'anonymize_ip': true })
+   - Respect Do Not Track headers
+
+3. **Custom Events for News Tracking**
+   - Track outbound link clicks
+   - Monitor source performance
+   - Measure engagement metrics
+
+### Recommended Approach
+For a privacy-focused static site like AI Report, consider:
+1. Start with privacy-friendly analytics (Plausible/Fathom)
+2. Use GitHub Actions for basic visitor counting
+3. Only add Google Analytics if advanced features needed
+4. Always prioritize user privacy and transparency
 
 ## Notes
 - Tasks should be completed in order within each phase
