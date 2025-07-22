@@ -53,26 +53,11 @@ export default async function RootLayout({
           <style dangerouslySetInnerHTML={{ __html: criticalCSS }} />
         )}
         
-        {/* Preload main stylesheet */}
-        <link 
-          rel="preload" 
-          href={`${process.env.NODE_ENV === 'production' ? '/byte-hackathon-ai-report' : ''}/styles.css`}
-          as="style"
-        />
-        
-        {/* Load non-critical CSS asynchronously */}
+        {/* Load main stylesheet */}
         <link 
           rel="stylesheet" 
           href={`${process.env.NODE_ENV === 'production' ? '/byte-hackathon-ai-report' : ''}/styles.css`}
-          media="print"
-          // @ts-expect-error - onload is valid but TypeScript doesn't recognize it
-          onload="this.media='all'; this.onload=null;"
         />
-        
-        {/* Fallback for browsers without JavaScript */}
-        <noscript>
-          <link rel="stylesheet" href={`${process.env.NODE_ENV === 'production' ? '/byte-hackathon-ai-report' : ''}/styles.css`} />
-        </noscript>
         
         {/* GoatCounter Analytics - Privacy-friendly, no cookies */}
         <Script

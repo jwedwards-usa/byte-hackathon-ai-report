@@ -1,7 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import Link from 'next/link';
-import Image from 'next/image';
 import { notFound } from 'next/navigation';
 
 interface ImageData {
@@ -60,7 +59,7 @@ function formatArchiveDate(slug: string): string {
   
   if (!dateMatch) return 'Archive';
   
-  const [_, year, month, day, hour, minute, second] = dateMatch;
+  const [, year, month, day, hour, minute, second] = dateMatch;
   const date = new Date(
     parseInt(year),
     parseInt(month) - 1,
@@ -81,14 +80,15 @@ function formatArchiveDate(slug: string): string {
   });
 }
 
-export default async function ArchivePage({ params }: { params: { slug: string } }) {
-  const newsData = await getArchiveData(params.slug);
+export default async function ArchivePage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const newsData = await getArchiveData(slug);
   
   if (!newsData) {
     notFound();
   }
   
-  const archiveDate = formatArchiveDate(params.slug);
+  const archiveDate = formatArchiveDate(slug);
   
   // Helper function to check if an image path exists
   async function imageExists(imagePath: string): Promise<boolean> {
