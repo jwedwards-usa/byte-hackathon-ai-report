@@ -196,16 +196,15 @@ When working on tasks, please:
     - [ ] AI dataset announcements
 
 ### User Experience
-- [ ] Add dark mode support
-  - [ ] Create dark theme CSS
-  - [ ] Use CSS prefers-color-scheme
-  - [ ] Add theme toggle (CSS only)
-  - [ ] Test contrast ratios
-- [ ] Add historical news browsing
-  - [ ] Create archive page
-  - [ ] Build date picker (no JS)
-  - [ ] Display historical news-data
-  - [ ] Add "On this day" feature
+- [x] Add dark mode support (2025-01-11)
+  - [x] Create dark theme CSS
+  - [x] Use CSS prefers-color-scheme
+  - [x] Add theme toggle (CSS only)
+  - [x] Test contrast ratios
+- [x] Add historical news browsing (2025-01-11)
+  - [x] Create archive page that gives access to the previous date/time snapshots available
+  - [x] Build date picker (no JS)
+  - [x] Display historical news-data
 - [x] Add legal disclaimer and remove third-party references (2025-07-12)
 
 ### Performance
@@ -345,7 +344,7 @@ When working on tasks, please:
   - [ ] Document aggregator architecture
 
 ## 🎨 Design Improvements
-**Progress: 50%**
+**Progress: 75%**
 
 - [x] Refine typography (2025-07-12)
   - [x] Implement modular scale (2025-07-12)

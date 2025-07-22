@@ -1,6 +1,7 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import Image from 'next/image';
+import Link from 'next/link';
 
 interface ImageData {
   src: string;
@@ -76,6 +77,9 @@ export default async function Home() {
         <h1 className="site-title">AI REPORT</h1>
         <p className="tagline">Your Source for Artificial Intelligence News</p>
         <p className="last-updated">Last Updated: {lastUpdatedDate}</p>
+        <nav className="main-nav">
+          <Link href="/archive" className="archive-link-button">📚 Browse Archives</Link>
+        </nav>
       </header>
 
       <main>
