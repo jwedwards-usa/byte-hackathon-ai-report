@@ -1,14 +1,162 @@
 1:"$Sreact.fragment"
-2:I[3704,["173","static/chunks/173-767e48b05c5f9370.js","177","static/chunks/app/layout-74b124392376f25c.js"],""]
 3:I[5244,[],""]
 4:I[3866,[],""]
-5:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","877","static/chunks/app/privacy/page-9a0ccf67923bce49.js"],""]
+5:I[8173,["173","static/chunks/173-b9462f496606eef7.js","877","static/chunks/app/privacy/page-9a0ccf67923bce49.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
-:HL["/byte-hackathon-ai-report/_next/static/css/c565532dac661697.css","style"]
-0:{"P":null,"b":"UqAvy-SV6cYgOtKY70WsJ","p":"/byte-hackathon-ai-report","c":["","privacy",""],"i":false,"f":[[["",{"children":["privacy",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/byte-hackathon-ai-report/_next/static/css/c565532dac661697.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","$L2",null,{"data-goatcounter":"https://dwell-media-group.goatcounter.com/count","src":"//gc.zgo.at/count.js","strategy":"afterInteractive"}]}],["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"skip-to-content","children":"Skip to main content"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"privacy-banner","role":"region","aria-label":"Privacy Notice","children":[["$","input",null,{"type":"checkbox","id":"privacy-banner-toggle","className":"privacy-banner-checkbox"}],["$","div",null,{"className":"privacy-banner-content","children":[["$","p",null,{"children":[["$","strong",null,{"children":"Privacy Notice:"}]," AI Report is a static news aggregator that does not use cookies or collect personal data. We use privacy-friendly analytics (GoatCounter) that respects your privacy. We aggregate publicly available content from various AI news sources.",["$","$L5",null,{"href":"/privacy","className":"privacy-link","children":"Learn more about our privacy practices"}]]}],["$","label",null,{"htmlFor":"privacy-banner-toggle","className":"privacy-banner-button","role":"button","tabIndex":0,"aria-label":"Dismiss privacy notice","children":"Got it"}]]}]]}]]}]]}]]}],{"children":["privacy",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","privacy","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"container","children":[["$","header",null,{"className":"header","children":[["$","h1",null,{"className":"site-title","children":"AI REPORT PRIVACY POLICY"}],["$","p",null,{"className":"tagline","children":"Your Privacy Matters"}],["$","p",null,{"className":"last-updated","children":["Last Updated: ","Tuesday, July 22, 2025"]}],["$","nav",null,{"className":"privacy-nav","children":["$","$L5",null,{"href":"/","className":"back-link","children":"← Back to News"}]}]]}],["$","main",null,{"className":"privacy-main","children":["$","div",null,{"className":"privacy-content","children":[["$","h2",null,{"children":"Information We Don't Collect"}],["$","p",null,{"children":"AI Report is a static website that does not:"}],["$","ul",null,{"children":[["$","li",null,{"children":"Use cookies or tracking technologies"}],["$","li",null,{"children":"Collect personal information"}],["$","li",null,{"children":"Store user data"}],["$","li",null,{"children":"Require user accounts or registration"}],["$","li",null,{"children":"Use invasive advertising"}]]}],["$","h2",null,{"children":"Analytics"}],["$","p",null,{"children":"We use GoatCounter for privacy-friendly analytics. GoatCounter:"}],["$","ul",null,{"children":[["$","li",null,{"children":"Does not use cookies"}],["$","li",null,{"children":"Does not track personal data"}],["$","li",null,{"children":"Provides only aggregate statistics"}],["$","li",null,{"children":"Is open source and privacy-focused"}],["$","li",null,{"children":["Learn more at ",["$","a",null,{"href":"https://www.goatcounter.com/privacy","target":"_blank","rel":"noopener noreferrer","children":"GoatCounter Privacy Policy"}]]}]]}],["$","h2",null,{"children":"Content Sources"}],["$","p",null,{"children":"We aggregate publicly available content from various AI news sources. All content remains the property of its original publishers."}],["$","h2",null,{"children":"External Links"}],["$","p",null,{"children":"Our site contains links to external websites. We are not responsible for the privacy practices of these sites."}],["$","h2",null,{"children":"GDPR & CCPA Compliance"}],["$","p",null,{"children":"As we do not collect any personal data, there is no data to request, modify, or delete under GDPR or CCPA regulations."}],["$","h2",null,{"children":"Privacy Notice"}],["$","p",null,{"children":"AI Report is a static news aggregator that does not use cookies or collect personal data. We use privacy-friendly analytics (GoatCounter) that respects your privacy. We aggregate publicly available content from various AI news sources."}],["$","h2",null,{"children":"Contact"}],["$","p",null,{"children":"For privacy-related questions, please contact us through the repository issues on GitHub."}]]}]}],["$","footer",null,{"className":"footer","children":[["$","p",null,{"children":"© 2024 AI Report. All rights reserved."}],["$","p",null,{"children":"A news aggregator focused on artificial intelligence"}],["$","p",null,{"className":"legal-disclaimer","children":"AI Report is an independent news aggregation service. It is not affiliated with, endorsed by, or connected to any other news service or website."}]]}]]}],null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","NMakayylwt5cmpqm6I5h5",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],null]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"CLVELW3SBwU0osWsDMnqZ","p":"/byte-hackathon-ai-report","c":["","privacy",""],"i":false,"f":[[["",{"children":["privacy",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,"$L2"]}],{"children":["privacy",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","privacy","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"container","children":[["$","header",null,{"className":"header","children":[["$","h1",null,{"className":"site-title","children":"AI REPORT PRIVACY POLICY"}],["$","p",null,{"className":"tagline","children":"Your Privacy Matters"}],["$","p",null,{"className":"last-updated","children":["Last Updated: ","Tuesday, July 22, 2025"]}],["$","nav",null,{"className":"privacy-nav","children":["$","$L5",null,{"href":"/","className":"back-link","children":"← Back to News"}]}]]}],["$","main",null,{"className":"privacy-main","children":["$","div",null,{"className":"privacy-content","children":[["$","h2",null,{"children":"Information We Don't Collect"}],["$","p",null,{"children":"AI Report is a static website that does not:"}],["$","ul",null,{"children":[["$","li",null,{"children":"Use cookies or tracking technologies"}],["$","li",null,{"children":"Collect personal information"}],["$","li",null,{"children":"Store user data"}],["$","li",null,{"children":"Require user accounts or registration"}],["$","li",null,{"children":"Use invasive advertising"}]]}],["$","h2",null,{"children":"Analytics"}],["$","p",null,{"children":"We use GoatCounter for privacy-friendly analytics. GoatCounter:"}],["$","ul",null,{"children":[["$","li",null,{"children":"Does not use cookies"}],["$","li",null,{"children":"Does not track personal data"}],["$","li",null,{"children":"Provides only aggregate statistics"}],["$","li",null,{"children":"Is open source and privacy-focused"}],["$","li",null,{"children":["Learn more at ",["$","a",null,{"href":"https://www.goatcounter.com/privacy","target":"_blank","rel":"noopener noreferrer","children":"GoatCounter Privacy Policy"}]]}]]}],["$","h2",null,{"children":"Content Sources"}],["$","p",null,{"children":"We aggregate publicly available content from various AI news sources. All content remains the property of its original publishers."}],["$","h2",null,{"children":"External Links"}],["$","p",null,{"children":"Our site contains links to external websites. We are not responsible for the privacy practices of these sites."}],["$","h2",null,{"children":"GDPR & CCPA Compliance"}],["$","p",null,{"children":"As we do not collect any personal data, there is no data to request, modify, or delete under GDPR or CCPA regulations."}],["$","h2",null,{"children":"Privacy Notice"}],["$","p",null,{"children":"AI Report is a static news aggregator that does not use cookies or collect personal data. We use privacy-friendly analytics (GoatCounter) that respects your privacy. We aggregate publicly available content from various AI news sources."}],["$","h2",null,{"children":"Contact"}],["$","p",null,{"children":"For privacy-related questions, please contact us through the repository issues on GitHub."}]]}]}],["$","footer",null,{"className":"footer","children":[["$","p",null,{"children":"© 2024 AI Report. All rights reserved."}],["$","p",null,{"children":"A news aggregator focused on artificial intelligence"}],["$","p",null,{"className":"legal-disclaimer","children":"AI Report is an independent news aggregation service. It is not affiliated with, endorsed by, or connected to any other news service or website."}]]}]]}],null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","MGXMK8ER3K1kPQdvwkLg_",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],null]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"AI Report - Your Source for Artificial Intelligence News"}],["$","meta","2",{"name":"description","content":"AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates. An independent news aggregator focused on AI developments."}],["$","meta","3",{"name":"author","content":"AI Report"}],["$","meta","4",{"name":"keywords","content":"AI news, artificial intelligence, machine learning, deep learning, GPT, ChatGPT, AI updates, tech news"}],["$","meta","5",{"name":"creator","content":"AI Report"}],["$","meta","6",{"name":"publisher","content":"AI Report"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","9",{"rel":"canonical","href":"https://yourdomain.com/"}],["$","meta","10",{"property":"og:title","content":"AI Report - Your Source for Artificial Intelligence News"}],["$","meta","11",{"property":"og:description","content":"AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates."}],["$","meta","12",{"property":"og:url","content":"https://yourdomain.com/"}],["$","meta","13",{"property":"og:site_name","content":"AI Report"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"http://localhost:3000/og-image.jpg"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"AI Report - Artificial Intelligence News Aggregator"}],["$","meta","19",{"property":"og:type","content":"website"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"AI Report - Your Source for Artificial Intelligence News"}],["$","meta","22",{"name":"twitter:description","content":"AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates."}],["$","meta","23",{"name":"twitter:image","content":"http://localhost:3000/og-image.jpg"}],["$","link","24",{"rel":"icon","href":"/byte-hackathon-ai-report/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"AI Report - Your Source for Artificial Intelligence News"}],["$","meta","2",{"name":"description","content":"AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates. An independent news aggregator focused on AI developments."}],["$","meta","3",{"name":"author","content":"AI Report"}],["$","meta","4",{"name":"keywords","content":"AI news, artificial intelligence, machine learning, deep learning, GPT, ChatGPT, AI research, tech news"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"property":"og:title","content":"AI Report - Your Source for Artificial Intelligence News"}],["$","meta","7",{"property":"og:description","content":"Comprehensive AI news aggregator featuring the latest in artificial intelligence, machine learning, and tech innovations."}],["$","meta","8",{"property":"og:site_name","content":"AI Report"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"AI Report - AI News Aggregator"}],["$","meta","13",{"name":"twitter:description","content":"The latest artificial intelligence news and breakthroughs in one place."}],["$","link","14",{"rel":"icon","href":"/byte-hackathon-ai-report/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null
+e:I[3704,["173","static/chunks/173-b9462f496606eef7.js","177","static/chunks/app/layout-d2778d907a22c3fd.js"],""]
+d:Ta86,/* Critical CSS - Above the fold styles only */
+/* This file contains only the essential styles needed for initial render */
+
+/* Reset and Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Typography Variables */
+:root {
+  --base-font-size: 16px;
+  --scale-ratio: 1.25;
+  --font-size-xs: 10.24px;
+  --font-size-sm: 12.8px;
+  --font-size-base: 16px;
+  --font-size-md: 20px;
+  --font-size-lg: 25px;
+  --font-size-xl: 31.25px;
+  --font-size-2xl: 39px;
+  --font-size-3xl: 48.8px;
+  --line-height-tight: 1.25;
+  --line-height-base: 1.6;
+  --line-height-relaxed: 1.75;
+}
+
+/* Body */
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: var(--base-font-size);
+  line-height: var(--line-height-base);
+  background-color: #ffffff;
+  color: #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 3px solid #000000;
+}
+
+.site-title {
+  font-size: var(--font-size-3xl);
+  font-weight: bold;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+}
+
+.tagline {
+  font-size: var(--font-size-sm);
+  color: #666666;
+  margin-bottom: 5px;
+}
+
+.last-updated {
+  font-size: var(--font-size-xs);
+  color: #999999;
+}
+
+/* Main Navigation */
+.main-nav {
+  margin-top: 20px;
+}
+
+.archive-link-button {
+  display: inline-block;
+  font-size: var(--font-size-sm);
+  color: #0066cc;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid #0066cc;
+  border-radius: 4px;
+}
+
+/* Main Headline */
+.main-headline {
+  text-align: center;
+  margin: 30px 0;
+  padding: 20px 0;
+}
+
+.main-headline a {
+  font-size: var(--font-size-2xl);
+  font-weight: bold;
+  color: #000000;
+  text-decoration: none;
+  line-height: var(--line-height-tight);
+}
+
+/* Dark mode critical styles */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-primary: #1a1a1a;
+    --text-primary: #e0e0e0;
+    --text-secondary: #b0b0b0;
+    --border-color: #404040;
+    --link-color: #66b3ff;
+  }
+  
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+  }
+  
+  .header {
+    border-bottom-color: var(--border-color);
+  }
+  
+  .tagline,
+  .last-updated {
+    color: var(--text-secondary);
+  }
+  
+  .main-headline a {
+    color: var(--text-primary);
+  }
+  
+  .archive-link-button {
+    color: var(--link-color);
+    border-color: var(--link-color);
+  }
+}
+
+/* Mobile critical */
+@media (max-width: 768px) {
+  :root {
+    --base-font-size: 18px;
+  }
+  
+  .container {
+    padding: 15px 10px;
+  }
+  
+  .site-title {
+    font-size: var(--font-size-2xl);
+  }
+} 2:["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","link",null,{"rel":"preload","href":"/byte-hackathon-ai-report/styles.css","as":"style"}],["$","link",null,{"rel":"stylesheet","href":"/byte-hackathon-ai-report/styles.css","media":"print","onload":"this.media='all'; this.onload=null;"}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"/byte-hackathon-ai-report/styles.css"}]}],["$","$Le",null,{"data-goatcounter":"https://dwell-media-group.goatcounter.com/count","src":"//gc.zgo.at/count.js","strategy":"afterInteractive"}]]}],["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-to-content","children":"Skip to main content"}],["$","div",null,{"className":"privacy-banner","role":"region","aria-label":"Privacy Notice","children":[["$","input",null,{"type":"checkbox","id":"privacy-banner-toggle","className":"privacy-banner-checkbox"}],["$","div",null,{"className":"privacy-banner-content","children":[["$","p",null,{"children":[["$","strong",null,{"children":"Privacy Notice:"}]," AI Report is a static news aggregator that does not use cookies or collect personal data. We use privacy-friendly analytics (GoatCounter) that respects your privacy. We aggregate publicly available content from various AI news sources.",["$","$L5",null,{"href":"/privacy","className":"privacy-link","children":"Learn more about our privacy practices"}]]}],["$","label",null,{"htmlFor":"privacy-banner-toggle","className":"privacy-banner-button","role":"button","tabIndex":0,"aria-label":"Dismiss privacy notice","children":"Got it"}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]
