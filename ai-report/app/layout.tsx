@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import Link from "next/link";
 import { promises as fs } from 'fs';
@@ -34,8 +34,12 @@ export const metadata: Metadata = {
     title: "AI Report - AI News Aggregator",
     description: "The latest artificial intelligence news and breakthroughs in one place.",
   },
-  viewport: "width=device-width, initial-scale=1",
-  themeColor: "#000000",
+};
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: '#000000',
 };
 
 export default async function RootLayout({
