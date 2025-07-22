@@ -669,7 +669,133 @@ a:focus,
   }
 } 
 
-/* Visitor Counter / Analytics Notice */
+/* Footer Links */
+.footer-links {
+  margin: 20px 0;
+}
+
+.footer-link {
+  color: #0066cc;
+  text-decoration: none;
+  font-size: var(--font-size-sm);
+  padding: 4px 8px;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  border-bottom-color: #0066cc;
+}
+
+.footer-link:focus {
+  outline: 3px solid #0066cc;
+  outline-offset: 2px;
+}
+
+/* Dark mode for footer links */
+@media (prefers-color-scheme: dark) {
+  .footer-link {
+    color: var(--link-color);
+  }
+  
+  .footer-link:hover {
+    border-bottom-color: var(--link-color);
+  }
+}
+
+/* Privacy Page Styles */
+.privacy-nav {
+  margin-top: 20px;
+}
+
+.privacy-main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.privacy-content {
+  line-height: var(--line-height-relaxed);
+}
+
+.privacy-content h2 {
+  font-size: var(--font-size-lg);
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #333333;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 8px;
+}
+
+.privacy-content h2:first-child {
+  margin-top: 0;
+}
+
+.privacy-content p {
+  font-size: var(--font-size-base);
+  margin-bottom: 15px;
+  color: #333333;
+}
+
+.privacy-content ul {
+  margin-left: 25px;
+  margin-bottom: 20px;
+}
+
+.privacy-content li {
+  font-size: var(--font-size-base);
+  margin-bottom: 8px;
+  color: #333333;
+}
+
+.privacy-content a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.privacy-content a:hover {
+  text-decoration: underline;
+}
+
+.privacy-content a:focus {
+  outline: 3px solid #0066cc;
+  outline-offset: 2px;
+}
+
+/* Dark mode for privacy page */
+@media (prefers-color-scheme: dark) {
+  .privacy-content h2 {
+    color: var(--text-primary);
+    border-bottom-color: var(--border-color);
+  }
+  
+  .privacy-content p,
+  .privacy-content li {
+    color: var(--text-secondary);
+  }
+  
+  .privacy-content a {
+    color: var(--link-color);
+  }
+}
+
+/* Mobile styles for privacy page */
+@media (max-width: 768px) {
+  .privacy-main {
+    padding: 20px 15px;
+  }
+  
+  .privacy-content h2 {
+    font-size: var(--font-size-md);
+  }
+  
+  .privacy-content ul {
+    margin-left: 20px;
+  }
+}
+
+/* Visitor Counter */
 .visitor-counter {
   margin-top: 20px;
   padding-top: 20px;
@@ -697,84 +823,6 @@ a:focus,
   outline: 2px solid #666666;
   outline-offset: 2px;
 }
-
-/* Privacy Policy Section */
-.privacy-policy {
-  margin-top: 40px;
-  padding-top: 40px;
-  border-top: 1px solid #cccccc;
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left;
-}
-
-.privacy-policy h2 {
-  font-size: var(--font-size-lg);
-  font-weight: bold;
-  margin-bottom: 20px;
-  text-align: center;
-  color: #333333;
-}
-
-.privacy-policy h3 {
-  font-size: var(--font-size-base);
-  font-weight: bold;
-  margin-top: 25px;
-  margin-bottom: 10px;
-  color: #333333;
-}
-
-.privacy-policy p {
-  font-size: var(--font-size-sm);
-  line-height: var(--line-height-relaxed);
-  margin-bottom: 15px;
-  color: #666666;
-}
-
-.privacy-policy ul {
-  margin-left: 30px;
-  margin-bottom: 20px;
-}
-
-.privacy-policy li {
-  font-size: var(--font-size-sm);
-  line-height: var(--line-height-relaxed);
-  margin-bottom: 8px;
-  color: #666666;
-}
-
-/* Ensure privacy policy is accessible */
-.privacy-policy:target {
-  scroll-margin-top: 20px;
-  animation: highlight 2s ease;
-}
-
-@keyframes highlight {
-  0% { background-color: rgba(0, 102, 204, 0.1); }
-  100% { background-color: transparent; }
-}
-
-/* Mobile adjustments for privacy policy */
-@media (max-width: 768px) {
-  .privacy-policy {
-    margin-top: 30px;
-    padding-top: 30px;
-  }
-  
-  .privacy-policy h2 {
-    font-size: var(--font-size-md);
-  }
-  
-  .privacy-policy h3 {
-    font-size: var(--font-size-sm);
-    margin-top: 20px;
-  }
-  
-  .privacy-policy ul {
-    margin-left: 20px;
-  }
-} 
 
 /* Dark Mode Support */
 @media (prefers-color-scheme: dark) {
@@ -921,25 +969,6 @@ a:focus,
   .analytics-notice a:hover {
     color: var(--text-primary);
     background-color: var(--link-hover-bg);
-  }
-  
-  /* Privacy Policy */
-  .privacy-policy {
-    border-top-color: var(--border-color);
-  }
-  
-  .privacy-policy h2,
-  .privacy-policy h3 {
-    color: var(--text-primary);
-  }
-  
-  .privacy-policy p,
-  .privacy-policy li {
-    color: var(--text-secondary);
-  }
-  
-  .privacy-policy a {
-    color: var(--link-color);
   }
   
   /* Focus styles for dark mode */

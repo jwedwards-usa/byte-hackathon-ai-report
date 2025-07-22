@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import "./globals.css";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "AI Report - Your Source for Artificial Intelligence News",
@@ -81,14 +82,14 @@ export default function RootLayout({
           <div className="privacy-banner-content">
             <p>
               <strong>Privacy Notice:</strong> AI Report is a static news aggregator that does not use cookies or collect personal data. 
-              We use privacy-friendly analytics (GoatCounter) that respects your privacy.
-              We aggregate publicly available content from various AI news sources. 
-              <a href="#privacy-policy" className="privacy-link">Learn more about our privacy practices</a>
+              We use privacy-friendly analytics (GoatCounter) that respects your privacy. 
+              We aggregate publicly available content from various AI news sources.
+              <Link href="/privacy" className="privacy-link">Learn more about our privacy practices</Link>
             </p>
             <label 
-              htmlFor="privacy-banner-toggle"
+              htmlFor="privacy-banner-toggle" 
               className="privacy-banner-button" 
-              role="button"
+              role="button" 
               tabIndex={0}
               aria-label="Dismiss privacy notice"
             >
