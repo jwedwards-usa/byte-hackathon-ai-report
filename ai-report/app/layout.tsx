@@ -1,82 +1,90 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import "./globals.css";
 import Link from "next/link";
+import { promises as fs } from 'fs';
+import path from 'path';
+
+// Read critical CSS at build time
+async function getCriticalCSS() {
+  try {
+    const cssPath = path.join(process.cwd(), 'app', 'critical.css');
+    const criticalCSS = await fs.readFile(cssPath, 'utf-8');
+    return criticalCSS;
+  } catch (error) {
+    console.error('Failed to read critical CSS:', error);
+    return '';
+  }
+}
 
 export const metadata: Metadata = {
   title: "AI Report - Your Source for Artificial Intelligence News",
   description: "AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates. An independent news aggregator focused on AI developments.",
-  keywords: "AI news, artificial intelligence, machine learning, deep learning, GPT, ChatGPT, AI updates, tech news",
+  keywords: "AI news, artificial intelligence, machine learning, deep learning, GPT, ChatGPT, AI research, tech news",
   authors: [{ name: "AI Report" }],
-  creator: "AI Report",
-  publisher: "AI Report",
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
-    },
-  },
+  robots: "index, follow",
   openGraph: {
     title: "AI Report - Your Source for Artificial Intelligence News",
-    description: "AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates.",
-    url: "https://yourdomain.com",
-    siteName: "AI Report",
+    description: "Comprehensive AI news aggregator featuring the latest in artificial intelligence, machine learning, and tech innovations.",
     type: "website",
     locale: "en_US",
-    images: [
-      {
-        url: "/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "AI Report - Artificial Intelligence News Aggregator",
-      }
-    ],
+    siteName: "AI Report",
   },
   twitter: {
-    card: "summary_large_image",
-    title: "AI Report - Your Source for Artificial Intelligence News",
-    description: "AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates.",
-    images: ["/og-image.jpg"],
+    card: "summary",
+    title: "AI Report - AI News Aggregator",
+    description: "The latest artificial intelligence news and breakthroughs in one place.",
   },
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 5,
-  },
-  alternates: {
-    canonical: "https://yourdomain.com",
-  },
+  viewport: "width=device-width, initial-scale=1",
+  themeColor: "#000000",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const criticalCSS = await getCriticalCSS();
+  
   return (
     <html lang="en">
       <head>
+        {/* Inline critical CSS for fastest initial render */}
+        {criticalCSS && (
+          <style dangerouslySetInnerHTML={{ __html: criticalCSS }} />
+        )}
+        
+        {/* Preload main stylesheet */}
+        <link 
+          rel="preload" 
+          href={`${process.env.NODE_ENV === 'production' ? '/byte-hackathon-ai-report' : ''}/styles.css`}
+          as="style"
+        />
+        
+        {/* Load non-critical CSS asynchronously */}
+        <link 
+          rel="stylesheet" 
+          href={`${process.env.NODE_ENV === 'production' ? '/byte-hackathon-ai-report' : ''}/styles.css`}
+          media="print"
+          // @ts-expect-error - onload is valid but TypeScript doesn't recognize it
+          onload="this.media='all'; this.onload=null;"
+        />
+        
+        {/* Fallback for browsers without JavaScript */}
+        <noscript>
+          <link rel="stylesheet" href={`${process.env.NODE_ENV === 'production' ? '/byte-hackathon-ai-report' : ''}/styles.css`} />
+        </noscript>
+        
         {/* GoatCounter Analytics - Privacy-friendly, no cookies */}
-        <Script 
+        <Script
           data-goatcounter="https://dwell-media-group.goatcounter.com/count"
           src="//gc.zgo.at/count.js"
           strategy="afterInteractive"
         />
       </head>
       <body>
-        <a href="#main-content" className="skip-to-content">
-          Skip to main content
-        </a>
-        <div id="main-content">
-          {children}
-        </div>
+        <a href="#main" className="skip-to-content">Skip to main content</a>
         
-        {/* Cookie/Privacy Banner */}
+        {/* Privacy Banner */}
         <div className="privacy-banner" role="region" aria-label="Privacy Notice">
           <input type="checkbox" id="privacy-banner-toggle" className="privacy-banner-checkbox" />
           <div className="privacy-banner-content">
@@ -97,6 +105,8 @@ export default function RootLayout({
             </label>
           </div>
         </div>
+        
+        {children}
       </body>
     </html>
   );

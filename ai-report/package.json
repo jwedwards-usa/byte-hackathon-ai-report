@@ -4,11 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "NODE_ENV=production next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "echo 'No tests configured'",
-    "deploy": "npm run build && touch out/.nojekyll && npx gh-pages -d out -t true"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "deploy": "NODE_ENV=production npm run build && touch out/.nojekyll && git add out/ && git commit -m 'Deploy to GitHub Pages' && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
     "next": "15.1.4",
@@ -19,6 +20,9 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "critters": "^0.0.25",
+    "cssnano": "^7.1.0",
     "eslint": "^9",
     "eslint-config-next": "15.1.4",
     "typescript": "^5"

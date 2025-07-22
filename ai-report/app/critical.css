@@ -1,0 +1,149 @@
+/* Critical CSS - Above the fold styles only */
+/* This file contains only the essential styles needed for initial render */
+
+/* Reset and Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Typography Variables */
+:root {
+  --base-font-size: 16px;
+  --scale-ratio: 1.25;
+  --font-size-xs: 10.24px;
+  --font-size-sm: 12.8px;
+  --font-size-base: 16px;
+  --font-size-md: 20px;
+  --font-size-lg: 25px;
+  --font-size-xl: 31.25px;
+  --font-size-2xl: 39px;
+  --font-size-3xl: 48.8px;
+  --line-height-tight: 1.25;
+  --line-height-base: 1.6;
+  --line-height-relaxed: 1.75;
+}
+
+/* Body */
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: var(--base-font-size);
+  line-height: var(--line-height-base);
+  background-color: #ffffff;
+  color: #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 3px solid #000000;
+}
+
+.site-title {
+  font-size: var(--font-size-3xl);
+  font-weight: bold;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+}
+
+.tagline {
+  font-size: var(--font-size-sm);
+  color: #666666;
+  margin-bottom: 5px;
+}
+
+.last-updated {
+  font-size: var(--font-size-xs);
+  color: #999999;
+}
+
+/* Main Navigation */
+.main-nav {
+  margin-top: 20px;
+}
+
+.archive-link-button {
+  display: inline-block;
+  font-size: var(--font-size-sm);
+  color: #0066cc;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid #0066cc;
+  border-radius: 4px;
+}
+
+/* Main Headline */
+.main-headline {
+  text-align: center;
+  margin: 30px 0;
+  padding: 20px 0;
+}
+
+.main-headline a {
+  font-size: var(--font-size-2xl);
+  font-weight: bold;
+  color: #000000;
+  text-decoration: none;
+  line-height: var(--line-height-tight);
+}
+
+/* Dark mode critical styles */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-primary: #1a1a1a;
+    --text-primary: #e0e0e0;
+    --text-secondary: #b0b0b0;
+    --border-color: #404040;
+    --link-color: #66b3ff;
+  }
+  
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+  }
+  
+  .header {
+    border-bottom-color: var(--border-color);
+  }
+  
+  .tagline,
+  .last-updated {
+    color: var(--text-secondary);
+  }
+  
+  .main-headline a {
+    color: var(--text-primary);
+  }
+  
+  .archive-link-button {
+    color: var(--link-color);
+    border-color: var(--link-color);
+  }
+}
+
+/* Mobile critical */
+@media (max-width: 768px) {
+  :root {
+    --base-font-size: 18px;
+  }
+  
+  .container {
+    padding: 15px 10px;
+  }
+  
+  .site-title {
+    font-size: var(--font-size-2xl);
+  }
+} 

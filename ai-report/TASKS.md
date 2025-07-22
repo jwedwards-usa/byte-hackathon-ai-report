@@ -319,8 +319,17 @@ When working on tasks, please:
 ### Known Issues
 - [ ] Fix image aspect ratio on mobile
 - [ ] Improve focus indicator contrast
-- [ ] Optimize CSS delivery
-- [ ] Reduce JavaScript bundle size further
+- [x] Optimize CSS delivery (2025-01-11)
+  - [x] Implement critical CSS inlining
+  - [x] Load non-critical CSS asynchronously
+  - [x] Add PostCSS minification with cssnano
+  - [x] Enable experimental CSS optimization
+- [x] Reduce JavaScript bundle size further (2025-01-11)
+  - [x] Configure webpack optimizations
+  - [x] Implement code splitting strategies
+  - [x] Enable tree shaking
+  - [x] Remove console logs in production
+  - [x] Disable source maps in production
 - [ ] Handle aggregator timeout errors
 - [ ] Fix duplicate detection edge cases
 
