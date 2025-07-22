@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI says ChatGPT users send over 2.5 billion prompts every day",
+    "url": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion"
+  },
+  "topStories": [
+    {
+      "text": "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude",
+      "url": "https://arxiv.org/abs/2501.10484"
+    },
+    {
+      "text": "PAPER SUMMARY ATTACK: JAILBREAKING LLMS THROUGH LLM SAFETY PAPERS",
+      "url": "https://arxiv.org/abs/2507.13474"
+    },
+    {
+      "text": "Domain-randomized deep learning for neuroimage analysis",
+      "url": "https://arxiv.org/abs/2507.13458"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Advanced Topic Modeling with LLMs",
+      "url": "https://towardsdatascience.com/advanced-topic-modeling-with-llms/"
+    },
+    {
+      "text": "Detecting High-Stakes Interactions with Activation Probes",
+      "url": "https://www.lesswrong.com/posts/utcZSRv2JfahD8yfz/detecting-high-stakes-interactions-with-activation-probes"
+    },
+    {
+      "text": "GDM also claims IMO gold medal",
+      "url": "https://www.lesswrong.com/posts/csCofgK3ebjQbSfyv/gdm-also-claims-imo-gold-medal"
+    },
+    {
+      "text": "Instacart’s former CEO is taking the reins of a big chunk of OpenAI",
+      "url": "https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai"
+    },
+    {
+      "text": "LLM Daydreaming (gwern.net)",
+      "url": "https://www.lesswrong.com/posts/ZffDM6MkHDkXb9Si6/llm-daydreaming-gwern-net"
+    },
+    {
+      "text": "From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study",
+      "url": "https://arxiv.org/abs/2501.03572"
+    },
+    {
+      "text": "Creative writing with LLMs, part 1: Prompting for fiction",
+      "url": "https://www.lesswrong.com/posts/D9MHrR8GrgSbXMqtB/creative-writing-with-llms-part-1-prompting-for-fiction"
+    },
+    {
+      "text": "STACK: Adversarial Attacks on LLM Safeguard Pipelines",
+      "url": "https://arxiv.org/abs/2506.24068"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Modeling Fair Play in Detective Stories with Language Models",
+      "url": "https://arxiv.org/abs/2507.13841"
+    },
+    {
+      "text": "Robustness Evaluation of Offline Reinforcement Learning for Robot Control Against Action Perturbations",
+      "url": "https://arxiv.org/abs/2412.18781"
+    },
+    {
+      "text": "PRIDE -- Parameter-Efficient Reduction of Identity Discrimination for Equality in LLMs",
+      "url": "https://arxiv.org/abs/2507.13743"
+    },
+    {
+      "text": "Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression",
+      "url": "https://arxiv.org/abs/2411.02904"
+    },
+    {
+      "text": "Humans learn to prefer trustworthy AI over human partners",
+      "url": "https://arxiv.org/abs/2507.13524"
+    },
+    {
+      "text": "AI-Assisted Fixes to Code Review Comments at Scale",
+      "url": "https://arxiv.org/abs/2507.13499"
+    },
+    {
+      "text": "KiC: Keyword-inspired Cascade for Cost-Efficient Text Generation with LLMs",
+      "url": "https://arxiv.org/abs/2507.13666"
+    },
+    {
+      "text": "LOCUS: LOcalization with Channel Uncertainty and Sporadic Energy",
+      "url": "https://arxiv.org/abs/2302.09409"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Neural Architecture Search with Mixed Bio-inspired Learning Rules",
+      "url": "https://arxiv.org/abs/2507.13485"
+    },
+    {
+      "text": "Strategic Reflectivism In Intelligent Systems",
+      "url": "https://arxiv.org/abs/2505.22987"
+    },
+    {
+      "text": "What the F*ck Is Artificial General Intelligence?",
+      "url": "https://arxiv.org/abs/2503.23923"
+    },
+    {
+      "text": "Kolmogorov-Arnold Networks-based GRU and LSTM for Loan Default Early Prediction",
+      "url": "https://arxiv.org/abs/2507.13685"
+    },
+    {
+      "text": "Binarizing Physics-Inspired GNNs for Combinatorial Optimization",
+      "url": "https://arxiv.org/abs/2507.13703"
+    },
+    {
+      "text": "Learning Deformable Body Interactions With Adaptive Spatial Tokenization",
+      "url": "https://arxiv.org/abs/2507.13707"
+    },
+    {
+      "text": "BreastSegNet: Multi-label Segmentation of Breast MRI",
+      "url": "https://arxiv.org/abs/2507.13604"
+    },
+    {
+      "text": "Kolmogorov Arnold Networks (KANs) for Imbalanced Data -- An Empirical Perspective",
+      "url": "https://arxiv.org/abs/2507.14121"
+    }
+  ],
+  "lastUpdated": "2025-07-21T13:33:11-05:00"
+}

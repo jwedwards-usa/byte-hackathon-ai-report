@@ -3,6 +3,7 @@ package sources
 import (
 	"fmt"
 	"html"
+	"net/http"
 	"time"
 
 	"github.com/ai-report/aggregator/internal/aggregator"
@@ -24,21 +25,54 @@ type RSSSource struct {
 
 // NewRSSSource creates a new RSS source
 func NewRSSSource(feed RSSFeed) *RSSSource {
+	// Create a custom HTTP client with user agent
+	httpClient := &http.Client{
+		Timeout: 30 * time.Second,
+		Transport: &http.Transport{
+			MaxIdleConns:       10,
+			IdleConnTimeout:    30 * time.Second,
+			DisableCompression: false,
+		},
+	}
+
+	// Create parser with custom client
+	fp := gofeed.NewParser()
+	fp.Client = httpClient
+	// Use a browser-like user agent to avoid bot detection
+	fp.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
 	return &RSSSource{
 		feed:   feed,
-		parser: gofeed.NewParser(),
+		parser: fp,
 	}
 }
 
 // FetchNews fetches news from the RSS feed
 func (r *RSSSource) FetchNews() ([]aggregator.RawNewsItem, error) {
-	feed, err := r.parser.ParseURL(r.feed.URL)
+	var feed *gofeed.Feed
+	var err error
+
+	// Retry logic with exponential backoff
+	maxRetries := 3
+	for i := 0; i < maxRetries; i++ {
+		feed, err = r.parser.ParseURL(r.feed.URL)
+		if err == nil {
+			break
+		}
+
+		// If it's not the last retry, wait before retrying
+		if i < maxRetries-1 {
+			waitTime := time.Duration(1<<uint(i)) * time.Second // 1s, 2s, 4s
+			time.Sleep(waitTime)
+		}
+	}
+
 	if err != nil {
-		return nil, fmt.Errorf("failed to parse RSS feed %s: %w", r.feed.Name, err)
+		return nil, fmt.Errorf("failed to parse RSS feed %s after %d retries: %w", r.feed.Name, maxRetries, err)
 	}
 
 	items := make([]aggregator.RawNewsItem, 0, len(feed.Items))
-	
+
 	for _, item := range feed.Items {
 		// Parse published date
 		publishedAt := time.Now()
@@ -84,4 +118,4 @@ func (r *RSSSource) FetchNews() ([]aggregator.RawNewsItem, error) {
 // GetName returns the name of the RSS source
 func (r *RSSSource) GetName() string {
 	return r.feed.Name
-} 
+}

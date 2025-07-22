@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI says ChatGPT users send over 2.5 billion prompts every day",
+    "url": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion"
+  },
+  "topStories": [
+    {
+      "text": "Bias in Decision-Making for AI's Ethical Dilemmas: A Comparative Study of ChatGPT and Claude",
+      "url": "https://arxiv.org/abs/2501.10484"
+    },
+    {
+      "text": "PAPER SUMMARY ATTACK: JAILBREAKING LLMS THROUGH LLM SAFETY PAPERS",
+      "url": "https://arxiv.org/abs/2507.13474"
+    },
+    {
+      "text": "Domain-randomized deep learning for neuroimage analysis",
+      "url": "https://arxiv.org/abs/2507.13458"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Advanced Topic Modeling with LLMs",
+      "url": "https://towardsdatascience.com/advanced-topic-modeling-with-llms/"
+    },
+    {
+      "text": "Instacart’s former CEO is taking the reins of a big chunk of OpenAI",
+      "url": "https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai"
+    },
+    {
+      "text": "From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study",
+      "url": "https://arxiv.org/abs/2501.03572"
+    },
+    {
+      "text": "TensorSocket: Shared Data Loading for Deep Learning Training",
+      "url": "https://arxiv.org/abs/2409.18749"
+    },
+    {
+      "text": "Enhancing Breast Cancer Detection with Vision Transformers and Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2507.13372"
+    },
+    {
+      "text": "Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations",
+      "url": "https://arxiv.org/abs/2507.13705"
+    },
+    {
+      "text": "$\\epsilon$-rank and the Staircase Phenomenon: New Insights into Neural Network Training Dynamics",
+      "url": "https://arxiv.org/abs/2412.05144"
+    },
+    {
+      "text": "STACK: Adversarial Attacks on LLM Safeguard Pipelines",
+      "url": "https://arxiv.org/abs/2506.24068"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Graph Neural Network Surrogates for Contacting Deformable Bodies with Necessary and Sufficient Contact Detection",
+      "url": "https://arxiv.org/abs/2507.13459"
+    },
+    {
+      "text": "CaSTFormer: Causal Spatio-Temporal Transformer for Driving Intention Prediction",
+      "url": "https://arxiv.org/abs/2507.13425"
+    },
+    {
+      "text": "Robustness Evaluation of Offline Reinforcement Learning for Robot Control Against Action Perturbations",
+      "url": "https://arxiv.org/abs/2412.18781"
+    },
+    {
+      "text": "DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs",
+      "url": "https://arxiv.org/abs/2504.13774"
+    },
+    {
+      "text": "Rethinking Inductive Bias in Geographically Neural Network Weighted Regression",
+      "url": "https://arxiv.org/abs/2507.09958"
+    },
+    {
+      "text": "A Deep Learning-Based Ensemble System for Automated Shoulder Fracture Detection in Clinical Radiographs",
+      "url": "https://arxiv.org/abs/2507.13408"
+    },
+    {
+      "text": "Glucose-ML: A collection of longitudinal diabetes datasets for development of robust AI solutions",
+      "url": "https://arxiv.org/abs/2507.14077"
+    },
+    {
+      "text": "Smart Routing for Multimodal Video Retrieval: When to Search What",
+      "url": "https://arxiv.org/abs/2507.13374"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Change of Thought: Adaptive Test-Time Computation",
+      "url": "https://arxiv.org/abs/2507.13569"
+    },
+    {
+      "text": "Using Multiple Input Modalities Can Improve Data-Efficiency and O.O.D. Generalization for ML with Satellite Imagery",
+      "url": "https://arxiv.org/abs/2507.13385"
+    },
+    {
+      "text": "\"PhyWorldBench\": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models",
+      "url": "https://arxiv.org/abs/2507.13428"
+    },
+    {
+      "text": "Apple Intelligence Foundation Language Models: Tech Report 2025",
+      "url": "https://arxiv.org/abs/2507.13575"
+    },
+    {
+      "text": "Asymptotic behavior of eigenvalues of large rank perturbations of large random matrices",
+      "url": "https://arxiv.org/abs/2507.12182"
+    },
+    {
+      "text": "Tri-Learn Graph Fusion Network for Attributed Graph Clustering",
+      "url": "https://arxiv.org/abs/2507.13620"
+    },
+    {
+      "text": "Kolmogorov-Arnold Networks-based GRU and LSTM for Loan Default Early Prediction",
+      "url": "https://arxiv.org/abs/2507.13685"
+    },
+    {
+      "text": "Binarizing Physics-Inspired GNNs for Combinatorial Optimization",
+      "url": "https://arxiv.org/abs/2507.13703"
+    }
+  ],
+  "lastUpdated": "2025-07-21T13:31:57-05:00"
+}

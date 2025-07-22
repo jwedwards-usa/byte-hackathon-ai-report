@@ -53,15 +53,66 @@ func configureSources(agg *aggregator.Aggregator) {
 		{Name: "The Verge AI", URL: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
 		{Name: "VentureBeat AI", URL: "https://feeds.feedburner.com/venturebeat/SZYF"},
 		{Name: "AI News", URL: "https://www.artificialintelligence-news.com/feed/"},
-		{Name: "OpenAI Blog", URL: "https://openai.com/blog/rss/"},
-		{Name: "Google AI Blog", URL: "https://blog.google/technology/ai/rss/"},
-		{Name: "DeepMind Blog", URL: "https://deepmind.com/blog/feed/basic/"},
-		{Name: "Anthropic News", URL: "https://www.anthropic.com/rss.xml"},
+		{Name: "OpenAI Blog", URL: "https://openai.com/news/rss.xml"},
+		{Name: "Google AI Blog", URL: "https://blog.google/technology/ai/rss"},
+		{Name: "DeepMind Blog", URL: "https://deepmind.google/blog/rss.xml"},
 		{Name: "Hugging Face Blog", URL: "https://huggingface.co/blog/feed.xml"},
+		{Name: "Simon Willison Blog", URL: "https://simonwillison.net/atom/everything/"},
+		{Name: "Andrej Karpathy Blog", URL: "https://karpathy.github.io/feed.xml"},
+		{Name: "Microsoft AI Blog", URL: "https://blogs.microsoft.com/ai/feed/"},
+		{Name: "Machine Learning Mastery", URL: "https://machinelearningmastery.com/feed/"},
+		{Name: "Towards Data Science", URL: "https://towardsdatascience.com/feed"},
+		{Name: "MIT News AI", URL: "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml"},
+		{Name: "arXiv cs.AI", URL: "https://rss.arxiv.org/rss/cs.AI"},
+		{Name: "arXiv cs.LG", URL: "https://rss.arxiv.org/rss/cs.LG"},
+		{Name: "arXiv cs.CL", URL: "https://rss.arxiv.org/rss/cs.CL"},
+		{Name: "BAIR Blog", URL: "https://bair.berkeley.edu/blog/feed.xml"},
+		{Name: "AI Trends", URL: "https://www.aitrends.com/feed/"},
+		{Name: "DailyAI", URL: "https://dailyai.com/feed/"},
 	}
 
 	for _, feed := range rssFeeds {
 		agg.AddSource(sources.NewRSSSource(feed))
+	}
+
+	// Blogs without RSS feeds (need web scraping)
+	blogSites := []sources.WebScraper{
+		{Name: "Hamel Husain Blog", URL: "https://hamel.dev/"},
+		{Name: "Shreya Shankar Blog", URL: "https://www.shreya-shankar.com/"},
+		{Name: "Jason Liu Blog", URL: "https://jxnl.github.io/blog"},
+		{Name: "Eugene Yan Blog", URL: "https://eugeneyan.com/"},
+		{Name: "Omar Khattab Blog", URL: "https://omarkhattab.com/"},
+		{Name: "Chip Huyen", URL: "https://huyenchip.com/blog"},
+		{Name: "Kwindla Hultman-Kramer Blog", URL: "https://www.daily.co/blog/author/kwindla-hultman-kramer/"},
+		{Name: "Jo Kristian Bergum Blog", URL: "https://blog.vespa.ai/authors/jobergum/"},
+		{Name: "Jason Liu Blog", URL: "https://jxnl.co/writing/"},
+		{Name: "Vespa AI Blog", URL: "https://blog.vespa.ai/"},
+		{Name: "The Batch", URL: "https://www.deeplearning.ai/the-batch/"},
+		{Name: "Unite.AI", URL: "https://www.unite.ai/"},
+		{Name: "Gwern", URL: "https://gwern.net"},
+		{Name: "Anthropic News", URL: "https://www.anthropic.com/news"},
+	}
+
+	// Additional RSS feeds for some blogs
+	additionalRSSFeeds := []sources.RSSFeed{
+		{Name: "Han Chung Lee Blog", URL: "https://leehanchung.github.io/feed.xml"},
+		{Name: "Daily.co Blog", URL: "https://www.daily.co/blog/rss/"},
+		{Name: "Nathan Lambert", URL: "https://www.interconnects.ai/feed"},
+		{Name: "Ethan Mollick", URL: "https://www.oneusefulthing.org/feed"},
+		{Name: "AI Snake Oil", URL: "https://www.aisnakeoil.com/feed"},
+		{Name: "LessWrong", URL: "https://www.lesswrong.com/feed.xml"},
+		{Name: "AI Alignment Forum", URL: "https://www.alignmentforum.org/feed.xml"},
+		{Name: "Distill", URL: "https://distill.pub/rss.xml"},
+		{Name: "The Gradient", URL: "https://thegradient.pub/rss/"},
+		{Name: "Import AI", URL: "https://jack-clark.net/feed/"},
+	}
+
+	for _, feed := range additionalRSSFeeds {
+		agg.AddSource(sources.NewRSSSource(feed))
+	}
+
+	for _, site := range blogSites {
+		agg.AddSource(sources.NewWebScraperSource(site))
 	}
 
 	// Hacker News
@@ -115,14 +166,14 @@ func configureSources(agg *aggregator.Aggregator) {
 
 func generateNewsData(news *aggregator.ProcessedNews) *NewsData {
 	now := time.Now()
-	
+
 	return &NewsData{
-		MainHeadline:  news.TopStory,
-		TopStories:    news.TopStories[:min(3, len(news.TopStories))],
-		LeftColumn:    news.LeftColumn[:min(8, len(news.LeftColumn))],
-		CenterColumn:  news.CenterColumn[:min(8, len(news.CenterColumn))],
-		RightColumn:   news.RightColumn[:min(8, len(news.RightColumn))],
-		LastUpdated:   now.Format(time.RFC3339),
+		MainHeadline: news.TopStory,
+		TopStories:   news.TopStories[:min(3, len(news.TopStories))],
+		LeftColumn:   news.LeftColumn[:min(8, len(news.LeftColumn))],
+		CenterColumn: news.CenterColumn[:min(8, len(news.CenterColumn))],
+		RightColumn:  news.RightColumn[:min(8, len(news.RightColumn))],
+		LastUpdated:  now.Format(time.RFC3339),
 	}
 }
 
@@ -150,7 +201,7 @@ func saveNewsData(data *NewsData) error {
 func archiveNewsData() error {
 	publicDir := "public"
 	archiveDir := filepath.Join(publicDir, "archive")
-	
+
 	// Create archive directory
 	if err := os.MkdirAll(archiveDir, 0755); err != nil {
 		return fmt.Errorf("failed to create archive directory: %w", err)
@@ -222,5 +273,5 @@ type NewsData struct {
 	LeftColumn   []aggregator.NewsItem `json:"leftColumn"`
 	CenterColumn []aggregator.NewsItem `json:"centerColumn"`
 	RightColumn  []aggregator.NewsItem `json:"rightColumn"`
-	LastUpdated  string               `json:"lastUpdated"`
-} 
+	LastUpdated  string                `json:"lastUpdated"`
+}
