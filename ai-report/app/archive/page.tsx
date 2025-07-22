@@ -128,15 +128,13 @@ export default async function ArchivePage() {
                   <ul className="archive-files">
                     {files.map(file => (
                       <li key={file.filename}>
-                        <a 
-                          href={`/archive/${file.filename}`}
+                        <Link 
+                          href={`/archive/${file.filename.replace('.json', '')}`}
                           className="archive-link"
-                          target="_blank"
-                          rel="noopener noreferrer"
                         >
                           <span className="archive-time">{file.formattedDate}</span>
                           <span className="archive-ago">({file.timeAgo})</span>
-                        </a>
+                        </Link>
                       </li>
                     ))}
                   </ul>
