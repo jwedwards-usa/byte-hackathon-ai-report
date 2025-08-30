@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #131 Part 2: Various Misaligned Things",
+    "url": "https://www.lesswrong.com/posts/wcp8hcQwqhd8nDA2x/ai-131-part-2-various-misaligned-things"
+  },
+  "topStories": [
+    {
+      "text": "60 U.K. LAWMAKERS ACCUSE GOOGLE OF BREAKING AI SAFETY PLEDGE",
+      "url": "https://www.lesswrong.com/posts/GvgmoDts5kphwGyS2/60-u-k-lawmakers-accuse-google-of-breaking-ai-safety-pledge"
+    },
+    {
+      "text": "OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations",
+      "url": "https://venturebeat.com/ai/openai-anthropic-cross-tests-expose-jailbreak-and-misuse-risks-what-enterprises-must-add-to-gpt-5-evaluations/"
+    },
+    {
+      "text": "The perils of vibe coding",
+      "url": "https://simonwillison.net/2025/Aug/29/the-perils-of-vibe-coding/#atom-everything"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Summary of our Workshop on Post-AGI Outcomes",
+      "url": "https://www.lesswrong.com/posts/csdn3e8wQ3h6nG6kN/summary-of-our-workshop-on-post-agi-outcomes"
+    },
+    {
+      "text": "Artificial Intelligence for CRISPR Guide RNA Design: Explainable Models and Off-Target Safety",
+      "url": "https://arxiv.org/abs/2508.20130"
+    },
+    {
+      "text": "Do Students Rely on AI? Analysis of Student-ChatGPT Conversations from a Field Study",
+      "url": "https://arxiv.org/abs/2508.20244"
+    },
+    {
+      "text": "Nous Research drops Hermes 4 AI models that outperform ChatGPT without content restrictions",
+      "url": "https://venturebeat.com/ai/nous-research-drops-hermes-4-ai-models-that-outperform-chatgpt-without-content-restrictions/"
+    },
+    {
+      "text": "AI-AI Esthetic Collaboration with Explicit Semiotic Awareness and Emergent Grammar Development",
+      "url": "https://arxiv.org/abs/2508.20195"
+    },
+    {
+      "text": "NetGPT: Generative Pretrained Transformer for Network Traffic",
+      "url": "https://arxiv.org/abs/2304.09513"
+    },
+    {
+      "text": "GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs",
+      "url": "https://arxiv.org/abs/2508.20325"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Leveraging Semantic Triples for Private Document Generation with Local Differential Privacy Guarantees",
+      "url": "https://arxiv.org/abs/2508.20736"
+    },
+    {
+      "text": "cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending",
+      "url": "https://arxiv.org/abs/2508.20818"
+    },
+    {
+      "text": "GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction",
+      "url": "https://arxiv.org/abs/2508.20828"
+    },
+    {
+      "text": "ATM-GAD: Adaptive Temporal Motif Graph Anomaly Detection for Financial Transaction Networks",
+      "url": "https://arxiv.org/abs/2508.20829"
+    },
+    {
+      "text": "Enhancing Corpus Callosum Segmentation in Fetal MRI via Pathology-Informed Domain Randomization",
+      "url": "https://arxiv.org/abs/2508.20475"
+    },
+    {
+      "text": "Fast Convergence Rates for Subsampled Natural Gradient Algorithms on Quadratic Model Problems",
+      "url": "https://arxiv.org/abs/2508.21022"
+    },
+    {
+      "text": "Safe and Efficient Social Navigation through Explainable Safety Regions Based on Topological Features",
+      "url": "https://arxiv.org/abs/2503.16441"
+    },
+    {
+      "text": "Feel the Difference? A Comparative Analysis of Emotional Arcs in Real and LLM-Generated CBT Sessions",
+      "url": "https://arxiv.org/abs/2508.20764"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Expert Routing with Synthetic Data for Continual Learning",
+      "url": "https://arxiv.org/abs/2412.17009"
+    },
+    {
+      "text": "Neural Spline Operators for Risk Quantification in Stochastic Systems",
+      "url": "https://arxiv.org/abs/2508.20288"
+    },
+    {
+      "text": "How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on $\\tau$-bench",
+      "url": "https://arxiv.org/abs/2508.20931"
+    },
+    {
+      "text": "Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection",
+      "url": "https://arxiv.org/abs/2508.20766"
+    },
+    {
+      "text": "Reconsidering the Performance of GAE in Link Prediction",
+      "url": "https://arxiv.org/abs/2411.03845"
+    },
+    {
+      "text": "drGT: Attention-Guided Gene Assessment of Drug Response Utilizing a Drug-Cell-Gene Heterogeneous Network",
+      "url": "https://arxiv.org/abs/2405.08979"
+    },
+    {
+      "text": "Generative Annotation for ASR Named Entity Correction",
+      "url": "https://arxiv.org/abs/2508.20700"
+    },
+    {
+      "text": "Differentially Private Federated Quantum Learning via Quantum Noise",
+      "url": "https://arxiv.org/abs/2508.20310"
+    }
+  ],
+  "lastUpdated": "2025-08-29T21:19:27Z"
+}
