@@ -1,0 +1,272 @@
+1:"$Sreact.fragment"
+3:I[5244,[],""]
+4:I[3866,[],""]
+6:I[6213,[],"OutletBoundary"]
+8:I[6213,[],"MetadataBoundary"]
+a:I[6213,[],"ViewportBoundary"]
+c:I[4835,[],""]
+0:{"P":null,"b":"fRsDDAVs6sveCgWnBichP","p":"/byte-hackathon-ai-report","c":["","archive","news-data-2025-09-09-03-35-50",""],"i":false,"f":[[["",{"children":["archive",{"children":[["slug","news-data-2025-09-09-03-35-50","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,"$L2"]}],{"children":["archive",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","archive","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","news-data-2025-09-09-03-35-50","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","archive","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","h29ouadcpBacwr5MQFOEG",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],null]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#000000"}]]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"AI Report - Your Source for Artificial Intelligence News"}],["$","meta","2",{"name":"description","content":"AI Report is your comprehensive source for the latest artificial intelligence news, breakthroughs, and industry updates. An independent news aggregator focused on AI developments."}],["$","meta","3",{"name":"author","content":"AI Report"}],["$","meta","4",{"name":"keywords","content":"AI news, artificial intelligence, machine learning, deep learning, GPT, ChatGPT, AI research, tech news"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"property":"og:title","content":"AI Report - Your Source for Artificial Intelligence News"}],["$","meta","7",{"property":"og:description","content":"Comprehensive AI news aggregator featuring the latest in artificial intelligence, machine learning, and tech innovations."}],["$","meta","8",{"property":"og:site_name","content":"AI Report"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"AI Report - AI News Aggregator"}],["$","meta","13",{"name":"twitter:description","content":"The latest artificial intelligence news and breakthroughs in one place."}],["$","link","14",{"rel":"icon","href":"/byte-hackathon-ai-report/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+7:null
+e:I[3704,["173","static/chunks/173-b9462f496606eef7.js","177","static/chunks/app/layout-d2778d907a22c3fd.js"],""]
+f:I[8173,["173","static/chunks/173-b9462f496606eef7.js","901","static/chunks/app/archive/%5Bslug%5D/page-b3526bb2a0769278.js"],""]
+d:Tf1c,/* Critical CSS - Above the fold styles only */
+/* This file contains only the essential styles needed for initial render */
+
+/* Reset and Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Typography Variables */
+:root {
+  --base-font-size: 16px;
+  --scale-ratio: 1.25;
+  --font-size-xs: 10.24px;
+  --font-size-sm: 12.8px;
+  --font-size-base: 16px;
+  --font-size-md: 20px;
+  --font-size-lg: 25px;
+  --font-size-xl: 31.25px;
+  --font-size-2xl: 39px;
+  --font-size-3xl: 48.8px;
+  --line-height-tight: 1.25;
+  --line-height-base: 1.6;
+  --line-height-relaxed: 1.75;
+}
+
+/* Body */
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: var(--base-font-size);
+  line-height: var(--line-height-base);
+  background-color: #ffffff;
+  color: #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 3px solid #000000;
+}
+
+.site-title {
+  font-size: var(--font-size-3xl);
+  font-weight: bold;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+}
+
+.tagline {
+  font-size: var(--font-size-sm);
+  color: #666666;
+  margin-bottom: 5px;
+}
+
+.last-updated {
+  font-size: var(--font-size-xs);
+  color: #999999;
+}
+
+/* Main Headline */
+.main-headline {
+  text-align: center;
+  margin: 30px 0;
+  padding: 20px 0;
+}
+
+.main-headline a {
+  font-size: var(--font-size-2xl);
+  font-weight: bold;
+  color: #000000;
+  text-decoration: none;
+  line-height: var(--line-height-tight);
+}
+
+/* Top Stories */
+.top-stories {
+  text-align: center;
+  margin-bottom: 40px;
+  padding: 20px 0;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+}
+
+.top-stories-list {
+  list-style: none;
+}
+
+.top-stories-list li {
+  margin: 20px 0;
+}
+
+.top-stories-list a {
+  font-size: var(--font-size-md);
+  font-weight: bold;
+  color: #000000;
+  text-decoration: none;
+}
+
+/* Three Column Layout - CRITICAL FOR DRUDGE STYLE */
+.columns {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.column {
+  flex: 1;
+  padding: 0 10px;
+}
+
+.column-left {
+  border-right: 1px solid #cccccc;
+}
+
+.column-center {
+  border-right: 1px solid #cccccc;
+}
+
+/* Story Links */
+.story-list {
+  list-style: none;
+}
+
+.story-list li {
+  margin-bottom: 20px;
+  line-height: var(--line-height-base);
+}
+
+.story-list a {
+  color: #0000ff;
+  text-decoration: none;
+  font-size: var(--font-size-sm);
+}
+
+.story-list a:hover {
+  text-decoration: underline;
+}
+
+/* Dark mode critical styles */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-primary: #1a1a1a;
+    --text-primary: #e0e0e0;
+    --text-secondary: #b0b0b0;
+    --border-color: #404040;
+    --link-color: #66b3ff;
+  }
+  
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+  }
+  
+  .header {
+    border-bottom-color: var(--border-color);
+  }
+  
+  .tagline,
+  .last-updated {
+    color: var(--text-secondary);
+  }
+  
+  .main-headline a {
+    color: var(--text-primary);
+  }
+  
+  .top-stories-list a {
+    color: var(--text-primary);
+  }
+  
+  .column-left,
+  .column-center {
+    border-right-color: var(--border-color);
+  }
+  
+  .story-list a {
+    color: var(--link-color);
+  }
+  
+  .top-stories {
+    border-color: var(--border-color);
+  }
+}
+
+/* Mobile critical - columns stack on mobile */
+@media (max-width: 768px) {
+  :root {
+    --base-font-size: 18px;
+  }
+  
+  .container {
+    padding: 15px 10px;
+  }
+  
+  .site-title {
+    font-size: var(--font-size-2xl);
+  }
+  
+  .columns {
+    flex-direction: column;
+  }
+  
+  .column {
+    border-right: none;
+    border-bottom: 1px solid #cccccc;
+    padding: 20px 10px;
+    margin-bottom: 20px;
+  }
+  
+  .column:last-child {
+    border-bottom: none;
+  }
+  
+  .column-left,
+  .column-center {
+    border-right: none;
+  }
+} 2:["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","link",null,{"rel":"stylesheet","href":"/byte-hackathon-ai-report/styles.css"}],["$","$Le",null,{"data-goatcounter":"https://dwell-media-group.goatcounter.com/count","src":"//gc.zgo.at/count.js","strategy":"afterInteractive"}]]}],["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-to-content","children":"Skip to main content"}],["$","div",null,{"className":"privacy-banner","role":"region","aria-label":"Privacy Notice","children":[["$","input",null,{"type":"checkbox","id":"privacy-banner-toggle","className":"privacy-banner-checkbox"}],["$","div",null,{"className":"privacy-banner-content","children":[["$","p",null,{"children":[["$","strong",null,{"children":"Privacy Notice:"}]," AI Report is a static news aggregator that does not use cookies or collect personal data. We use privacy-friendly analytics (GoatCounter) that respects your privacy. We aggregate publicly available content from various AI news sources.",["$","$Lf",null,{"href":"/privacy","className":"privacy-link","children":"Learn more about our privacy practices"}]]}],["$","label",null,{"htmlFor":"privacy-banner-toggle","className":"privacy-banner-button","role":"button","tabIndex":0,"aria-label":"Dismiss privacy notice","children":"Got it"}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]
+5:["$","div",null,{"className":"container","children":[["$","header",null,{"className":"header","children":[["$","h1",null,{"className":"site-title","children":"AI REPORT ARCHIVE"}],["$","p",null,{"className":"tagline","children":"Historical AI News Snapshot"}],["$","p",null,{"className":"last-updated","children":["Archive Date: ","Tuesday, September 9, 2025 at 03:35 AM UTC"]}],["$","nav",null,{"className":"archive-nav","children":[["$","$Lf",null,{"href":"/","className":"back-link","children":"← Back to Current News"}],["$","span",null,{"className":"nav-separator","children":" | "}],["$","$Lf",null,{"href":"/archive","className":"back-link","children":"← Back to Archive List"}]]}]]}],["$","main",null,{"id":"main","children":[["$","section",null,{"className":"main-headline","children":"$L10"}],["$","section",null,{"className":"top-stories","children":["$","ul",null,{"className":"top-stories-list","children":[["$","li","0",{"children":"$L11"}],["$","li","1",{"children":"$L12"}],["$","li","2",{"children":"$L13"}]]}]}],["$","div",null,{"className":"columns","children":[["$","section",null,{"className":"column column-left","children":["$","ul",null,{"className":"story-list","children":[["$","li","0",{"children":"$L14"}],["$","li","1",{"children":"$L15"}],["$","li","2",{"children":"$L16"}],["$","li","3",{"children":"$L17"}],["$","li","4",{"children":"$L18"}],["$","li","5",{"children":"$L19"}],["$","li","6",{"children":"$L1a"}],["$","li","7",{"children":"$L1b"}]]}]}],["$","section",null,{"className":"column column-center","children":["$","ul",null,{"className":"story-list","children":[["$","li","0",{"children":"$L1c"}],["$","li","1",{"children":"$L1d"}],["$","li","2",{"children":"$L1e"}],["$","li","3",{"children":"$L1f"}],["$","li","4",{"children":"$L20"}],["$","li","5",{"children":"$L21"}],["$","li","6",{"children":"$L22"}],["$","li","7",{"children":"$L23"}]]}]}],["$","section",null,{"className":"column column-right","children":["$","ul",null,{"className":"story-list","children":[["$","li","0",{"children":"$L24"}],["$","li","1",{"children":"$L25"}],["$","li","2",{"children":"$L26"}],["$","li","3",{"children":"$L27"}],["$","li","4",{"children":"$L28"}],["$","li","5",{"children":"$L29"}],["$","li","6",{"children":"$L2a"}],["$","li","7",{"children":"$L2b"}]]}]}]]}]]}],["$","footer",null,{"className":"footer","children":[["$","p",null,{"children":"© 2024 AI Report. All rights reserved."}],["$","p",null,{"children":"A news aggregator focused on artificial intelligence"}],["$","p",null,{"className":"legal-disclaimer","children":"AI Report is an independent news aggregation service. It is not affiliated with, endorsed by, or connected to any other news service or website."}],["$","p",null,{"className":"archive-notice","children":["This is an archived snapshot from ","Tuesday, September 9, 2025 at 03:35 AM UTC"]}]]}]]}]
+10:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://www.lesswrong.com/posts/QX7othHmjXeudHaLi/saying-for-ai-safety-research-made-models-refuse-more-on-a","target":"_blank","rel":"noopener noreferrer","children":"Saying “for AI safety research” made models refuse more on a harmless task"}]]}]
+11:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://www.lesswrong.com/posts/nhfFFJCXHCFkrdptk/openai-14-openai-descends-into-paranoia-and-bad-faith","target":"_blank","rel":"noopener noreferrer","children":"OpenAI #14: OpenAI Descends Into Paranoia and Bad Faith Lobbying"}]]}]
+12:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2405.15164","target":"_blank","rel":"noopener noreferrer","children":"From Frege to chatGPT: Compositionality in language, cognition, and deep neural networks"}]]}]
+13:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://www.lesswrong.com/posts/TiP9iS4iMnHsGvtGg/re-imagining-ai-interfaces","target":"_blank","rel":"noopener noreferrer","children":"Re-imagining AI Interfaces"}]]}]
+14:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2402.12226","target":"_blank","rel":"noopener noreferrer","children":"AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"}]]}]
+15:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2506.07173","target":"_blank","rel":"noopener noreferrer","children":"Translating Federated Learning Algorithms in Python into CSP Processes Using ChatGPT"}]]}]
+16:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.04506","target":"_blank","rel":"noopener noreferrer","children":"Memristor-Based Neural Network Accelerators for Space Applications: Enhancing Performance with Temporal Averaging and SIRENs"}]]}]
+17:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://simonwillison.net/2025/Sep/7/ai-mode/#atom-everything","target":"_blank","rel":"noopener noreferrer","children":"AI mode is good, actually"}]]}]
+18:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://www.anthropic.com/news","target":"_blank","rel":"noopener noreferrer","children":"Sample Blog Post"}]]}]
+19:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://www.lesswrong.com/posts/f3EgXB4GyBehfPKsW/rl-as-a-service-will-outcompete-agi-companies-and-that-s","target":"_blank","rel":"noopener noreferrer","children":"RL-as-a-Service will outcompete AGI companies (and that's good)"}]]}]
+1a:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://www.theverge.com/news/773584/openai-animated-feature-film-critterz","target":"_blank","rel":"noopener noreferrer","children":"OpenAI comes for Hollywood with Critterz, an AI-powered animated film "}]]}]
+1b:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2507.20474","target":"_blank","rel":"noopener noreferrer","children":"MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and Adaptive Financial Trading"}]]}]
+1c:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.04479","target":"_blank","rel":"noopener noreferrer","children":"No Clustering, No Routing: How Transformers Actually Process Rare Tokens"}]]}]
+1d:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.04491","target":"_blank","rel":"noopener noreferrer","children":"Refining Transcripts With TV Subtitles by Prompt-Based Weakly Supervised Training of ASR"}]]}]
+1e:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05112","target":"_blank","rel":"noopener noreferrer","children":"GenAI-based test case generation and execution in SDV platform"}]]}]
+1f:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.04816","target":"_blank","rel":"noopener noreferrer","children":"Extracting Uncertainty Estimates from Mixtures of Experts for Semantic Segmentation"}]]}]
+20:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05018","target":"_blank","rel":"noopener noreferrer","children":"Depth-Aware Initialization for Stable and Efficient Neural Network Training"}]]}]
+21:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.04492","target":"_blank","rel":"noopener noreferrer","children":"Learned Hallucination Detection in Black-Box LLMs using Token-level Entropy Production Rate"}]]}]
+22:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.04805","target":"_blank","rel":"noopener noreferrer","children":"AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design"}]]}]
+23:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.04794","target":"_blank","rel":"noopener noreferrer","children":"Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects"}]]}]
+24:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05037","target":"_blank","rel":"noopener noreferrer","children":"ModalSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer"}]]}]
+25:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05084","target":"_blank","rel":"noopener noreferrer","children":"Recurrent State Encoders for Efficient Neural Combinatorial Optimization"}]]}]
+26:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05034","target":"_blank","rel":"noopener noreferrer","children":"Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization"}]]}]
+27:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05060","target":"_blank","rel":"noopener noreferrer","children":"Entropy2Vec: Crosslingual Language Modeling Entropy as End-to-End Learnable Language Representations"}]]}]
+28:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05165","target":"_blank","rel":"noopener noreferrer","children":"KVCompose: Efficient Structured KV Cache Compression with Composite Tokens"}]]}]
+29:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.05254","target":"_blank","rel":"noopener noreferrer","children":"Uniform Information Density and Syntactic Reduction: Revisiting $\\textit{that}$-Mentioning in English Complement Clauses"}]]}]
+2a:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2506.03083","target":"_blank","rel":"noopener noreferrer","children":"Labelling Data with Unknown References"}]]}]
+2b:["$","div",null,{"className":"","children":["$undefined",["$","a",null,{"href":"https://arxiv.org/abs/2509.03614","target":"_blank","rel":"noopener noreferrer","children":"Teacher-Student Model for Detecting and Classifying Mitosis in the MIDOG 2025 Challenge"}]]}]
