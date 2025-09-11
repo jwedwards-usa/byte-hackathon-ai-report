@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The Rise of Parasitic AI",
+    "url": "https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai"
+  },
+  "topStories": [
+    {
+      "text": "The Case for Mixed Deployment",
+      "url": "https://www.lesswrong.com/posts/NjuMqHjDNHogmRrkF/the-case-for-mixed-deployment"
+    },
+    {
+      "text": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
+      "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/#atom-everything"
+    },
+    {
+      "text": "Domain Knowledge is Power: Leveraging Physiological Priors for Self Supervised Representation Learning in Electrocardiography",
+      "url": "https://arxiv.org/abs/2509.08116"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Generative AI for Data Augmentation in Wireless Networks: Analysis, Applications, and Case Study",
+      "url": "https://arxiv.org/abs/2411.08341"
+    },
+    {
+      "text": "My review of Claude's new Code Interpreter, released under a very confusing name",
+      "url": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything"
+    },
+    {
+      "text": "Segment Transformer: AI-Generated Music Detection via Music Structural Analysis",
+      "url": "https://arxiv.org/abs/2509.08283"
+    },
+    {
+      "text": "An Interpretable Deep Learning Model for General Insurance Pricing",
+      "url": "https://arxiv.org/abs/2509.08467"
+    },
+    {
+      "text": "RepViT-CXR: A Channel Replication Strategy for Vision Transformers in Chest X-ray Tuberculosis and Pneumonia Classification",
+      "url": "https://arxiv.org/abs/2509.08234"
+    },
+    {
+      "text": "Uncertainty Quantification in Probabilistic Machine Learning Models: Theory, Methods, and Insights",
+      "url": "https://arxiv.org/abs/2509.05877"
+    },
+    {
+      "text": "MachineLearningLM: Scaling Many-shot In-context Learning via Continued Pretraining",
+      "url": "https://arxiv.org/abs/2509.06806"
+    },
+    {
+      "text": "Explainability of CNN Based Classification Models for Acoustic Signal",
+      "url": "https://arxiv.org/abs/2509.08717"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics",
+      "url": "https://arxiv.org/abs/2509.08461"
+    },
+    {
+      "text": "A single-loop SPIDER-type stochastic subgradient method for expectation-constrained nonconvex nonsmooth optimization",
+      "url": "https://arxiv.org/abs/2501.19214"
+    },
+    {
+      "text": "Prompt-Driven Image Analysis with Multimodal Generative AI: Detection, Segmentation, Inpainting, and Interpretation",
+      "url": "https://arxiv.org/abs/2509.08489"
+    },
+    {
+      "text": "A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving",
+      "url": "https://arxiv.org/abs/2509.08269"
+    },
+    {
+      "text": "Combined-distance-based score function of cognitive fuzzy sets and its application in lung cancer pain evaluation",
+      "url": "https://arxiv.org/abs/2509.08239"
+    },
+    {
+      "text": "From Static to Adaptive Defense: Federated Multi-Agent Deep Reinforcement Learning-Driven Moving Target Defense Against DoS Attacks in UAV Swarm Networks",
+      "url": "https://arxiv.org/abs/2506.07392"
+    },
+    {
+      "text": "RAPID QUANTUM DETECTION AND DEMODULATION OF COVERT COMMUNICATIONS: BREAKING THE NOISE LIMIT WITH SOLID-STATE SPIN SENSORS",
+      "url": "https://arxiv.org/abs/2509.08171"
+    },
+    {
+      "text": "Measuring Bias or Measuring the Task: Understanding the Brittle Nature of LLM Gender Biases",
+      "url": "https://arxiv.org/abs/2509.04373"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AI is changing the grid. Could it help more than it harms?",
+      "url": "https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/"
+    },
+    {
+      "text": "Multi-Label Transfer Learning in Non-Stationary Data Streams",
+      "url": "https://arxiv.org/abs/2509.08181"
+    },
+    {
+      "text": "Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation",
+      "url": "https://arxiv.org/abs/2502.12737"
+    },
+    {
+      "text": "Variational Rank Reduction Autoencoders for Generative",
+      "url": "https://arxiv.org/abs/2509.08515"
+    },
+    {
+      "text": "FMT$^{x}$: An Efficient and Asymptotically Optimal Extension of the Fast Marching Tree for Dynamic Replanning",
+      "url": "https://arxiv.org/abs/2509.08521"
+    },
+    {
+      "text": "AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution",
+      "url": "https://arxiv.org/abs/2509.08524"
+    },
+    {
+      "text": "Securing Private Federated Learning in a Malicious Setting: A Scalable TEE-Based Approach with Client Auditing",
+      "url": "https://arxiv.org/abs/2509.08709"
+    },
+    {
+      "text": "Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition",
+      "url": "https://arxiv.org/abs/2509.08470"
+    }
+  ],
+  "lastUpdated": "2025-09-11T06:33:54Z"
+}
