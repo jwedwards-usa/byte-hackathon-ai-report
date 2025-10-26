@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Origins and dangers of future AI capability denial",
+    "url": "https://www.lesswrong.com/posts/W2dTrfTsGtFiwG5hM/origins-and-dangers-of-future-ai-capability-denial"
+  },
+  "topStories": [
+    {
+      "text": "FWIW: What I noticed at a (Goenka) Vipassana retreat",
+      "url": "https://www.lesswrong.com/posts/JvPoGL25KPhZqZmJw/fwiw-what-i-noticed-at-a-goenka-vipassana-retreat"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "WHY IS OPENAI RELEASING PRODUCTS LIKE SORA AND ATLAS?",
+      "url": "https://www.lesswrong.com/posts/zQNYXRhD23iJxKjTP/why-is-openai-releasing-products-like-sora-and-atlas"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "claude_code_docs_map.md",
+      "url": "https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything"
+    },
+    {
+      "text": "AI Agents: From Assistants for Efficiency to Leaders of Tomorrow?",
+      "url": "https://towardsdatascience.com/ai-agents-from-assistants-for-efficiency-to-leaders-of-tomorrow/"
+    },
+    {
+      "text": "The next legal frontier is your face and AI",
+      "url": "https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai"
+    },
+    {
+      "text": "Show HN: Create-LLM – Train your own LLM in 60 seconds",
+      "url": "https://github.com/theaniketgiri/create-llm"
+    },
+    {
+      "text": "Brightline is Actually Pretty Dangerous",
+      "url": "https://www.lesswrong.com/posts/LGpzndFELzirfe2R8/brightline-is-actually-pretty-dangerous"
+    },
+    {
+      "text": "Quoting Claude Docs",
+      "url": "https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything"
+    },
+    {
+      "text": "Why are there no helpful infectious diseases?",
+      "url": "https://www.lesswrong.com/posts/Jumu2twiQ34N6qi6C/why-are-there-no-helpful-infectious-diseases"
+    },
+    {
+      "text": "Pygmalion's Wafer",
+      "url": "https://www.lesswrong.com/posts/AzabCSD4Q28cDrKA5/pygmalion-s-wafer"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding",
+      "url": "https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything"
+    },
+    {
+      "text": "Setting up a codebase for working with coding agents",
+      "url": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything"
+    },
+    {
+      "text": "Data Visualization Explained (Part 4): A Review of Python Essentials",
+      "url": "https://towardsdatascience.com/data-visualization-explained-part-4-a-review-of-python-essentials/"
+    },
+    {
+      "text": "When your AI browser becomes your enemy: The Comet security disaster",
+      "url": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/6hk25wIFL5HjUQrONWEmCM/a80871621b39fb561fb1479cbdd273c2/Comet.png?w=300\u0026q=30",
+        "alt": "When your AI browser becomes your enemy: The Comet security disaster",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Agentic AI from First Principles: Reflection",
+      "url": "https://towardsdatascience.com/agentic-ai-from-first-principles-reflection/"
+    },
+    {
+      "text": "My favorite e-reader just got a big update",
+      "url": "https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer"
+    },
+    {
+      "text": "Seven-ish Words from My Thought-Language",
+      "url": "https://www.lesswrong.com/posts/2uaj4oFCcfAAZpGka/seven-ish-words-from-my-thought-language"
+    },
+    {
+      "text": "Musings on Reported Cost of Compute (Oct 2025)",
+      "url": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Remembrancy",
+      "url": "https://www.lesswrong.com/posts/bXrhcdwhGDnhcBjzJ/remembrancy"
+    },
+    {
+      "text": "Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby",
+      "url": "https://github.com/barodeur/llm_rescuer"
+    },
+    {
+      "text": "The State of Machine Learning Frameworks in 2019",
+      "url": "https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/"
+    },
+    {
+      "text": "Burning out",
+      "url": "https://www.interconnects.ai/p/burning-out",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/05227a43-480e-4935-8f96-4d1e295d970f_2400x1600.jpeg",
+        "alt": "Burning out",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Assessing Far UVC Positioning",
+      "url": "https://www.lesswrong.com/posts/3G2CpqyBqeS5KcTZJ/assessing-far-uvc-positioning"
+    },
+    {
+      "text": "ICE is building a social media panopticon",
+      "url": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault"
+    },
+    {
+      "text": "Building a Geospatial Lakehouse with Open Source and Databricks",
+      "url": "https://towardsdatascience.com/building-a-geospatial-lakehouse-with-open-source-and-databricks-2/"
+    },
+    {
+      "text": "HOW TO CONSISTENTLY EXTRACT METADATA FROM COMPLEX DOCUMENTS",
+      "url": "https://towardsdatascience.com/how-to-consistently-extract-metadata-from-complex-documents/"
+    }
+  ],
+  "lastUpdated": "2025-10-26T15:21:58Z"
+}
