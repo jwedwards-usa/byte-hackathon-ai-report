@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic vs. OpenAI red teaming methods reveal different security priorities for enterprise AI",
+    "url": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
+      "url": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
+    },
+    {
+      "text": "GAM takes aim at “context rot”: A dual-agent memory architecture that outperforms long-context LLMs",
+      "url": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/MI0B0KoyfgsNsPcZnfzUu/8de4abaf5670a0d41b186dd175236986/Memory.png?w=300\u0026q=30",
+        "alt": "GAM takes aim at “context rot”: A dual-agent memory architecture that outperforms long-context LLMs",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The behavioral selection model for predicting AI motivations",
+      "url": "https://www.alignmentforum.org/posts/FeaJcWkC6fuRAMsfp/the-behavioral-selection-model-for-predicting-ai-motivations-1"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "What Happens When You Train Models on False Facts?",
+      "url": "https://www.lesswrong.com/posts/CdymgH4MQdFgB6Fg7/what-happens-when-you-train-models-on-false-facts-1"
+    },
+    {
+      "text": "An Ambitious Vision for Interpretability",
+      "url": "https://www.lesswrong.com/posts/Hy6PX43HGgmfiTaKu/an-ambitious-vision-for-interpretability"
+    },
+    {
+      "text": "DeepSeek v3.2 Is Okay And Cheap But Slow",
+      "url": "https://www.lesswrong.com/posts/vcmBEmKFJFQkDaXTP/deepseek-v3-2-is-okay-and-cheap-but-slow"
+    },
+    {
+      "text": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+      "url": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/4cm8F6jnq7mT7NhyXWA1qQ/119d505338624d93ce9134238ebe73d3/Denialism.png?w=300\u0026q=30",
+        "alt": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "AI Kill Switch for malicious web-based LLM agent",
+      "url": "https://arxiv.org/abs/2511.13725"
+    },
+    {
+      "text": "Reasons to care about Canary Strings",
+      "url": "https://www.lesswrong.com/posts/QYdNfqfFAeMHXTHkP/reasons-to-care-about-canary-strings"
+    },
+    {
+      "text": "Gemini 3 Pro: the frontier of vision AI",
+      "url": "https://blog.google/technology/developers/gemini-3-pro-vision/"
+    },
+    {
+      "text": "JOURNALIST'S INQUIRY INTO A CORE ORGANISER BREAKING HIS NONVIOLENCE COMMITMENT AND LEAVING STOP AI",
+      "url": "https://www.lesswrong.com/posts/kxgLTip3aMotkNLkp/journalist-s-inquiry-into-a-core-organiser-breaking-his"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Series of quasi-uniform scatterings with fast search, root systems and neural network classifications",
+      "url": "https://arxiv.org/abs/2512.04865"
+    },
+    {
+      "text": "Solving LLM Repetition Problem in Production: A Comprehensive Study of Multiple Solutions",
+      "url": "https://arxiv.org/abs/2512.04419"
+    },
+    {
+      "text": "GovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows",
+      "url": "https://arxiv.org/abs/2512.04416"
+    },
+    {
+      "text": "ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai",
+      "url": "https://arxiv.org/abs/2511.04479"
+    },
+    {
+      "text": "Bridging Online Behavior and Clinical Insight: A Longitudinal LLM-based Study of Suicidality on YouTube Reveals Novel Digital Markers",
+      "url": "https://arxiv.org/abs/2506.09495"
+    },
+    {
+      "text": "AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems",
+      "url": "https://arxiv.org/abs/2512.04367"
+    },
+    {
+      "text": "Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2512.04359"
+    },
+    {
+      "text": "QA-LIGN: Aligning LLMs through Constitutionally Decomposed QA",
+      "url": "https://arxiv.org/abs/2506.08123"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time",
+      "url": "https://arxiv.org/abs/2512.04748"
+    },
+    {
+      "text": "Downscaling climate projections to 1 km with single-image super resolution",
+      "url": "https://arxiv.org/abs/2509.21399"
+    },
+    {
+      "text": "Incoherent Beliefs \u0026 Inconsistent Actions in Large Language Models",
+      "url": "https://arxiv.org/abs/2511.13240"
+    },
+    {
+      "text": "Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection",
+      "url": "https://arxiv.org/abs/2512.04413"
+    },
+    {
+      "text": "Learning to Orchestrate Agents in Natural Language with the Conductor",
+      "url": "https://arxiv.org/abs/2512.04388"
+    },
+    {
+      "text": "Automating Complex Document Workflows via Stepwise and Rollback-Enabled Operation Orchestration",
+      "url": "https://arxiv.org/abs/2512.04445"
+    },
+    {
+      "text": "Open-Ended Goal Inference through Actions and Language for Human-Robot Collaboration",
+      "url": "https://arxiv.org/abs/2512.04453"
+    },
+    {
+      "text": "ASCIIBench: Evaluating Language-Model-Based Understanding of Visually-Oriented Text",
+      "url": "https://arxiv.org/abs/2512.04125"
+    }
+  ],
+  "lastUpdated": "2025-12-06T01:52:01Z"
+}
