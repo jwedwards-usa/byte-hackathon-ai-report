@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
+    "url": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
+  },
+  "topStories": [
+    {
+      "text": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+      "url": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/4cm8F6jnq7mT7NhyXWA1qQ/119d505338624d93ce9134238ebe73d3/Denialism.png?w=300\u0026q=30",
+        "alt": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "AI Mood Ring: A Window Into LLM Emotions",
+      "url": "https://www.lesswrong.com/posts/A5Byr2jkBJpnBdx23/ai-mood-ring-a-window-into-llm-emotions"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Gemini 3 Pro: the frontier of vision AI",
+      "url": "https://blog.google/technology/developers/gemini-3-pro-vision/"
+    },
+    {
+      "text": "IT’S CODE RED FOR CHATGPT",
+      "url": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
+    },
+    {
+      "text": "Crazy ideas in AI Safety part 1: Easy Measurable Communication ",
+      "url": "https://www.lesswrong.com/posts/YGBaJ6fmHRwEbAmwD/crazy-ideas-in-ai-safety-part-1-easy-measurable"
+    },
+    {
+      "text": "An Ambitious Vision for Interpretability",
+      "url": "https://www.alignmentforum.org/posts/Hy6PX43HGgmfiTaKu/an-ambitious-vision-for-interpretability"
+    },
+    {
+      "text": "Eliezer's Unteachable Methods of Sanity",
+      "url": "https://www.lesswrong.com/posts/isSBwfgRY6zD6mycc/eliezer-s-unteachable-methods-of-sanity"
+    },
+    {
+      "text": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
+      "url": "https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything"
+    },
+    {
+      "text": "The corrigibility basin of attraction is a misleading gloss",
+      "url": "https://www.lesswrong.com/posts/oLbpfPkdtcknABvvw/the-corrigibility-basin-of-attraction-is-a-misleading-gloss"
+    },
+    {
+      "text": "The era of AI persuasion in elections is about to begin",
+      "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
+      "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/"
+    },
+    {
+      "text": "The ads that sell the sizzle of genetic trait discrimination",
+      "url": "https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/"
+    },
+    {
+      "text": "Existential despair, with hope",
+      "url": "https://www.lesswrong.com/posts/CeAtrFiNbHSawxTLG/existential-despair-with-hope"
+    },
+    {
+      "text": "AI ‘creators’ might just crash the influencer economy",
+      "url": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
+    },
+    {
+      "text": "The Machine Learning “Advent Calendar” Day 6: Decision Tree Regressor",
+      "url": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-6-decision-tree-regressor/"
+    },
+    {
+      "text": "The Machine Learning “Advent Calendar” Day 5: GMM in Excel",
+      "url": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-5-gmm-in-excel/"
+    },
+    {
+      "text": "Using LLMs at Oxide",
+      "url": "https://rfd.shared.oxide.computer/rfd/0576"
+    },
+    {
+      "text": "Quoting Daniel Lemire",
+      "url": "https://simonwillison.net/2025/Dec/6/daniel-lemire/#atom-everything"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "The Download: political chatbot persuasion, and gene editing adverts",
+      "url": "https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/"
+    },
+    {
+      "text": "I Need Your Help",
+      "url": "https://www.lesswrong.com/posts/MK2R22usPbkihr52i/i-need-your-help"
+    },
+    {
+      "text": "How We Are Testing Our Agents in Dev",
+      "url": "https://towardsdatascience.com/how-we-are-testing-our-agents-in-dev/"
+    },
+    {
+      "text": "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "url": "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
+    },
+    {
+      "text": "Ordering Pizza Ahead While Driving",
+      "url": "https://www.lesswrong.com/posts/srA7njp5zxeF6pQfb/ordering-pizza-ahead-while-driving"
+    },
+    {
+      "text": "The Adequacy of Class Separation",
+      "url": "https://www.lesswrong.com/posts/7TCA6dDZDZ9ESPtaJ/the-adequacy-of-class-separation"
+    },
+    {
+      "text": "The New York Times sues Perplexity for producing ‘verbatim’ copies of its work",
+      "url": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
+    },
+    {
+      "text": "YOLOv1 Paper Walkthrough: The Day YOLO First Saw the World",
+      "url": "https://towardsdatascience.com/yolov1-paper-walkthrough-the-day-yolo-first-saw-the-world/"
+    }
+  ],
+  "lastUpdated": "2025-12-07T09:24:58Z"
+}
