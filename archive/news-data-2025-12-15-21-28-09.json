@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "GPT-5.2 IS FRONTIER ONLY FOR THE FRONTIER",
+    "url": "https://www.lesswrong.com/posts/Do4eWro8E552isGi5/gpt-5-2-is-frontier-only-for-the-frontier"
+  },
+  "topStories": [
+    {
+      "text": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
+      "url": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/1gEsiNYU8keqkcBoBPm8tD/1574615f94e05fbe52dba1c731e704a8/e6veRzb08_-Bhicn8oM11.png?w=300\u0026q=30",
+        "alt": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Defending Against Model Weight Exfiltration Through Inference Verification",
+      "url": "https://www.lesswrong.com/posts/7i33FDCfcRLJbPs6u/defending-against-model-weight-exfiltration-through-1"
+    },
+    {
+      "text": "A Case for Model Persona Research",
+      "url": "https://www.lesswrong.com/posts/kCtyhHfpCcWuQkebz/a-case-for-model-persona-research"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The great AI hype correction of 2025",
+      "url": "https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/"
+    },
+    {
+      "text": "Generative AI hype distracts us from AI’s more important breakthroughs",
+      "url": "https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/"
+    },
+    {
+      "text": "MetaVoxel: Joint Diffusion Modeling of Imaging and Clinical Metadata",
+      "url": "https://arxiv.org/abs/2512.10041"
+    },
+    {
+      "text": "BREAKING THE FROZEN SUBSPACE: IMPORTANCE SAMPLING FOR LOW-RANK OPTIMIZATION IN LLM PRETRAINING",
+      "url": "https://arxiv.org/abs/2502.05790"
+    },
+    {
+      "text": "Nvidia debuts Nemotron 3 with hybrid MoE and Mamba-Transformer to drive efficient agentic AI",
+      "url": "https://venturebeat.com/technology/nvidia-debuts-nemotron-3-with-hybrid-moe-and-mamba-transformer-to-drive",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3xUHPM8pE59D833CnZxxZJ/b8fe73f844b3383d940fda2c5906df94/crimedy7_illustration_of_the_nvidia_colors_in_a_digital_archi_31fa1654-c274-4f35-9673-8879080998cf_1.png?w=300\u0026q=30",
+        "alt": "Nvidia debuts Nemotron 3 with hybrid MoE and Mamba-Transformer to drive efficient agentic AI",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "We’re publishing an AI playbook to help others with sustainability reporting.",
+      "url": "https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/"
+    },
+    {
+      "text": "Stack Overflow users don’t trust AI. They’re using it anyway",
+      "url": "https://www.theverge.com/podcast/844073/stack-overflow-ceo-ai-coding-chatgpt-code-red-interview"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The fast and the future-focused are revolutionizing motorsport",
+      "url": "https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/"
+    },
+    {
+      "text": "Musicians are getting really tired of this AI clone ‘bullshit’",
+      "url": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
+    },
+    {
+      "text": "Transformer vs LSTM for Time Series: Which Works Better?",
+      "url": "https://machinelearningmastery.com/transformer-vs-lstm-for-time-series-which-works-better/"
+    },
+    {
+      "text": "Lessons Learned from Upgrading to LangChain 1.0 in Production",
+      "url": "https://towardsdatascience.com/lessons-learnt-from-upgrading-to-langchain-1-0-in-production/"
+    },
+    {
+      "text": "A brief history of Sam Altman’s hype",
+      "url": "https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/"
+    },
+    {
+      "text": "Harnessing Rich Multi-Modal Data for Spatial-Temporal Homophily-Embedded Graph Learning Across Domains and Localities",
+      "url": "https://arxiv.org/abs/2512.11178"
+    },
+    {
+      "text": "Bandwidth-constrained Variational Message Encoding for Cooperative Multi-agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2512.11179"
+    },
+    {
+      "text": "Meta-Statistical Learning: Supervised Learning of Statistical Estimators",
+      "url": "https://arxiv.org/abs/2502.12088"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Intervention Efficiency and Perturbation Validation Framework: Capacity-Aware and Robust Clinical Model Selection under the Rashomon Effect",
+      "url": "https://arxiv.org/abs/2511.14317"
+    },
+    {
+      "text": "Few-Shot VLM-Based G-Code and HMI Verification in CNC Machining",
+      "url": "https://arxiv.org/abs/2512.11296"
+    },
+    {
+      "text": "Joint Learning of Wording and Formatting for Singable Melody-to-Lyric Generation",
+      "url": "https://arxiv.org/abs/2307.02146"
+    },
+    {
+      "text": "HFS: Holistic Query-Aware Frame Selection for Efficient Video Reasoning",
+      "url": "https://arxiv.org/abs/2512.11534"
+    },
+    {
+      "text": "Recent Advances in Discrete Speech Tokens: A Review",
+      "url": "https://arxiv.org/abs/2502.06490"
+    },
+    {
+      "text": "Visualizing token importance for black-box language models",
+      "url": "https://arxiv.org/abs/2512.11573"
+    },
+    {
+      "text": "Towards Privacy-Preserving Code Generation: Differentially Private Code Language Models",
+      "url": "https://arxiv.org/abs/2512.11482"
+    },
+    {
+      "text": "TV2TV: A Unified Framework for Interleaved Language and Video Generation",
+      "url": "https://arxiv.org/abs/2512.05103"
+    }
+  ],
+  "lastUpdated": "2025-12-15T21:28:09Z"
+}
