@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Assessing Greenspace Attractiveness with ChatGPT, Claude, and Gemini: Do AI Models Reflect Human Perceptions?",
+    "url": "https://arxiv.org/abs/2512.11827"
+  },
+  "topStories": [
+    {
+      "text": "Zencoder drops Zenflow, a free AI orchestration tool that pits Claude against OpenAI’s models to catch coding errors",
+      "url": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
+    },
+    {
+      "text": "Video and transcript of talk on human-like-ness in AI safety",
+      "url": "https://www.lesswrong.com/posts/aR65uZDBKahmJdqvg/video-and-transcript-of-talk-on-human-like-ness-in-ai-safety"
+    },
+    {
+      "text": "Exploring Machine Learning, Deep Learning, and Explainable AI Methods for Seasonal Precipitation Prediction in South America",
+      "url": "https://arxiv.org/abs/2512.13910"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Why Google's new Interactions API is such a big deal for AI developers",
+      "url": "https://venturebeat.com/infrastructure/why-googles-new-interactions-api-is-such-a-big-deal-for-ai-developers",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5OKuwmihZkysC3G6qE6Lvr/ffb6afcf05b65493ada4348587cec2d4/yFbr_v7c7mxthUkaoWhwD.png?w=300\u0026q=30",
+        "alt": "Why Google's new Interactions API is such a big deal for AI developers",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "SportsGPT: An LLM-driven Framework for Interpretable Sports Motion Assessment and Training Guidance",
+      "url": "https://arxiv.org/abs/2512.14121"
+    },
+    {
+      "text": "Zoom says it aced AI’s hardest exam. Critics say it copied off its neighbors.",
+      "url": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
+      "text": "Evaluating Frontier LLMs on PhD-Level Mathematical Reasoning: A Benchmark on a Textbook in Theoretical Computer Science about Randomized Algorithms",
+      "url": "https://arxiv.org/abs/2512.13978"
+    },
+    {
+      "text": "Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer",
+      "url": "https://arxiv.org/abs/2512.14585"
+    },
+    {
+      "text": "A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings",
+      "url": "https://arxiv.org/abs/2504.15610"
+    },
+    {
+      "text": "Error Bound Analysis of Physics-Informed Neural Networks-Driven T2 Quantification in Cardiac Magnetic Resonance Imaging",
+      "url": "https://arxiv.org/abs/2512.14211"
+    },
+    {
+      "text": "OpenAI's GPT Image 1.5 challenges Google at enterprise-grade visuals",
+      "url": "https://venturebeat.com/technology/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/1IcAgCMelBUgBUy62Yr6fq/b26d47dd27075b8c1546a7a146f79d5f/robot_camera_cute_gpt.png?w=300\u0026q=30",
+        "alt": "OpenAI's GPT Image 1.5 challenges Google at enterprise-grade visuals",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Why Reinforcement Fine-Tuning Enables MLLMs Preserve Prior Knowledge Better: A Data Perspective",
+      "url": "https://arxiv.org/abs/2506.23508"
+    },
+    {
+      "text": "Accelerating MHC-II Epitope Discovery via Multi-Scale Prediction in Antigen Presentation",
+      "url": "https://arxiv.org/abs/2512.14011"
+    },
+    {
+      "text": "Improvement of AMPs Identification with Generative Adversarial Network and Ensemble Classification",
+      "url": "https://arxiv.org/abs/2506.01983"
+    },
+    {
+      "text": "Layer-wise Weight Selection for Power-Efficient Neural Network Acceleration",
+      "url": "https://arxiv.org/abs/2511.17123"
+    },
+    {
+      "text": "A Single Architecture for Representing Invariance Under Any Space Group",
+      "url": "https://arxiv.org/abs/2512.13989"
+    },
+    {
+      "text": "Runtime Analysis of Evolutionary Diversity Optimization on the Multi-objective (LeadingOnes, TrailingZeros) Problem",
+      "url": "https://arxiv.org/abs/2404.11496"
+    },
+    {
+      "text": "Single-Agent Scaling Fails Multi-Agent Intelligence: Towards Foundation Models with Native Multi-Agent Intelligence",
+      "url": "https://arxiv.org/abs/2512.08743"
+    },
+    {
+      "text": "Early Warning Index for Patient Deteriorations in Hospitals",
+      "url": "https://arxiv.org/abs/2512.14683"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Shakespeare, Entropy and Educated Monkeys",
+      "url": "https://arxiv.org/abs/2512.11880"
+    },
+    {
+      "text": "On the Hardness of Conditional Independence Testing In Practice",
+      "url": "https://arxiv.org/abs/2512.14000"
+    },
+    {
+      "text": "One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing",
+      "url": "https://arxiv.org/abs/2512.13892"
+    },
+    {
+      "text": "Enhancing Interpretability for Vision Models via Shapley Value Optimization",
+      "url": "https://arxiv.org/abs/2512.14354"
+    },
+    {
+      "text": "Time-aware UNet and super-resolution deep residual networks for spatial downscaling",
+      "url": "https://arxiv.org/abs/2512.13753"
+    },
+    {
+      "text": "Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study",
+      "url": "https://arxiv.org/abs/2512.14085"
+    },
+    {
+      "text": "Improving the Plausibility of Pressure Distributions Synthesized from Depth through Generative Modeling",
+      "url": "https://arxiv.org/abs/2512.13757"
+    },
+    {
+      "text": "KLO-Net: A Dynamic K-NN Attention U-Net with CSP Encoder for Efficient Prostate Gland Segmentation from MRI",
+      "url": "https://arxiv.org/abs/2512.13902"
+    }
+  ],
+  "lastUpdated": "2025-12-17T06:41:55Z"
+}
