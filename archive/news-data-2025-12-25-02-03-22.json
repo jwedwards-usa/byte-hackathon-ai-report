@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Honorable AI",
+    "url": "https://www.lesswrong.com/posts/fomeRa4syzwGsgW2D/honorable-ai-1"
+  },
+  "topStories": [
+    {
+      "text": "Catch-Up Algorithmic Progress Might Actually be 60× per Year",
+      "url": "https://www.lesswrong.com/posts/yXLqrpfFwBW5knpgc/catch-up-algorithmic-progress-might-actually-be-60-per-year"
+    },
+    {
+      "text": "Deep Learning and Machine Learning -- Python Data Structures and Mathematics Fundamental: From Theory to Practice",
+      "url": "https://arxiv.org/abs/2410.19849"
+    },
+    {
+      "text": "OpenAI admits prompt injection is here to stay as enterprises lag on defenses",
+      "url": "https://venturebeat.com/security/openai-admits-that-prompt-injection-is-here-to-stay"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming",
+      "url": "https://arxiv.org/abs/2409.19916"
+    },
+    {
+      "text": "Immunodeficiency to Parasitic AI",
+      "url": "https://www.lesswrong.com/posts/SY6giJbajYJ8NXucx/immunodeficiency-to-parasitic-ai"
+    },
+    {
+      "text": "Pretrained Battery Transformer (PBT): A battery life prediction foundation model",
+      "url": "https://arxiv.org/abs/2512.16334"
+    },
+    {
+      "text": "ODYSSEUS: JAILBREAKING COMMERCIAL MULTIMODAL LLM-INTEGRATED SYSTEMS VIA DUAL STEGANOGRAPHY",
+      "url": "https://arxiv.org/abs/2512.20168"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Trend Extrapolation for Technology Forecasting: Leveraging LSTM Neural Networks for Trend Analysis of Space Exploration Vessels",
+      "url": "https://arxiv.org/abs/2512.19727"
+    },
+    {
+      "text": "Explainable deep learning improves human mental models of self-driving cars",
+      "url": "https://arxiv.org/abs/2411.18714"
+    },
+    {
+      "text": "Brain-Grounded Axes for Reading and Steering LLM States",
+      "url": "https://arxiv.org/abs/2512.19399"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Chemically-Informed Machine Learning Approach for Prediction of Reactivity Ratios in Radical Copolymerization",
+      "url": "https://arxiv.org/abs/2512.19715"
+    },
+    {
+      "text": "Equivalence of Context and Parameter Updates in Modern Transformer Blocks",
+      "url": "https://arxiv.org/abs/2511.17864"
+    },
+    {
+      "text": "Dialectics for Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2512.17373"
+    },
+    {
+      "text": "Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks",
+      "url": "https://arxiv.org/abs/2401.15894"
+    },
+    {
+      "text": "Reliable LLM-Based Edge-Cloud-Expert Cascades for Telecom Knowledge Systems",
+      "url": "https://arxiv.org/abs/2512.20012"
+    },
+    {
+      "text": "FP=xINT:Representing Neural Networks via Low-Bit Series Basis Functions",
+      "url": "https://arxiv.org/abs/2412.06865"
+    },
+    {
+      "text": "AXIOM: Benchmarking LLM-as-a-Judge for Code via Rule-Based Perturbation and Multisource Quality Calibration",
+      "url": "https://arxiv.org/abs/2512.20159"
+    },
+    {
+      "text": "Shallow Neural Networks Learn Low-Degree Spherical Polynomials with Learnable Channel Attention",
+      "url": "https://arxiv.org/abs/2512.20562"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Diffusion Self-Weighted Guidance for Offline Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2505.18345"
+    },
+    {
+      "text": "DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations",
+      "url": "https://arxiv.org/abs/2506.09349"
+    },
+    {
+      "text": "On-device Large Multi-modal Agent for Human Activity Recognition",
+      "url": "https://arxiv.org/abs/2512.19742"
+    },
+    {
+      "text": "Multi-Agent Intelligence for Multidisciplinary Decision-Making in Gastrointestinal Oncology",
+      "url": "https://arxiv.org/abs/2512.08674"
+    },
+    {
+      "text": "DramaBench: A Six-Dimensional Evaluation Framework for Drama Script Continuation",
+      "url": "https://arxiv.org/abs/2512.19012"
+    },
+    {
+      "text": "AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards",
+      "url": "https://arxiv.org/abs/2512.19126"
+    },
+    {
+      "text": "OASI: Objective-Aware Surrogate Initialization for Multi-Objective Bayesian Optimization in TinyML Keyword Spotting",
+      "url": "https://arxiv.org/abs/2512.19739"
+    },
+    {
+      "text": "On Structured State-Space Duality",
+      "url": "https://arxiv.org/abs/2510.04944"
+    }
+  ],
+  "lastUpdated": "2025-12-25T02:03:22Z"
+}
