@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Introducing the XLab AI Security Guide",
+    "url": "https://www.lesswrong.com/posts/95DXi2Wivs4v65evz/introducing-the-xlab-ai-security-guide"
+  },
+  "topStories": [
+    {
+      "text": "Moving Goalposts: Modern Transformer Based Agents Have Been Weak ASI For A Bit Now",
+      "url": "https://www.lesswrong.com/posts/7z7gyTwjDazvW7KYK/moving-goalposts-modern-transformer-based-agents-have-been"
+    },
+    {
+      "text": "The enterprise voice AI split: Why architecture — not model quality — defines your compliance posture ",
+      "url": "https://venturebeat.com/security/the-enterprise-voice-ai-split-why-architecture-not-model-quality-defines",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/1mxFBOFNzUTndabeP1y0h0/913e95cac7d3f5f8b357701893fd5e47/cruey3_Editorial_illustration_showing_a_split_between_two_ent_641822ed-fc12-46d1-908f-ddfefd9f0556_2.png?w=300\u0026q=30",
+        "alt": "The enterprise voice AI split: Why architecture — not model quality — defines your compliance posture ",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Jailbreaks Peak Early, Then Drop: Layer Trajectories in Llama-3.1-70B",
+      "url": "https://www.lesswrong.com/posts/gEbrJ5poyaajdDQAx/jailbreaks-peak-early-then-drop-layer-trajectories-in-llama"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Uploaded Human Intelligence",
+      "url": "https://www.lesswrong.com/posts/HQjExpjZrrjBEi7xZ/uploaded-human-intelligence"
+    },
+    {
+      "text": "A new way to extract detailed transcripts from Claude Code",
+      "url": "https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "How Rob Pike got spammed with an AI slop \"act of kindness\"",
+      "url": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything"
+    },
+    {
+      "text": "Sam Altman is hiring someone to worry about the dangers of AI",
+      "url": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness"
+    },
+    {
+      "text": "Why CIOs must lead AI experimentation, not just govern it",
+      "url": "https://venturebeat.com/technology/why-cios-must-lead-ai-experimentation-not-just-govern-it",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/53sUK4hpj3WL1QmYw4jBgP/c2a81838e6bc1a5712a5a5331755e5a8/CIOs.png?w=300\u0026q=30",
+        "alt": "Why CIOs must lead AI experimentation, not just govern it",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Pluribus training data",
+      "url": "https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything"
+    },
+    {
+      "text": "Glucose Supplementation for Sustained Stimulant Cognition",
+      "url": "https://www.lesswrong.com/posts/rA7wMkH3JdMRgdgLo/glucose-supplementation-for-sustained-stimulant-cognition"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Team Shard: Alignment Mentorship from TurnTrout and Alex Cloud",
+      "url": "https://www.alignmentforum.org/posts/hgoj2WAwLwn3qWLuc/team-shard-alignment-mentorship-from-turntrout-and-alex"
+    },
+    {
+      "text": "Measuring no CoT math time horizon (single forward pass)",
+      "url": "https://www.alignmentforum.org/posts/Ty5Bmg7P6Tciy2uj2/measuring-no-cot-math-time-horizon-single-forward-pass"
+    },
+    {
+      "text": "How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard",
+      "url": "https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/"
+    },
+    {
+      "text": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything"
+    },
+    {
+      "text": "The paints, coatings, and chemicals making the world a cooler place",
+      "url": "https://www.technologyreview.com/2025/12/26/1129301/paint-coating-chemicals-materials-cooling-air-conditioning/"
+    },
+    {
+      "text": "How uv got so fast",
+      "url": "https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything"
+    },
+    {
+      "text": "Enhance Funding Applications: Share Utility Function Over Money (+Tool)",
+      "url": "https://www.lesswrong.com/posts/9sQXG6yC9p9W3mKci/enhance-funding-applications-share-utility-function-over"
+    },
+    {
+      "text": "Wanted: Advice for College Students on Weathering the Storm",
+      "url": "https://www.lesswrong.com/posts/e9pt8DgH3cG5Zc3xf/wanted-advice-for-college-students-on-weathering-the-storm"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MIT Technology Review’s most popular stories of 2025",
+      "url": "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/"
+    },
+    {
+      "text": "Shared Houses Illegal?",
+      "url": "https://www.lesswrong.com/posts/edeZsjzM9B6d278GA/shared-houses-illegal"
+    },
+    {
+      "text": "Exploring TabPFN: A Foundation Model Built for Tabular Data",
+      "url": "https://towardsdatascience.com/exploring-tabpfn-a-foundation-model-built-for-tabular-data/"
+    },
+    {
+      "text": "How IntelliNode Automates Complex Workflows with Vibe Agents",
+      "url": "https://towardsdatascience.com/agents-that-write-agents/"
+    },
+    {
+      "text": "textarea.my on GitHub",
+      "url": "https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything"
+    },
+    {
+      "text": "Thoughts on epistemic virtue in science",
+      "url": "https://www.lesswrong.com/posts/tQDEdyGFvjkGfrcDp/thoughts-on-epistemic-virtue-in-science"
+    },
+    {
+      "text": "Trump’s war on offshore wind faces another lawsuit",
+      "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center"
+    },
+    {
+      "text": "Training a Model on Multiple GPUs with Data Parallelism",
+      "url": "https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/"
+    }
+  ],
+  "lastUpdated": "2025-12-27T21:25:08Z"
+}
