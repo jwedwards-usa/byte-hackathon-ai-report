@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The Weakest Model in the Selector",
+    "url": "https://www.lesswrong.com/posts/JzLa7ftrPphGahCKt/the-weakest-model-in-the-selector"
+  },
+  "topStories": [
+    {
+      "text": "PrincInt (PIBBSS) Opportunities: Summer Fellowship, Postdoc, and Ops Role (Deadlines in January)",
+      "url": "https://www.lesswrong.com/posts/JsTGywm7YdJTzb3JK/princint-pibbss-opportunities-summer-fellowship-postdoc-and"
+    },
+    {
+      "text": "OmniBrainBench: A Comprehensive Multimodal Benchmark for Brain Imaging Analysis Across Multi-stage Clinical Tasks",
+      "url": "https://arxiv.org/abs/2511.00846"
+    },
+    {
+      "text": "BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training",
+      "url": "https://arxiv.org/abs/2510.25244"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Research agenda for training aligned AIs using concave utility functions following the principles of homeostasis and diminishing returns",
+      "url": "https://www.lesswrong.com/posts/9hWgJQK8wnpuFtD5Z/research-agenda-for-training-aligned-ais-using-concave"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers",
+      "url": "https://arxiv.org/abs/2512.21709"
+    },
+    {
+      "text": "RefactorCoderQA: Benchmarking LLMs for Multi-Domain Coding Question Solutions in Cloud and Edge Deployment",
+      "url": "https://arxiv.org/abs/2509.10436"
+    },
+    {
+      "text": "Multiconnectivity for SAGIN: Current Trends, Challenges, AI-driven Solutions, and Opportunities",
+      "url": "https://arxiv.org/abs/2512.21717"
+    },
+    {
+      "text": "Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2512.19920"
+    },
+    {
+      "text": "A Comparison of DeepSeek and Other LLMs",
+      "url": "https://arxiv.org/abs/2502.03688"
+    },
+    {
+      "text": "Explainable Statute Prediction via Attention-based Model and LLM Prompting",
+      "url": "https://arxiv.org/abs/2512.21902"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "HWL-HIN: A Hypergraph-Level Hypergraph Isomorphism Network as Powerful as the Hypergraph Weisfeiler-Lehman Test with Application to Higher-Order Network Robustness",
+      "url": "https://arxiv.org/abs/2512.22014"
+    },
+    {
+      "text": "Human-AI Interaction Alignment: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures",
+      "url": "https://arxiv.org/abs/2512.21551"
+    },
+    {
+      "text": "MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles",
+      "url": "https://arxiv.org/abs/2512.21708"
+    },
+    {
+      "text": "Accelerating Training Speed of Tiny Recursive Models with Curriculum Guided Adaptive Recursion",
+      "url": "https://arxiv.org/abs/2511.08653"
+    },
+    {
+      "text": "Adaptive Focus Memory for Language Models",
+      "url": "https://arxiv.org/abs/2511.12712"
+    },
+    {
+      "text": "Efficient MoE Inference with Fine-Grained Scheduling of Disaggregated Expert Parallelism",
+      "url": "https://arxiv.org/abs/2512.21487"
+    },
+    {
+      "text": "Object-Centric World Models for Causality-Aware Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2511.14262"
+    },
+    {
+      "text": "Learning to Reconfigure: Using Device Status to Select the Right Constrained Coding Scheme",
+      "url": "https://arxiv.org/abs/2512.21396"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Reflection-Driven Control for Trustworthy Code Agents",
+      "url": "https://arxiv.org/abs/2512.21354"
+    },
+    {
+      "text": "Scalable Deep Subspace Clustering Network",
+      "url": "https://arxiv.org/abs/2512.21434"
+    },
+    {
+      "text": "Cerberus: Multi-Agent Reasoning and Coverage-Guided Exploration for Static Detection of Runtime Errors",
+      "url": "https://arxiv.org/abs/2512.21431"
+    },
+    {
+      "text": "Advancing Expert Specialization for Better MoE",
+      "url": "https://arxiv.org/abs/2505.22323"
+    },
+    {
+      "text": "TCM-Eval: An Expert-Level Dynamic and Extensible Benchmark for Traditional Chinese Medicine",
+      "url": "https://arxiv.org/abs/2511.07148"
+    },
+    {
+      "text": "Exploration of Reproducible Generated Image Detection",
+      "url": "https://arxiv.org/abs/2512.21562"
+    },
+    {
+      "text": "Straussian Memetics: A Lens On Techniques For Mass Persuasion",
+      "url": "https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memetics-a-lens-on-techniques-for-mass-persuasion"
+    },
+    {
+      "text": "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
+      "url": "https://arxiv.org/abs/2512.02080"
+    }
+  ],
+  "lastUpdated": "2025-12-29T12:57:32Z"
+}
