@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The Weakest Model in the Selector",
+    "url": "https://www.lesswrong.com/posts/JzLa7ftrPphGahCKt/the-weakest-model-in-the-selector"
+  },
+  "topStories": [
+    {
+      "text": "December 2025 Links ",
+      "url": "https://www.lesswrong.com/posts/E9gXRr56yaj2sDzwg/december-2025-links"
+    },
+    {
+      "text": "OmniBrainBench: A Comprehensive Multimodal Benchmark for Brain Imaging Analysis Across Multi-stage Clinical Tasks",
+      "url": "https://arxiv.org/abs/2511.00846"
+    },
+    {
+      "text": "BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training",
+      "url": "https://arxiv.org/abs/2510.25244"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Train Your Large Model on Multiple GPUs with Pipeline Parallelism",
+      "url": "https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/"
+    },
+    {
+      "text": "The latest AI news we announced in December",
+      "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/"
+    },
+    {
+      "text": "Multiconnectivity for SAGIN: Current Trends, Challenges, AI-driven Solutions, and Opportunities",
+      "url": "https://arxiv.org/abs/2512.21717"
+    },
+    {
+      "text": "Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2512.19920"
+    },
+    {
+      "text": "Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers",
+      "url": "https://arxiv.org/abs/2512.21709"
+    },
+    {
+      "text": "A Comparison of DeepSeek and Other LLMs",
+      "url": "https://arxiv.org/abs/2502.03688"
+    },
+    {
+      "text": "RefactorCoderQA: Benchmarking LLMs for Multi-Domain Coding Question Solutions in Cloud and Edge Deployment",
+      "url": "https://arxiv.org/abs/2509.10436"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The x-risk case for exercise: to have the most impact, the world needs you at your best",
+      "url": "https://www.lesswrong.com/posts/4dix5tahHhDiT22ZM/the-x-risk-case-for-exercise-to-have-the-most-impact-the"
+    },
+    {
+      "text": "How to Facilitate Effective AI Programming",
+      "url": "https://towardsdatascience.com/how-to-faciliate-for-effective-ai-programming/"
+    },
+    {
+      "text": "fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding",
+      "url": "https://arxiv.org/abs/2511.21760"
+    },
+    {
+      "text": "DiEC: Diffusion Embedded Clustering",
+      "url": "https://arxiv.org/abs/2512.20905"
+    },
+    {
+      "text": "Scaling Adversarial Training via Data Selection",
+      "url": "https://arxiv.org/abs/2512.22069"
+    },
+    {
+      "text": "Why Smooth Stability Assumptions Fail for ReLU Learning",
+      "url": "https://arxiv.org/abs/2512.22055"
+    },
+    {
+      "text": "Efficient MoE Inference with Fine-Grained Scheduling of Disaggregated Expert Parallelism",
+      "url": "https://arxiv.org/abs/2512.21487"
+    },
+    {
+      "text": "Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem",
+      "url": "https://arxiv.org/abs/2507.21386"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "META-LEARNING-BASED HANDOVER MANAGEMENT IN NEXTG O-RAN",
+      "url": "https://arxiv.org/abs/2512.22022"
+    },
+    {
+      "text": "MAD-NG: Meta-Auto-Decoder Neural Galerkin Method for Solving Parametric Partial Differential Equations",
+      "url": "https://arxiv.org/abs/2512.21633"
+    },
+    {
+      "text": "Semiparametric Preference Optimization: Your Language Model is Secretly a Single-Index Model",
+      "url": "https://arxiv.org/abs/2512.21917"
+    },
+    {
+      "text": "MMCTOP: A Multimodal Textualization and Mixture-of-Experts Framework for Clinical Trial Outcome Prediction",
+      "url": "https://arxiv.org/abs/2512.21897"
+    },
+    {
+      "text": "Optimizing Resource Allocation for Geographically-Distributed Inference by Large Language Models",
+      "url": "https://arxiv.org/abs/2512.21884"
+    },
+    {
+      "text": "Exploration of Reproducible Generated Image Detection",
+      "url": "https://arxiv.org/abs/2512.21562"
+    },
+    {
+      "text": "Dictionary-Transform Generative Adversarial Networks",
+      "url": "https://arxiv.org/abs/2512.21677"
+    },
+    {
+      "text": "Scalable Deep Subspace Clustering Network",
+      "url": "https://arxiv.org/abs/2512.21434"
+    }
+  ],
+  "lastUpdated": "2025-12-29T21:26:16Z"
+}
