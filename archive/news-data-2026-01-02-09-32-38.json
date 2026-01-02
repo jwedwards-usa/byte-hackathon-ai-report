@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "2025: The year in LLMs",
+    "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything"
+  },
+  "topStories": [
+    {
+      "text": "2025 in AI predictions",
+      "url": "https://www.lesswrong.com/posts/69qnNx8S7wkSKXJFY/2025-in-ai-predictions"
+    },
+    {
+      "text": "College Was Not That Terrible Now That I'm Not That Crazy",
+      "url": "https://www.lesswrong.com/posts/hHEvfp7kwvaHwgcdH/college-was-not-that-terrible-now-that-i-m-not-that-crazy"
+    },
+    {
+      "text": "Four AI research trends enterprise teams should watch in 2026",
+      "url": "https://venturebeat.com/technology/four-ai-research-trends-enterprise-teams-should-watch-in-2026"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Debunking claims about subquadratic attention",
+      "url": "https://www.lesswrong.com/posts/kpSXeMcthtHgnwMx3/debunking-claims-about-subquadratic-attention"
+    },
+    {
+      "text": "Principled Interpretability of Reward Hacking in Closed Frontier Models",
+      "url": "https://www.alignmentforum.org/posts/A67SbpTjuXEHK8Cvo/principled-interpretability-of-reward-hacking-in-closed"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "AI Futures Timelines and Takeoff Model: Dec 2025 Update",
+      "url": "https://www.alignmentforum.org/posts/YABG5JmztGGPwNFq2/ai-futures-timelines-and-takeoff-model-dec-2025-update"
+    },
+    {
+      "text": "December 2025 sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Jan/2/december/#atom-everything"
+    },
+    {
+      "text": "Who is responsible for shutting down rogue AI?",
+      "url": "https://www.lesswrong.com/posts/RFmEvo6WfZTdB544A/who-is-responsible-for-shutting-down-rogue-ai"
+    },
+    {
+      "text": "Open source Qwen-Image-2512 launches to compete with Google's Nano Banana Pro in high quality AI image generation",
+      "url": "https://venturebeat.com/technology/open-source-qwen-image-2512-launches-to-compete-with-googles-nano-banana-pro",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3nh0udM8PXiBZTLMRhFdC9/6f049ddee65951d098ee322efbf0265d/1767215299__1_.png?w=300\u0026q=30",
+        "alt": "Open source Qwen-Image-2512 launches to compete with Google's Nano Banana Pro in high quality AI image generation",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The bio-pirate's guide to GLP-1 agonists\n",
+      "url": "https://www.lesswrong.com/posts/coLiSHpP338Xwibbp/the-bio-pirate-s-guide-to-glp-1-agonists"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Codex cloud is now called Codex web",
+      "url": "https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything"
+    },
+    {
+      "text": "Quoting Ben Werdmuller",
+      "url": "https://simonwillison.net/2026/Jan/2/ben-werdmuller/#atom-everything"
+    },
+    {
+      "text": "The Machine Learning “Advent Calendar” Bonus 2: Gradient Descent Variants in Excel",
+      "url": "https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-2-gradient-descent-variants-in-excel/"
+    },
+    {
+      "text": "Split (Part 1)",
+      "url": "https://www.lesswrong.com/posts/FKoWZkwnv9PdBKC8R/split-part-1"
+    },
+    {
+      "text": "Introducing gisthost.github.io",
+      "url": "https://simonwillison.net/2026/Jan/1/gisthost/#atom-everything"
+    },
+    {
+      "text": "$500 Write like lsusr competition - Results",
+      "url": "https://www.lesswrong.com/posts/nDiijZnPaLZdTttS3/usd500-write-like-lsusr-competition-results"
+    },
+    {
+      "text": "Overwhelming Superintelligence",
+      "url": "https://www.lesswrong.com/posts/64RAfxjgxnHfFhbh5/overwhelming-superintelligence"
+    },
+    {
+      "text": "Reducing MDMA neurotoxicity",
+      "url": "https://www.lesswrong.com/posts/f6j72RCcfAa7bRq4o/reducing-mdma-neurotoxicity"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Build a Deep Learning Library",
+      "url": "https://zekcrates.quarto.pub/deep-learning-library/"
+    },
+    {
+      "text": "Train Your Large Model on Multiple GPUs with Tensor Parallelism",
+      "url": "https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-tensor-parallelism/"
+    },
+    {
+      "text": "Production-Ready LLMs Made Simple with the NeMo Agent Toolkit",
+      "url": "https://towardsdatascience.com/production-ready-llms-made-simple-with-nemo-agent-toolkit/"
+    },
+    {
+      "text": "Why inventing new emotions feels so good",
+      "url": "https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/"
+    },
+    {
+      "text": "EDA in Public (Part 3): RFM Analysis for Customer Segmentation in Pandas",
+      "url": "https://towardsdatascience.com/eda-in-public-part-3-rfm-analysis-for-customer-segmentation-in-pandas/"
+    },
+    {
+      "text": "Deep Reinforcement Learning: The Actor-Critic Method",
+      "url": "https://towardsdatascience.com/deep-reinforcement-learning-the-actor-critic-method/"
+    },
+    {
+      "text": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
+      "url": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram"
+    },
+    {
+      "text": "What Advent of Code Has Taught Me About Data Science",
+      "url": "https://towardsdatascience.com/what-advent-of-code-has-taught-me-about-data-science/"
+    }
+  ],
+  "lastUpdated": "2026-01-02T09:32:38Z"
+}
