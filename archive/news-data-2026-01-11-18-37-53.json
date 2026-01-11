@@ -1,0 +1,147 @@
+{
+  "mainHeadline": {
+    "text": "Should the AI Safety Community Prioritize Safety Cases?",
+    "url": "https://www.lesswrong.com/posts/j5XBfcDxLnFTbe9np/should-the-ai-safety-community-prioritize-safety-cases"
+  },
+  "topStories": [
+    {
+      "text": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
+      "url": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/6Hhc39ApUGLrUtrCer8FkW/3e14e40718b84e4364ce7136a444b9a5/Gemini_Generated_Image_qj0p4kqj0p4kqj0p.png?w=300\u0026q=30",
+        "alt": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
+      "url": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/2xoHRN3zObBBPoj4Q6g1BB/252e8dcdf84db736d445bd5202bbcf20/crimedy7_illustration_of_a_robot_orchestra_abstract_--ar_169__c115b42c-004a-4563-b055-bc4a5faa08c6_0.png?w=300\u0026q=30",
+        "alt": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "5 Important Considerations for Personal Donations",
+      "url": "https://www.lesswrong.com/posts/wauttwpoTt6uo8kKq/5-important-considerations-for-personal-donations"
+    },
+    {
+      "text": "We need a better way to evaluate emergent misalignment",
+      "url": "https://www.lesswrong.com/posts/XC28DmEYPLqfwc8tf/we-need-a-better-way-to-evaluate-emergent-misalignment"
+    },
+    {
+      "text": "Why AIs aren't power-seeking yet",
+      "url": "https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet"
+    },
+    {
+      "text": "The Case Against Continuous Chain-of-Thought (Neuralese)",
+      "url": "https://www.lesswrong.com/posts/ynC26Z2CJXsqj6ZnZ/the-case-against-continuous-chain-of-thought-neuralese"
+    },
+    {
+      "text": "Stretch Hatchback",
+      "url": "https://www.lesswrong.com/posts/KE7ZFF7nn5dBimjJp/stretch-hatchback"
+    },
+    {
+      "text": "GOOGLE’S AI INBOX COULD BE A GLIMPSE OF GMAIL’S FUTURE",
+      "url": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on"
+    },
+    {
+      "text": "Automatic Prompt Optimization for Multimodal Vision Agents: A Self-Driving Car Example",
+      "url": "https://towardsdatascience.com/automatic-prompt-optimization-for-multimodal-vision-agents-a-self-driving-car-example/"
+    },
+    {
+      "text": "Theoretical predictions on the sample efficiency of\ntraining policies and activation monitors",
+      "url": "https://www.lesswrong.com/posts/oHAGT7cGMjh9fGwYN/theoretical-predictions-on-the-sample-efficiency-of-training"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time",
+      "url": "https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything"
+    },
+    {
+      "text": "LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question"
+    },
+    {
+      "text": "Show HN: Play poker with LLMs, or watch them play against each other",
+      "url": "https://llmholdem.com/"
+    },
+    {
+      "text": "Why your LLM bill is exploding — and how semantic caching can cut it by 73%",
+      "url": "https://venturebeat.com/orchestration/why-your-llm-bill-is-exploding-and-how-semantic-caching-can-cut-it-by-73",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7iyQoeSwdOqqpfcE0PFWgF/48db7d0305019eee107028d9f018d2ac/Semantic_caching.png?w=300\u0026q=30",
+        "alt": "Why your LLM bill is exploding — and how semantic caching can cut it by 73%",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Use multiple models",
+      "url": "https://www.interconnects.ai/p/use-multiple-models",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/f78b23a6-37cf-4e9d-a300-75676b34a14e_2848x1504.jpeg",
+        "alt": "Use multiple models",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Coding Agents As An Interface To The Codebase",
+      "url": "https://www.lesswrong.com/posts/SM2Fr54AvBYQLmi9D/coding-agents-as-an-interface-to-the-codebase"
+    },
+    {
+      "text": "Possible Principles of Superagency",
+      "url": "https://www.lesswrong.com/posts/bjqyzJBTY3sMAyAQr/possible-principles-of-superagency"
+    },
+    {
+      "text": "CHATGPT HEALTH IS A MARKETPLACE, GUESS WHO IS THE PRODUCT?",
+      "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "GOOGLE: DON'T MAKE \"BITE-SIZED\" CONTENT FOR LLMS",
+      "url": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/"
+    },
+    {
+      "text": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything"
+    },
+    {
+      "text": "A Software Library with No Code",
+      "url": "https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything"
+    },
+    {
+      "text": "Federated Learning, Part 1: The Basics of Training Models Where the Data Lives",
+      "url": "https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/"
+    },
+    {
+      "text": "AI is coming for collectibles next",
+      "url": "https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026"
+    },
+    {
+      "text": "The latest on Grok’s gross AI deepfakes problem",
+      "url": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes"
+    },
+    {
+      "text": "Creating Embroidered Charts with R and ImageMagick",
+      "url": "https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick"
+    },
+    {
+      "text": "Meta expands nuclear power ambitions to include Bill Gates’ startup",
+      "url": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers"
+    }
+  ],
+  "lastUpdated": "2026-01-11T18:37:53Z"
+}
