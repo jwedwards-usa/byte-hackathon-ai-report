@@ -1,0 +1,153 @@
+{
+  "mainHeadline": {
+    "text": "THE 11 RUNTIME ATTACKS BREAKING AI SECURITY — AND HOW CISOS ARE STOPPING THEM",
+    "url": "https://venturebeat.com/security/ciso-inference-security-platforms-11-runtime-attacks-2026",
+    "image": {
+      "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5YPc3f1FSYmKp3BvOfcdXN/596eeec5b850be7ae91d7723ad0d247a/HERO_2.png?w=300\u0026q=30",
+      "alt": "The 11 runtime attacks breaking AI security — and how CISOs are stopping them",
+      "width": 600,
+      "height": 400
+    }
+  },
+  "topStories": [
+    {
+      "text": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
+      "url": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/6Hhc39ApUGLrUtrCer8FkW/3e14e40718b84e4364ce7136a444b9a5/Gemini_Generated_Image_qj0p4kqj0p4kqj0p.png?w=300\u0026q=30",
+        "alt": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
+      "url": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/2xoHRN3zObBBPoj4Q6g1BB/252e8dcdf84db736d445bd5202bbcf20/crimedy7_illustration_of_a_robot_orchestra_abstract_--ar_169__c115b42c-004a-4563-b055-bc4a5faa08c6_0.png?w=300\u0026q=30",
+        "alt": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Theoretical predictions on the sample efficiency of\ntraining policies and activation monitors",
+      "url": "https://www.lesswrong.com/posts/oHAGT7cGMjh9fGwYN/theoretical-predictions-on-the-sample-efficiency-of-training"
+    },
+    {
+      "text": "If AI alignment is only as hard as building the steam engine, then we likely still die",
+      "url": "https://www.lesswrong.com/posts/WkEAcTNHHHk97nT4d/if-ai-alignment-is-only-as-hard-as-building-the-steam-engine"
+    },
+    {
+      "text": "A Proposal for a Better ARENA: Shifting from Teaching to Research Sprints",
+      "url": "https://www.lesswrong.com/posts/6zuNmMMtzQg3natAF/a-proposal-for-a-better-arena-shifting-from-teaching-to"
+    },
+    {
+      "text": "Finding high signal people - applying PageRank to Twitter",
+      "url": "https://www.lesswrong.com/posts/s5PwfyRFrGFaZFevW/finding-high-signal-people-applying-pagerank-to-twitter-1"
+    },
+    {
+      "text": "OPENAI AND SOFTBANK GROUP PARTNER WITH SB ENERGY",
+      "url": "https://openai.com/index/stargate-sb-energy-partnership"
+    },
+    {
+      "text": "Possible Principles of Superagency",
+      "url": "https://www.lesswrong.com/posts/bjqyzJBTY3sMAyAQr/possible-principles-of-superagency"
+    },
+    {
+      "text": "Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time",
+      "url": "https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything"
+    },
+    {
+      "text": "A Software Library with No Code",
+      "url": "https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The Download: the case for AI slop, and helping CRISPR fulfill its promise",
+      "url": "https://www.technologyreview.com/2026/01/09/1130953/the-download-the-case-for-ai-slop-and-helping-crispr-fulfill-its-promise/"
+    },
+    {
+      "text": "3 Questions: How AI could optimize the power grid",
+      "url": "https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109"
+    },
+    {
+      "text": "Federated Learning, Part 1: The Basics of Training Models Where the Data Lives",
+      "url": "https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/"
+    },
+    {
+      "text": "AI Incident Forecasting",
+      "url": "https://www.lesswrong.com/posts/XhhzDYEJ3huiKhEku/ai-incident-forecasting"
+    },
+    {
+      "text": "CHATGPT HEALTH IS A MARKETPLACE, GUESS WHO IS THE PRODUCT?",
+      "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/"
+    },
+    {
+      "text": "AI is coming for collectibles next",
+      "url": "https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026"
+    },
+    {
+      "text": "The latest on Grok’s gross AI deepfakes problem",
+      "url": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes"
+    },
+    {
+      "text": "Baldur’s Gate 3 studio says it won’t use AI for concept art or writing",
+      "url": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "The false confidence theorem and Bayesian reasoning",
+      "url": "https://www.lesswrong.com/posts/HjbsjnutKE9xbXBwz/the-false-confidence-theorem-and-bayesian-reasoning"
+    },
+    {
+      "text": "Are there any extremely strong arguments that Acausal extortion is ineffective?",
+      "url": "https://www.lesswrong.com/posts/p6rE3i2TEhEnozu4K/are-there-any-extremely-strong-arguments-that-acausal"
+    },
+    {
+      "text": "Claude Code Hits Different",
+      "url": "https://www.interconnects.ai/p/claude-code-hits-different",
+      "image": {
+        "src": "https://substackcdn.com/image/fetch/$s_!Hej0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05a7d574-6449-4880-8331-cb5ce753b489_3008x2036.png",
+        "alt": "Claude Code Hits Different",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Kagi releases alpha version of Orion for Linux",
+      "url": "https://help.kagi.com/orion/misc/linux-status.html"
+    },
+    {
+      "text": "How KPMG is redefining the future of SAP consulting on a global scale",
+      "url": "https://venturebeat.com/orchestration/how-kpmg-is-redefining-the-future-of-sap-consulting-on-a-global-scale",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/6UQ2SiBye4CSasKjYibD2j/b01d3093d5d10f1abf3707bb49baa52c/AdobeStock_493462703.jpeg?w=300\u0026q=30",
+        "alt": "How KPMG is redefining the future of SAP consulting on a global scale",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Nvidia’s Vera Rubin is months away — Blackwell is getting faster right now",
+      "url": "https://venturebeat.com/infrastructure/nvidias-vera-rubin-is-months-away-blackwell-is-getting-faster-right-now"
+    },
+    {
+      "text": "Creating Embroidered Charts with R and ImageMagick",
+      "url": "https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick"
+    },
+    {
+      "text": "Beyond the Flat Table: Building an Enterprise-Grade Financial Model in Power BI",
+      "url": "https://towardsdatascience.com/beyond-the-flat-table-building-an-enterprise-grade-financial-model-in-power-bi/"
+    }
+  ],
+  "lastUpdated": "2026-01-11T02:15:44Z"
+}
