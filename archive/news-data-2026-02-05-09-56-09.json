@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Apple integrates Anthropic’s Claude and OpenAI’s Codex into Xcode 26.3 in push for ‘agentic coding’",
+    "url": "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push"
+  },
+  "topStories": [
+    {
+      "text": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt"
+    },
+    {
+      "text": "Episodic memory in AI agents poses new safety risks",
+      "url": "https://www.lesswrong.com/posts/BsWXPnr26gJabF7Rf/episodic-memory-in-ai-agents-poses-new-safety-risks"
+    },
+    {
+      "text": "AI-Generated Code Is Not Reproducible (Yet): An Empirical Study of Dependency Gaps in LLM-Based Coding Agents",
+      "url": "https://arxiv.org/abs/2512.22387"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Structural shifts in institutional participation and collaboration within the AI arXiv preprint research ecosystem",
+      "url": "https://arxiv.org/abs/2602.03969"
+    },
+    {
+      "text": "BREAKING THE MOE LLM TRILEMMA: DYNAMIC EXPERT CLUSTERING WITH STRUCTURED COMPRESSION",
+      "url": "https://arxiv.org/abs/2510.02345"
+    },
+    {
+      "text": "Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity",
+      "url": "https://arxiv.org/abs/2602.04162"
+    },
+    {
+      "text": "Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2602.04284"
+    },
+    {
+      "text": "On the use of LLMs to generate a dataset of Neural Networks",
+      "url": "https://arxiv.org/abs/2602.04388"
+    },
+    {
+      "text": "Principles of Lipschitz continuity in neural networks",
+      "url": "https://arxiv.org/abs/2602.04078"
+    },
+    {
+      "text": "When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?",
+      "url": "https://arxiv.org/abs/2602.04755"
+    },
+    {
+      "text": "Toward Multiphysics-Informed Machine Learning for Sustainable Data Center Operations: Intelligence Evolution with Deployable Solutions for Computing Infrastructure",
+      "url": "https://arxiv.org/abs/2505.19414"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Blockchain Federated Learning for Sustainable Retail: Reducing Waste through Collaborative Demand Forecasting",
+      "url": "https://arxiv.org/abs/2602.04384"
+    },
+    {
+      "text": "ReFRAME or Remain: Unsupervised Lexical Semantic Change Detection with Frame Semantics",
+      "url": "https://arxiv.org/abs/2602.04514"
+    },
+    {
+      "text": "Stroke Lesions as a Rosetta Stone for Language Model Interpretability",
+      "url": "https://arxiv.org/abs/2602.04074"
+    },
+    {
+      "text": "Universal Latent Homeomorphic Manifolds: A Framework for Cross-Domain Representation Unification",
+      "url": "https://arxiv.org/abs/2601.09025"
+    },
+    {
+      "text": "Agentic AI-Empowered Dynamic Survey Framework",
+      "url": "https://arxiv.org/abs/2602.04071"
+    },
+    {
+      "text": "Hand Gesture Recognition from Doppler Radar Signals Using Echo State Networks",
+      "url": "https://arxiv.org/abs/2602.04436"
+    },
+    {
+      "text": "Mixture of Masters: Sparse Chess Language Models with Player Routing",
+      "url": "https://arxiv.org/abs/2602.04447"
+    },
+    {
+      "text": "Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems",
+      "url": "https://arxiv.org/abs/2602.04120"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models",
+      "url": "https://arxiv.org/abs/2602.04804"
+    },
+    {
+      "text": "BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models",
+      "url": "https://arxiv.org/abs/2602.04163"
+    },
+    {
+      "text": "Sounding Highlights: Dual-Pathway Audio Encoders for Audio-Visual Video Highlight Detection",
+      "url": "https://arxiv.org/abs/2602.03891"
+    },
+    {
+      "text": "Finding Cruxes: Help Reality Punch You In the Face",
+      "url": "https://www.lesswrong.com/posts/wkDdQrBxoGLqPWh2P/finding-cruxes-help-reality-punch-you-in-the-face"
+    },
+    {
+      "text": "3 Questions: Using AI to accelerate the discovery and design of therapeutic drugs",
+      "url": "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204"
+    },
+    {
+      "text": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
+      "url": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy"
+    },
+    {
+      "text": "The hidden tax of “Franken-stacks” that sabotages AI strategies",
+      "url": "https://venturebeat.com/orchestration/the-hidden-tax-of-franken-stacks-that-sabotages-ai-strategies",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/58YwKHSii6aFW7y6qcmo7S/0eeeefb86415491b1608d41f1d7b150b/AdobeStock_338505208.jpeg?w=300\u0026q=30",
+        "alt": "The hidden tax of “Franken-stacks” that sabotages AI strategies",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "SMART launches new Wearable Imaging for Transforming Elderly Care research group",
+      "url": "https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203"
+    }
+  ],
+  "lastUpdated": "2026-02-05T09:56:09Z"
+}
