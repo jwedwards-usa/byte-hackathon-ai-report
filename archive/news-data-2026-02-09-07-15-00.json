@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "TRAILBLAZER: HISTORY-GUIDED REINFORCEMENT LEARNING FOR BLACK-BOX LLM JAILBREAKING",
+    "url": "https://arxiv.org/abs/2602.06440"
+  },
+  "topStories": [
+    {
+      "text": "Balancing Sustainability And Performance: The Role Of Small-Scale LLMs In Agentic Artificial Intelligence Systems",
+      "url": "https://arxiv.org/abs/2601.19311"
+    },
+    {
+      "text": "VERA-MH: Reliability and Validity of an Open-Source AI Safety Evaluation in Mental Health",
+      "url": "https://arxiv.org/abs/2602.05088"
+    },
+    {
+      "text": "Personality as Relational Infrastructure: User Perceptions of Personality-Trait-Infused LLM Messaging",
+      "url": "https://arxiv.org/abs/2602.06596"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Explainable Transformer-Based Email Phishing Classification with Adversarial Robustness",
+      "url": "https://arxiv.org/abs/2511.12085"
+    },
+    {
+      "text": "How does information access affect LLM monitors' ability to detect sabotage?",
+      "url": "https://arxiv.org/abs/2601.21112"
+    },
+    {
+      "text": "Can Post-Training Transform LLMs into Causal Reasoners?",
+      "url": "https://arxiv.org/abs/2602.06337"
+    },
+    {
+      "text": "MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety",
+      "url": "https://arxiv.org/abs/2602.01539"
+    },
+    {
+      "text": "Accelerating Vision Transformers on Brain Processing Unit",
+      "url": "https://arxiv.org/abs/2602.06300"
+    },
+    {
+      "text": "Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering",
+      "url": "https://arxiv.org/abs/2602.06142"
+    },
+    {
+      "text": "Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs",
+      "url": "https://arxiv.org/abs/2602.05444"
+    },
+    {
+      "text": "Bridging 6G IoT and AI: LLM-Based Efficient Approach for Physical Layer's Optimization Tasks",
+      "url": "https://arxiv.org/abs/2602.06819"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Evolutionary Generation of Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2602.06511"
+    },
+    {
+      "text": "Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?",
+      "url": "https://arxiv.org/abs/2602.06500"
+    },
+    {
+      "text": "High-Dimensional Limit of Stochastic Gradient Flow via Dynamical Mean-Field Theory",
+      "url": "https://arxiv.org/abs/2602.06320"
+    },
+    {
+      "text": "On the Plasticity and Stability for Post-Training Large Language Models",
+      "url": "https://arxiv.org/abs/2602.06453"
+    },
+    {
+      "text": "Steering LLMs via Scalable Interactive Oversight",
+      "url": "https://arxiv.org/abs/2602.04210"
+    },
+    {
+      "text": "A Multiplicative Neural Network Architecture: Locality and Regularity of Appriximation",
+      "url": "https://arxiv.org/abs/2602.06374"
+    },
+    {
+      "text": "Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs",
+      "url": "https://arxiv.org/abs/2602.06920"
+    },
+    {
+      "text": "GraphToxin: Reconstructing Full Unlearned Graphs from Graph Unlearning",
+      "url": "https://arxiv.org/abs/2511.10936"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "UtopiaBench",
+      "url": "https://www.lesswrong.com/posts/a5KkzHcnuDZ3nMdyW/utopiabench"
+    },
+    {
+      "text": "It Is Reasonable To Research How To Use Model Internals In Training",
+      "url": "https://www.lesswrong.com/posts/G9HdpyREaCbFJjKu5/it-is-reasonable-to-research-how-to-use-model-internals-in"
+    },
+    {
+      "text": "AnyThermal: Towards Learning Universal Representations for Thermal Perception",
+      "url": "https://arxiv.org/abs/2602.06203"
+    },
+    {
+      "text": "Endogenous Resistance to Activation Steering in Language Models",
+      "url": "https://arxiv.org/abs/2602.06941"
+    },
+    {
+      "text": "Supercharging Simulation-Based Inference for Bayesian Optimal Experimental Design",
+      "url": "https://arxiv.org/abs/2602.06900"
+    },
+    {
+      "text": "Sample Complexity of Causal Identification with Temporal Heterogeneity",
+      "url": "https://arxiv.org/abs/2602.06899"
+    },
+    {
+      "text": "A Cycle-Consistent Graph Surrogate for Full-Cycle Left Ventricular Myocardial Biomechanics",
+      "url": "https://arxiv.org/abs/2602.06884"
+    },
+    {
+      "text": "Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization",
+      "url": "https://arxiv.org/abs/2602.06880"
+    }
+  ],
+  "lastUpdated": "2026-02-09T07:15:00Z"
+}
