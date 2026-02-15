@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Guys, AI is *literally* a two year old",
+    "url": "https://www.lesswrong.com/posts/Kn9HqHDbhH6DoPvxW/guys-ai-is-literally-a-two-year-old"
+  },
+  "topStories": [
+    {
+      "text": "Contra Alexander's Half-Defence of Bio Anchors",
+      "url": "https://www.lesswrong.com/posts/skCdmej6nWCjmzgDi/contra-alexander-s-half-defence-of-bio-anchors"
+    },
+    {
+      "text": "AXRP Episode 48 - Guive Assadi on AI Property Rights",
+      "url": "https://www.alignmentforum.org/posts/4foFK5Lz65ywSz4eo/axrp-episode-48-guive-assadi-on-ai-property-rights"
+    },
+    {
+      "text": "THE EVOLUTION OF OPENAI'S MISSION STATEMENT",
+      "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "The Friendly Telepath Problems",
+      "url": "https://www.lesswrong.com/posts/np6Sj87HqcoJ7X5in/the-friendly-telepath-problems"
+    },
+    {
+      "text": "I hate my AI pet with every fiber of my being",
+      "url": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet"
+    },
+    {
+      "text": "How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
+      "url": "https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything"
+    },
+    {
+      "text": "AI can’t make good video game worlds yet, and it might never be able to",
+      "url": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie"
+    },
+    {
+      "text": "It's Not That Hard to Build Recursively Self-Improving AI",
+      "url": "https://www.lesswrong.com/posts/HyqYRp5hxsdcfH8W5/it-s-not-that-hard-to-build-recursively-self-improving-ai"
+    },
+    {
+      "text": "Another short critique of the Anthropic \"Hot Mess\" paper",
+      "url": "https://www.lesswrong.com/posts/pkrXGhGqpxnYngghA/another-short-critique-of-the-anthropic-hot-mess-paper"
+    },
+    {
+      "text": "Anthropic's public benefit mission",
+      "url": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Realizability for Finite State Reactive Agents",
+      "url": "https://www.lesswrong.com/posts/uKvnXvC4XaQ4mtDCB/realizability-for-finite-state-reactive-agents"
+    },
+    {
+      "text": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Feb/14/boris/#atom-everything"
+    },
+    {
+      "text": "How to test OpenClaw without giving an autonomous agent shell access to your corporate laptop",
+      "url": "https://venturebeat.com/security/how-to-test-openclaw-without-giving-an-autonomous-agent-shell-access-to-your"
+    },
+    {
+      "text": "Words That Belong to Someone",
+      "url": "https://www.lesswrong.com/posts/cvADabSXJfkQfLMYE/words-that-belong-to-someone-1"
+    },
+    {
+      "text": "Inoculation Prompting: Open Questions and My Research Priorities",
+      "url": "https://www.lesswrong.com/posts/Km28joWnihcGEKirG/inoculation-prompting-open-questions-and-my-research"
+    },
+    {
+      "text": "ALS stole this musician’s voice. AI let him sing again.",
+      "url": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/"
+    },
+    {
+      "text": "Quoting Eric Meyer",
+      "url": "https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything"
+    },
+    {
+      "text": "A beginner’s guide to Tmux: a multitasking superpower for your terminal",
+      "url": "https://towardsdatascience.com/a-beginners-guide-to-tmux-a-multitasking-superpower-for-your-terminal/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "My uncanny AI valentines",
+      "url": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions"
+    },
+    {
+      "text": "What’s behind the mass exodus at xAI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring"
+    },
+    {
+      "text": "Launching Interop 2026",
+      "url": "https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything"
+    },
+    {
+      "text": "GPT-5.2 DERIVES A NEW RESULT IN THEORETICAL PHYSICS",
+      "url": "https://openai.com/index/new-result-theoretical-physics/"
+    },
+    {
+      "text": "Safe YOLO Mode: Running LLM agents in vms with Libvirt and Virsh",
+      "url": "https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-libvirt-and-virsh/"
+    },
+    {
+      "text": "GPT‑5.3‑Codex‑Spark",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/"
+    },
+    {
+      "text": "Flood Fill vs. The Magic Circle",
+      "url": "https://www.robinsloan.com/winter-garden/magic-circle/"
+    },
+    {
+      "text": "Quoting Thoughtworks",
+      "url": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything"
+    }
+  ],
+  "lastUpdated": "2026-02-15T15:34:59Z"
+}
