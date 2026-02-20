@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "AI #156 Part 1: They Do Mean The Effect On Jobs",
+    "url": "https://www.lesswrong.com/posts/jcAombEXyatqGhYeX/ai-156-part-1-they-do-mean-the-effect-on-jobs"
+  },
+  "topStories": [
+    {
+      "text": "AI Researchers and Executives Continue to Underestimate the Near-Future Risks of Open Models",
+      "url": "https://www.lesswrong.com/posts/8BLKroeAMtGPzmxLs/ai-researchers-and-executives-continue-to-underestimate-the"
+    },
+    {
+      "text": "Google Gemini 3.1 Pro first impressions: a 'Deep Think Mini' with adjustable reasoning on demand",
+      "url": "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable"
+    },
+    {
+      "text": "Google launches Gemini 3.1 Pro, retaking AI crown with 2X+ reasoning performance boost",
+      "url": "https://venturebeat.com/technology/google-launches-gemini-3-1-pro-retaking-ai-crown-with-2x-reasoning",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/4WI6UovKEMHNOYRmLhUkWL/7353b15db9e6644396c21abfb95c9f42/odtwyodoZOZvjDt413OWa_05gXxMoM.png?w=300\u0026q=30",
+        "alt": "Google launches Gemini 3.1 Pro, retaking AI crown with 2X+ reasoning performance boost",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "BOUNDARY POINT JAILBREAKING OF BLACK-BOX LLMS",
+      "url": "https://arxiv.org/abs/2602.15001"
+    },
+    {
+      "text": "STEERING DYNAMICAL REGIMES OF DIFFUSION MODELS BY BREAKING DETAILED BALANCE",
+      "url": "https://arxiv.org/abs/2602.15914"
+    },
+    {
+      "text": "Gemini 3.1 Pro",
+      "url": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything"
+    },
+    {
+      "text": "Rapidata emerges to shorten AI model development cycles from months to days with near real-time RLHF ",
+      "url": "https://venturebeat.com/data/rapidata-emerges-to-shorten-ai-model-development-cycles-from-months-to-days"
+    },
+    {
+      "text": "Playing With AI: How Do State-Of-The-Art Large Language Models Perform in the 1977 Text-Based Adventure Game Zork?",
+      "url": "https://arxiv.org/abs/2602.15867"
+    },
+    {
+      "text": "Human-AI Collaboration in Large Language Model-Integrated Building Energy Management Systems: The Role of User Domain Knowledge and AI Literacy",
+      "url": "https://arxiv.org/abs/2602.16140"
+    },
+    {
+      "text": "VERA-MH: Reliability and Validity of an Open-Source AI Safety Evaluation in Mental Health",
+      "url": "https://arxiv.org/abs/2602.05088"
+    },
+    {
+      "text": "Closing the Distribution Gap in Adversarial Training for LLMs",
+      "url": "https://arxiv.org/abs/2602.15238"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/"
+    },
+    {
+      "text": "Personalization features can make LLMs more agreeable",
+      "url": "https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218"
+    },
+    {
+      "text": "How attackers hit 700 organizations through CX platforms your SOC already approved",
+      "url": "https://venturebeat.com/security/cx-security-gaps-ai-stack-blind-spots"
+    },
+    {
+      "text": "The Missing Curriculum: Essential Concepts For Data Scientists in the Age of AI Coding Agents",
+      "url": "https://towardsdatascience.com/the-missing-curriculum-essential-concepts-for-data-scientists-in-the-age-of-ai-coding-agents/"
+    },
+    {
+      "text": "Flamingos (among other things) reduce emergent misalignment",
+      "url": "https://www.lesswrong.com/posts/7uNz6ms6RkTphbovN/flamingos-among-other-things-reduce-emergent-misalignment"
+    },
+    {
+      "text": "Exposing biases, moods, personalities, and abstract concepts hidden in large language models",
+      "url": "https://news.mit.edu/2026/exposing-biases-moods-personalities-hidden-large-language-models-0219"
+    },
+    {
+      "text": "The AI security nightmare is here and it looks suspiciously like lobster",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack"
+    },
+    {
+      "text": "Money no longer matters to AI’s top talent",
+      "url": "https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "World Action Models are Zero-shot Policies",
+      "url": "https://arxiv.org/abs/2602.15922"
+    },
+    {
+      "text": "Color-based Emotion Representation for Speech Emotion Recognition",
+      "url": "https://arxiv.org/abs/2602.16256"
+    },
+    {
+      "text": "Amortized Bayesian Workflow",
+      "url": "https://arxiv.org/abs/2409.04332"
+    },
+    {
+      "text": "Are Object-Centric Representations Better At Compositional Generalization?",
+      "url": "https://arxiv.org/abs/2602.16689"
+    },
+    {
+      "text": "Fly0: Decoupling Semantic Grounding from Geometric Planning for Zero-Shot Aerial Navigation",
+      "url": "https://arxiv.org/abs/2602.15875"
+    },
+    {
+      "text": "Functional Decomposition and Shapley Interactions for Interpreting Survival Models",
+      "url": "https://arxiv.org/abs/2602.16505"
+    },
+    {
+      "text": "Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era",
+      "url": "https://arxiv.org/abs/2602.16018"
+    },
+    {
+      "text": "Heuristic Search as Language-Guided Program Optimization",
+      "url": "https://arxiv.org/abs/2602.16038"
+    }
+  ],
+  "lastUpdated": "2026-02-20T04:55:23Z"
+}
