@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "AI #156 Part 2: Errors in Rhetoric",
+    "url": "https://www.lesswrong.com/posts/obqmuRxwFyy8ziPrB/ai-156-part-2-errors-in-rhetoric"
+  },
+  "topStories": [
+    {
+      "text": "AGI is Here",
+      "url": "https://www.lesswrong.com/posts/XcrgeMWr8E4G3PGxW/agi-is-here"
+    },
+    {
+      "text": "Google Gemini 3.1 Pro first impressions: a 'Deep Think Mini' with adjustable reasoning on demand",
+      "url": "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable"
+    },
+    {
+      "text": "Google launches Gemini 3.1 Pro, retaking AI crown with 2X+ reasoning performance boost",
+      "url": "https://venturebeat.com/technology/google-launches-gemini-3-1-pro-retaking-ai-crown-with-2x-reasoning",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/4WI6UovKEMHNOYRmLhUkWL/7353b15db9e6644396c21abfb95c9f42/odtwyodoZOZvjDt413OWa_05gXxMoM.png?w=300\u0026q=30",
+        "alt": "Google launches Gemini 3.1 Pro, retaking AI crown with 2X+ reasoning performance boost",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Intent Laundering: AI Safety Datasets Are Not What They Seem",
+      "url": "https://arxiv.org/abs/2602.16729"
+    },
+    {
+      "text": "Enhancing Multilingual LLM Pretraining with Model-Based Data Selection",
+      "url": "https://arxiv.org/abs/2502.10361"
+    },
+    {
+      "text": "A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN",
+      "url": "https://arxiv.org/abs/2602.17566"
+    },
+    {
+      "text": "Gemini 3.1 Pro",
+      "url": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything"
+    },
+    {
+      "text": "Why we should expect ruthless sociopath ASI",
+      "url": "https://www.alignmentforum.org/posts/ZJZZEuPFKeEdkrRyf/why-we-should-expect-ruthless-sociopath-asi"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "On Steven Byrnes' ruthless ASI, (dis)analogies with humans and alignment proposals",
+      "url": "https://www.lesswrong.com/posts/YfvJP6h7gjtFqA27J/on-steven-byrnes-ruthless-asi-dis-analogies-with-humans-and"
+    },
+    {
+      "text": "Human Fine-Tuning",
+      "url": "https://www.lesswrong.com/posts/bcLQD5QYMW4Af4sYm/human-fine-tuning-1"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "NeST: Neuron Selective Tuning for LLM Safety",
+      "url": "https://arxiv.org/abs/2602.16835"
+    },
+    {
+      "text": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
+    },
+    {
+      "text": "The 'last-mile' data problem is stalling enterprise agentic AI — 'golden pipelines' aim to fix it",
+      "url": "https://venturebeat.com/data/the-last-mile-data-problem-is-stalling-enterprise-agentic-ai-golden"
+    },
+    {
+      "text": "What it takes to make agentic AI work in retail",
+      "url": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/"
+    },
+    {
+      "text": "AI Impact Summit 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/"
+    },
+    {
+      "text": "“No technology has me dreaming bigger than AI”",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/"
+    },
+    {
+      "text": "Alibaba's Qwen 3.5 397B-A17 beats its larger trillion-parameter model — at a fraction of the cost",
+      "url": "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7KLUCxdexYBxBe7M2ZwlYA/d4fa942fad8cccbccda18459bb6d406b/Gemini_Generated_Image_rmmft9rmmft9rmmf.png?w=300\u0026q=30",
+        "alt": "Alibaba's Qwen 3.5 397B-A17 beats its larger trillion-parameter model — at a fraction of the cost",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The A.I. Disruption We’ve Been Waiting for Has Arrived",
+      "url": "https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Construction of a classification model for dementia among Brazilian adults aged 50 and over",
+      "url": "https://arxiv.org/abs/2602.16887"
+    },
+    {
+      "text": "Exact Certification of Data-Poisoning Attacks Using Mixed-Integer Programming",
+      "url": "https://arxiv.org/abs/2602.16944"
+    },
+    {
+      "text": "Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning",
+      "url": "https://arxiv.org/abs/2602.16947"
+    },
+    {
+      "text": "Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users",
+      "url": "https://arxiv.org/abs/2602.16930"
+    },
+    {
+      "text": "Early-Warning Signals of Grokking via Loss-Landscape Geometry",
+      "url": "https://arxiv.org/abs/2602.16967"
+    },
+    {
+      "text": "RLGT: A reinforcement learning framework for extremal graph theory",
+      "url": "https://arxiv.org/abs/2602.17276"
+    },
+    {
+      "text": "CounterFlowNet: From Minimal Changes to Meaningful Counterfactual Explanations",
+      "url": "https://arxiv.org/abs/2602.17244"
+    },
+    {
+      "text": "Wink: Recovering from Misbehaviors in Coding Agents",
+      "url": "https://arxiv.org/abs/2602.17037"
+    }
+  ],
+  "lastUpdated": "2026-02-20T15:45:39Z"
+}
