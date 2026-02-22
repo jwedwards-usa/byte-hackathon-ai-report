@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Did Claude 3 Opus align itself via gradient hacking?",
+    "url": "https://www.lesswrong.com/posts/ioZxrP7BhS5ArK59w/did-claude-3-opus-align-itself-via-gradient-hacking"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI’s first ChatGPT gadget could be a smart speaker with a camera",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp"
+    },
+    {
+      "text": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt"
+    },
+    {
+      "text": "The Spectre haunting the \"AI Safety\" Community",
+      "url": "https://www.lesswrong.com/posts/LuAmvqjf87qLG9Bdx/the-spectre-haunting-the-ai-safety-community"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "LLMs and Literature: Where Value Actually Comes From",
+      "url": "https://www.lesswrong.com/posts/dKMLjp5WdoX7zmZry/llms-and-literature-where-value-actually-comes-from"
+    },
+    {
+      "text": "If you don't feel deeply confused about AGI risk, something's wrong",
+      "url": "https://www.lesswrong.com/posts/wWArLinjvJqozJT8f/if-you-don-t-feel-deeply-confused-about-agi-risk-something-s"
+    },
+    {
+      "text": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything"
+    },
+    {
+      "text": "Multiple Independent Semantic Axes in Gemma 3 270M",
+      "url": "https://www.lesswrong.com/posts/LgSwswkRi8HHvzvz2/multiple-independent-semantic-axes-in-gemma-3-270m"
+    },
+    {
+      "text": "EXCLUSIVE EBOOK: THE GREAT AL HYPE CORRECTION OF 2025",
+      "url": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/"
+    },
+    {
+      "text": "Ponzi schemes as a demonstration of out-of-distribution generalization",
+      "url": "https://www.lesswrong.com/posts/Kp7SdrqbfYHwJbFkr/ponzi-schemes-as-a-demonstration-of-out-of-distribution"
+    },
+    {
+      "text": "How will we do SFT on models with opaque reasoning?",
+      "url": "https://www.alignmentforum.org/posts/GJTzhQgaRWLFJkPbt/how-will-we-do-sft-on-models-with-opaque-reasoning"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Reporting Tasks as Reward-Hackable: Better Than Inoculation Prompting?",
+      "url": "https://www.lesswrong.com/posts/r97QrSvXEpRLZ9ckb/reporting-tasks-as-reward-hackable-better-than-inoculation"
+    },
+    {
+      "text": "Quoting Thibault Sottiaux",
+      "url": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything"
+    },
+    {
+      "text": "Quoting Thariq Shihipar",
+      "url": "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything"
+    },
+    {
+      "text": "Reader – web scraping that outputs clean Markdown for LLMs",
+      "url": "https://github.com/vakra-dev/reader"
+    },
+    {
+      "text": "How Taalas \"prints\" LLM onto a chip?",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html"
+    },
+    {
+      "text": "Andrej Karpathy talks about \"Claws\"",
+      "url": "https://simonwillison.net/2026/Feb/21/claws/#atom-everything"
+    },
+    {
+      "text": "Adding TILs, releases, museums, tools and research to my blog",
+      "url": "https://simonwillison.net/2026/Feb/20/beats/#atom-everything"
+    },
+    {
+      "text": "Trump is making coal plants even dirtier as AI demands more energy",
+      "url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI",
+      "url": "https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/"
+    },
+    {
+      "text": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+      "url": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/"
+    },
+    {
+      "text": "Job titles of the future: Breast biomechanic",
+      "url": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/"
+    },
+    {
+      "text": "Measles cases are rising. Other vaccine-preventable infections could be next.",
+      "url": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/"
+    },
+    {
+      "text": "LessWrong's goals overlap HowTruthful's",
+      "url": "https://www.lesswrong.com/posts/nD7FwEXEBAw9hGvzh/lesswrong-s-goals-overlap-howtruthful-s"
+    },
+    {
+      "text": "Robert Sapolsky Is Simply Not Talking About Compatibilism",
+      "url": "https://www.lesswrong.com/posts/KttJGKQMScHDbJbFt/robert-sapolsky-is-simply-not-talking-about-compatibilism"
+    },
+    {
+      "text": "Claws are now a new layer on top of LLM agents",
+      "url": "https://twitter.com/karpathy/status/2024987174077432126"
+    },
+    {
+      "text": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+      "url": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything"
+    }
+  ],
+  "lastUpdated": "2026-02-22T07:00:13Z"
+}
