@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Did Claude 3 Opus align itself via gradient hacking?",
+    "url": "https://www.lesswrong.com/posts/ioZxrP7BhS5ArK59w/did-claude-3-opus-align-itself-via-gradient-hacking"
+  },
+  "topStories": [
+    {
+      "text": "Mapping LLM attractor states",
+      "url": "https://www.lesswrong.com/posts/rvbjZMp6aEDn2jiyp/mapping-llm-attractor-states"
+    },
+    {
+      "text": "Shadow mode, drift alerts and audit logs: Inside the modern audit loop",
+      "url": "https://venturebeat.com/orchestration/shadow-mode-drift-alerts-and-audit-logs-inside-the-modern-audit-loop",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/2lIgm3tWKNlbNcAqMNsFXB/d06b37a9da80c563b72a3c9311f38031/Audit_loop.png?w=300\u0026q=30",
+        "alt": "Shadow mode, drift alerts and audit logs: Inside the modern audit loop",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt"
+    },
+    {
+      "text": "The Spectre haunting the \"AI Safety\" Community",
+      "url": "https://www.lesswrong.com/posts/LuAmvqjf87qLG9Bdx/the-spectre-haunting-the-ai-safety-community"
+    },
+    {
+      "text": "InsanityBench: Cryptic Puzzles as a Probe for Lateral Thinking",
+      "url": "https://www.lesswrong.com/posts/ZmHGjF8rs5yZMHSmq/insanitybench-cryptic-puzzles-as-a-probe-for-lateral"
+    },
+    {
+      "text": "LLMs and Literature: Where Value Actually Comes From",
+      "url": "https://www.lesswrong.com/posts/dKMLjp5WdoX7zmZry/llms-and-literature-where-value-actually-comes-from"
+    },
+    {
+      "text": "How I think about Codex",
+      "url": "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything"
+    },
+    {
+      "text": "The Reality of Vibe Coding: AI Agents and the Security Debt Crisis",
+      "url": "https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/"
+    },
+    {
+      "text": "If you don't feel deeply confused about AGI risk, something's wrong",
+      "url": "https://www.lesswrong.com/posts/wWArLinjvJqozJT8f/if-you-don-t-feel-deeply-confused-about-agi-risk-something-s"
+    },
+    {
+      "text": "Git's Magic Files",
+      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "How will we do SFT on models with opaque reasoning?",
+      "url": "https://www.alignmentforum.org/posts/GJTzhQgaRWLFJkPbt/how-will-we-do-sft-on-models-with-opaque-reasoning"
+    },
+    {
+      "text": "Runlayer is now offering secure OpenClaw agentic capabilities for large enterprises",
+      "url": "https://venturebeat.com/orchestration/runlayer-is-now-offering-secure-openclaw-agentic-capabilities-for-large",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/4LaBwVfbgT5gHWyOlEQ4l3/74b270a54e64ce21a60d24a482d5ab22/I1q8RN879yqG8ZDyBQvtU_OPi2ULia.png?w=300\u0026q=30",
+        "alt": "Runlayer is now offering secure OpenClaw agentic capabilities for large enterprises",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Hierarchical Goal Induction With Ethics",
+      "url": "https://www.lesswrong.com/posts/BE56qw2Wdhog6C2Ck/hierarchical-goal-induction-with-ethics"
+    },
+    {
+      "text": "Multiple Independent Semantic Axes in Gemma 3 270M",
+      "url": "https://www.lesswrong.com/posts/LgSwswkRi8HHvzvz2/multiple-independent-semantic-axes-in-gemma-3-270m"
+    },
+    {
+      "text": "Ponzi schemes as a demonstration of out-of-distribution generalization",
+      "url": "https://www.lesswrong.com/posts/Kp7SdrqbfYHwJbFkr/ponzi-schemes-as-a-demonstration-of-out-of-distribution"
+    },
+    {
+      "text": "Quoting Thibault Sottiaux",
+      "url": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything"
+    },
+    {
+      "text": "How Taalas “prints” LLM onto a chip?",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html"
+    },
+    {
+      "text": "Architecting GPUaaS for Enterprise AI On-Prem",
+      "url": "https://towardsdatascience.com/architecting-gpuaas-for-enterprise-ai-on-prem/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Andrej Karpathy talks about \"Claws\"",
+      "url": "https://simonwillison.net/2026/Feb/21/claws/#atom-everything"
+    },
+    {
+      "text": "Adding TILs, releases, museums, tools and research to my blog",
+      "url": "https://simonwillison.net/2026/Feb/20/beats/#atom-everything"
+    },
+    {
+      "text": "Trump is making coal plants even dirtier as AI demands more energy",
+      "url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats"
+    },
+    {
+      "text": "Microsoft Copilot ignored sensitivity labels twice in eight months — and no DLP stack caught either one",
+      "url": "https://venturebeat.com/security/microsoft-copilot-ignoring-sensitivity-labels-dlp-cant-stop-ai-trust-failures"
+    },
+    {
+      "text": "Claws are now a new layer on top of LLM agents",
+      "url": "https://twitter.com/karpathy/status/2024987174077432126"
+    },
+    {
+      "text": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+      "url": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything"
+    },
+    {
+      "text": "I Don't Like Magic",
+      "url": "https://adactio.com/journal/22399"
+    },
+    {
+      "text": "First Forecasting Dojo Group Meetup",
+      "url": "https://www.lesswrong.com/events/LKoXJDcFSn4BurkiP/first-forecasting-dojo-group-meetup"
+    }
+  ],
+  "lastUpdated": "2026-02-22T18:47:04Z"
+}
