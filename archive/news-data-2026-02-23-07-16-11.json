@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Pimp My LLM: Leveraging Variability Modeling to Tune Inference Hyperparameters",
+    "url": "https://arxiv.org/abs/2602.17697"
+  },
+  "topStories": [
+    {
+      "text": "JAILBREAKING LEAVES A TRACE: UNDERSTANDING AND DETECTING JAILBREAK ATTACKS FROM INTERNAL REPRESENTATIONS OF LARGE LANGUAGE MODELS",
+      "url": "https://arxiv.org/abs/2602.11495"
+    },
+    {
+      "text": "Who Said Neural Networks Aren't Linear?",
+      "url": "https://arxiv.org/abs/2510.08570"
+    },
+    {
+      "text": "Red/green TDD",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "AstroMLab 4: Benchmark-Topping Performance in Astronomy Q\u0026A with a 70B-Parameter Domain-Specialized Reasoning Model",
+      "url": "https://arxiv.org/abs/2505.17592"
+    },
+    {
+      "text": "Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2602.18022"
+    },
+    {
+      "text": "Can LLM Safety Be Ensured by Constraining Parameter Regions?",
+      "url": "https://arxiv.org/abs/2602.17696"
+    },
+    {
+      "text": "LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?",
+      "url": "https://arxiv.org/abs/2602.16902"
+    },
+    {
+      "text": "Governance of Generative Artificial Intelligence for Companies",
+      "url": "https://arxiv.org/abs/2403.08802"
+    },
+    {
+      "text": "ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging",
+      "url": "https://arxiv.org/abs/2602.17929"
+    },
+    {
+      "text": "Uncertainty Estimation by Flexible Evidential Deep Learning",
+      "url": "https://arxiv.org/abs/2510.18322"
+    },
+    {
+      "text": "Investigating Target Class Influence on Neural Network Compressibility for Energy-Autonomous Avian Monitoring",
+      "url": "https://arxiv.org/abs/2602.17751"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Unifying approach to uniform expressivity of graph neural networks",
+      "url": "https://arxiv.org/abs/2602.18409"
+    },
+    {
+      "text": "Lost Before Translation: Social Information Transmission and Survival in AI-AI Communication",
+      "url": "https://arxiv.org/abs/2602.17674"
+    },
+    {
+      "text": "Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures",
+      "url": "https://arxiv.org/abs/2602.18417"
+    },
+    {
+      "text": "Through the Judge's Eyes: Inferred Thinking Traces Improve Reliability of LLM Raters",
+      "url": "https://arxiv.org/abs/2510.25860"
+    },
+    {
+      "text": "The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy",
+      "url": "https://arxiv.org/abs/2510.26752"
+    },
+    {
+      "text": "Adaptive GR(1) Specification Repair for Liveness-Preserving Shielding in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2511.02605"
+    },
+    {
+      "text": "Two Constraint Compilation Methods for Lifted Planning",
+      "url": "https://arxiv.org/abs/2511.10164"
+    },
+    {
+      "text": "RamanSeg: Interpretability-driven Deep Learning on Raman Spectra for Cancer Diagnosis",
+      "url": "https://arxiv.org/abs/2602.18119"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Mitigating Subject Dependency in EEG Decoding with Subject-Specific Low-Rank Adapters",
+      "url": "https://arxiv.org/abs/2510.08059"
+    },
+    {
+      "text": "AgriVariant: Variant Effect Prediction using DeepChem-Variant for Precision Breeding in Rice",
+      "url": "https://arxiv.org/abs/2602.17747"
+    },
+    {
+      "text": "CLUTCH: Contextualized Language model for Unlocking Text-Conditioned Hand motion modelling in the wild",
+      "url": "https://arxiv.org/abs/2602.17770"
+    },
+    {
+      "text": "Morephy-Net: An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Neural Operator Learning Networks",
+      "url": "https://arxiv.org/abs/2509.00663"
+    },
+    {
+      "text": "Solving and learning advective multiscale Darcian dynamics with the Neural Basis Method",
+      "url": "https://arxiv.org/abs/2602.17776"
+    },
+    {
+      "text": "Sign-SGD via Parameter-Free Optimization",
+      "url": "https://arxiv.org/abs/2506.03725"
+    },
+    {
+      "text": "VQPP: Video Query Performance Prediction Benchmark",
+      "url": "https://arxiv.org/abs/2602.17814"
+    },
+    {
+      "text": "How Well Can Differential Privacy Be Audited in One Run?",
+      "url": "https://arxiv.org/abs/2503.07199"
+    }
+  ],
+  "lastUpdated": "2026-02-23T07:16:11Z"
+}
