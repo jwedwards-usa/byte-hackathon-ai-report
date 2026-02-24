@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "The persona selection model",
+    "url": "https://www.lesswrong.com/posts/dfoty34sT7CSKeJNn/the-persona-selection-model"
+  },
+  "topStories": [
+    {
+      "text": "Anthropic says DeepSeek, Moonshot, and MiniMax used 24,000 fake accounts to rip off Claude",
+      "url": "https://venturebeat.com/technology/anthropic-says-deepseek-moonshot-and-minimax-used-24-000-fake-accounts-to"
+    },
+    {
+      "text": "Single Stack LLMs are Split-Brain Patients. ",
+      "url": "https://www.lesswrong.com/posts/zae44mvqYaG4QDmDZ/single-stack-llms-are-split-brain-patients"
+    },
+    {
+      "text": "Anthropic's Claude Code Security is available now after finding 500+ vulnerabilities: how security leaders should respond",
+      "url": "https://venturebeat.com/security/anthropic-claude-code-security-reasoning-vulnerability-hunting"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Google clamps down on Antigravity 'malicious usage', cutting off OpenClaw users in sweeping ToS enforcement move",
+      "url": "https://venturebeat.com/orchestration/google-clamps-down-on-antigravity-malicious-usage-cutting-off-openclaw-users",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/vwGThxYtgeCfHxjn466tk/5630229b22b3017cc1edff8e5021d66a/crimedy7_illustration_of_a_lobster_thats_in_a_cage_--ar_169_-_2081b356-9d2f-480b-9bef-99c11d44bb10_1.png?w=300\u0026q=30",
+        "alt": "Google clamps down on Antigravity 'malicious usage', cutting off OpenClaw users in sweeping ToS enforcement move",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
+    },
+    {
+      "text": "Pimp My LLM: Leveraging Variability Modeling to Tune Inference Hyperparameters",
+      "url": "https://arxiv.org/abs/2602.17697"
+    },
+    {
+      "text": "Claude Sonnet 4.6 Gives You Flexibility",
+      "url": "https://www.lesswrong.com/posts/u2vFY4wefyqPwwDH8/claude-sonnet-4-6-gives-you-flexibility"
+    },
+    {
+      "text": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
+      "url": "https://llm-timeline.com/"
+    },
+    {
+      "text": "OPENAI ANNOUNCES FRONTIER ALLIANCE PARTNERS",
+      "url": "https://openai.com/index/frontier-alliance-partners"
+    },
+    {
+      "text": "Who Said Neural Networks Aren't Linear?",
+      "url": "https://arxiv.org/abs/2510.08570"
+    },
+    {
+      "text": "JAILBREAKING LEAVES A TRACE: UNDERSTANDING AND DETECTING JAILBREAK ATTACKS FROM INTERNAL REPRESENTATIONS OF LARGE LANGUAGE MODELS",
+      "url": "https://arxiv.org/abs/2602.11495"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Expressiveness of Multi-Neuron Convex Relaxations in Neural Network Certification",
+      "url": "https://arxiv.org/abs/2410.06816"
+    },
+    {
+      "text": "Pareto Optimal Benchmarking of AI Models on ARM Cortex Processors for Sustainable Embedded Systems",
+      "url": "https://arxiv.org/abs/2602.17508"
+    },
+    {
+      "text": "Co-Evolution-Based Metal-Binding Residue Prediction with Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2502.16189"
+    },
+    {
+      "text": "Thermodynamically consistent machine learning model for excess Gibbs energy",
+      "url": "https://arxiv.org/abs/2509.06484"
+    },
+    {
+      "text": "Comparative Analysis of Wave Scattering Numerical Modeling Using the Boundary Element Method and Physics-Informed Neural Networks",
+      "url": "https://arxiv.org/abs/2509.12483"
+    },
+    {
+      "text": "The Claude C Compiler: What It Reveals About the Future of Software",
+      "url": "https://simonwillison.net/2026/Feb/22/ccc/#atom-everything"
+    },
+    {
+      "text": "Secrets of the LessWrong RSS Feed",
+      "url": "https://www.lesswrong.com/posts/dzF8vSdDtmWjCBBDr/secrets-of-the-lesswrong-rss-feed"
+    },
+    {
+      "text": "Build Effective Internal Tooling with Claude Code",
+      "url": "https://towardsdatascience.com/build-effective-internal-tooling-with-claude-code/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Asymptotic behavior of eigenvalues of large rank perturbations of large random matrices",
+      "url": "https://arxiv.org/abs/2507.12182"
+    },
+    {
+      "text": "Smartphone-based iris recognition through high-quality visible-spectrum iris image capture.V2",
+      "url": "https://arxiv.org/abs/2510.06170"
+    },
+    {
+      "text": "VQPP: Video Query Performance Prediction Benchmark",
+      "url": "https://arxiv.org/abs/2602.17814"
+    },
+    {
+      "text": "Learning hidden cascades via classification",
+      "url": "https://arxiv.org/abs/2505.11228"
+    },
+    {
+      "text": "ConformalNL2LTL: Translating Natural Language Instructions into Temporal Logic Formulas with Conformal Correctness Guarantees",
+      "url": "https://arxiv.org/abs/2504.21022"
+    },
+    {
+      "text": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
+      "url": "https://arxiv.org/abs/2602.17990"
+    },
+    {
+      "text": "Wink: Recovering from Misbehaviors in Coding Agents",
+      "url": "https://arxiv.org/abs/2602.17037"
+    },
+    {
+      "text": "A Pragmatic Note on Evaluating Generative Models with Fr\\'echet Inception Distance for Retinal Image Synthesis",
+      "url": "https://arxiv.org/abs/2502.17160"
+    }
+  ],
+  "lastUpdated": "2026-02-24T02:39:03Z"
+}
