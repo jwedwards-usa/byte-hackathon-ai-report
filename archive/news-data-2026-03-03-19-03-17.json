@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI's AI data agent, built by two engineers, now serves 4,000 employees — and the company says anyone can replicate it",
+    "url": "https://venturebeat.com/technology/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and"
+  },
+  "topStories": [
+    {
+      "text": "Endor Labs launches free tool AURI after study finds only 10% of AI-generated code is secure",
+      "url": "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated"
+    },
+    {
+      "text": "I Had Claude Read Every AI Safety Paper Since 2020, Here's the DB",
+      "url": "https://www.lesswrong.com/posts/CpWFrT9Grr5t7L3vx/i-had-claude-read-every-ai-safety-paper-since-2020-here-s"
+    },
+    {
+      "text": "Anthropic upgrades Claude’s memory to attract AI switchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops",
+      "url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/64vofI6ULdNoHrnB23LYPM/46453c49138fcd7baa986afb2272411b/Gemini_Generated_Image_94n91t94n91t94n9.png?w=300\u0026q=30",
+        "alt": "Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Question: Why is the goal of AI safety not 'moral machines'? ",
+      "url": "https://www.lesswrong.com/posts/kBcETs9Rkoo4fa2j5/question-why-is-the-goal-of-ai-safety-not-moral-machines"
+    },
+    {
+      "text": "White-Box Attacks on the Best Open-Weight Model: CCP Bias vs. Safety Training in Kimi K2.5",
+      "url": "https://www.lesswrong.com/posts/sRNHWhoZfYpE6WH2r/white-box-attacks-on-the-best-open-weight-model-ccp-bias-vs"
+    },
+    {
+      "text": "Constitutional Black-Box Monitoring for Scheming in LLM Agents",
+      "url": "https://www.lesswrong.com/posts/894KvMQcMQQnteYk8/constitutional-black-box-monitoring-for-scheming-in-llm"
+    },
+    {
+      "text": "The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane Algorithm",
+      "url": "https://arxiv.org/abs/2507.18553"
+    },
+    {
+      "text": "Monday AI Radar #15",
+      "url": "https://www.lesswrong.com/posts/LihodhGu4T5Anpnuj/monday-ai-radar-15"
+    },
+    {
+      "text": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/"
+    },
+    {
+      "text": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
+      "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Truth as a Trajectory: What Internal Representations Reveal About Large Language Model Reasoning",
+      "url": "https://arxiv.org/abs/2603.01326"
+    },
+    {
+      "text": "Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality",
+      "url": "https://arxiv.org/abs/2603.01471"
+    },
+    {
+      "text": "nchellwig at SemEval-2026 Task 3: Self-Consistent Structured Generation (SCSG) for Dimensional Aspect-Based Sentiment Analysis using Large Language Models",
+      "url": "https://arxiv.org/abs/2603.01788"
+    },
+    {
+      "text": "AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2506.14205"
+    },
+    {
+      "text": "State-Action Inpainting Diffuser for Continuous Control with Delay",
+      "url": "https://arxiv.org/abs/2603.01553"
+    },
+    {
+      "text": "Verifier-Bound Communication for LLM Agents: Certified Bounds on Covert Signaling",
+      "url": "https://arxiv.org/abs/2603.00381"
+    },
+    {
+      "text": "SphUnc: Hyperspherical Uncertainty Decomposition and Causal Identification via Information Geometry",
+      "url": "https://arxiv.org/abs/2603.01168"
+    },
+    {
+      "text": "Phase-Type Variational Autoencoders for Heavy-Tailed Data",
+      "url": "https://arxiv.org/abs/2603.01800"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "SUIT: Knowledge Editing with Subspace-Aware Key-Value Mappings",
+      "url": "https://arxiv.org/abs/2509.24502"
+    },
+    {
+      "text": "Boosting Entropy with Bell Box Quantization",
+      "url": "https://arxiv.org/abs/2603.01599"
+    },
+    {
+      "text": "AdaFocus: Knowing When and Where to Look for Adaptive Visual Reasoning",
+      "url": "https://arxiv.org/abs/2603.00171"
+    },
+    {
+      "text": "One protein is all you need",
+      "url": "https://arxiv.org/abs/2411.02109"
+    },
+    {
+      "text": "Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2603.00172"
+    },
+    {
+      "text": "The GeometricKernels Package: Heat and Mat\\'ern Kernels for Geometric Learning on Manifolds, Meshes, and Graphs",
+      "url": "https://arxiv.org/abs/2407.08086"
+    },
+    {
+      "text": "Zero-Shot and Supervised Bird Image Segmentation Using Foundation Models: A Dual-Pipeline Approach with Grounding DINO~1.5, YOLOv11, and SAM~2.1",
+      "url": "https://arxiv.org/abs/2603.00184"
+    },
+    {
+      "text": "Distributional Priors Guided Diffusion for Generating 3D Molecules in Low Data Regimes",
+      "url": "https://arxiv.org/abs/2404.00962"
+    }
+  ],
+  "lastUpdated": "2026-03-03T19:03:17Z"
+}
