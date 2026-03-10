@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Claude Code, Claude Cowork and Codex #5",
+    "url": "https://www.lesswrong.com/posts/rNes65r9TKegdLowb/claude-code-claude-cowork-and-codex-5"
+  },
+  "topStories": [
+    {
+      "text": "Anthropic Sues over Supply Chain Risk Designation",
+      "url": "https://www.lesswrong.com/posts/BvYaNGKG7PDGYMLtS/anthropic-sues-over-supply-chain-risk-designation"
+    },
+    {
+      "text": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
+    },
+    {
+      "text": "Might An LLM Be Conscious?",
+      "url": "https://www.lesswrong.com/posts/iktrbmPz7LuSKvrYa/might-an-llm-be-conscious"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Mapping AI Capabilities to Human Expertise on the Rosetta Stone (Epoch Capabilities Index)",
+      "url": "https://www.lesswrong.com/posts/cfbdyJGbHkY8rPesE/mapping-ai-capabilities-to-human-expertise-on-the-rosetta-1"
+    },
+    {
+      "text": "Investigating encoded reasoning in LLMs",
+      "url": "https://www.lesswrong.com/posts/Cgfj9AZqdcysqL7jN/investigating-encoded-reasoning-in-llms"
+    },
+    {
+      "text": "Anthropic rolls out Code Review for Claude Code as it sues over Pentagon blacklist and partners with Microsoft",
+      "url": "https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon"
+    },
+    {
+      "text": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
+      "url": "https://www.lesswrong.com/posts/xq5taGA6Tz6YShCB9/censored-llms-as-a-natural-testbed-for-secret-knowledge-2"
+    },
+    {
+      "text": "Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps",
+      "url": "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/BPQxT8Z0gWAH5x25IUAbo/d03bb002e8cb04039e6be7abcaa55010/ChatGPT_Image_Mar_9__2026__11_54_22_AM.png?w=300\u0026q=30",
+        "alt": "Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Emergent Misalignment and the Anthropic Dispute",
+      "url": "https://www.lesswrong.com/posts/Hg8hy6GpsPhk5xbFa/emergent-misalignment-and-the-anthropic-dispute"
+    },
+    {
+      "text": "Intro:\nNon-Identifiability of Explanations  ",
+      "url": "https://www.lesswrong.com/posts/qgWQxtYCtj8h7Yezb/intro-non-identifiability-of-explanations"
+    },
+    {
+      "text": "LLM Self-Expression Through Concept Albums, Part 2",
+      "url": "https://www.lesswrong.com/posts/YiwYLmxHT6zLGhXFp/llm-self-expression-through-concept-albums-part-2"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Certified and accurate computation of function space norms of deep neural networks",
+      "url": "https://arxiv.org/abs/2603.06431"
+    },
+    {
+      "text": "Perhaps not Boring Technology after all",
+      "url": "https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything"
+    },
+    {
+      "text": "Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It)",
+      "url": "https://towardsdatascience.com/why-your-ai-search-evaluation-is-probably-wrong-and-how-to-fix-it/"
+    },
+    {
+      "text": "Import AI 448: AI R\u0026D; Bytedance’s CUDA-writing agent; on-device satellite AI",
+      "url": "https://jack-clark.net/2026/03/09/import-ai-448-ai-rd-bytedances-cuda-writing-agent-on-device-satellite-ai/"
+    },
+    {
+      "text": "ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.05863"
+    },
+    {
+      "text": "Mitigating Bias in Concept Bottleneck Models for Fair and Interpretable Image Classification",
+      "url": "https://arxiv.org/abs/2603.05899"
+    },
+    {
+      "text": "Mean-based incomplete pairwise comparisons method with the reference values",
+      "url": "https://arxiv.org/abs/2207.10783"
+    },
+    {
+      "text": "Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning",
+      "url": "https://arxiv.org/abs/2601.15160"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Technical Report: Automated Optical Inspection of Surgical Instruments",
+      "url": "https://arxiv.org/abs/2603.05987"
+    },
+    {
+      "text": "TADPO: Reinforcement Learning Goes Off-road",
+      "url": "https://arxiv.org/abs/2603.05995"
+    },
+    {
+      "text": "XR-DT: Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predictive Path Integral Control",
+      "url": "https://arxiv.org/abs/2512.05270"
+    },
+    {
+      "text": "Latent Poincar\\'e Shaping for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2602.09375"
+    },
+    {
+      "text": "RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model",
+      "url": "https://arxiv.org/abs/2402.10828"
+    },
+    {
+      "text": "Warm Starting State-Space Models with Automata Learning",
+      "url": "https://arxiv.org/abs/2603.05694"
+    },
+    {
+      "text": "Sensitivity-Aware Retrieval-Augmented Intent Clarification",
+      "url": "https://arxiv.org/abs/2603.06025"
+    },
+    {
+      "text": "Probing Visual Concepts in Lightweight Vision-Language Models for Automated Driving",
+      "url": "https://arxiv.org/abs/2603.06054"
+    }
+  ],
+  "lastUpdated": "2026-03-09T21:43:17Z"
+}
