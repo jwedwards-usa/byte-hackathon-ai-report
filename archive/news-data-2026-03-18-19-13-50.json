@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic vs. DoW #5: Motions Filed",
+    "url": "https://www.lesswrong.com/posts/o9M5RGrjM45aNq8jN/anthropic-vs-dow-5-motions-filed"
+  },
+  "topStories": [
+    {
+      "text": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
+      "url": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/2MuXgfNrfR9DrYiF8EKgcE/bca5055283452b33f7f15aeabfd6a298/Gemini_Generated_Image_2qcm7c2qcm7c2qcm.png?w=300\u0026q=30",
+        "alt": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "CHATGPT DID NOT CURE A DOG’S CANCER",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"
+    },
+    {
+      "text": "Consciousness Cluster: \nPreferences of Models that Claim they are Conscious",
+      "url": "https://www.lesswrong.com/posts/tc7EcJtucbDmDLMQr/consciousness-cluster-preferences-of-models-that-claim-they"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Agentic Researcher: A Practical Guide to AI-Assisted Research in Mathematics and Machine Learning",
+      "url": "https://arxiv.org/abs/2603.15914"
+    },
+    {
+      "text": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
+      "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models"
+    },
+    {
+      "text": "BREAKING THE CHAIN: A CAUSAL ANALYSIS OF LLM FAITHFULNESS TO INTERMEDIATE STRUCTURES",
+      "url": "https://arxiv.org/abs/2603.16475"
+    },
+    {
+      "text": "DOGE canceled NC Museum grant for HVAC systems after ChatGPT flagged it as DEI",
+      "url": "https://myfox8.com/news/north-carolina/high-point/doge-canceled-high-point-museum-grant-for-hvac-systems-after-chatgpt-flagged-it-as-dei-lawsuit-alleges/"
+    },
+    {
+      "text": "Differential Harm Propensity in Personalized LLM Agents: The Curious Case of Mental Health Disclosure",
+      "url": "https://arxiv.org/abs/2603.16734"
+    },
+    {
+      "text": "Explainable machine learning workflows for radio astronomical data processing",
+      "url": "https://arxiv.org/abs/2603.16350"
+    },
+    {
+      "text": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+      "url": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
+      "url": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317"
+    },
+    {
+      "text": "Measuring progress toward AGI: A cognitive framework",
+      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+    },
+    {
+      "text": "INTRODUCING GPT-5.4 MINI AND NANO",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+    },
+    {
+      "text": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
+    },
+    {
+      "text": "\"Lost in the Middle\" Replicates ",
+      "url": "https://www.lesswrong.com/posts/udDLgexmJffpMjdDu/lost-in-the-middle-replicates"
+    },
+    {
+      "text": "GPT 5.4 is a big step for Codex",
+      "url": "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+      "image": {
+        "src": "https://substackcdn.com/image/fetch/$s_!49G2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce867601-79e5-4519-9e6d-8ae221c08f0b_2400x1800.webp",
+        "alt": "GPT 5.4 is a big step for Codex",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
+      "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering"
+    },
+    {
+      "text": "What do new nuclear reactors mean for waste?",
+      "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "SHAMISA: SHAped Modeling of Implicit Structural Associations for Self-supervised No-Reference Image Quality Assessment",
+      "url": "https://arxiv.org/abs/2603.13669"
+    },
+    {
+      "text": "AgriPath: A Systematic Exploration of Architectural Trade-offs for Crop Disease Classification",
+      "url": "https://arxiv.org/abs/2603.13354"
+    },
+    {
+      "text": "VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding",
+      "url": "https://arxiv.org/abs/2507.13353"
+    },
+    {
+      "text": "Data-driven forced response analysis with min-max representations of nonlinear restoring forces",
+      "url": "https://arxiv.org/abs/2603.16746"
+    },
+    {
+      "text": "pADAM: A Plug-and-Play All-in-One Diffusion Architecture for Multi-Physics Learning",
+      "url": "https://arxiv.org/abs/2603.16757"
+    },
+    {
+      "text": "DRCY: Agentic Hardware Design Reviews",
+      "url": "https://arxiv.org/abs/2603.15672"
+    },
+    {
+      "text": "Ontological foundations for contrastive explanatory narration of robot plans",
+      "url": "https://arxiv.org/abs/2509.22493"
+    },
+    {
+      "text": "Traj2Action: A Co-Denoising Framework for Trajectory-Guided Human-to-Robot Skill Transfer",
+      "url": "https://arxiv.org/abs/2510.00491"
+    }
+  ],
+  "lastUpdated": "2026-03-18T19:13:50Z"
+}
