@@ -1,0 +1,147 @@
+{
+  "mainHeadline": {
+    "text": "ARENA 7.0 Impact Report",
+    "url": "https://www.lesswrong.com/posts/LnJeXLY2Y2Au97dfL/arena-7-0-impact-report-1"
+  },
+  "topStories": [
+    {
+      "text": "Cursor’s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
+      "url": "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7CRPJPhCwXh9FXWrar90y5/c67c894ea0fbe9af868238b62f1b32b5/ChatGPT_Image_Mar_19__2026__04_06_03_PM.png?w=300\u0026q=30",
+        "alt": "Cursor’s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The Hot Mess Paper Conflates Three Distinct Failure Modes",
+      "url": "https://www.lesswrong.com/posts/dMshzzgqm3z3SrK8C/the-hot-mess-paper-conflates-three-distinct-failure-modes"
+    },
+    {
+      "text": "Finding features in Transformers: Contrastive directions elicit stronger low-level perturbation responses than baselines",
+      "url": "https://www.lesswrong.com/posts/QrPxNDprJwXiE73Py/finding-features-in-transformers-contrastive-directions"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Scale AI launches Voice Showdown, the first real-world benchmark for voice AI — and the results are humbling for some top models",
+      "url": "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5Aoh7Kr0KEA1qkUcBHmU2/c7bb3f5c69b6271011b3363540d40996/Gemini_Generated_Image_8crymu8crymu8cry.png?w=300\u0026q=30",
+        "alt": "Scale AI launches Voice Showdown, the first real-world benchmark for voice AI — and the results are humbling for some top models",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
+    },
+    {
+      "text": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
+      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3dBMtm7xGFxoVBUCdLdtS9/76357f5bb295d3a62476a2c00e629c44/Gemini_Generated_Image_ezvr5vezvr5vezvr.png?w=300\u0026q=30",
+        "alt": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "THOUGHTS ON OPENAI ACQUIRING ASTRAL AND UV/RUFF/TY",
+      "url": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations",
+      "url": "https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/"
+    },
+    {
+      "text": "The Future of Aligning Deep Learning systems will probably look like \"training on interp\"",
+      "url": "https://www.lesswrong.com/posts/DzKhPKjyYSy5oih2u/the-future-of-aligning-deep-learning-systems-will-probably"
+    },
+    {
+      "text": "OpenAI is throwing everything into building a fully automated researcher",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Untrusted monitoring: extra bits",
+      "url": "https://www.lesswrong.com/posts/WFkPrPy2r27rknLtw/untrusted-monitoring-extra-bits"
+    },
+    {
+      "text": "The Federal AI Policy Framework: An Improvement, But My Offer Is (Still Almost) Nothing",
+      "url": "https://www.lesswrong.com/posts/tcoNLbvrpv9KcxzvM/the-federal-ai-policy-framework-an-improvement-but-my-offer"
+    },
+    {
+      "text": "Confusion around the term reward hacking",
+      "url": "https://www.lesswrong.com/posts/ixyokbwQEHgiHJYFW/confusion-around-the-term-reward-hacking"
+    },
+    {
+      "text": "What’s the right path for AI?",
+      "url": "https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320"
+    },
+    {
+      "text": "Why enterprises are replacing generic AI with tools that know their users",
+      "url": "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/KEjQ6uKRXuEfrtswma9KF/93c2be31bef2ae7964deb381ded045e2/u7277289442_Several_AI_agents_are_heads_down_on_work_splittin_0307c7d3-78ef-414a-ae67-1c0439af61a5_3.png?w=300\u0026q=30",
+        "alt": "Why enterprises are replacing generic AI with tools that know their users",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Quoting Kimi.ai @Kimi_Moonshot",
+      "url": "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything"
+    },
+    {
+      "text": "Why people really hate AI",
+      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast"
+    },
+    {
+      "text": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why",
+      "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
+      "url": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320"
+    },
+    {
+      "text": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "url": "https://github.com/alainnothere/llm-circuit-finder"
+    },
+    {
+      "text": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"
+    },
+    {
+      "text": "The Distaff Texts",
+      "url": "https://www.lesswrong.com/posts/pKoDqpfdv4ur8HgZ2/the-distaff-texts"
+    },
+    {
+      "text": "Amazon is making an Alexa phone",
+      "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone"
+    },
+    {
+      "text": "Agentic RAG Failure Modes: Retrieval Thrash, Tool Storms, and Context Bloat (and How to Spot Them Early)",
+      "url": "https://towardsdatascience.com/agentic-rag-failure-modes-retrieval-thrash-tool-storms-and-context-bloat-and-how-to-spot-them-early/"
+    },
+    {
+      "text": "Mind-altering substances are (still) falling short in clinical trials",
+      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
+    },
+    {
+      "text": "A ROGUE AI LED TO A SERIOUS SECURITY INCIDENT AT META",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
+    }
+  ],
+  "lastUpdated": "2026-03-21T13:05:50Z"
+}
