@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Sequent: scale and automation for higher confidence in alignment",
+    "url": "https://www.lesswrong.com/posts/AP7YDke5jjY4v3X9Z/sequent-scale-and-automation-for-higher-confidence-in-1"
+  },
+  "topStories": [
+    {
+      "text": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+      "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5Rlcmqte5CXctov1ExzTWN/a26021b5f21bc357ff8cbac73dffbc6f/ChatGPT_Image_Jun_9__2026__01_10_24_PM.png?w=300\u0026q=30",
+        "alt": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Machinic Psychopharmacology: Do LLMs Self-Medicate?",
+      "url": "https://www.lesswrong.com/posts/cNDJuXNZ8MrkPZNzj/machinic-psychopharmacology-do-llms-self-medicate-3"
+    },
+    {
+      "text": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+      "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7z177KhBkorKEkiY8YzOQs/0ef7ec8432d423932800e25561e58b55/ChatGPT_Image_Jun_8__2026__05_47_27_PM.png?w=300\u0026q=30",
+        "alt": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The Three Filters: Why Almost Every Plan to Survive ASI Fails Miserably",
+      "url": "https://www.lesswrong.com/posts/BWNqdt5edJdax4jn8/the-three-filters-why-almost-every-plan-to-survive-asi-fails"
+    },
+    {
+      "text": "I Started an AI Safety Research Org and Think These 7 Things Matter",
+      "url": "https://www.lesswrong.com/posts/oksbYNBr8Pch8Srg3/i-started-an-ai-safety-research-org-and-think-these-7-things"
+    },
+    {
+      "text": "On Cost-Effective LLM-as-a-Judge Improvement Techniques",
+      "url": "https://arxiv.org/abs/2604.13717"
+    },
+    {
+      "text": "Quoting Jeremy Howard",
+      "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything"
+    },
+    {
+      "text": "Phonies",
+      "url": "https://www.lesswrong.com/posts/EMyWJDbpdMhXvnqcQ/phonies"
+    },
+    {
+      "text": "BADROBOT: JAILBREAKING EMBODIED LLM AGENTS IN THE PHYSICAL WORLD",
+      "url": "https://arxiv.org/abs/2407.20242"
+    },
+    {
+      "text": "Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions",
+      "url": "https://arxiv.org/abs/2606.10942"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
+    },
+    {
+      "text": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+    },
+    {
+      "text": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/"
+    },
+    {
+      "text": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
+    },
+    {
+      "text": "Siri AI at WWDC 2026",
+      "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything"
+    },
+    {
+      "text": "I didn't see any METR graph extrapolations so here.",
+      "url": "https://www.lesswrong.com/posts/seepc7g3fXJvnZb8G/i-didn-t-see-any-metr-graph-extrapolations-so-here"
+    },
+    {
+      "text": "Integrating Out, Twice:The Open-System Case That Neural-Network Ensemble Theory Is Missing",
+      "url": "https://arxiv.org/abs/2606.09950"
+    },
+    {
+      "text": "The Distributed Detectability Band Against Marginal-Preserving Attacks",
+      "url": "https://arxiv.org/abs/2606.10456"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "KG-SoftMAP: Soft Knowledge-Graph Priors for Bayesian Network Structure Learning from Sparse Discrete Data",
+      "url": "https://arxiv.org/abs/2606.10358"
+    },
+    {
+      "text": "EstRTL: Functional Estimation Guided RTL Code Generation",
+      "url": "https://arxiv.org/abs/2606.09867"
+    },
+    {
+      "text": "Building Change Detection in Earthquake: A Multi-Scale Interaction Network and A Change Detection Dataset",
+      "url": "https://arxiv.org/abs/2606.10329"
+    },
+    {
+      "text": "Baseline-Free Policy Optimization for Neural Combinatorial Optimization",
+      "url": "https://arxiv.org/abs/2606.10321"
+    },
+    {
+      "text": "When Design Rules Break: Benchmark Composition Determines Whether Label Informativeness Predicts GNN Aggregator Choice",
+      "url": "https://arxiv.org/abs/2606.10249"
+    },
+    {
+      "text": "Multi-Level Analyzation of Imbalance to Resolve Non-IID-Ness in Federated Learning",
+      "url": "https://arxiv.org/abs/2606.10250"
+    },
+    {
+      "text": "Learning Doubly Sparse Explicitly Conditioned Transforms",
+      "url": "https://arxiv.org/abs/2606.10975"
+    },
+    {
+      "text": "A Unified Adaptive Feature Composition Framework for Multi-Task Generalization in Wireless Foundation Models",
+      "url": "https://arxiv.org/abs/2606.10277"
+    }
+  ],
+  "lastUpdated": "2026-06-10T15:59:12Z"
+}
