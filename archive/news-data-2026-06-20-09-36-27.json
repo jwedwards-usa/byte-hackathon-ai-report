@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+    "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+    "image": {
+      "src": "https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=300\u0026q=30",
+      "alt": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+      "width": 600,
+      "height": 400
+    }
+  },
+  "topStories": [
+    {
+      "text": "Thoughts on Likelihood of Existential Risks by Misaligned AIs",
+      "url": "https://www.lesswrong.com/posts/ECZjz2g5tKpuHnYxu/thoughts-on-likelihood-of-existential-risks-by-misaligned"
+    },
+    {
+      "text": "World-modeling the US vs. Anthropic Standoff on Claude Fable",
+      "url": "https://www.lesswrong.com/posts/zhRe3tdBpsZbGCdDK/world-modeling-the-us-vs-anthropic-standoff-on-claude-fable"
+    },
+    {
+      "text": "AI Safety Ecosystem Research notes",
+      "url": "https://www.lesswrong.com/posts/wWX9ecM5Q7TycpKyX/ai-safety-ecosystem-research-notes"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A brief list of ways AI safety efforts could be net negative",
+      "url": "https://www.lesswrong.com/posts/sAfMCpWLfkHqF5Gix/a-brief-list-of-ways-ai-safety-efforts-could-be-net-negative"
+    },
+    {
+      "text": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/CRblDVbL1kQ1uEVW35sEq/ad7b269e284b5c73782b5d4934b93c2c/ChatGPT_Image_Jun_18__2026__10_30_55_AM.png?w=300\u0026q=30",
+        "alt": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Exposing the Unsaid: Visualizing Hidden LLM Bias through Stochastic Path Aggregation",
+      "url": "https://arxiv.org/abs/2606.19344"
+    },
+    {
+      "text": "AURA: Adaptive Uncertainty-aware Refinement for LLM-as-a-Judge Auditing",
+      "url": "https://arxiv.org/abs/2606.19714"
+    },
+    {
+      "text": "Generative Engine Optimization at Scale: Measuring Brand Visibility Across AI Search Engines",
+      "url": "https://arxiv.org/abs/2606.20065"
+    },
+    {
+      "text": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.19559"
+    },
+    {
+      "text": "Gender Bias in LLM Hiring Decisions: Evidence from a Japanese Context and Evaluation of Mitigation Strategies",
+      "url": "https://arxiv.org/abs/2606.18649"
+    },
+    {
+      "text": "RetailBench: Benchmarking long horizon reasoning and coherent decision making of LLM agents in realistic retail environments",
+      "url": "https://arxiv.org/abs/2606.15862"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Improving End-to-End Speech Recognition for Dysarthric Speech through In-Domain Data Augmentation",
+      "url": "https://arxiv.org/abs/2606.19797"
+    },
+    {
+      "text": "Toward Human-Centered AI-Assisted Terminology Work",
+      "url": "https://arxiv.org/abs/2512.18859"
+    },
+    {
+      "text": "Towards Engineering Scaling Laws with Pretraining Data Composition",
+      "url": "https://arxiv.org/abs/2606.19781"
+    },
+    {
+      "text": "Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.22748"
+    },
+    {
+      "text": "Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI",
+      "url": "https://arxiv.org/abs/2606.19769"
+    },
+    {
+      "text": "CADBench: A Multimodal Benchmark for AI-Assisted CAD Program Generation",
+      "url": "https://arxiv.org/abs/2605.10873"
+    },
+    {
+      "text": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+      "url": "https://arxiv.org/abs/2606.19538"
+    },
+    {
+      "text": "Creating Multilingual Mental Health Dialogue Datasets: Limits of Persona-Based Localization via Nationality and Language",
+      "url": "https://arxiv.org/abs/2606.19640"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MixSD: Mixed Contextual Self-Distillation for Knowledge Injection",
+      "url": "https://arxiv.org/abs/2605.16865"
+    },
+    {
+      "text": "See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View",
+      "url": "https://arxiv.org/abs/2606.20045"
+    },
+    {
+      "text": "Evaluation of EEG Foundation Models for Event-Based Burst-Suppression Detection in ICU",
+      "url": "https://arxiv.org/abs/2606.20074"
+    },
+    {
+      "text": "TSAssistant: A Human-in-the-Loop Agentic Framework for Automated Target Safety Assessment",
+      "url": "https://arxiv.org/abs/2604.23938"
+    },
+    {
+      "text": "QC-GAN: A Parameter-Efficient Quaternion Conformer GAN for High-Fidelity Speech Enhancement",
+      "url": "https://arxiv.org/abs/2606.18611"
+    },
+    {
+      "text": "Quality Over Clicks: Iterative Reinforcement Learning for Early-Stage E-Commerce Query Suggestion",
+      "url": "https://arxiv.org/abs/2603.22922"
+    },
+    {
+      "text": "OpenLID-v3: Improving the Precision of Closely Related Language Identification -- An Experience Report",
+      "url": "https://arxiv.org/abs/2602.13139"
+    },
+    {
+      "text": "Agentra: A Supervisable Multi-Agent Framework for Enterprise Intrusion Response",
+      "url": "https://arxiv.org/abs/2606.18325"
+    }
+  ],
+  "lastUpdated": "2026-06-20T09:36:27Z"
+}
