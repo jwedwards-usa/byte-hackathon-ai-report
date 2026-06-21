@@ -1,0 +1,141 @@
+{
+  "mainHeadline": {
+    "text": "The Cookie Monster Explains AI Safety ",
+    "url": "https://www.lesswrong.com/posts/AgKnBSxsFvuRCsEye/the-cookie-monster-explains-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "The Invisible Side of AI Governance",
+      "url": "https://www.lesswrong.com/posts/AWKkDLDnShemNCSzZ/the-invisible-side-of-ai-governance"
+    },
+    {
+      "text": "The LLM shoggoth meme is weirder than you think",
+      "url": "https://www.lesswrong.com/posts/nhb8AyEcQGjQetgi5/the-llm-shoggoth-meme-is-weirder-than-you-think"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "How transparent is DiffusionGemma (and why it matters)",
+      "url": "https://www.lesswrong.com/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters"
+    },
+    {
+      "text": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+    },
+    {
+      "text": "Against Planet-Eating Nanoreplicators",
+      "url": "https://www.lesswrong.com/posts/meNbYuX9367p43nmX/against-planet-eating-nanoreplicators"
+    },
+    {
+      "text": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+      "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5CFo8mBoW1WjItcZvYyHpg/3172659c88b4856fe7137de54672ab16/hero.png?w=300\u0026q=30",
+        "alt": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The Download: AI bottleneck debates, and BCI trials take off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
+    },
+    {
+      "text": "How are there 0 studies (maybe 1) on sex-concordant hormone therapy?",
+      "url": "https://www.lesswrong.com/posts/J4Lnxi3uJhR8GiGsm/how-are-there-0-studies-maybe-1-on-sex-concordant-hormone"
+    },
+    {
+      "text": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
+    },
+    {
+      "text": "GOOGLE CAN'T MATH PARSECS",
+      "url": "https://www.lesswrong.com/posts/BmqzjcD4tGvy3bim8/google-can-t-math-parsecs"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Would anybody here be interested in a \"mistake postmortem\" discussion group?",
+      "url": "https://www.lesswrong.com/posts/J8L3HoPYAj52x9gCA/would-anybody-here-be-interested-in-a-mistake-postmortem"
+    },
+    {
+      "text": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/"
+    },
+    {
+      "text": "Animal Futures Forecasting Tournament",
+      "url": "https://www.lesswrong.com/posts/PgLJpLqqHfpgRC4Ks/animal-futures-forecasting-tournament"
+    },
+    {
+      "text": "7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture",
+      "url": "https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/"
+    },
+    {
+      "text": "LLMs Are Complicated Now",
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/"
+    },
+    {
+      "text": "Quoting Sean Lynch",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything"
+    },
+    {
+      "text": "A BETTER WAY TO MODEL THE BEHAVIOR OF METAL ALLOYS",
+      "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619"
+    },
+    {
+      "text": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
+      "url": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5i664fldp1fQIBiyfnykGq/ac7e785b49b229db8798fd5a95b3f895/Gemini_Generated_Image_rwbmyvrwbmyvrwbm.png?w=300\u0026q=30",
+        "alt": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Banning Open Source AI Would Be A Mistake",
+      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/2cf763f4-5f1e-47ec-b6e1-b14a69443d00_3182x1790.png",
+        "alt": "Banning Open Source AI Would Be A Mistake",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Now You Don't: When Espionage Meets Magic",
+      "url": "https://www.politicshome.com/news/article/now-dont-espionage-meets-magic"
+    },
+    {
+      "text": "Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All",
+      "url": "https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/"
+    },
+    {
+      "text": "Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement",
+      "url": "https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/"
+    },
+    {
+      "text": "Unchickenous Apricot Berry Cake",
+      "url": "https://www.lesswrong.com/posts/JtkR9aDd3m2CeRi3J/unchickenous-apricot-berry-cake"
+    },
+    {
+      "text": "GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU",
+      "url": "https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/"
+    },
+    {
+      "text": "Python 3.14 and its New JIT Compiler",
+      "url": "https://towardsdatascience.com/python-3-14-and-its-new-jit-compiler/"
+    },
+    {
+      "text": "Building a Custom GStreamer Plugin for NVIDIA DeepStream",
+      "url": "https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/"
+    }
+  ],
+  "lastUpdated": "2026-06-21T04:58:40Z"
+}
