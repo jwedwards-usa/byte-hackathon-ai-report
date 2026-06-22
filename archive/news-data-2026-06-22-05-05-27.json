@@ -1,0 +1,115 @@
+{
+  "mainHeadline": {
+    "text": "On revolutionary love in AI safety",
+    "url": "https://www.lesswrong.com/posts/kTHdMcQLzZfF7JK6v/on-revolutionary-love-in-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "SAMSUNG ELECTRONICS BRINGS CHATGPT AND CODEX TO EMPLOYEES",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+    },
+    {
+      "text": "Do AI Biorisk Thresholds Need Intermediate Warning Levels?",
+      "url": "https://www.lesswrong.com/posts/3QvnQczuGD8H9zood/do-ai-biorisk-thresholds-need-intermediate-warning-levels"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "How persona training could fail",
+      "url": "https://www.lesswrong.com/posts/baH8oPkdGCnwxmkFu/how-persona-training-could-fail"
+    },
+    {
+      "text": "NLA explanations can be shortened without harming reconstruction",
+      "url": "https://www.lesswrong.com/posts/NazprRfWJ4qkwcSro/nla-explanations-can-be-shortened-without-harming"
+    },
+    {
+      "text": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything"
+    },
+    {
+      "text": "Introducing MonitoringBench",
+      "url": "https://www.lesswrong.com/posts/2YyEQhFRyaBCgfRWd/introducing-monitoringbench"
+    },
+    {
+      "text": "How transparent is DiffusionGemma (and why it matters)",
+      "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters"
+    },
+    {
+      "text": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything"
+    },
+    {
+      "text": "Tool Calling, Explained: How AI Agents Decide What to Do Next",
+      "url": "https://towardsdatascience.com/tool-calling-explained-how-ai-agents-decide-what-to-do-next/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "A high-level model of AI bargaining",
+      "url": "https://www.lesswrong.com/posts/kubuos5qprAHeGWyd/a-high-level-model-of-ai-bargaining"
+    },
+    {
+      "text": "Live Music Without a Sound Person",
+      "url": "https://www.lesswrong.com/posts/jvuCkgvjbXYvsNdG2/live-music-without-a-sound-person"
+    },
+    {
+      "text": "Coup is the Pareto-optimal social game",
+      "url": "https://www.lesswrong.com/posts/Ho7JeKFzhwGXxgjTW/coup-is-the-pareto-optimal-social-game"
+    },
+    {
+      "text": "sqlite-utils 4.0rc1",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything"
+    },
+    {
+      "text": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
+    },
+    {
+      "text": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built"
+    },
+    {
+      "text": "Policy changes should be rolled out gradually",
+      "url": "https://www.lesswrong.com/posts/wBPgjip6kdPhAi4Ga/policy-changes-should-be-rolled-out-gradually"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "A misalignment taxonomy",
+      "url": "https://www.lesswrong.com/posts/SAJoCCvmqyhba94sa/a-misalignment-taxonomy"
+    },
+    {
+      "text": "The Atlantic created a searchable database of the music used to train AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data"
+    },
+    {
+      "text": "GPT-5.5 HALLUCINATES 3X MORE THAN MIT-LICENSED GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/"
+    },
+    {
+      "text": "Reconstructing the Table of Contents a PDF Forgot to Ship, So RAG Can Scope by Section",
+      "url": "https://towardsdatascience.com/reconstructing-the-table-of-contents-a-pdf-forgot-to-ship-so-rag-can-scope-by-section/"
+    },
+    {
+      "text": "What Are the Possibilities to Build Date Tables in Self-Service Environments?",
+      "url": "https://towardsdatascience.com/what-are-the-possibilities-to-build-date-tables-in-self-service-environments/"
+    },
+    {
+      "text": "7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture",
+      "url": "https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/"
+    },
+    {
+      "text": "Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All",
+      "url": "https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/"
+    },
+    {
+      "text": "Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement",
+      "url": "https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/"
+    }
+  ],
+  "lastUpdated": "2026-06-22T05:05:27Z"
+}
