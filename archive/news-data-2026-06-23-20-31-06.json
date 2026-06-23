@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
+    "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously"
+  },
+  "topStories": [
+    {
+      "text": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=300\u0026q=30",
+        "alt": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks",
+      "url": "https://arxiv.org/abs/2606.23208"
+    },
+    {
+      "text": "A system overview for near-term, low-trust AI compute verification",
+      "url": "https://www.lesswrong.com/posts/fgvmKqRGvBteKeDoc/a-system-overview-for-near-term-low-trust-ai-compute"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO",
+      "url": "https://arxiv.org/abs/2606.23032"
+    },
+    {
+      "text": "On TEEs for Privacy-Preserving Monitoring in AI Governance",
+      "url": "https://www.lesswrong.com/posts/kauQxzfS7fT5yHN8C/on-tees-for-privacy-preserving-monitoring-in-ai-governance"
+    },
+    {
+      "text": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/4kHEA49GjoZBqBlllf4GIv/0fd14ca57187e6d633ab33ceded01f69/ChatGPT_Image_Jun_22__2026__11_26_12_AM.png?w=300\u0026q=30",
+        "alt": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
+      "url": "https://arxiv.org/abs/2606.23678"
+    },
+    {
+      "text": "InfiltrNet: Dual-Branch CNN-Transformer Architecture for Brain Tumor Infiltration Risk Prediction",
+      "url": "https://arxiv.org/abs/2605.02230"
+    },
+    {
+      "text": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything"
+    },
+    {
+      "text": "SAMSUNG ELECTRONICS BRINGS CHATGPT AND CODEX TO EMPLOYEES",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+    },
+    {
+      "text": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining",
+      "url": "https://arxiv.org/abs/2603.28737"
+    },
+    {
+      "text": "DrugBench: Evaluating AI Control Protocols for Medication Harm Mitigation",
+      "url": "https://arxiv.org/abs/2606.20663"
+    },
+    {
+      "text": "Repeated Shared Access Enables Grokking, but Edit Propagation Depends on a Fine-Grained Addressable Memory",
+      "url": "https://arxiv.org/abs/2606.20737"
+    },
+    {
+      "text": "Dataset-Aware Cold-Start Active Learning for Annotation-Efficient 3D Medical Image Segmentation",
+      "url": "https://arxiv.org/abs/2606.20765"
+    },
+    {
+      "text": "Explanations for Automatic Speech Recognition",
+      "url": "https://arxiv.org/abs/2302.14062"
+    },
+    {
+      "text": "TinyGiantALM: A Compact Audio-Language Model for Intent-Aware Reasoning under Resource Constraints",
+      "url": "https://arxiv.org/abs/2606.08425"
+    },
+    {
+      "text": "Concept-Constrained Prompt Learning for Few-Shot CLIP Adaptation",
+      "url": "https://arxiv.org/abs/2606.22567"
+    },
+    {
+      "text": "LionMuon: Alternating Spectral and Sign Descent for Efficient Training",
+      "url": "https://arxiv.org/abs/2605.19811"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Scaling Diverse Language Generation for 3D Visual Grounding",
+      "url": "https://arxiv.org/abs/2606.20946"
+    },
+    {
+      "text": "Latent Personal Memory: Represent personal memory as dynamic soft prompts",
+      "url": "https://arxiv.org/abs/2606.20911"
+    },
+    {
+      "text": "MAGNIFIED: RL Fine-tuning of Multimodal Large Language Models for Motion Planning",
+      "url": "https://arxiv.org/abs/2606.20641"
+    },
+    {
+      "text": "Diffusion-Driven State Space Models",
+      "url": "https://arxiv.org/abs/2606.21036"
+    },
+    {
+      "text": "EmoInstruct-TTS: Dual-Path Instruction-Guided Emotional Speech Synthesis",
+      "url": "https://arxiv.org/abs/2606.20650"
+    },
+    {
+      "text": "Which Models Perform Better in Inheritance Reasoning?",
+      "url": "https://arxiv.org/abs/2606.13751"
+    },
+    {
+      "text": "Go-with-the-Track: Video Compositing and Motion Control with Point Tracking",
+      "url": "https://arxiv.org/abs/2606.20891"
+    },
+    {
+      "text": "An approach with Visual and Tabular Mamba to multimodal medical data using Mixed Fusion",
+      "url": "https://arxiv.org/abs/2606.20738"
+    }
+  ],
+  "lastUpdated": "2026-06-23T20:31:06Z"
+}
