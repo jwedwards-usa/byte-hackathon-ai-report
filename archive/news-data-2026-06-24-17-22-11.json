@@ -1,0 +1,141 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models",
+    "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+    "image": {
+      "src": "https://images.ctfassets.net/jdtwqhzvc2n1/40NiWDW8fJyLJIBZs5hAA7/e7fc12ca4026ff704436a4e061d1dbd4/ChatGPT_Image_Jun_24__2026__10_10_44_AM.png?w=300\u0026q=30",
+      "alt": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models",
+      "width": 600,
+      "height": 400
+    }
+  },
+  "topStories": [
+    {
+      "text": "Expert Views on Continual Learning: Survey Results and Forecasts",
+      "url": "https://www.lesswrong.com/posts/qZrbhoaEALFTmyidr/expert-views-on-continual-learning-survey-results-and"
+    },
+    {
+      "text": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously"
+    },
+    {
+      "text": "Fable in Shackles",
+      "url": "https://www.lesswrong.com/posts/oCb9jixhhdYmEFcci/fable-in-shackles"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OPENAI AND BROADCOM UNVEIL LLM-OPTIMIZED INFERENCE CHIP",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+    },
+    {
+      "text": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
+    },
+    {
+      "text": "IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO",
+      "url": "https://arxiv.org/abs/2606.23032"
+    },
+    {
+      "text": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=300\u0026q=30",
+        "alt": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Amazon will present its framework for engineering trustworthy AI agents at VB Transform 2026",
+      "url": "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/2f5ok0qUTj8Fi2EaCJgpKO/95e54e4d05a94f6f1912d7fd78032486/Bryan_Silverthorn.png?w=300\u0026q=30",
+        "alt": "Amazon will present its framework for engineering trustworthy AI agents at VB Transform 2026",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data",
+      "url": "https://arxiv.org/abs/2606.24459"
+    },
+    {
+      "text": "Machine Learning and Deep Learning for Exoplanet Detection and Atmospheric Characterization with JWST and the Upcoming Ariel Mission",
+      "url": "https://arxiv.org/abs/2606.23766"
+    },
+    {
+      "text": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "SemChunk-C: Semantic Segmentation for C Code",
+      "url": "https://arxiv.org/abs/2606.23697"
+    },
+    {
+      "text": "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design",
+      "url": "https://arxiv.org/abs/2606.09831"
+    },
+    {
+      "text": "Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural Narratives in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.24610"
+    },
+    {
+      "text": "Synergizing Physically Constrained MCMC and Chemical-Informed Gaussian Processes for Reaction Network Discovery",
+      "url": "https://arxiv.org/abs/2606.23757"
+    },
+    {
+      "text": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models",
+      "url": "https://arxiv.org/abs/2606.24841"
+    },
+    {
+      "text": "Constrained Variable Projection for Structured Problems",
+      "url": "https://arxiv.org/abs/2606.23939"
+    },
+    {
+      "text": "Exploring Dualistic Meta-Learning to Enhance Domain Generalization in Open Set Scenarios",
+      "url": "https://arxiv.org/abs/2606.23758"
+    },
+    {
+      "text": "Assessing Distribution Shift in Human Activity Recognition for Domain Generalization",
+      "url": "https://arxiv.org/abs/2606.24781"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation",
+      "url": "https://arxiv.org/abs/2606.23743"
+    },
+    {
+      "text": "Dual-Anchoring: Addressing State Drift in Vision-Language Navigation",
+      "url": "https://arxiv.org/abs/2604.17473"
+    },
+    {
+      "text": "Random coloured digraphs defined by a Markov logic network",
+      "url": "https://arxiv.org/abs/2606.23715"
+    },
+    {
+      "text": "A man of many words",
+      "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/"
+    },
+    {
+      "text": "I Spent an Hour on a Data Preprocessing Task Before Asking Gemini",
+      "url": "https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"
+    },
+    {
+      "text": "The Era of No-Code AI: What You Need to Know",
+      "url": "https://towardsdatascience.com/the-era-of-no-code-ai-what-you-need-to-know/"
+    },
+    {
+      "text": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant"
+    },
+    {
+      "text": "Build Your Own Local AI Coding Agent with Gemma 4 and OpenCode",
+      "url": "https://towardsdatascience.com/build-your-own-local-ai-coding-agent-with-gemma-4-and-opencode-2/"
+    }
+  ],
+  "lastUpdated": "2026-06-24T17:22:11Z"
+}
