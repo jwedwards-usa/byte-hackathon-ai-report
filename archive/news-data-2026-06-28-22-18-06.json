@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "GPT-5.6: THE SYSTEM CARD",
+    "url": "https://www.lesswrong.com/posts/JFjNmPTbH8kL6xtp6/gpt-5-6-the-system-card"
+  },
+  "topStories": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "What comes with cheap math?",
+      "url": "https://www.lesswrong.com/posts/gS5skwXeeQdStwsPu/what-comes-with-cheap-math"
+    },
+    {
+      "text": "Reinforcement Learning on Forecasting Can Give Us a Superhuman Forecaster",
+      "url": "https://www.lesswrong.com/posts/pQLQ5GMjQP7qKb7HS/reinforcement-learning-on-forecasting-can-give-us-a"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A survey of okayish ASI futures",
+      "url": "https://www.lesswrong.com/posts/CWWJ49h8bs7mHKGCC/a-survey-of-okayish-asi-futures"
+    },
+    {
+      "text": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
+      "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/761C8qLyC2XS0ZV0CCiPFE/d92b04f5a5c0cec56a5612a13d3f7e35/u7277289442_A_modern_interpretation_of_cybersecurity._3D_--ar_f806db26-b93b-427c-b0c9-42caa83dfe92_0.png?w=300\u0026q=30",
+        "alt": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
+    },
+    {
+      "text": "Power Laws in NNs: A Possible Mechanism for Inductive Bias towards Sparse Representations",
+      "url": "https://www.lesswrong.com/posts/QR4AgigAopdz9LvQk/power-laws-in-nns-a-possible-mechanism-for-inductive-bias"
+    },
+    {
+      "text": "Deployment Awareness Matters More Than Evaluation Awareness",
+      "url": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"
+    },
+    {
+      "text": "Quoting Jon Udell",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything"
+    },
+    {
+      "text": "Anthropomorphic Misalignment research needs stronger evidence",
+      "url": "https://www.lesswrong.com/posts/bJcR3yP2avGFuMxyq/anthropomorphic-misalignment-research-needs-stronger-1"
+    },
+    {
+      "text": "Evaluating Offline Monitoring of Internal AI Agents",
+      "url": "https://www.lesswrong.com/posts/yrbyyvFvuaGfRAtB7/evaluating-offline-monitoring-of-internal-ai-agents-2"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "url": "https://github.com/kamaludu/bash4llm/"
+    },
+    {
+      "text": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "url": "https://github.com/JustVugg/nanoeuler"
+    },
+    {
+      "text": "The arithmetic hierarchy of real functions",
+      "url": "https://www.lesswrong.com/posts/kLiJnEfavGAxXfiNr/the-arithmetic-hierarchy-of-real-functions"
+    },
+    {
+      "text": "Do LLMs pass the mirror test?",
+      "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test"
+    },
+    {
+      "text": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "url": "https://deep-reinforce.com/ornith_1_0.html"
+    },
+    {
+      "text": "Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows",
+      "url": "https://towardsdatascience.com/tail-control-the-counterintuitive-engineering-of-reliable-agentic-workflows/"
+    },
+    {
+      "text": "I Pitted XGBoost Against Logistic Regression on 358 Matches. The Boring Model Won.",
+      "url": "https://towardsdatascience.com/i-pitted-xgboost-against-logistic-regression-on-358-matches-the-boring-model-won/"
+    },
+    {
+      "text": "Refusal Is Complicated As Hell: An Update",
+      "url": "https://www.lesswrong.com/posts/tshEdBArLbjhBxwDq/refusal-is-complicated-as-hell-an-update"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+      "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+      "image": {
+        "src": "https://substackcdn.com/image/fetch/$s_!Yzio!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6a1684-d8af-4a82-a0fc-ba65d6a6dde0_1024x576.jpeg",
+        "alt": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "A partner who plays music",
+      "url": "https://www.lesswrong.com/posts/GdcpiegJHoxFs7EXk/a-partner-who-plays-music"
+    },
+    {
+      "text": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router"
+    },
+    {
+      "text": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out"
+    },
+    {
+      "text": "We Built a Routing Layer to Cut Our AI Costs. It Broke the Product.",
+      "url": "https://towardsdatascience.com/we-built-a-routing-layer-to-cut-our-ai-costs-it-broke-the-product/"
+    },
+    {
+      "text": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech"
+    },
+    {
+      "text": "How to Build a Powerful LLM Knowledge Base",
+      "url": "https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/"
+    },
+    {
+      "text": "Anthropic’s Mythos 5 is back",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
+    }
+  ],
+  "lastUpdated": "2026-06-28T22:18:06Z"
+}
