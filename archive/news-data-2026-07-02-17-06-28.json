@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "AI #175: The Fable Continues",
+    "url": "https://www.lesswrong.com/posts/WNvBxtbHuLreFe7af/ai-175-the-fable-continues"
+  },
+  "topStories": [
+    {
+      "text": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
+    },
+    {
+      "text": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
+    },
+    {
+      "text": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/qVrMQLioP4dj7Ghhm3e7u/49e7bb13cdfa856e09d95e52598568e1/ChatGPT_Image_Jul_1__2026__11_08_21_AM.png?w=300\u0026q=30",
+        "alt": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "2026 BAIR Graduate Showcase",
+      "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/"
+    },
+    {
+      "text": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/1kqTMwCRkXa8HuNrzAJwuY/01461a24de4d008b37f601055ced6d8c/H5PkE8d1OK1edwma1Hi9u_b1c5cd6d0b8b4b40a35c257cc6a4a709.png?w=300\u0026q=30",
+        "alt": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Time-Series LLMs, Explained with t0-alpha",
+      "url": "https://towardsdatascience.com/time-series-llms-explained-with-t0-alpha/"
+    },
+    {
+      "text": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
+    },
+    {
+      "text": "Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives",
+      "url": "https://arxiv.org/abs/2606.16511"
+    },
+    {
+      "text": "Beyond the Expressivity-Trainability Paradox: A Dynamical Lie Algebra Perspective on Navigating Barren Plateaus in Quantum Machine Learning",
+      "url": "https://arxiv.org/abs/2606.31536"
+    },
+    {
+      "text": "BEYOND THE PROMPT: JAILBREAKING FUNCTION-CALLING LLMS VIA SIMULATED MODERATION TRACES",
+      "url": "https://arxiv.org/abs/2607.00481"
+    },
+    {
+      "text": "Saving Gemini: The 9-Min Road to Recovery",
+      "url": "https://www.lesswrong.com/posts/eHRo8JeWee5mzQBBR/saving-gemini-the-9-min-road-to-recovery"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Exploring the relationship between team institutional composition and novelty in academic papers based on fine-grained knowledge entities",
+      "url": "https://arxiv.org/abs/2606.31058"
+    },
+    {
+      "text": "Large language model-enabled automated data extraction for concrete materials informatics",
+      "url": "https://arxiv.org/abs/2604.22938"
+    },
+    {
+      "text": "Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm",
+      "url": "https://arxiv.org/abs/2607.00926"
+    },
+    {
+      "text": "Decision-Aware Training for Sample-Based Generative Models",
+      "url": "https://arxiv.org/abs/2607.01171"
+    },
+    {
+      "text": "Controllable Diffusion-Based Lesion Inpainting for Scalable Histopathology Data Augmentation",
+      "url": "https://arxiv.org/abs/2601.08127"
+    },
+    {
+      "text": "Right in the Right Way: LM Training with Verifiable Rewards and Human Demonstrations",
+      "url": "https://arxiv.org/abs/2607.01181"
+    },
+    {
+      "text": "Solution space path planning for supporting en-route air traffic control",
+      "url": "https://arxiv.org/abs/2607.00064"
+    },
+    {
+      "text": "Active Learning for Cascaded Object Detection: Balancing Coverage and Uncertainty in Table Extraction Pipelines",
+      "url": "https://arxiv.org/abs/2607.00747"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Learning When to Listen: Gated Affect Fusion for Human Motion Prediction",
+      "url": "https://arxiv.org/abs/2607.00296"
+    },
+    {
+      "text": "Test-Time Verification for Text-to-SQL via Outcome Reward Models",
+      "url": "https://arxiv.org/abs/2606.30851"
+    },
+    {
+      "text": "Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval",
+      "url": "https://arxiv.org/abs/2607.00374"
+    },
+    {
+      "text": "Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis",
+      "url": "https://arxiv.org/abs/2607.00363"
+    },
+    {
+      "text": "Career Choice: Becoming a Researcher in a Non-EA-Priority Field vs Founding Tech Startup?",
+      "url": "https://www.lesswrong.com/posts/DS8MfCq56sGmLiZda/career-choice-becoming-a-researcher-in-a-non-ea-priority"
+    },
+    {
+      "text": "MIT in the media: Innovating and educating for the next 250 years of America",
+      "url": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america"
+    },
+    {
+      "text": "Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start",
+      "url": "https://towardsdatascience.com/persistent-latent-memory-for-multi-hop-llm-agents-how-a-6g-handover-paper-closes-the-agent-cold-start/"
+    },
+    {
+      "text": "Build and Run Your Own AI Agent in the Cloud",
+      "url": "https://towardsdatascience.com/build-and-run-your-own-ai-agent-in-the-cloud/"
+    }
+  ],
+  "lastUpdated": "2026-07-02T17:06:28Z"
+}
