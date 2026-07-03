@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "AI Futurism Reading List ",
+    "url": "https://www.lesswrong.com/posts/L5fohLhZ7cBwDR55C/ai-futurism-reading-list"
+  },
+  "topStories": [
+    {
+      "text": "AI #175: The Fable Continues",
+      "url": "https://www.lesswrong.com/posts/WNvBxtbHuLreFe7af/ai-175-the-fable-continues"
+    },
+    {
+      "text": "Conversation Among Cade Metz, Michael Vassar, Jessica Taylor, and Zack M. Davis",
+      "url": "https://www.lesswrong.com/posts/MNRZL69FWkjNABd3T/conversation-among-cade-metz-michael-vassar-jessica-taylor"
+    },
+    {
+      "text": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/qVrMQLioP4dj7Ghhm3e7u/49e7bb13cdfa856e09d95e52598568e1/ChatGPT_Image_Jul_1__2026__11_08_21_AM.png?w=300\u0026q=30",
+        "alt": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "2026 BAIR Graduate Showcase",
+      "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/"
+    },
+    {
+      "text": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/1kqTMwCRkXa8HuNrzAJwuY/01461a24de4d008b37f601055ced6d8c/H5PkE8d1OK1edwma1Hi9u_b1c5cd6d0b8b4b40a35c257cc6a4a709.png?w=300\u0026q=30",
+        "alt": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
+    },
+    {
+      "text": "llm-coding-agent 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything"
+    },
+    {
+      "text": "Research update: RL on Debate Games shows Proposal Accuracy uplift alongside Judge Hacking",
+      "url": "https://www.lesswrong.com/posts/6mLwAuFAE98c6R7w3/research-update-rl-on-debate-games-shows-proposal-accuracy"
+    },
+    {
+      "text": "Beyond the Expressivity-Trainability Paradox: A Dynamical Lie Algebra Perspective on Navigating Barren Plateaus in Quantum Machine Learning",
+      "url": "https://arxiv.org/abs/2606.31536"
+    },
+    {
+      "text": "BEYOND THE PROMPT: JAILBREAKING FUNCTION-CALLING LLMS VIA SIMULATED MODERATION TRACES",
+      "url": "https://arxiv.org/abs/2607.00481"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Right in the Right Way: LM Training with Verifiable Rewards and Human Demonstrations",
+      "url": "https://arxiv.org/abs/2607.01181"
+    },
+    {
+      "text": "Triangular Consistency as a Universal Constraint for Learning Optical Flow",
+      "url": "https://arxiv.org/abs/2606.19938"
+    },
+    {
+      "text": "Aionoscope: Debugging Latent-State Accessibility in Time-Series Representations",
+      "url": "https://arxiv.org/abs/2607.00956"
+    },
+    {
+      "text": "Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm",
+      "url": "https://arxiv.org/abs/2607.00926"
+    },
+    {
+      "text": "SkillSelect-Serve: Budget-Controllable and QoS-Aware Skill Service Recommendation and Composition for Small LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00011"
+    },
+    {
+      "text": "Entropy-Regularized Probabilistic Gates for Sparse Model Discovery in Scarce-Data Federated Learning",
+      "url": "https://arxiv.org/abs/2607.00275"
+    },
+    {
+      "text": "Room for Error: Large-Scale Simulation of Over-the-Air Acoustic Attacks",
+      "url": "https://arxiv.org/abs/2606.27701"
+    },
+    {
+      "text": "Zeroth-Order Optimization at the Edge of Stability",
+      "url": "https://arxiv.org/abs/2604.14669"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "NeuroCogMap Reveals Cognitive Organization of Large Language Models",
+      "url": "https://arxiv.org/abs/2607.00397"
+    },
+    {
+      "text": "Measuring Dead Directions: Decomposing and Classifying Singular Structure off Canonical Alignment",
+      "url": "https://arxiv.org/abs/2607.00603"
+    },
+    {
+      "text": "Automatic Detection of Stress from Speech in the Trier Social Stress Test",
+      "url": "https://arxiv.org/abs/2607.00986"
+    },
+    {
+      "text": "Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval",
+      "url": "https://arxiv.org/abs/2607.00374"
+    },
+    {
+      "text": "Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis",
+      "url": "https://arxiv.org/abs/2607.00363"
+    },
+    {
+      "text": "ASPIRE: Agentic /Skills Discovery for Robotics",
+      "url": "https://arxiv.org/abs/2607.00272"
+    },
+    {
+      "text": "Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization",
+      "url": "https://arxiv.org/abs/2607.00796"
+    },
+    {
+      "text": "What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models",
+      "url": "https://arxiv.org/abs/2607.00283"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:24:21Z"
+}
