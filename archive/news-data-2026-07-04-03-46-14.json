@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection",
+    "url": "https://arxiv.org/abs/2512.10485"
+  },
+  "topStories": [
+    {
+      "text": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
+    },
+    {
+      "text": "Fable #6: The Return of the King",
+      "url": "https://www.lesswrong.com/posts/r9HsHHSsfABhhxnYr/fable-6-the-return-of-the-king"
+    },
+    {
+      "text": "Beyond the Expressivity-Trainability Paradox: A Dynamical Lie Algebra Perspective on Navigating Barren Plateaus in Quantum Machine Learning",
+      "url": "https://arxiv.org/abs/2606.31536"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
+    },
+    {
+      "text": "Gravity-Awareness: Deep Learning Models and LLM Simulation of Human Awareness in Altered Gravity",
+      "url": "https://arxiv.org/abs/2511.05536"
+    },
+    {
+      "text": "Predicting Early Stages Of Alzheimer's Disease And Identifying Key Biomarkers Using Deep Artificial Neural Network And Ensemble Of Machine Learning Methodologies",
+      "url": "https://arxiv.org/abs/2607.02142"
+    },
+    {
+      "text": "LLMs as Teaching Assistants for Mathematics Exam Grading: Reliability, and Practical Usability",
+      "url": "https://arxiv.org/abs/2607.01247"
+    },
+    {
+      "text": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+      "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300\u0026q=30",
+        "alt": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Prompt Framing Distorts Count-Based Evaluation of LLM Error Detection: Evidence from Numeric Anchoring",
+      "url": "https://arxiv.org/abs/2607.01240"
+    },
+    {
+      "text": "SCAPE: Accurate and Efficient LLM Training with Extreme Sparse Communication",
+      "url": "https://arxiv.org/abs/2607.01678"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler",
+      "url": "https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/"
+    },
+    {
+      "text": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
+    },
+    {
+      "text": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
+    },
+    {
+      "text": "Beyond Supervised Clarification: Input Rewriting with LLMs for Dialogue Discourse Parsing",
+      "url": "https://arxiv.org/abs/2607.01964"
+    },
+    {
+      "text": "Spec-AUF: Accept-Until-Fail Training under Train-Inference Misalignment for Masked Block Drafters",
+      "url": "https://arxiv.org/abs/2607.01893"
+    },
+    {
+      "text": "Single-Channel EEG-Based Cognitive Load Assessment in Online Learning: A Hybrid Deep Learning Approach",
+      "url": "https://arxiv.org/abs/2607.01795"
+    },
+    {
+      "text": "Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers",
+      "url": "https://arxiv.org/abs/2607.01679"
+    },
+    {
+      "text": "Quantifying the Uncertainty of Blindly Estimated Room Embeddings Using a Dispersion-Calibrated Score",
+      "url": "https://arxiv.org/abs/2607.01527"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "HULAT2 at MER-TRANS 2026: Governed Multi-Agent Simplification for Spanish Easy-to-Read Generation",
+      "url": "https://arxiv.org/abs/2607.02381"
+    },
+    {
+      "text": "CPG-PAD: Concept-Informed Prompts Guided Presentation Attack Detection",
+      "url": "https://arxiv.org/abs/2607.01303"
+    },
+    {
+      "text": "Benchmarking Federated Learning and Knowledge Distillation for Point Cloud Classification",
+      "url": "https://arxiv.org/abs/2607.01272"
+    },
+    {
+      "text": "EHHN: An Event-driven Heterogeneous Hypergraph Network for Object-Centric Next Activity Prediction",
+      "url": "https://arxiv.org/abs/2607.01785"
+    },
+    {
+      "text": "Fully Unsupervised Detection of Physical Contacts on Subsea Cables via State-of-Polarization Monitoring",
+      "url": "https://arxiv.org/abs/2607.01484"
+    },
+    {
+      "text": "Adaptive Group-Based Counterfactual Explanations for Time-Series Rehabilitation Data",
+      "url": "https://arxiv.org/abs/2607.01838"
+    },
+    {
+      "text": "On the Role of Directionality in Structural Generalization",
+      "url": "https://arxiv.org/abs/2607.02307"
+    },
+    {
+      "text": "Audio-Based Understanding of Audiobook Narration Appeal",
+      "url": "https://arxiv.org/abs/2607.02473"
+    }
+  ],
+  "lastUpdated": "2026-07-04T03:46:14Z"
+}
