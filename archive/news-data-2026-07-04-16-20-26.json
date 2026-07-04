@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "The fanfiction community is at war with AI — and itself",
+    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+  },
+  "topStories": [
+    {
+      "text": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+      "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300\u0026q=30",
+        "alt": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/63UxY1M5WET2KFyliCQstB/014b102216bc5911b9c6ab0875400a31/Trunk_Tools.png?w=300\u0026q=30",
+        "alt": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "llm-coding-agent 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything"
+    },
+    {
+      "text": "American AI if the boom is a bubble: the Karp-Zitron scenario",
+      "url": "https://www.lesswrong.com/posts/NcpZ28eDoei3zKCz4/american-ai-if-the-boom-is-a-bubble-the-karp-zitron-scenario"
+    },
+    {
+      "text": "The Reverse AI Box",
+      "url": "https://www.lesswrong.com/posts/jdhp9C8GR9c5X3TLM/the-reverse-ai-box"
+    },
+    {
+      "text": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
+      "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99"
+    },
+    {
+      "text": "I think alignment work is more promising than control work",
+      "url": "https://www.lesswrong.com/posts/dmHbogCFbSp95J3Lz/i-think-alignment-work-is-more-promising-than-control-work"
+    },
+    {
+      "text": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
+    },
+    {
+      "text": "Fable's judgement",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything"
+    },
+    {
+      "text": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+    },
+    {
+      "text": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?",
+      "url": "https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/"
+    },
+    {
+      "text": "Announcing the Safe Pareto Improvements (SPI) Fundamentals Program",
+      "url": "https://www.lesswrong.com/posts/jdbJPk5yL9RcddDrS/announcing-the-safe-pareto-improvements-spi-fundamentals"
+    },
+    {
+      "text": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+    },
+    {
+      "text": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
+    },
+    {
+      "text": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything"
+    },
+    {
+      "text": "Setting Up Your Own Large Language Model",
+      "url": "https://towardsdatascience.com/setting-up-your-own-large-language-model/"
+    },
+    {
+      "text": "Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination",
+      "url": "https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler",
+      "url": "https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/"
+    },
+    {
+      "text": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
+    },
+    {
+      "text": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
+    },
+    {
+      "text": "Fluidity Forum 2026",
+      "url": "https://www.lesswrong.com/events/KGtPqPM2wgCbPJAdk/fluidity-forum-2026"
+    },
+    {
+      "text": "On \"gendertropes\" in dath ilan",
+      "url": "https://www.lesswrong.com/posts/n436eA4cQEr5njCeM/on-gendertropes-in-dath-ilan"
+    },
+    {
+      "text": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "text": "Pragmatic FDT, and predictors as game theory",
+      "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
+    },
+    {
+      "text": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
+    }
+  ],
+  "lastUpdated": "2026-07-04T16:20:26Z"
+}
