@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Reevaluating AI-2027: timelines, takeoff, alignment and China   ",
+    "url": "https://www.lesswrong.com/posts/rMBc5WR3RvWgJdjCC/reevaluating-ai-2027-timelines-takeoff-alignment-and-china"
+  },
+  "topStories": [
+    {
+      "text": "A Normal Argument for AI Risk",
+      "url": "https://www.lesswrong.com/posts/SYqWny4t7zYzkye8K/a-normal-argument-for-ai-risk"
+    },
+    {
+      "text": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
+    },
+    {
+      "text": "A case for LLMs as Self-predictors",
+      "url": "https://www.lesswrong.com/posts/gYGzeDymjZza5NNbH/a-case-for-llms-as-self-predictors"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Success Per Tokens",
+      "url": "https://www.lesswrong.com/posts/rDkaSMFfn4x6Hhkin/success-per-tokens"
+    },
+    {
+      "text": "How America's 250th birthday became a test of AI-powered collective intelligence",
+      "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence"
+    },
+    {
+      "text": "Better Models: Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything"
+    },
+    {
+      "text": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+    },
+    {
+      "text": "Defining interpretation, and establishing a framework for it",
+      "url": "https://www.lesswrong.com/posts/KmtpgtP5RSXebYyT8/defining-interpretation-and-establishing-a-framework-for-it"
+    },
+    {
+      "text": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/63UxY1M5WET2KFyliCQstB/014b102216bc5911b9c6ab0875400a31/Trunk_Tools.png?w=300\u0026q=30",
+        "alt": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+    },
+    {
+      "text": "PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up",
+      "url": "https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/"
+    },
+    {
+      "text": "The case for the fleshman",
+      "url": "https://www.lesswrong.com/posts/FRFwgkbagntygGvBg/the-case-for-the-fleshman"
+    },
+    {
+      "text": "LLM's as a Different Kind of Intelligence",
+      "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/"
+    },
+    {
+      "text": "Results of a small ZBiotics RCT",
+      "url": "https://www.lesswrong.com/posts/kw33A6uYPGRtvD43s/results-of-a-small-zbiotics-rct"
+    },
+    {
+      "text": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition"
+    },
+    {
+      "text": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364"
+    },
+    {
+      "text": "Quoting Josh W. Comeau",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?",
+      "url": "https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/"
+    },
+    {
+      "text": "June 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything"
+    },
+    {
+      "text": "sqlite-utils 4.0rc2",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything"
+    },
+    {
+      "text": "Verizon is About to Break our Watches",
+      "url": "https://www.lesswrong.com/posts/NaNrsogLvWFRkDK8g/verizon-is-about-to-break-our-watches"
+    },
+    {
+      "text": "The Lace (short story)",
+      "url": "https://www.lesswrong.com/posts/enjZrq6g72oH6Gx3F/the-lace-short-story"
+    },
+    {
+      "text": "Building a World Map with only 500 bytes",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
+    },
+    {
+      "text": "Setting Up Your Own Large Language Model",
+      "url": "https://towardsdatascience.com/setting-up-your-own-large-language-model/"
+    },
+    {
+      "text": "Fluidity Forum 2026",
+      "url": "https://www.lesswrong.com/events/KGtPqPM2wgCbPJAdk/fluidity-forum-2026"
+    }
+  ],
+  "lastUpdated": "2026-07-05T14:03:29Z"
+}
