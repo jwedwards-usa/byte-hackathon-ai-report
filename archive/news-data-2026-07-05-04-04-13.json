@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Reevaluating AI-2027: timelines, takeoff, alignment and China   ",
+    "url": "https://www.lesswrong.com/posts/rMBc5WR3RvWgJdjCC/reevaluating-ai-2027-timelines-takeoff-alignment-and-china"
+  },
+  "topStories": [
+    {
+      "text": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
+    },
+    {
+      "text": "A case for LLMs as Self-predictors",
+      "url": "https://www.lesswrong.com/posts/gYGzeDymjZza5NNbH/a-case-for-llms-as-self-predictors"
+    },
+    {
+      "text": "Success Per Tokens",
+      "url": "https://www.lesswrong.com/posts/rDkaSMFfn4x6Hhkin/success-per-tokens"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Better Models: Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything"
+    },
+    {
+      "text": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/"
+    },
+    {
+      "text": "How America's 250th birthday became a test of AI-powered collective intelligence",
+      "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence"
+    },
+    {
+      "text": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+    },
+    {
+      "text": "Results of a small ZBiotics RCT",
+      "url": "https://www.lesswrong.com/posts/kw33A6uYPGRtvD43s/results-of-a-small-zbiotics-rct"
+    },
+    {
+      "text": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition"
+    },
+    {
+      "text": "Exploiting LLM Agent Supply Chains via Payload-Less Skills",
+      "url": "https://arxiv.org/abs/2605.14460"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "I think alignment work is more promising than control work",
+      "url": "https://www.lesswrong.com/posts/dmHbogCFbSp95J3Lz/i-think-alignment-work-is-more-promising-than-control-work"
+    },
+    {
+      "text": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
+    },
+    {
+      "text": "Fable's judgement",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything"
+    },
+    {
+      "text": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+    },
+    {
+      "text": "Building a World Map with only 500 bytes",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
+    },
+    {
+      "text": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364"
+    },
+    {
+      "text": "OpenScience: Workbench for scientific research using custom LLMs",
+      "url": "https://github.com/synthetic-sciences/openscience"
+    },
+    {
+      "text": "The Lace (short story)",
+      "url": "https://www.lesswrong.com/posts/enjZrq6g72oH6Gx3F/the-lace-short-story"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler",
+      "url": "https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/"
+    },
+    {
+      "text": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
+    },
+    {
+      "text": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
+    },
+    {
+      "text": "Verizon is About to Break our Watches",
+      "url": "https://www.lesswrong.com/posts/NaNrsogLvWFRkDK8g/verizon-is-about-to-break-our-watches"
+    },
+    {
+      "text": "Fluidity Forum 2026",
+      "url": "https://www.lesswrong.com/events/KGtPqPM2wgCbPJAdk/fluidity-forum-2026"
+    },
+    {
+      "text": "Approximate Natural Latents Have Exact Prices",
+      "url": "https://www.lesswrong.com/posts/dvJ5Axd4Jei6KRyTX/approximate-natural-latents-have-exact-prices"
+    },
+    {
+      "text": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "text": "Pragmatic FDT, and predictors as game theory",
+      "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"
+    }
+  ],
+  "lastUpdated": "2026-07-05T04:04:13Z"
+}
