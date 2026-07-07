@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
+    "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness"
+  },
+  "topStories": [
+    {
+      "text": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
+    },
+    {
+      "text": "How novice coders can develop AI programs for military applications",
+      "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707"
+    },
+    {
+      "text": "Trying to grok Anthropic's Global Workspace paper and the J-space",
+      "url": "https://www.lesswrong.com/posts/2Ef7zM7eMpAB7nvcR/trying-to-grok-anthropic-s-global-workspace-paper-and-the-j"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning",
+      "url": "https://arxiv.org/abs/2607.04336"
+    },
+    {
+      "text": "GestaltMML: Enhancing Rare Genetic Disease Diagnosis through Multimodal Machine Learning Combining Facial Images and Clinical Text",
+      "url": "https://arxiv.org/abs/2312.15320"
+    },
+    {
+      "text": "A conceptor by any other name",
+      "url": "https://www.lesswrong.com/posts/9aZYJinAyxequjQbn/a-conceptor-by-any-other-name"
+    },
+    {
+      "text": "Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks",
+      "url": "https://arxiv.org/abs/2503.10496"
+    },
+    {
+      "text": "How Utilitarian Are OpenAI's Models Really? Replicating and Reinterpreting Pfeffer, Kr\\\"ugel, and Uhl (2025)",
+      "url": "https://arxiv.org/abs/2603.22730"
+    },
+    {
+      "text": "Defense effectiveness across architectural layers: a mechanistic evaluation of persistent memory attacks on stateful LLM agents",
+      "url": "https://arxiv.org/abs/2605.08442"
+    },
+    {
+      "text": "Full-Stack FP4: Stable LLM Pretraining with Quantized Projections, Optimizers, and Attention",
+      "url": "https://arxiv.org/abs/2607.04422"
+    },
+    {
+      "text": "A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models",
+      "url": "https://arxiv.org/abs/2607.02782"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Explainable Reinforcement Learning for Adaptive Traffic Signal Control",
+      "url": "https://arxiv.org/abs/2607.03703"
+    },
+    {
+      "text": "A Step Towards Robust Unsupervised Domain Adaptation via Fine-Tuning and Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.03600"
+    },
+    {
+      "text": "Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks",
+      "url": "https://arxiv.org/abs/2607.04218"
+    },
+    {
+      "text": "TransitNet: A Compact Attention-Augmented Deep Learning Framework for Low-SNR Transit Blind Searches",
+      "url": "https://arxiv.org/abs/2606.18932"
+    },
+    {
+      "text": "Physics-Informed Graph Learning with Uncertainty Awareness for Open-Set Domain Generalization in Fault Diagnosis",
+      "url": "https://arxiv.org/abs/2607.04188"
+    },
+    {
+      "text": "ChainReaction: Causal Chain-Guided Reasoning for Modular and Explainable Causal-Why Video Question Answering",
+      "url": "https://arxiv.org/abs/2508.21010"
+    },
+    {
+      "text": "Demonstrating Generalization Failures via Mixtures of Conditional Policies",
+      "url": "https://arxiv.org/abs/2607.03478"
+    },
+    {
+      "text": "Lect\\=uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
+      "url": "https://arxiv.org/abs/2606.16428"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning",
+      "url": "https://arxiv.org/abs/2607.02963"
+    },
+    {
+      "text": "CuBAS: Information Geometric Curvature-Based Adaptive Sampling for Supervised Classification",
+      "url": "https://arxiv.org/abs/2607.03145"
+    },
+    {
+      "text": "MatPhaseBench: A Semantics-Guided Benchmark for Materials Phase Diagrams Understanding",
+      "url": "https://arxiv.org/abs/2607.02934"
+    },
+    {
+      "text": "Understanding Agent-Based Patching of Compiler Missed Optimizations",
+      "url": "https://arxiv.org/abs/2607.02370"
+    },
+    {
+      "text": "GAP-GDRNet: Geometry-Aware Monocular Visual Pose Sensing on a Single-Target Synthetic Spacecraft Dataset",
+      "url": "https://arxiv.org/abs/2607.02360"
+    },
+    {
+      "text": "Bootstrap Flow-Map Tree Sampling Enables Online Feedback Driven Search",
+      "url": "https://arxiv.org/abs/2607.02915"
+    },
+    {
+      "text": "TIER: Trajectory-Invariant Explanation Regularization for Membership Privacy",
+      "url": "https://arxiv.org/abs/2607.02903"
+    },
+    {
+      "text": "Differential Amplifier-Inspired AmpAttention for Multi-View Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2607.02845"
+    }
+  ],
+  "lastUpdated": "2026-07-07T17:34:44Z"
+}
