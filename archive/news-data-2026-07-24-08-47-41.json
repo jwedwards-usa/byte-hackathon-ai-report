@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop ",
+    "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+    "image": {
+      "src": "https://images.ctfassets.net/jdtwqhzvc2n1/4j8qxL7Wc3EDLHQPUQjpUD/90a64f52fbda243e304a6e28dc556320/ChatGPT_Image_Jul_23__2026__03_54_24_PM.png?w=300\u0026q=30",
+      "alt": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop ",
+      "width": 600,
+      "height": 400
+    }
+  },
+  "topStories": [
+    {
+      "text": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+      "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai"
+    },
+    {
+      "text": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+    },
+    {
+      "text": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
+      "url": "https://arxiv.org/abs/2607.20759"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting",
+      "url": "https://arxiv.org/abs/2607.21200"
+    },
+    {
+      "text": "Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2607.20814"
+    },
+    {
+      "text": "Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs",
+      "url": "https://arxiv.org/abs/2607.21291"
+    },
+    {
+      "text": "[LINKPOST] THOUGHTS ON THE RECENT OPENAI HACK",
+      "url": "https://www.lesswrong.com/posts/9vAFajDD3iLgs9vi4/linkpost-thoughts-on-the-recent-openai-hack"
+    },
+    {
+      "text": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything"
+    },
+    {
+      "text": "AI Security Policy Should Assess Systems, Not Only Models",
+      "url": "https://arxiv.org/abs/2605.09504"
+    },
+    {
+      "text": "Position Bias is Hidden Behind Ceiling Effects: A Permutation Diagnostic for LLM Benchmarks",
+      "url": "https://arxiv.org/abs/2607.20864"
+    },
+    {
+      "text": "SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety",
+      "url": "https://arxiv.org/abs/2605.05704"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Safeguards for Speech2Speech LLM-Assistants: A Case Study in Automotive Applications",
+      "url": "https://arxiv.org/abs/2607.21180"
+    },
+    {
+      "text": "Phonetic forced alignment for low-resource language varieties: Model training and evaluation on Chengdu Mandarin",
+      "url": "https://arxiv.org/abs/2607.21332"
+    },
+    {
+      "text": "Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery",
+      "url": "https://arxiv.org/abs/2607.20857"
+    },
+    {
+      "text": "QuantiBias: Benchmarking Quantization-Induced Bias in LLMs",
+      "url": "https://arxiv.org/abs/2607.21063"
+    },
+    {
+      "text": "WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance",
+      "url": "https://arxiv.org/abs/2511.12997"
+    },
+    {
+      "text": "Workflow-Localized Mechanism Learning: Attribution-Guided Repair and Knowledge Reuse for Structured Agent Skills",
+      "url": "https://arxiv.org/abs/2607.20999"
+    },
+    {
+      "text": "SR-TTT Does Not Learn Retrieval: A Correction and Mechanistic Post-Mortem of Surprisal-Aware Residual Test-Time Training",
+      "url": "https://arxiv.org/abs/2603.06642"
+    },
+    {
+      "text": "Automated Synthesis and Adversarial Validation of Executable Causal Research Pipelines",
+      "url": "https://arxiv.org/abs/2607.21173"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Naver-News-KO: A Korean News Summarization Dataset for Open-Source Fine-Tuning of Summarization Models",
+      "url": "https://arxiv.org/abs/2607.20442"
+    },
+    {
+      "text": "The Boundaries of Automation: A Theory of Persistent Human Participation",
+      "url": "https://arxiv.org/abs/2607.21547"
+    },
+    {
+      "text": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
+      "url": "https://arxiv.org/abs/2607.21461"
+    },
+    {
+      "text": "Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation",
+      "url": "https://arxiv.org/abs/2607.21101"
+    },
+    {
+      "text": "Beyond Independent Optimization: Compression, MoE Routing, and Quantization Interactions in Multimodal Edge Intelligence",
+      "url": "https://arxiv.org/abs/2607.20981"
+    },
+    {
+      "text": "Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents",
+      "url": "https://arxiv.org/abs/2607.20972"
+    },
+    {
+      "text": "From Scalars to Time Series: Rethinking Implicit Neural Representations for Time-Varying Volumetric Data",
+      "url": "https://arxiv.org/abs/2607.20970"
+    },
+    {
+      "text": "OPOD: On-Policy Omni Distillation",
+      "url": "https://arxiv.org/abs/2607.20918"
+    }
+  ],
+  "lastUpdated": "2026-07-24T08:47:41Z"
+}
