@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Untrusted advice for AI control: Short, strong advice significantly uplifts weak LLMs",
+    "url": "https://www.lesswrong.com/posts/jLkRCK35ri2btEHMF/untrusted-advice-for-ai-control-short-strong-advice"
+  },
+  "topStories": [
+    {
+      "text": "Simulated Users \u0026 Sad AIs",
+      "url": "https://www.lesswrong.com/posts/i64hXdkTMtjpsQzaZ/simulated-users-and-sad-ais"
+    },
+    {
+      "text": "Not All LLM Reasoning is Visible in the Chain-of-Thought",
+      "url": "https://arxiv.org/abs/2607.22925"
+    },
+    {
+      "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
+      "url": "https://arxiv.org/abs/2602.01553"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Claude Opus 5: Model Welfare",
+      "url": "https://www.lesswrong.com/posts/bBXBpsyKAvJ5CqPzA/claude-opus-5-model-welfare"
+    },
+    {
+      "text": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
+      "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs"
+    },
+    {
+      "text": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+    },
+    {
+      "text": "Graph-Theoretic Neural Network Fragmentation with Covariant Direct Molecular Force Learning: Enabling Coupled-Cluster Accuracy AIMD for Fluxional Systems",
+      "url": "https://arxiv.org/abs/2607.21779"
+    },
+    {
+      "text": "Ensembling LLM-Induced Decision Trees for Explainable and Robust Error Detection",
+      "url": "https://arxiv.org/abs/2512.07246"
+    },
+    {
+      "text": "Guiding Language Models to Be More Empathetic: Culturally Sensitive Mental Health Advice Generation Through Human-LLM Collaboration",
+      "url": "https://arxiv.org/abs/2607.23538"
+    },
+    {
+      "text": "EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures",
+      "url": "https://arxiv.org/abs/2606.30219"
+    },
+    {
+      "text": "Modeling Memory-Dependent Reliability of LLMs: A Hidden Markov Model",
+      "url": "https://arxiv.org/abs/2607.22951"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Principles and Guidelines for Randomized Controlled Trials in AI Evaluation",
+      "url": "https://arxiv.org/abs/2605.02050"
+    },
+    {
+      "text": "Corner Reflector Array Jamming Discrimination Using Multi-Dimensional Micro-Motion Features with Frequency Agile Radar",
+      "url": "https://arxiv.org/abs/2604.16008"
+    },
+    {
+      "text": "Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty",
+      "url": "https://arxiv.org/abs/2604.25897"
+    },
+    {
+      "text": "Two Regimes of Chain-of-Thought Unfaithfulness: Behavioral Detection Fails Where Models Are Wrong",
+      "url": "https://arxiv.org/abs/2607.23458"
+    },
+    {
+      "text": "Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks",
+      "url": "https://arxiv.org/abs/2410.02596"
+    },
+    {
+      "text": "Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting",
+      "url": "https://arxiv.org/abs/2607.22890"
+    },
+    {
+      "text": "A Defense of the Quadratic Model",
+      "url": "https://arxiv.org/abs/2607.21716"
+    },
+    {
+      "text": "Fairness Interventions in Classification: A Study on AI Explainability",
+      "url": "https://arxiv.org/abs/2407.14766"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "DSTFView: Multi-View Cloud-Edge Workload Forecasting with Dual-Input Spatio-Temporal-Frequency Modeling",
+      "url": "https://arxiv.org/abs/2607.22565"
+    },
+    {
+      "text": "DRP-FLR: Data-Driven Assessment of Demand Response Potential for Flexible Load Regulation in Smart Grids",
+      "url": "https://arxiv.org/abs/2607.22590"
+    },
+    {
+      "text": "Restoration Flow Matching-Based Channel Refinement and Equalization Correction for MIMO Semantic Communications",
+      "url": "https://arxiv.org/abs/2607.23615"
+    },
+    {
+      "text": "Masked Autoencoders Learn Perception-Relevant Representations from Resting State Neural Data",
+      "url": "https://arxiv.org/abs/2607.22615"
+    },
+    {
+      "text": "Hard Guarantees at a Measured Price: Entropy-Stable Learned Finite Volumes for Compressible Flow",
+      "url": "https://arxiv.org/abs/2607.20171"
+    },
+    {
+      "text": "Topological Data Analysis and Graph-Theoretic Approaches for Tennis Match Prediction",
+      "url": "https://arxiv.org/abs/2607.23509"
+    },
+    {
+      "text": "Impute On-Demand: Adaptive Correlated Time Series Imputation for Changing Environments",
+      "url": "https://arxiv.org/abs/2607.23503"
+    },
+    {
+      "text": "AutoCluster, AutoTopicModeling, AutoTrendAnalysis: A Complete AutoML Pipeline for Predicting Emerging Trends",
+      "url": "https://arxiv.org/abs/2607.22641"
+    }
+  ],
+  "lastUpdated": "2026-07-28T08:57:26Z"
+}
