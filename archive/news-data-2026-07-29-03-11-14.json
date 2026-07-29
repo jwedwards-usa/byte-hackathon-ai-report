@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI Safety Funder Bulletin",
+    "url": "https://www.lesswrong.com/posts/GuwpKBEZwpw3ySmox/ai-safety-funder-bulletin"
+  },
+  "topStories": [
+    {
+      "text": "OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries",
+      "url": "https://arxiv.org/abs/2509.02594"
+    },
+    {
+      "text": "Claude Opus 5 Is Highly Capable, But Is No Mythos",
+      "url": "https://www.lesswrong.com/posts/Pj4Eewb4KXvXFCcGv/claude-opus-5-is-highly-capable-but-is-no-mythos"
+    },
+    {
+      "text": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
+      "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything"
+    },
+    {
+      "text": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+    },
+    {
+      "text": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+    },
+    {
+      "text": "What use is prompting if there's ASI?",
+      "url": "https://www.lesswrong.com/posts/ybwCdWvfHpBudytyC/what-use-is-prompting-if-there-s-asi"
+    },
+    {
+      "text": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
+      "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible"
+    },
+    {
+      "text": "Generative Artificial Intelligence (GenAI) to convert images of queuing networks into verifiable simulation models: an open-weight LLM workflow approach",
+      "url": "https://arxiv.org/abs/2607.24259"
+    },
+    {
+      "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
+      "url": "https://arxiv.org/abs/2602.01553"
+    },
+    {
+      "text": "Not All LLM Reasoning is Visible in the Chain-of-Thought",
+      "url": "https://arxiv.org/abs/2607.22925"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Co-Evolving Graph and Text Memory for Training-Free Multi-Hop Question Answering",
+      "url": "https://arxiv.org/abs/2607.23278"
+    },
+    {
+      "text": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
+      "url": "https://arxiv.org/abs/2606.07722"
+    },
+    {
+      "text": "BERT-based Models vs. Large Language Models for Low-Resource Named Entity Recognition: A Comparative Study on Marathi",
+      "url": "https://arxiv.org/abs/2607.23344"
+    },
+    {
+      "text": "Intent-Governed Tool Authorization for AI Agents",
+      "url": "https://arxiv.org/abs/2606.22916"
+    },
+    {
+      "text": "TRACE-CTI: Auditable Post-Extraction Governance of TTP Claims with Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2607.24563"
+    },
+    {
+      "text": "Constrained Reinforcement Learning Using Successor Representations",
+      "url": "https://arxiv.org/abs/2607.24057"
+    },
+    {
+      "text": "Capacity-Aware Deep Learning for Generalizable Traffic Volume Estimation Across Links and Cities",
+      "url": "https://arxiv.org/abs/2607.24056"
+    },
+    {
+      "text": "Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting",
+      "url": "https://arxiv.org/abs/2607.22890"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "From Execution to Capability: Scientific Experience Consolidation via Procedural Knowledge Synthesis",
+      "url": "https://arxiv.org/abs/2607.24459"
+    },
+    {
+      "text": "Characterisation of Density-based FM generation methods in the context of Information Fusion",
+      "url": "https://arxiv.org/abs/2607.23243"
+    },
+    {
+      "text": "AgentOmnia: Scaling Agentic Models for Full-Scenario Applications",
+      "url": "https://arxiv.org/abs/2607.23124"
+    },
+    {
+      "text": "SQBench: A Benchmark for Evaluating Task Delivery by Language-Model Agents in Production-Oriented Workflows",
+      "url": "https://arxiv.org/abs/2607.23123"
+    },
+    {
+      "text": "Hierarchical Group-Conditional Conformal Risk Control for Selective Prediction in Language Models",
+      "url": "https://arxiv.org/abs/2607.24562"
+    },
+    {
+      "text": "Stress-testing large language model agents in a robotic chemistry laboratory",
+      "url": "https://arxiv.org/abs/2607.23045"
+    },
+    {
+      "text": "Design Theater: A Benchmark for Generative UI",
+      "url": "https://arxiv.org/abs/2607.22928"
+    },
+    {
+      "text": "What Can Be Enforced? A Theory of Certified Runtime Safety for Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2607.22868"
+    }
+  ],
+  "lastUpdated": "2026-07-29T03:11:14Z"
+}
