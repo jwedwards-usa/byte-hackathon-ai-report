@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Making benchmarks outputs directly useful for AI safety and security",
+    "url": "https://www.lesswrong.com/posts/SLPLrNSa75PdefgWb/making-benchmarks-outputs-directly-useful-for-ai-safety-and"
+  },
+  "topStories": [
+    {
+      "text": "Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research",
+      "url": "https://arxiv.org/abs/2501.14546"
+    },
+    {
+      "text": "MANY-BODY TIPPING DYNAMICS OF CHATGPT-LIKE AIS",
+      "url": "https://arxiv.org/abs/2607.25279"
+    },
+    {
+      "text": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
+      "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+    },
+    {
+      "text": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
+    },
+    {
+      "text": "We’re running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning"
+    },
+    {
+      "text": "Chart-Supported or Model-Supplied? Examining MLLM-Generated Claims for Accessible Visualization",
+      "url": "https://arxiv.org/abs/2607.25021"
+    },
+    {
+      "text": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+    },
+    {
+      "text": "RL \u0026 search is a terrifying way to build AGI (an FAQ)",
+      "url": "https://www.alignmentforum.org/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Do LoRA Read Directions Encode Visual Concepts?",
+      "url": "https://www.lesswrong.com/posts/nWygtY83HvAu58r64/do-lora-read-directions-encode-visual-concepts"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "NEXT: Reasoning-Driven Video Recommendation via a Vision-Language Model",
+      "url": "https://arxiv.org/abs/2607.24789"
+    },
+    {
+      "text": "Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems",
+      "url": "https://arxiv.org/abs/2607.24865"
+    },
+    {
+      "text": "Quantum Speedups for Stochastic Optimization with Heavy-Tailed Noise",
+      "url": "https://arxiv.org/abs/2607.25492"
+    },
+    {
+      "text": "From Training to Deployment: Post-Hoc Causal Feature Identification via Sensitivity Ratios",
+      "url": "https://arxiv.org/abs/2607.25546"
+    },
+    {
+      "text": "Towards Real-World RUL Prediction for Aircraft Compressors Under Variable Conditions with Physics-Guided Domain Adaptation",
+      "url": "https://arxiv.org/abs/2607.24809"
+    },
+    {
+      "text": "Data-Dependent Regret and Polyak Corrections for Constrained Online Convex Optimization",
+      "url": "https://arxiv.org/abs/2607.25480"
+    },
+    {
+      "text": "CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model",
+      "url": "https://arxiv.org/abs/2607.25487"
+    },
+    {
+      "text": "Bits and Memories: Measuring Verbatim Extraction Across LLM Quantization",
+      "url": "https://arxiv.org/abs/2607.25451"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
+      "url": "https://arxiv.org/abs/2607.26023"
+    },
+    {
+      "text": "Sharpness-Aware Minimization and Muon: Robustness under the Spectral Norm",
+      "url": "https://arxiv.org/abs/2607.26001"
+    },
+    {
+      "text": "Untrusted Authors, Trusted Answers: A Calculus of Fidelity-Graded Translations",
+      "url": "https://arxiv.org/abs/2607.14137"
+    },
+    {
+      "text": "Mind the Missing Split: Resolving Feature Heterogeneity in Swarm Learning with Random Forests",
+      "url": "https://arxiv.org/abs/2607.25538"
+    },
+    {
+      "text": "OrthKD: Extracting Generalized Clinical Knowledge from Heterogeneous Teachers for Lightweight Deployment",
+      "url": "https://arxiv.org/abs/2607.25545"
+    },
+    {
+      "text": "DRIFT: Direct-Recursive Intervention-Conditioned Forecasting of ICU Physiological Trajectories",
+      "url": "https://arxiv.org/abs/2607.25864"
+    },
+    {
+      "text": "REPREC: Representation Driven Parameter-Efficient Recommendation System",
+      "url": "https://arxiv.org/abs/2607.24845"
+    },
+    {
+      "text": "…but have the weights left the server?",
+      "url": "https://www.lesswrong.com/posts/EDQE3fgFyxW7H6sy6/but-have-the-weights-left-the-server"
+    }
+  ],
+  "lastUpdated": "2026-07-29T14:35:33Z"
+}
