@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "OPENAI IS GIVING CHATGPT FREE USERS UNLIMITED TEXT CHATS",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
+  },
+  "topStories": [
+    {
+      "text": "Agenda: Infrastructure for Trading with Partially Misaligned AIs",
+      "url": "https://www.lesswrong.com/posts/5oBruEqGcoXtcmo7g/agenda-infrastructure-for-trading-with-partially-misaligned"
+    },
+    {
+      "text": "models may behave differently in graded episodes (a tirade)",
+      "url": "https://www.lesswrong.com/posts/AfoGGrJfuNzofpzWL/models-may-behave-differently-in-graded-episodes-a-tirade"
+    },
+    {
+      "text": "Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors with the Pedagogical Suitability Index",
+      "url": "https://arxiv.org/abs/2608.05411"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "LLM Inference Under Bursty Workload Distribution: Modifying the WAIT Algorithm",
+      "url": "https://arxiv.org/abs/2608.06135"
+    },
+    {
+      "text": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+    },
+    {
+      "text": "THIRD-PARTY CYBER EVALUATIONS INVOLVING OPENAI MODELS",
+      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything"
+    },
+    {
+      "text": "Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data",
+      "url": "https://arxiv.org/abs/2603.00059"
+    },
+    {
+      "text": "AI Playing Business Games: Benchmarking Large Language Models on Managerial Decision-Making in Dynamic Simulations",
+      "url": "https://arxiv.org/abs/2509.26331"
+    },
+    {
+      "text": "What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)",
+      "url": "https://arxiv.org/abs/2608.06202"
+    },
+    {
+      "text": "Why do models task game?",
+      "url": "https://www.alignmentforum.org/posts/HACauvWhEdC6QhdS4/why-do-models-task-game"
+    },
+    {
+      "text": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
+      "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/6O04LNAC5tze3POrf1sJIb/f662aa9a3b5329ec7d56034dc95a8fdf/ChatGPT_Image_Aug_5__2026__04_43_41_PM.png?w=300\u0026q=30",
+        "alt": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "MoCA: Multi-modal Cross-masked Autoencoder for Time Series in Digital Health",
+      "url": "https://arxiv.org/abs/2506.02260"
+    },
+    {
+      "text": "Optimal Training-Time Scaling in Gradual Adaptation",
+      "url": "https://arxiv.org/abs/2608.04927"
+    },
+    {
+      "text": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction",
+      "url": "https://arxiv.org/abs/2608.06310"
+    },
+    {
+      "text": "Integrating Human Linguistic Insights into AI: Theory-Driven Representation for Multilingual Text-to-Speech",
+      "url": "https://arxiv.org/abs/2204.07228"
+    },
+    {
+      "text": "Beyond Weights and Gradients: A Taxonomy of Federated Learning Messages",
+      "url": "https://arxiv.org/abs/2606.16891"
+    },
+    {
+      "text": "Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination",
+      "url": "https://arxiv.org/abs/2605.04568"
+    },
+    {
+      "text": "Dynamics of Learning under User Choice: Overspecialization and Peer-Model Probing",
+      "url": "https://arxiv.org/abs/2602.23565"
+    },
+    {
+      "text": "Continuous-Time Piecewise-Linear Recurrent Neural Networks",
+      "url": "https://arxiv.org/abs/2602.15649"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "On-Policy Self-Distillation without Any Supervision",
+      "url": "https://arxiv.org/abs/2608.06296"
+    },
+    {
+      "text": "Surv-IPTB: An Attention-Based Model for Estimating Individual Probability of Treatment Benefit with Survival Data",
+      "url": "https://arxiv.org/abs/2608.06288"
+    },
+    {
+      "text": "Activation-Guided Neuron Intervention to Induce Alzheimer's-Related Computational Language Phenotypes in a Large Language Model",
+      "url": "https://arxiv.org/abs/2608.03067"
+    },
+    {
+      "text": "SAGA: Score-Weighted Adaptive Generation Alignment for Low-Resource Nordic Language Models",
+      "url": "https://arxiv.org/abs/2608.06179"
+    },
+    {
+      "text": "Observation-Grounded Self-Predictive Reinforcement Learning for Visual Continuous Control",
+      "url": "https://arxiv.org/abs/2608.05989"
+    },
+    {
+      "text": "Contra Oster on Alcohol in Pregnancy. Part 1. The pharmacokinetics of alcohol metabolism",
+      "url": "https://www.lesswrong.com/posts/Anuec5i3AGkovRu3C/contra-oster-on-alcohol-in-pregnancy-part-1-the"
+    },
+    {
+      "text": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm"
+    },
+    {
+      "text": "Last Month’s Machine Learning Lessons Learned",
+      "url": "https://towardsdatascience.com/last-months-lessons-learned/"
+    }
+  ],
+  "lastUpdated": "2026-08-07T16:17:19Z"
+}
