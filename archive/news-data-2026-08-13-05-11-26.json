@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Dual-Model Sentiment Analysis of Consumer Reviews in the Retail Coffee Sector Using Machine Learning and Deep Learning Approaches",
+    "url": "https://arxiv.org/abs/2608.12007"
+  },
+  "topStories": [
+    {
+      "text": "HOW ORGANIZATIONS USE AI: EVIDENCE FROM CHATGPT",
+      "url": "https://arxiv.org/abs/2608.12236"
+    },
+    {
+      "text": "Clinical Feasibility of Low-Magnification Fluorescence Imaging for Breast Cancer Margin Detection Using Texture Analysis and Deep Learning",
+      "url": "https://arxiv.org/abs/2608.11317"
+    },
+    {
+      "text": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "CHATGPT AND GEMINI BOTH JUST PASSED 1 BILLION USERS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
+    },
+    {
+      "text": "Measuring Eval Awareness: The Realism Win Rate is Fragile",
+      "url": "https://www.lesswrong.com/posts/pGGdLGZ9uJFSo5GN3/measuring-eval-awareness-the-realism-win-rate-is-fragile"
+    },
+    {
+      "text": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+      "url": "https://arxiv.org/abs/2608.12299"
+    },
+    {
+      "text": "Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology",
+      "url": "https://arxiv.org/abs/2608.11420"
+    },
+    {
+      "text": "Beyond Representational Similarity: Source-Conditioned Description-Length Gain for Generative Plagiarism Detection and Candidate Source Reranking",
+      "url": "https://arxiv.org/abs/2608.03859"
+    },
+    {
+      "text": "Uncertainty-Aware and Explainable Ensemble Deep Learning Framework for Multi-Class Skin Lesion Classification",
+      "url": "https://arxiv.org/abs/2608.11280"
+    },
+    {
+      "text": "A corpus-specific clinical RAG system matches or outperforms newer frontier LLMs on HealthBench",
+      "url": "https://arxiv.org/abs/2608.12138"
+    },
+    {
+      "text": "Advancing MLLM-based UAV Image Understanding and Reasoning: A Benchmark and a Training-Free Multi-Agent System",
+      "url": "https://arxiv.org/abs/2608.11738"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "CLEAR: Class-wise Expert Aggregation with Structured Sampling for Long-Tailed Classification",
+      "url": "https://arxiv.org/abs/2608.11287"
+    },
+    {
+      "text": "Socioduality: A Relational Process Framework for Human-AI Interaction",
+      "url": "https://arxiv.org/abs/2608.11322"
+    },
+    {
+      "text": "Dual-Domain Cross-Modal Decoding for Clinical Text-Guided Medical Image Segmentation",
+      "url": "https://arxiv.org/abs/2608.11335"
+    },
+    {
+      "text": "Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling",
+      "url": "https://arxiv.org/abs/2603.24567"
+    },
+    {
+      "text": "Post-Training with Policy Gradients: Optimality and the Base Model Barrier",
+      "url": "https://arxiv.org/abs/2603.06957"
+    },
+    {
+      "text": "Governing Agentic AI in FinTech",
+      "url": "https://arxiv.org/abs/2608.11344"
+    },
+    {
+      "text": "LazyTrain: Limited-resource Allocation toward Zero-waste Yield Optimization in Large Language Model Training",
+      "url": "https://arxiv.org/abs/2608.11919"
+    },
+    {
+      "text": "Uncertainty-Aware Probabilistic Constrained Clustering from Entangled Pairwise Supervision",
+      "url": "https://arxiv.org/abs/2608.12027"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "url": "https://arxiv.org/abs/2608.11211"
+    },
+    {
+      "text": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+      "url": "https://arxiv.org/abs/2608.12282"
+    },
+    {
+      "text": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+      "url": "https://arxiv.org/abs/2608.12304"
+    },
+    {
+      "text": "Marco-Voice Technical Report",
+      "url": "https://arxiv.org/abs/2508.02038"
+    },
+    {
+      "text": "Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization",
+      "url": "https://arxiv.org/abs/2608.10798"
+    },
+    {
+      "text": "FLARE++: Low-rank attention with dynamic attention routing",
+      "url": "https://arxiv.org/abs/2608.11519"
+    },
+    {
+      "text": "TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation",
+      "url": "https://arxiv.org/abs/2608.11236"
+    },
+    {
+      "text": "Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory Utilization",
+      "url": "https://arxiv.org/abs/2608.11239"
+    }
+  ],
+  "lastUpdated": "2026-08-13T05:11:26Z"
+}
