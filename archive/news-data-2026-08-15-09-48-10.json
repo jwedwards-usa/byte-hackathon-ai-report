@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Rerunning AI safety papers on every frontier release would be pretty easy and valuable",
+    "url": "https://www.lesswrong.com/posts/oKxc8maZGtnzgpNzx/rerunning-ai-safety-papers-on-every-frontier-release-would-1"
+  },
+  "topStories": [
+    {
+      "text": "Rule of Thumb: Explaining Artificial Intelligence Systems using Partial Information",
+      "url": "https://arxiv.org/abs/2608.10766"
+    },
+    {
+      "text": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
+      "url": "https://arxiv.org/abs/2608.13428"
+    },
+    {
+      "text": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Security and Detectability Analysis of Unicode Text Watermarking Methods against Large Language Models",
+      "url": "https://arxiv.org/abs/2512.13325"
+    },
+    {
+      "text": "What Drives LLM Self-Reflection? A Controlled Ablation of Uncertainty Routing in Armed Conflict Forecasting",
+      "url": "https://arxiv.org/abs/2608.12322"
+    },
+    {
+      "text": "Rules or Character? Scaling Laws for AI Safety Design",
+      "url": "https://arxiv.org/abs/2608.13345"
+    },
+    {
+      "text": "Red vs Blue, but for Evals",
+      "url": "https://www.lesswrong.com/posts/CjcQ6WWy7LLBFrEah/red-vs-blue-but-for-evals"
+    },
+    {
+      "text": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/2hiXA5MTlT6U93qXfs9J8Q/e9a84e4962a92f6170fb5761a78b3d5f/Gemini_Generated_Image_9mr5qd9mr5qd9mr5.png?w=300\u0026q=30",
+        "alt": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2412.17228"
+    },
+    {
+      "text": "Algebraic Decomposition Theory for Transformer Length Generalization",
+      "url": "https://arxiv.org/abs/2608.13433"
+    },
+    {
+      "text": "StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2608.13317"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+      "url": "https://arxiv.org/abs/2608.12590"
+    },
+    {
+      "text": "SkillShapley: Boundary-Adaptive Shapley Valuation for Skill Step Attribution in LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13173"
+    },
+    {
+      "text": "Teach the Magnitude, Not the Direction: Verifier-Bounded Credit Assignment for Multi-Turn Multi-step LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13179"
+    },
+    {
+      "text": "In-context superposition: human-like working memory interference in large language models",
+      "url": "https://arxiv.org/abs/2604.09670"
+    },
+    {
+      "text": "Capability Sheaves for Compositional Agent-Harness Repair: Controlled Quotients and a Real-Repository Stress Test",
+      "url": "https://arxiv.org/abs/2608.13228"
+    },
+    {
+      "text": "Interpretable Causal Discovery via Causal-Effect Constraints",
+      "url": "https://arxiv.org/abs/2608.12640"
+    },
+    {
+      "text": "Sovereign by necessity? Frontier AI export controls, cyber security, and the limits of national AI capability",
+      "url": "https://arxiv.org/abs/2608.13272"
+    },
+    {
+      "text": "Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision",
+      "url": "https://arxiv.org/abs/2608.13283"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "PseudoMapLabeler: Confidence-Aware Pseudo-Label Generation for Semi-Supervised Online Mapping",
+      "url": "https://arxiv.org/abs/2608.12600"
+    },
+    {
+      "text": "Fast and Memory-Efficient Wavelet Convolutions via I/O-Aware Reformulation",
+      "url": "https://arxiv.org/abs/2608.10805"
+    },
+    {
+      "text": "LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning",
+      "url": "https://arxiv.org/abs/2608.13344"
+    },
+    {
+      "text": "ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models",
+      "url": "https://arxiv.org/abs/2608.13438"
+    },
+    {
+      "text": "From Atomic Evidence to Logical Composition: Structured Compositional Reasoning over Compound Answer Options",
+      "url": "https://arxiv.org/abs/2608.12836"
+    },
+    {
+      "text": "Demand Transfer Estimation at Scale via Restricted Logit Modeling",
+      "url": "https://arxiv.org/abs/2608.12680"
+    },
+    {
+      "text": "SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups",
+      "url": "https://arxiv.org/abs/2607.27431"
+    },
+    {
+      "text": "Fast A/B/n Testing: Exact Multi-Policy Comparison via Tree-Coupled Feedback Sharing",
+      "url": "https://arxiv.org/abs/2608.12831"
+    }
+  ],
+  "lastUpdated": "2026-08-15T09:48:10Z"
+}
