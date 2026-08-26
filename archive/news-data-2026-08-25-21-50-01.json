@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Your brain on AI",
+    "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/"
+  },
+  "topStories": [
+    {
+      "text": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/"
+    },
+    {
+      "text": "Sampura Research: Human-AI Complementarity for Alignment",
+      "url": "https://www.lesswrong.com/posts/A8Cyax9Zoa4sEm86D/sampura-research-human-ai-complementarity-for-alignment"
+    },
+    {
+      "text": "From Mastery Profile to Simulated Response: Stochastic Student Knowledge Graphs (SSKG) for Faithful LLM Student Simulation",
+      "url": "https://arxiv.org/abs/2608.21668"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted"
+    },
+    {
+      "text": "Nova: An End-to-End MLIR Compiler for Deep Learning",
+      "url": "https://arxiv.org/abs/2608.00029"
+    },
+    {
+      "text": "Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness",
+      "url": "https://arxiv.org/abs/2608.10008"
+    },
+    {
+      "text": "Rogue AI Agents: Is Surface-Level Monitoring Enough?",
+      "url": "https://www.lesswrong.com/posts/Zd4zNxHoJwZmmuLrq/rogue-ai-agents-is-surface-level-monitoring-enough"
+    },
+    {
+      "text": "INTRODUCING THE ADMIN PLUGIN FOR CHATGPT WORK AND CODEX",
+      "url": "https://openai.com/index/introducing-admin-plugin"
+    },
+    {
+      "text": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "MIT tech powered the Artemis II livestreams",
+      "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Contrastive Representation-Guided Genetic Minority Oversampling for Imbalanced Time-Series Classification",
+      "url": "https://arxiv.org/abs/2608.22804"
+    },
+    {
+      "text": "An Empirical Study on Preference Tuning Generalization and Diversity Under Domain Shift",
+      "url": "https://arxiv.org/abs/2601.05882"
+    },
+    {
+      "text": "Dual-Layer Agentic Memory with Fast Write Routing and Slow Consolidation",
+      "url": "https://arxiv.org/abs/2608.22215"
+    },
+    {
+      "text": "The Illusion of Control: Why Bare Classifier Inversion Silently Fails in Concept-Bottleneck Text Generation",
+      "url": "https://arxiv.org/abs/2608.22956"
+    },
+    {
+      "text": "MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2608.19803"
+    },
+    {
+      "text": "Decomposition Attacks Across Unlinkable Identities: Limits of Stateful Defenses for LLM Services",
+      "url": "https://arxiv.org/abs/2608.17445"
+    },
+    {
+      "text": "Withholding the Completing Chunk: Exact Release-Boundary Equivalence for Production Streaming Guardrails",
+      "url": "https://arxiv.org/abs/2608.10279"
+    },
+    {
+      "text": "AI Watchdog: Agent Interfaces for Detecting and Defending Against Manipulative Dark Patterns in AI Conversations",
+      "url": "https://arxiv.org/abs/2608.21841"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "SA-RSQ: A Versatile Sparse Representation Framework for Multi-modal Recommender Systems",
+      "url": "https://arxiv.org/abs/2608.22979"
+    },
+    {
+      "text": "Does a Modern-Handwriting Warm-Up Help Historical Arabic OCR? A Reproducible, Compute-Matched Evaluation on Muharaf and KHATT",
+      "url": "https://arxiv.org/abs/2608.22316"
+    },
+    {
+      "text": "Gaussian process learning with flow map refinement for parameter estimation in dynamical systems",
+      "url": "https://arxiv.org/abs/2608.22324"
+    },
+    {
+      "text": "Artificial Empathy: Towards a Framework for Unsupervised Agency Detection and Policy Reconstruction",
+      "url": "https://arxiv.org/abs/2608.23030"
+    },
+    {
+      "text": "Weakly supervised concept Bottleneck Learning for Robust Two stage Object centric visual reasoning",
+      "url": "https://arxiv.org/abs/2608.22584"
+    },
+    {
+      "text": "CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents",
+      "url": "https://arxiv.org/abs/2608.22577"
+    },
+    {
+      "text": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "url": "https://arxiv.org/abs/2608.23283"
+    },
+    {
+      "text": "Scaling Curriculum Learning For Autonomous Driving",
+      "url": "https://arxiv.org/abs/2608.22549"
+    }
+  ],
+  "lastUpdated": "2026-08-25T21:50:01Z"
+}
