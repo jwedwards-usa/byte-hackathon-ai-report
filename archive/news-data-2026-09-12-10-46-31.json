@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Comprehensive FAQ on AI risks",
+    "url": "https://www.lesswrong.com/posts/W4kkGaKMx9owiXHKy/comprehensive-faq-on-ai-risks"
+  },
+  "topStories": [
+    {
+      "text": "My recommended resources for AI safety, alignment, and existential risks",
+      "url": "https://www.lesswrong.com/posts/tdz83zCBxumTajzfZ/my-recommended-resources-for-ai-safety-alignment-and"
+    },
+    {
+      "text": "APPENDIX: REPRODUCTION OF THE OPENAI-HUGGINGFACE INCIDENT",
+      "url": "https://www.lesswrong.com/posts/mXPCpJCvFGybQ4mwc/appendix-reproduction-of-the-openai-huggingface-incident"
+    },
+    {
+      "text": "Some ways AI could kill us all",
+      "url": "https://www.lesswrong.com/posts/LAPa2jxoq3n63GzTr/some-ways-ai-could-kill-us-all"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "An operationalization of opaque serial depth",
+      "url": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"
+    },
+    {
+      "text": "SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics",
+      "url": "https://arxiv.org/abs/2609.11180"
+    },
+    {
+      "text": "A Comparative Evaluation of Pre-trained Convolutional Neural Networks for Melanoma Detection",
+      "url": "https://arxiv.org/abs/2609.11550"
+    },
+    {
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    {
+      "text": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "text": "Germany's Got Talent. How do we get it to work on AI safety?",
+      "url": "https://www.lesswrong.com/posts/EenKC8JRRBTFvXhch/germany-s-got-talent-how-do-we-get-it-to-work-on-ai-safety"
+    },
+    {
+      "text": "OPENAI: \"WE USE ... DE-IDENTIFIED DATA TO IMPROVE CHATGPT\"",
+      "url": "https://twitter.com/markchen90/status/2097400166554993041"
+    },
+    {
+      "text": "A normal Friday in 2042",
+      "url": "https://www.lesswrong.com/posts/u6hFByFwDLxtnbvje/a-normal-friday-in-2042"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2609.11206"
+    },
+    {
+      "text": "Learn the Solid, Not the File: Canonical Inputs for Neural Networks on CAD Boundary Representations",
+      "url": "https://arxiv.org/abs/2609.11573"
+    },
+    {
+      "text": "Domain Elastic Transform: Bayesian Function Registration for High-Dimensional Scientific Data",
+      "url": "https://arxiv.org/abs/2603.21235"
+    },
+    {
+      "text": "From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge",
+      "url": "https://arxiv.org/abs/2609.11859"
+    },
+    {
+      "text": "CHRONOBERG: Capturing Language Evolution and Temporal Awareness in Foundation Models",
+      "url": "https://arxiv.org/abs/2509.22360"
+    },
+    {
+      "text": "BREAKING PREDICTIONS IS NOT ENOUGH: SPECIFIED-FOIL COUNTERFACTUALS FOR TEMPORAL GRAPHS",
+      "url": "https://arxiv.org/abs/2609.11170"
+    },
+    {
+      "text": "ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies",
+      "url": "https://arxiv.org/abs/2609.11697"
+    },
+    {
+      "text": "Language-Augmented Semantic Priors for B-Spline Surface Fitting",
+      "url": "https://arxiv.org/abs/2609.11708"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Data-Efficient Language Modeling: From Frontier Advancement to Principle-Guided Model Improvement",
+      "url": "https://arxiv.org/abs/2609.10702"
+    },
+    {
+      "text": "Four Generations of Quantum Biomedical Sensors",
+      "url": "https://arxiv.org/abs/2603.29944"
+    },
+    {
+      "text": "Counterfactual Marginalisation: Framework for Evaluating Robustness to Nuisance Variables",
+      "url": "https://arxiv.org/abs/2609.10778"
+    },
+    {
+      "text": "Beyond Visual Quality: Evaluating Physical Consistency under Ego-Motion with EgoGenEval",
+      "url": "https://arxiv.org/abs/2609.11172"
+    },
+    {
+      "text": "EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale",
+      "url": "https://arxiv.org/abs/2604.17406"
+    },
+    {
+      "text": "From Queries to Narratives: Cultural Heritage Data Stories for Knowledge Graph Exploration and Quality Assessment",
+      "url": "https://arxiv.org/abs/2609.11403"
+    },
+    {
+      "text": "TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas",
+      "url": "https://arxiv.org/abs/2603.16448"
+    },
+    {
+      "text": "Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data",
+      "url": "https://arxiv.org/abs/2609.11286"
+    }
+  ],
+  "lastUpdated": "2026-09-12T10:46:31Z"
+}
