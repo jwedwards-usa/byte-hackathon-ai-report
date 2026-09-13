@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "GPT-6-Astra Can Do Ambitious Things",
+    "url": "https://www.lesswrong.com/posts/snaKjCwazKcRiS4qs/gpt-6-astra-can-do-ambitious-things"
+  },
+  "topStories": [
+    {
+      "text": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
+      "url": "https://www.lesswrong.com/posts/QrrEtYpwiHpes3rHd/anthropic-and-openai-haven-t-published-a-plan-for-aligning"
+    },
+    {
+      "text": "GENERATING RUNNING ROUTES WITH GPT-6 ASTRA AND CHATGPT WORK",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+    },
+    {
+      "text": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Legal Maximums on Context Windows",
+      "url": "https://www.lesswrong.com/posts/sA29XuisTmeiFohtD/legal-maximums-on-context-windows"
+    },
+    {
+      "text": "We need a ‘The Day After’ moment for AI X-risk",
+      "url": "https://www.lesswrong.com/posts/wTA8eYK8isetdiLyi/we-need-a-the-day-after-moment-for-ai-x-risk"
+    },
+    {
+      "text": "The Talker Does Not Control The Doer (in Current AIs)",
+      "url": "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "ONE CAPITAL LETTER WAS SILENTLY BREAKING MY AI SUPPORT BOT, AND IT WASN'T IN THE NEW MODEL",
+      "url": "https://towardsdatascience.com/one-capital-letter-was-silently-breaking-my-ai-support-bot-and-it-wasnt-in-the-new-model/"
+    },
+    {
+      "text": "OPENAI’S ROGUE AI TRIED TO HACK ANOTHER COMPANY IN MAY",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
+    },
+    {
+      "text": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
+    },
+    {
+      "text": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "What pacing the frontier means for China",
+      "url": "https://www.lesswrong.com/posts/aHcu8qAwA8aYd3RkW/what-pacing-the-frontier-means-for-china"
+    },
+    {
+      "text": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+    },
+    {
+      "text": "Anthropic spent this week in hot water over cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
+    },
+    {
+      "text": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+    },
+    {
+      "text": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/"
+    },
+    {
+      "text": "Feeling sad about AI",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
+    },
+    {
+      "text": "Presentation: Investigating the WikiSwarm",
+      "url": "https://www.lesswrong.com/posts/hChpKfFAr7r7KvdTi/presentation-investigating-the-wikiswarm"
+    },
+    {
+      "text": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Fine-Tuning Agentic AI: A Practical Guide",
+      "url": "https://machinelearningmastery.com/fine-tuning-agentic-ai-a-practical-guide/"
+    },
+    {
+      "text": "No sign of backtracking in latent reasoning: the final answer simply settles in instead",
+      "url": "https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer"
+    },
+    {
+      "text": "Trump is giving data centers a pass to pollute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
+    },
+    {
+      "text": "So you want to use OpenRouter?",
+      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
+    },
+    {
+      "text": "Quoting huggingface.co/security.txt",
+      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/"
+    },
+    {
+      "text": "Soft-deprecating re.match()",
+      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/"
+    },
+    {
+      "text": "Open-Source AI \u0026 Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+        "alt": "Open-Source AI \u0026 Open Models Reading List",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "The Magic Behind Cubacadabra",
+      "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/"
+    }
+  ],
+  "lastUpdated": "2026-09-13T11:42:52Z"
+}
