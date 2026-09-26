@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Claude Opus 5.5 Should Raise Your Ambitions",
+    "url": "https://www.lesswrong.com/posts/rtPiip9igy3QvxYdM/claude-opus-5-5-should-raise-your-ambitions"
+  },
+  "topStories": [
+    {
+      "text": "Physics-Guided Multi-Objective Deep Learning for Ultrasound RF Data Interpolation in Resource-Constrained Imaging",
+      "url": "https://arxiv.org/abs/2609.28775"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Extinction does not feel as bad as it should",
+      "url": "https://www.lesswrong.com/posts/xak4GixbKD9W5jzqn/extinction-does-not-feel-as-bad-as-it-should"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "[Linkpost] Looking into the Swarm's Eye",
+      "url": "https://www.lesswrong.com/posts/St5mzn8D9jMmxfgHd/linkpost-looking-into-the-swarm-s-eye"
+    },
+    {
+      "text": "OPENAI PAUSES TRAINING OF ITS ‘MOST CAPABLE MODELS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+    },
+    {
+      "text": "A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design",
+      "url": "https://arxiv.org/abs/2608.18279"
+    },
+    {
+      "text": "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs",
+      "url": "https://arxiv.org/abs/2609.28567"
+    },
+    {
+      "text": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
+      "url": "https://arxiv.org/abs/2608.17556"
+    },
+    {
+      "text": "Language Specificity vs. Domain Diversity: Benchmarking Transformers for Bangla Medical NER",
+      "url": "https://arxiv.org/abs/2609.29101"
+    },
+    {
+      "text": "Generating Interesting Scientific Ideas using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders",
+      "url": "https://arxiv.org/abs/2405.17044"
+    },
+    {
+      "text": "Plan R+, Diversity, Escrow and Political Rights for ASICs",
+      "url": "https://www.lesswrong.com/posts/BHGoF7tPqtLo9mXFL/plan-r-diversity-escrow-and-political-rights-for-asics"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "M$^2$PFN: End-to-End Disentangled Alignment for Generalizable Multimodal In-Context Learning in Alzheimer's Disease",
+      "url": "https://arxiv.org/abs/2609.28836"
+    },
+    {
+      "text": "Thinking Leakage: A Causal Audit of NoThink Post-Training in Hybrid Reasoning Models",
+      "url": "https://arxiv.org/abs/2609.28682"
+    },
+    {
+      "text": "The Sharp Tail of Uniform Stability",
+      "url": "https://arxiv.org/abs/2608.24098"
+    },
+    {
+      "text": "Beyond Compression: Training Latent Representations for Stable Long-Horizon Rollout in Neural Surrogate Solvers",
+      "url": "https://arxiv.org/abs/2609.30198"
+    },
+    {
+      "text": "Evaluating Cross-region Generalization for Wavelet-Diffusion Precipitation Downscaling",
+      "url": "https://arxiv.org/abs/2609.28749"
+    },
+    {
+      "text": "Wiring Beats Blending: Structure-Aware Compensation for Transformer Downscaling",
+      "url": "https://arxiv.org/abs/2608.02829"
+    },
+    {
+      "text": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+      "url": "https://arxiv.org/abs/2607.24726"
+    },
+    {
+      "text": "Stream Recursion Model (SRM)",
+      "url": "https://arxiv.org/abs/2609.28809"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Transductive Off-policy Proximal Policy Optimization",
+      "url": "https://arxiv.org/abs/2406.03894"
+    },
+    {
+      "text": "Exploiting answer-invariant redundancies in satellite imagery for efficient VLM inference on edge",
+      "url": "https://arxiv.org/abs/2609.29029"
+    },
+    {
+      "text": "CrossSafe: Towards Cross-Embodiment Latent Safety Filters",
+      "url": "https://arxiv.org/abs/2609.28984"
+    },
+    {
+      "text": "Capturing Unseen Spatial Heat Extremes Through Dependence-Aware Generative Modeling",
+      "url": "https://arxiv.org/abs/2507.09211"
+    },
+    {
+      "text": "Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X",
+      "url": "https://arxiv.org/abs/2609.28947"
+    },
+    {
+      "text": "GeoDose-CP: Graph-Local Conformal Inference for Continuous-Treatment Earth Observation",
+      "url": "https://arxiv.org/abs/2609.28895"
+    },
+    {
+      "text": "Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation",
+      "url": "https://arxiv.org/abs/2609.28860"
+    },
+    {
+      "text": "Selective Inference for Deep Clustering in Latent Spaces",
+      "url": "https://arxiv.org/abs/2609.28756"
+    }
+  ],
+  "lastUpdated": "2026-09-26T23:44:26Z"
+}
