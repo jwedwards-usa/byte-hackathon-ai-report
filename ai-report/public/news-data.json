@@ -5,56 +5,60 @@
   },
   "topStories": [
     {
-      "text": "OPENAI PAUSES TRAINING OF ITS ‘MOST CAPABLE MODELS’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-    },
-    {
       "text": "Physics-Guided Multi-Objective Deep Learning for Ultrasound RF Data Interpolation in Resource-Constrained Imaging",
       "url": "https://arxiv.org/abs/2609.28775"
     },
-    {
-      "text": "Plan R: AI Safety by ASICs",
-      "url": "https://www.lesswrong.com/posts/n8u3BfqFoGh4jnzpo/plan-r-ai-safety-by-asics"
-    }
-  ],
-  "leftColumn": [
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
-      "url": "https://arxiv.org/abs/2608.17556"
+      "text": "Extinction does not feel as bad as it should",
+      "url": "https://www.lesswrong.com/posts/xak4GixbKD9W5jzqn/extinction-does-not-feel-as-bad-as-it-should"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "[Linkpost] Looking into the Swarm's Eye",
+      "url": "https://www.lesswrong.com/posts/St5mzn8D9jMmxfgHd/linkpost-looking-into-the-swarm-s-eye"
+    },
+    {
+      "text": "OPENAI PAUSES TRAINING OF ITS ‘MOST CAPABLE MODELS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
     },
     {
       "text": "A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design",
       "url": "https://arxiv.org/abs/2608.18279"
     },
     {
-      "text": "Generating Interesting Scientific Ideas using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders",
-      "url": "https://arxiv.org/abs/2405.17044"
+      "text": "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs",
+      "url": "https://arxiv.org/abs/2609.28567"
+    },
+    {
+      "text": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
+      "url": "https://arxiv.org/abs/2608.17556"
     },
     {
       "text": "Language Specificity vs. Domain Diversity: Benchmarking Transformers for Bangla Medical NER",
       "url": "https://arxiv.org/abs/2609.29101"
     },
     {
-      "text": "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs",
-      "url": "https://arxiv.org/abs/2609.28567"
+      "text": "Generating Interesting Scientific Ideas using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders",
+      "url": "https://arxiv.org/abs/2405.17044"
     },
     {
-      "text": "Evidence about risk should be transparent",
-      "url": "https://www.lesswrong.com/posts/LawgAaGTvbbnZi7u2/evidence-about-risk-should-be-transparent"
-    },
-    {
-      "text": "Algebraic Expressivity Certificates for Shallow Polynomial Neural Networks",
-      "url": "https://arxiv.org/abs/2609.28500"
+      "text": "Plan R+, Diversity, Escrow and Political Rights for ASICs",
+      "url": "https://www.lesswrong.com/posts/BHGoF7tPqtLo9mXFL/plan-r-diversity-escrow-and-political-rights-for-asics"
     }
   ],
   "centerColumn": [
     {
-      "text": "Sequential Confidence Sets for Coverage-Constrained Conformal Model Selection",
-      "url": "https://arxiv.org/abs/2609.28522"
+      "text": "M$^2$PFN: End-to-End Disentangled Alignment for Generalizable Multimodal In-Context Learning in Alzheimer's Disease",
+      "url": "https://arxiv.org/abs/2609.28836"
+    },
+    {
+      "text": "Thinking Leakage: A Causal Audit of NoThink Post-Training in Hybrid Reasoning Models",
+      "url": "https://arxiv.org/abs/2609.28682"
     },
     {
       "text": "The Sharp Tail of Uniform Stability",
@@ -65,8 +69,8 @@
       "url": "https://arxiv.org/abs/2609.30198"
     },
     {
-      "text": "RADAR: Readiness for AI Discovery and Agentic Reach",
-      "url": "https://arxiv.org/abs/2609.28480"
+      "text": "Evaluating Cross-region Generalization for Wavelet-Diffusion Precipitation Downscaling",
+      "url": "https://arxiv.org/abs/2609.28749"
     },
     {
       "text": "Wiring Beats Blending: Structure-Aware Compensation for Transformer Downscaling",
@@ -77,15 +81,19 @@
       "url": "https://arxiv.org/abs/2607.24726"
     },
     {
-      "text": "From Prediction to Explainable Provider Behavior Profiles for Fraud, Waste, and Abuse Review",
-      "url": "https://arxiv.org/abs/2609.28477"
-    },
-    {
-      "text": "CaliPPer: quantifying, predicting and improving AI model performance for binding prediction",
-      "url": "https://arxiv.org/abs/2606.07258"
+      "text": "Stream Recursion Model (SRM)",
+      "url": "https://arxiv.org/abs/2609.28809"
     }
   ],
   "rightColumn": [
+    {
+      "text": "Transductive Off-policy Proximal Policy Optimization",
+      "url": "https://arxiv.org/abs/2406.03894"
+    },
+    {
+      "text": "Exploiting answer-invariant redundancies in satellite imagery for efficient VLM inference on edge",
+      "url": "https://arxiv.org/abs/2609.29029"
+    },
     {
       "text": "CrossSafe: Towards Cross-Embodiment Latent Safety Filters",
       "url": "https://arxiv.org/abs/2609.28984"
@@ -109,15 +117,7 @@
     {
       "text": "Selective Inference for Deep Clustering in Latent Spaces",
       "url": "https://arxiv.org/abs/2609.28756"
-    },
-    {
-      "text": "Technical Manual for Toolkit for Confidence-Corpus Consistency via Fine-Tuning on a Fabricated Corpus",
-      "url": "https://arxiv.org/abs/2609.28747"
-    },
-    {
-      "text": "Exact Bayes Regret and Asymptotic Optimality in High-Dimensional Gaussian Bandits",
-      "url": "https://arxiv.org/abs/2609.28718"
     }
   ],
-  "lastUpdated": "2026-09-26T21:08:46Z"
+  "lastUpdated": "2026-09-26T23:44:26Z"
 }
