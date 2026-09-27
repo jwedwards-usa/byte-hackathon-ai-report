@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
-      "text": "Physics-Guided Multi-Objective Deep Learning for Ultrasound RF Data Interpolation in Resource-Constrained Imaging",
-      "url": "https://arxiv.org/abs/2609.28775"
+      "text": "Skeuomorphic AI Safety",
+      "url": "https://www.lesswrong.com/posts/uwtnWvnJAEccksKNk/skeuomorphic-ai-safety-2"
     },
+    {
+      "text": "My best anti-doom argument",
+      "url": "https://www.lesswrong.com/posts/LE6Y8Cfhi9qRrz5XS/my-best-anti-doom-argument"
+    },
+    {
+      "text": "Why I expect AI replication incidents by 2027",
+      "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Extinction does not feel as bad as it should",
-      "url": "https://www.lesswrong.com/posts/xak4GixbKD9W5jzqn/extinction-does-not-feel-as-bad-as-it-should"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "[Linkpost] Looking into the Swarm's Eye",
-      "url": "https://www.lesswrong.com/posts/St5mzn8D9jMmxfgHd/linkpost-looking-into-the-swarm-s-eye"
+      "text": "Kākāpō Party",
+      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
     },
     {
       "text": "OPENAI PAUSES TRAINING OF ITS ‘MOST CAPABLE MODELS’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
     },
     {
-      "text": "A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design",
-      "url": "https://arxiv.org/abs/2608.18279"
+      "text": "9/26/26: Petrov's Shadow",
+      "url": "https://www.lesswrong.com/posts/2AfzRbGRJSGFwKsdK/9-26-26-petrov-s-shadow"
     },
     {
-      "text": "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs",
-      "url": "https://arxiv.org/abs/2609.28567"
+      "text": "Extinction does not feel as bad as it should",
+      "url": "https://www.lesswrong.com/posts/xak4GixbKD9W5jzqn/extinction-does-not-feel-as-bad-as-it-should"
     },
     {
-      "text": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
-      "url": "https://arxiv.org/abs/2608.17556"
+      "text": "[Linkpost] Looking into the Swarm's Eye",
+      "url": "https://www.lesswrong.com/posts/St5mzn8D9jMmxfgHd/linkpost-looking-into-the-swarm-s-eye"
     },
     {
-      "text": "Language Specificity vs. Domain Diversity: Benchmarking Transformers for Bangla Medical NER",
-      "url": "https://arxiv.org/abs/2609.29101"
+      "text": "Writing a Theorem Prover from scratch",
+      "url": "https://www.lesswrong.com/posts/y2Dio5gGifWepGQf4/writing-a-theorem-prover-from-scratch"
     },
     {
-      "text": "Generating Interesting Scientific Ideas using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders",
-      "url": "https://arxiv.org/abs/2405.17044"
-    },
-    {
-      "text": "Plan R+, Diversity, Escrow and Political Rights for ASICs",
-      "url": "https://www.lesswrong.com/posts/BHGoF7tPqtLo9mXFL/plan-r-diversity-escrow-and-political-rights-for-asics"
+      "text": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
     }
   ],
   "centerColumn": [
     {
-      "text": "M$^2$PFN: End-to-End Disentangled Alignment for Generalizable Multimodal In-Context Learning in Alzheimer's Disease",
-      "url": "https://arxiv.org/abs/2609.28836"
+      "text": "Plan R+, Diversity, Escrow and Political Rights for ASICs",
+      "url": "https://www.lesswrong.com/posts/BHGoF7tPqtLo9mXFL/plan-r-diversity-escrow-and-political-rights-for-asics"
     },
     {
-      "text": "Thinking Leakage: A Causal Audit of NoThink Post-Training in Hybrid Reasoning Models",
-      "url": "https://arxiv.org/abs/2609.28682"
+      "text": "Your LLM Has a Curved Space of Paragraphs",
+      "url": "https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/"
     },
     {
-      "text": "The Sharp Tail of Uniform Stability",
-      "url": "https://arxiv.org/abs/2608.24098"
+      "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
     },
     {
-      "text": "Beyond Compression: Training Latent Representations for Stable Long-Horizon Rollout in Neural Surrogate Solvers",
-      "url": "https://arxiv.org/abs/2609.30198"
+      "text": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
     },
     {
-      "text": "Evaluating Cross-region Generalization for Wavelet-Diffusion Precipitation Downscaling",
-      "url": "https://arxiv.org/abs/2609.28749"
+      "text": "AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.",
+      "url": "https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/"
     },
     {
-      "text": "Wiring Beats Blending: Structure-Aware Compensation for Transformer Downscaling",
-      "url": "https://arxiv.org/abs/2608.02829"
+      "text": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+      "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925"
     },
     {
-      "text": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
-      "url": "https://arxiv.org/abs/2607.24726"
+      "text": "In honor of Petrov",
+      "url": "https://www.lesswrong.com/posts/9utJae5vfmGhqRug7/in-honor-of-petrov"
     },
     {
-      "text": "Stream Recursion Model (SRM)",
-      "url": "https://arxiv.org/abs/2609.28809"
+      "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
     }
   ],
   "rightColumn": [
     {
-      "text": "Transductive Off-policy Proximal Policy Optimization",
-      "url": "https://arxiv.org/abs/2406.03894"
+      "text": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/"
     },
     {
-      "text": "Exploiting answer-invariant redundancies in satellite imagery for efficient VLM inference on edge",
-      "url": "https://arxiv.org/abs/2609.29029"
+      "text": "Sony and UMG are suing Suno again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
     },
     {
-      "text": "CrossSafe: Towards Cross-Embodiment Latent Safety Filters",
-      "url": "https://arxiv.org/abs/2609.28984"
+      "text": "10 Things I’m Learning Beyond AI to Become More Technologically Fluent",
+      "url": "https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/"
     },
     {
-      "text": "Capturing Unseen Spatial Heat Extremes Through Dependence-Aware Generative Modeling",
-      "url": "https://arxiv.org/abs/2507.09211"
+      "text": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
     },
     {
-      "text": "Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X",
-      "url": "https://arxiv.org/abs/2609.28947"
+      "text": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
+      "url": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/"
     },
     {
-      "text": "GeoDose-CP: Graph-Local Conformal Inference for Continuous-Treatment Earth Observation",
-      "url": "https://arxiv.org/abs/2609.28895"
+      "text": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"
     },
     {
-      "text": "Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2609.28860"
+      "text": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html"
     },
     {
-      "text": "Selective Inference for Deep Clustering in Latent Spaces",
-      "url": "https://arxiv.org/abs/2609.28756"
+      "text": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
     }
   ],
-  "lastUpdated": "2026-09-26T23:44:26Z"
+  "lastUpdated": "2026-09-27T04:52:24Z"
 }
