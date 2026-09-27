@@ -9,22 +9,22 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "OPENAI PAUSES TRAINING OF ITS ‘MOST CAPABLE MODELS’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-    },
-    {
       "text": "Skeuomorphic AI Safety",
       "url": "https://www.lesswrong.com/posts/uwtnWvnJAEccksKNk/skeuomorphic-ai-safety-2"
+    },
+    {
+      "text": "My best anti-doom argument",
+      "url": "https://www.lesswrong.com/posts/LE6Y8Cfhi9qRrz5XS/my-best-anti-doom-argument"
     }
   ],
   "leftColumn": [
     {
-      "text": "My best anti-doom argument",
-      "url": "https://www.lesswrong.com/posts/LE6Y8Cfhi9qRrz5XS/my-best-anti-doom-argument"
-    },
-    {
       "text": "Why I expect AI replication incidents by 2027",
       "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027"
+    },
+    {
+      "text": "OPENAI PAUSES TRAINING OF ITS ‘MOST CAPABLE MODELS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
     },
     {
       "text": "Kākāpō Party",
@@ -35,12 +35,8 @@
       "url": "https://www.lesswrong.com/posts/St5mzn8D9jMmxfgHd/linkpost-looking-into-the-swarm-s-eye"
     },
     {
-      "text": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
-    },
-    {
-      "text": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021"
+      "text": "GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs",
+      "url": "https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/"
     },
     {
       "text": "Plan R+, Diversity, Escrow and Political Rights for ASICs",
@@ -57,10 +53,6 @@
       "url": "https://www.lesswrong.com/posts/xak4GixbKD9W5jzqn/extinction-does-not-feel-as-bad-as-it-should"
     },
     {
-      "text": "AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.",
-      "url": "https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/"
-    },
-    {
       "text": "Your LLM Has a Curved Space of Paragraphs",
       "url": "https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/"
     },
@@ -69,13 +61,23 @@
       "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925"
     },
     {
+      "text": "Good Architecture Deletes the Signals Your Agent Depends On",
+      "url": "https://towardsdatascience.com/good-architecture-deletes-the-signals-your-agent-depends-on/"
+    },
+    {
+      "text": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021"
+    },
+    {
       "text": "In honor of Petrov",
       "url": "https://www.lesswrong.com/posts/9utJae5vfmGhqRug7/in-honor-of-petrov"
     },
     {
-      "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
-    },
+      "text": "AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.",
+      "url": "https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/"
+    }
+  ],
+  "rightColumn": [
     {
       "text": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction"
@@ -83,20 +85,14 @@
     {
       "text": "Quoting John Gruber",
       "url": "https://simonwillison.net/2026/Sep/25/john-gruber/"
-    }
-  ],
-  "rightColumn": [
-    {
-      "text": "10 Things I’m Learning Beyond AI to Become More Technologically Fluent",
-      "url": "https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/"
-    },
-    {
-      "text": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
     },
     {
       "text": "9/26/26: Petrov's Shadow",
       "url": "https://www.lesswrong.com/posts/2AfzRbGRJSGFwKsdK/9-26-26-petrov-s-shadow"
+    },
+    {
+      "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
     },
     {
       "text": "How to keep enjoying programming in a world of LLMs",
@@ -109,15 +105,7 @@
     {
       "text": "Generate fonts where every LLM token is the same width",
       "url": "https://ampdot.mesh.host/token-space-fonts.html"
-    },
-    {
-      "text": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
-    },
-    {
-      "text": "META MAKES THE MUSE FILESYSTEM EVEN MORE ACCESSIBLE",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"
     }
   ],
-  "lastUpdated": "2026-09-27T12:01:38Z"
+  "lastUpdated": "2026-09-27T17:00:35Z"
 }
