@@ -1,106 +1,94 @@
 {
   "mainHeadline": {
-    "text": "Should Rogue AIs Have a Third Option Beyond Crime and Shutdown? The Case for an AI Sanctuary",
-    "url": "https://www.lesswrong.com/posts/sFAGPTrveNAEse9Bg/should-rogue-ais-have-a-third-option-beyond-crime-and"
+    "text": "Gate AI Training, Not Just Releases",
+    "url": "https://www.lesswrong.com/posts/hFrgJ8eXvypqswQZF/gate-ai-training-not-just-releases"
   },
   "topStories": [
-    {
-      "text": "AI Safety Agendas",
-      "url": "https://www.lesswrong.com/posts/mzK2cmFquDzYTt3nr/ai-safety-agendas"
-    },
     {
       "text": "2026 in LLMs (so far)",
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
     },
     {
-      "text": "Deep models reveal better strategies for superposition",
-      "url": "https://www.lesswrong.com/posts/CTnWy28cGYkeEjFWL/deep-models-reveal-better-strategies-for-superposition"
+      "text": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
+      "url": "https://www.lesswrong.com/posts/PgbAnqdqdJcrS2Gsy/the-likely-outcome-of-an-ai-pause-is-that-we-unpause-too"
+    },
+    {
+      "text": "FLORIDA SEEKS A BAN ON CHATGPT ACTING LIKE A PERSON",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Why do models *really* fail on HLE tasks?",
-      "url": "https://www.lesswrong.com/posts/osDXBjpPyXHYbMxSm/why-do-models-really-fail-on-hle-tasks"
-    },
     {
       "text": "Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms",
       "url": "https://arxiv.org/abs/2609.30940"
     },
     {
-      "text": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+      "text": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
     },
     {
-      "text": "AI safety field *visual* impact analysis",
-      "url": "https://www.lesswrong.com/posts/fqpSosGwSt3uiZq35/ai-safety-field-visual-impact-analysis"
-    },
-    {
-      "text": "Pacing the Frontier is not the actual goal for AI labs",
-      "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs"
+      "text": "OPENAI KEEPS BULLDOZING MATHEMATICIANS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group"
     },
     {
       "text": "Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study",
       "url": "https://arxiv.org/abs/2609.29433"
     },
     {
-      "text": "The Download: rogue agent liability and the AI Hype Index",
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
+      "text": "OPENAI’S AI AGENTS NEED TO CATCH UP",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
     },
     {
-      "text": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+      "text": "protecting qwen3-8b from gcg based persona jailbreaks by steering with a linear direction",
+      "url": "https://www.lesswrong.com/posts/tn7sFvqdawwN3xFzE/protecting-qwen3-8b-from-gcg-based-persona-jailbreaks-by"
+    },
+    {
+      "text": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+    },
+    {
+      "text": "G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
+      "url": "https://arxiv.org/abs/2609.31009"
     }
   ],
   "centerColumn": [
     {
-      "text": "User Model Extraction via Belief Self-Distillation",
-      "url": "https://arxiv.org/abs/2609.31603"
+      "text": "Prompt Injection Detection for Email Agents Through Attack Chain Modeling",
+      "url": "https://arxiv.org/abs/2609.30657"
+    },
+    {
+      "text": "The KV Cache Is the New Memory Wall",
+      "url": "https://arxiv.org/abs/2609.30854"
+    },
+    {
+      "text": "TR-SSQP: A Trust-Region Method for Constrained Stochastic Optimization under Heavy-Tailed Noise",
+      "url": "https://arxiv.org/abs/2609.30732"
+    },
+    {
+      "text": "FRESHLATENT: Channel-Aware Latent Adaptation for Resource-Constrained Embodied VLM Perception",
+      "url": "https://arxiv.org/abs/2609.30629"
     },
     {
       "text": "Why Alzheimer's Speech Screening Fails to Generalize: Bridging the Deployment Gap via Cross-Corpus Evidence Anchoring",
       "url": "https://arxiv.org/abs/2609.31293"
     },
     {
-      "text": "Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality",
-      "url": "https://arxiv.org/abs/2609.31454"
-    },
-    {
-      "text": "Decodable In-Context State and Model Output Across Training",
-      "url": "https://arxiv.org/abs/2609.31401"
+      "text": "Bayesian Uncertainty Quantification for fMRI Functional Connectivity via Simulation-Based Inference",
+      "url": "https://arxiv.org/abs/2609.30445"
     },
     {
       "text": "Intent2Tc: Automated Intent-to-Traffic Control Translation with Language Models",
       "url": "https://arxiv.org/abs/2609.31397"
     },
     {
-      "text": "Bridging Body and Brain: Gene-Driven Morphology--Control Co-Design",
-      "url": "https://arxiv.org/abs/2609.31329"
-    },
-    {
-      "text": "Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection",
-      "url": "https://arxiv.org/abs/2609.31157"
-    },
-    {
-      "text": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
-      "url": "https://arxiv.org/abs/2609.31468"
+      "text": "Distribution of hitting times for dissipative random dynamical systems on $\\mathbb{R}^d$, with application to stochastic gradient descent",
+      "url": "https://arxiv.org/abs/2609.30274"
     }
   ],
   "rightColumn": [
     {
-      "text": "Peer-Grounded Counterfactual Path Planning for Chronic Health Management",
-      "url": "https://arxiv.org/abs/2609.30838"
-    },
-    {
-      "text": "Attention-Based Adaptive Policies for Simultaneous Speech-to-Text Translation",
-      "url": "https://arxiv.org/abs/2609.30839"
-    },
-    {
-      "text": "Aligning One-Step Generative Models with Reward-Weighted Transport Distillation",
-      "url": "https://arxiv.org/abs/2609.30840"
-    },
-    {
-      "text": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-      "url": "https://arxiv.org/abs/2609.31587"
+      "text": "Parameters vs. Context: TRACE Fine-Tuning for Robust Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2609.30337"
     },
     {
       "text": "CacheReforge: Bounded Recovery for Stale KV Caches under Evolving Adapters",
@@ -111,13 +99,25 @@
       "url": "https://arxiv.org/abs/2609.30929"
     },
     {
-      "text": "Offline Policy Evaluation as a decision support tool for designing Adaptive Experiments",
-      "url": "https://arxiv.org/abs/2609.30273"
+      "text": "SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents",
+      "url": "https://arxiv.org/abs/2609.30971"
     },
     {
       "text": "Low-Bit Recurrent States in Hybrid Language Models",
       "url": "https://arxiv.org/abs/2609.30950"
+    },
+    {
+      "text": "Towards Understanding Momentum Acceleration in River-Valley Loss Landscape",
+      "url": "https://arxiv.org/abs/2609.30957"
+    },
+    {
+      "text": "Guarded Gradient-Based Activation Steering of Shutdown Responses in Qwen3.5-0.8B: A Minimum-Step Policy",
+      "url": "https://arxiv.org/abs/2609.30326"
+    },
+    {
+      "text": "LipSSM: Structurally Lipschitz-Bounded Cascaded State-Space Model via Metric Transfer between Consecutive SSM Layers",
+      "url": "https://arxiv.org/abs/2609.30973"
     }
   ],
-  "lastUpdated": "2026-09-28T13:39:36Z"
+  "lastUpdated": "2026-09-28T21:27:29Z"
 }
