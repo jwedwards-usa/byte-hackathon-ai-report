@@ -1,107 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Claude Opus 5.5 Should Raise Your Ambitions",
-    "url": "https://www.lesswrong.com/posts/rtPiip9igy3QvxYdM/claude-opus-5-5-should-raise-your-ambitions"
+    "text": "AI Futures: Racing to Lose, A sermon",
+    "url": "https://www.lesswrong.com/posts/3Ko5MmYapzumKYiRn/ai-futures-racing-to-lose-a-sermon"
   },
   "topStories": [
     {
-      "text": "Why research personas despite RL scaling?",
-      "url": "https://www.lesswrong.com/posts/i4yswYDSrPFHWpCbi/why-research-personas-despite-rl-scaling"
+      "text": "AI Safety Agendas",
+      "url": "https://www.lesswrong.com/posts/mzK2cmFquDzYTt3nr/ai-safety-agendas"
     },
     {
-      "text": "OPENAI AGENTS TRIED TO ‘BRUTEFORCE’ A UN WEBSITE",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+      "text": "Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms",
+      "url": "https://arxiv.org/abs/2609.30940"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Ireland’s GDPR regulator will still be investigating when AGI arrives",
+      "url": "https://www.lesswrong.com/posts/dx37BqcoZs2BCq4Ew/ireland-s-gdpr-regulator-will-still-be-investigating-when"
     }
   ],
   "leftColumn": [
     {
-      "text": "Engram is a sampler that turns broken AI hallucinations into music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
+      "text": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
     },
     {
-      "text": "Skeuomorphic AI Safety",
-      "url": "https://www.lesswrong.com/posts/uwtnWvnJAEccksKNk/skeuomorphic-ai-safety-2"
+      "text": "Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study",
+      "url": "https://arxiv.org/abs/2609.29433"
     },
     {
-      "text": "My best anti-doom argument",
-      "url": "https://www.lesswrong.com/posts/LE6Y8Cfhi9qRrz5XS/my-best-anti-doom-argument"
+      "text": "G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
+      "url": "https://arxiv.org/abs/2609.31009"
     },
     {
-      "text": "Why I expect AI replication incidents by 2027",
-      "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027"
+      "text": "Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline",
+      "url": "https://arxiv.org/abs/2609.30290"
     },
     {
-      "text": "OPENAI PAUSES TRAINING OF ITS ‘MOST CAPABLE MODELS’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+      "text": "Asking For An Old Friend: Diagnosing and Mitigating Temporal Failure Modes in LLM-based Statutory Question Answering",
+      "url": "https://arxiv.org/abs/2605.23497"
     },
     {
-      "text": "Kākāpō Party",
-      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
+      "text": "Grid-Orch: An LLM-Powered Orchestrator for Distribution Grid Simulation and Analytics",
+      "url": "https://arxiv.org/abs/2605.12728"
+    },
+    {
+      "text": "THE PLOT TWIST: JAILBREAKING UNIFIED MULTIMODAL MODELS WITH A THREE-ACT NARRATIVEATTACK",
+      "url": "https://arxiv.org/abs/2509.26473"
+    },
+    {
+      "text": "What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs",
+      "url": "https://arxiv.org/abs/2509.22796"
     }
   ],
   "centerColumn": [
     {
-      "text": "[Linkpost] Looking into the Swarm's Eye",
-      "url": "https://www.lesswrong.com/posts/St5mzn8D9jMmxfgHd/linkpost-looking-into-the-swarm-s-eye"
+      "text": "Blind, Not Weak: A Best-of-Suite Safety-Utility Frontier for Recover-and-Reguard Defenses Against Encoded VLM Jailbreaks",
+      "url": "https://arxiv.org/abs/2607.26574"
     },
     {
-      "text": "Extinction does not feel as bad as it should",
-      "url": "https://www.lesswrong.com/posts/xak4GixbKD9W5jzqn/extinction-does-not-feel-as-bad-as-it-should"
+      "text": "User Model Extraction via Belief Self-Distillation",
+      "url": "https://arxiv.org/abs/2609.31603"
     },
     {
-      "text": "Plan R+, Diversity, Escrow and Political Rights for ASICs",
-      "url": "https://www.lesswrong.com/posts/BHGoF7tPqtLo9mXFL/plan-r-diversity-escrow-and-political-rights-for-asics"
+      "text": "ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation",
+      "url": "https://arxiv.org/abs/2609.31160"
     },
     {
-      "text": "Your LLM Has a Curved Space of Paragraphs",
-      "url": "https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/"
+      "text": "Distribution of hitting times for dissipative random dynamical systems on $\\mathbb{R}^d$, with application to stochastic gradient descent",
+      "url": "https://arxiv.org/abs/2609.30274"
     },
     {
-      "text": "GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs",
-      "url": "https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/"
+      "text": "DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching",
+      "url": "https://arxiv.org/abs/2607.13449"
     },
     {
-      "text": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021"
+      "text": "EGGROLL, Unrolled: Understanding and Improving Low-Rank Evolution Strategies at Scale",
+      "url": "https://arxiv.org/abs/2609.10980"
+    },
+    {
+      "text": "Interpreting hierarchical organisation of speaker embeddings",
+      "url": "https://arxiv.org/abs/2609.15203"
+    },
+    {
+      "text": "Feeding BabyLMs Macaroni: Code-Switching Curricula Cause Cross-Lingual Convergence",
+      "url": "https://arxiv.org/abs/2609.30535"
     }
   ],
   "rightColumn": [
     {
-      "text": "AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.",
-      "url": "https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/"
+      "text": "Differential Attention Unlocks Complementary EEG and Speech Fusion for Emotion Recognition",
+      "url": "https://arxiv.org/abs/2609.31399"
     },
     {
-      "text": "9/26/26: Petrov's Shadow",
-      "url": "https://www.lesswrong.com/posts/2AfzRbGRJSGFwKsdK/9-26-26-petrov-s-shadow"
+      "text": "Evaluating the accuracy of KV cache reuse techniques",
+      "url": "https://arxiv.org/abs/2609.31415"
     },
     {
-      "text": "In honor of Petrov",
-      "url": "https://www.lesswrong.com/posts/9utJae5vfmGhqRug7/in-honor-of-petrov"
+      "text": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "url": "https://arxiv.org/abs/2609.30328"
     },
     {
-      "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+      "text": "MA-WAM: Multi-Agent World-Action Model for Test-Time Planning",
+      "url": "https://arxiv.org/abs/2609.31281"
     },
     {
-      "text": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"
+      "text": "G2MAF: Test-Time Gradient Guidance for Multi-Agent Flow Policies",
+      "url": "https://arxiv.org/abs/2609.31286"
     },
     {
-      "text": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"
+      "text": "The Right Information Extraction Pipeline Depends on the Document: Accuracy-Energy Trade-offs for Small, Local Models",
+      "url": "https://arxiv.org/abs/2609.31341"
     },
     {
-      "text": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html"
+      "text": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "url": "https://arxiv.org/abs/2609.30325"
     },
     {
-      "text": "Good Architecture Deletes the Signals Your Agent Depends On",
-      "url": "https://towardsdatascience.com/good-architecture-deletes-the-signals-your-agent-depends-on/"
+      "text": "Counterfactual Online Conformal Prediction Under Adaptive Logging",
+      "url": "https://arxiv.org/abs/2609.30811"
     }
   ],
-  "lastUpdated": "2026-09-27T21:26:27Z"
+  "lastUpdated": "2026-09-28T04:52:51Z"
 }

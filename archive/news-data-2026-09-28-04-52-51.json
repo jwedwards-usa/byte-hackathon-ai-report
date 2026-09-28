@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI Futures: Racing to Lose, A sermon",
+    "url": "https://www.lesswrong.com/posts/3Ko5MmYapzumKYiRn/ai-futures-racing-to-lose-a-sermon"
+  },
+  "topStories": [
+    {
+      "text": "AI Safety Agendas",
+      "url": "https://www.lesswrong.com/posts/mzK2cmFquDzYTt3nr/ai-safety-agendas"
+    },
+    {
+      "text": "Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms",
+      "url": "https://arxiv.org/abs/2609.30940"
+    },
+    {
+      "text": "Ireland’s GDPR regulator will still be investigating when AGI arrives",
+      "url": "https://www.lesswrong.com/posts/dx37BqcoZs2BCq4Ew/ireland-s-gdpr-regulator-will-still-be-investigating-when"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+    },
+    {
+      "text": "Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study",
+      "url": "https://arxiv.org/abs/2609.29433"
+    },
+    {
+      "text": "G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
+      "url": "https://arxiv.org/abs/2609.31009"
+    },
+    {
+      "text": "Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline",
+      "url": "https://arxiv.org/abs/2609.30290"
+    },
+    {
+      "text": "Asking For An Old Friend: Diagnosing and Mitigating Temporal Failure Modes in LLM-based Statutory Question Answering",
+      "url": "https://arxiv.org/abs/2605.23497"
+    },
+    {
+      "text": "Grid-Orch: An LLM-Powered Orchestrator for Distribution Grid Simulation and Analytics",
+      "url": "https://arxiv.org/abs/2605.12728"
+    },
+    {
+      "text": "THE PLOT TWIST: JAILBREAKING UNIFIED MULTIMODAL MODELS WITH A THREE-ACT NARRATIVEATTACK",
+      "url": "https://arxiv.org/abs/2509.26473"
+    },
+    {
+      "text": "What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs",
+      "url": "https://arxiv.org/abs/2509.22796"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Blind, Not Weak: A Best-of-Suite Safety-Utility Frontier for Recover-and-Reguard Defenses Against Encoded VLM Jailbreaks",
+      "url": "https://arxiv.org/abs/2607.26574"
+    },
+    {
+      "text": "User Model Extraction via Belief Self-Distillation",
+      "url": "https://arxiv.org/abs/2609.31603"
+    },
+    {
+      "text": "ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation",
+      "url": "https://arxiv.org/abs/2609.31160"
+    },
+    {
+      "text": "Distribution of hitting times for dissipative random dynamical systems on $\\mathbb{R}^d$, with application to stochastic gradient descent",
+      "url": "https://arxiv.org/abs/2609.30274"
+    },
+    {
+      "text": "DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching",
+      "url": "https://arxiv.org/abs/2607.13449"
+    },
+    {
+      "text": "EGGROLL, Unrolled: Understanding and Improving Low-Rank Evolution Strategies at Scale",
+      "url": "https://arxiv.org/abs/2609.10980"
+    },
+    {
+      "text": "Interpreting hierarchical organisation of speaker embeddings",
+      "url": "https://arxiv.org/abs/2609.15203"
+    },
+    {
+      "text": "Feeding BabyLMs Macaroni: Code-Switching Curricula Cause Cross-Lingual Convergence",
+      "url": "https://arxiv.org/abs/2609.30535"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Differential Attention Unlocks Complementary EEG and Speech Fusion for Emotion Recognition",
+      "url": "https://arxiv.org/abs/2609.31399"
+    },
+    {
+      "text": "Evaluating the accuracy of KV cache reuse techniques",
+      "url": "https://arxiv.org/abs/2609.31415"
+    },
+    {
+      "text": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "url": "https://arxiv.org/abs/2609.30328"
+    },
+    {
+      "text": "MA-WAM: Multi-Agent World-Action Model for Test-Time Planning",
+      "url": "https://arxiv.org/abs/2609.31281"
+    },
+    {
+      "text": "G2MAF: Test-Time Gradient Guidance for Multi-Agent Flow Policies",
+      "url": "https://arxiv.org/abs/2609.31286"
+    },
+    {
+      "text": "The Right Information Extraction Pipeline Depends on the Document: Accuracy-Energy Trade-offs for Small, Local Models",
+      "url": "https://arxiv.org/abs/2609.31341"
+    },
+    {
+      "text": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "url": "https://arxiv.org/abs/2609.30325"
+    },
+    {
+      "text": "Counterfactual Online Conformal Prediction Under Adaptive Logging",
+      "url": "https://arxiv.org/abs/2609.30811"
+    }
+  ],
+  "lastUpdated": "2026-09-28T04:52:51Z"
+}
