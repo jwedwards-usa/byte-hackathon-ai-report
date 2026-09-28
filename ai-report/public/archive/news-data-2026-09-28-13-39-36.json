@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Should Rogue AIs Have a Third Option Beyond Crime and Shutdown? The Case for an AI Sanctuary",
+    "url": "https://www.lesswrong.com/posts/sFAGPTrveNAEse9Bg/should-rogue-ais-have-a-third-option-beyond-crime-and"
+  },
+  "topStories": [
+    {
+      "text": "AI Safety Agendas",
+      "url": "https://www.lesswrong.com/posts/mzK2cmFquDzYTt3nr/ai-safety-agendas"
+    },
+    {
+      "text": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+    },
+    {
+      "text": "Deep models reveal better strategies for superposition",
+      "url": "https://www.lesswrong.com/posts/CTnWy28cGYkeEjFWL/deep-models-reveal-better-strategies-for-superposition"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Why do models *really* fail on HLE tasks?",
+      "url": "https://www.lesswrong.com/posts/osDXBjpPyXHYbMxSm/why-do-models-really-fail-on-hle-tasks"
+    },
+    {
+      "text": "Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms",
+      "url": "https://arxiv.org/abs/2609.30940"
+    },
+    {
+      "text": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+    },
+    {
+      "text": "AI safety field *visual* impact analysis",
+      "url": "https://www.lesswrong.com/posts/fqpSosGwSt3uiZq35/ai-safety-field-visual-impact-analysis"
+    },
+    {
+      "text": "Pacing the Frontier is not the actual goal for AI labs",
+      "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs"
+    },
+    {
+      "text": "Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study",
+      "url": "https://arxiv.org/abs/2609.29433"
+    },
+    {
+      "text": "The Download: rogue agent liability and the AI Hype Index",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
+    },
+    {
+      "text": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "User Model Extraction via Belief Self-Distillation",
+      "url": "https://arxiv.org/abs/2609.31603"
+    },
+    {
+      "text": "Why Alzheimer's Speech Screening Fails to Generalize: Bridging the Deployment Gap via Cross-Corpus Evidence Anchoring",
+      "url": "https://arxiv.org/abs/2609.31293"
+    },
+    {
+      "text": "Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality",
+      "url": "https://arxiv.org/abs/2609.31454"
+    },
+    {
+      "text": "Decodable In-Context State and Model Output Across Training",
+      "url": "https://arxiv.org/abs/2609.31401"
+    },
+    {
+      "text": "Intent2Tc: Automated Intent-to-Traffic Control Translation with Language Models",
+      "url": "https://arxiv.org/abs/2609.31397"
+    },
+    {
+      "text": "Bridging Body and Brain: Gene-Driven Morphology--Control Co-Design",
+      "url": "https://arxiv.org/abs/2609.31329"
+    },
+    {
+      "text": "Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection",
+      "url": "https://arxiv.org/abs/2609.31157"
+    },
+    {
+      "text": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
+      "url": "https://arxiv.org/abs/2609.31468"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Peer-Grounded Counterfactual Path Planning for Chronic Health Management",
+      "url": "https://arxiv.org/abs/2609.30838"
+    },
+    {
+      "text": "Attention-Based Adaptive Policies for Simultaneous Speech-to-Text Translation",
+      "url": "https://arxiv.org/abs/2609.30839"
+    },
+    {
+      "text": "Aligning One-Step Generative Models with Reward-Weighted Transport Distillation",
+      "url": "https://arxiv.org/abs/2609.30840"
+    },
+    {
+      "text": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+      "url": "https://arxiv.org/abs/2609.31587"
+    },
+    {
+      "text": "CacheReforge: Bounded Recovery for Stale KV Caches under Evolving Adapters",
+      "url": "https://arxiv.org/abs/2609.30884"
+    },
+    {
+      "text": "EPOC: Endpoint-Preserving Online Correction With Compressed Residual State for Multi-Horizon Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2609.30929"
+    },
+    {
+      "text": "Offline Policy Evaluation as a decision support tool for designing Adaptive Experiments",
+      "url": "https://arxiv.org/abs/2609.30273"
+    },
+    {
+      "text": "Low-Bit Recurrent States in Hybrid Language Models",
+      "url": "https://arxiv.org/abs/2609.30950"
+    }
+  ],
+  "lastUpdated": "2026-09-28T13:39:36Z"
+}
