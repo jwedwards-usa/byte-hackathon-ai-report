@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "What Drives Citations in Production Large Language Models? An Observational Multi-Method Study of Two Million AI Citations Across Ten Thousand Web Pages",
+    "url": "https://arxiv.org/abs/2609.35077"
+  },
+  "topStories": [
+    {
+      "text": "Issue Bias in Generative AI Writing Assistance: Political Issues and LLMs in the Swedish 2026 Election",
+      "url": "https://arxiv.org/abs/2609.15207"
+    },
+    {
+      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
+      "url": "https://arxiv.org/abs/2412.16633"
+    },
+    {
+      "text": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
+      "url": "https://arxiv.org/abs/2602.01553"
+    },
+    {
+      "text": "One Attack to Fool Them All: Highly Transferable Black-Box Adversarial Attacks on Frontier MLLMs",
+      "url": "https://arxiv.org/abs/2609.33833"
+    },
+    {
+      "text": "RAISE: Reinforcing Access Control Policy Synthesis in LLMs via Symbolic Evaluation",
+      "url": "https://arxiv.org/abs/2609.33796"
+    },
+    {
+      "text": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
+      "url": "https://arxiv.org/abs/2609.34457"
+    },
+    {
+      "text": "Quantifying How Training Gradient Sparsity Affect Spiking Neural Network Accuracy And Robustness",
+      "url": "https://arxiv.org/abs/2509.23762"
+    },
+    {
+      "text": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+    },
+    {
+      "text": "Large Language Models for Automated Cross-Domain Machine Learning Task Type Identification: A Benchmark Dataset and Evaluation",
+      "url": "https://arxiv.org/abs/2609.35335"
+    },
+    {
+      "text": "TempoKV: Timely Staging of LLM KV Caches for Memory-Semantic Flash",
+      "url": "https://arxiv.org/abs/2609.35065"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "One Readout, Many Repairs: Diffusion-Guided Hierarchical Search for Tool-Agent Repair",
+      "url": "https://arxiv.org/abs/2609.34879"
+    },
+    {
+      "text": "Universal Pose Pretraining for Generalizable Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2602.19710"
+    },
+    {
+      "text": "Bridging MOOCs, Smart Teaching, and AI-Assisted Learning: A Unified Quantitative Model",
+      "url": "https://arxiv.org/abs/2507.14266"
+    },
+    {
+      "text": "When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety",
+      "url": "https://arxiv.org/abs/2609.34771"
+    },
+    {
+      "text": "Scalable Attribution and Control of Model Behavior During Training",
+      "url": "https://arxiv.org/abs/2609.33667"
+    },
+    {
+      "text": "Does Learning to Predict the World Help Agents Act? Auditing World-Model Post-Training",
+      "url": "https://arxiv.org/abs/2609.33335"
+    },
+    {
+      "text": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+      "url": "https://arxiv.org/abs/2609.21465"
+    },
+    {
+      "text": "Temporal Graph Learning of Wearable Actigraphy and Sleep Traces for Modelling Adolescent Crystallized Intelligence",
+      "url": "https://arxiv.org/abs/2609.33428"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "SchemaMem: Schema-Indexed Recurrent Memory for Delayed State Retrieval",
+      "url": "https://arxiv.org/abs/2609.33436"
+    },
+    {
+      "text": "OVD: On-policy Verbal Distillation",
+      "url": "https://arxiv.org/abs/2601.21968"
+    },
+    {
+      "text": "Elucidating the Design Space of Regression-based Diffusion Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.33444"
+    },
+    {
+      "text": "A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation",
+      "url": "https://arxiv.org/abs/2609.33457"
+    },
+    {
+      "text": "OP-Bench: Benchmarking Over-Personalization for Memory-Augmented Personalized Conversational Agents",
+      "url": "https://arxiv.org/abs/2601.13722"
+    },
+    {
+      "text": "Geometric Identification in Predict-Then-Optimize Learning",
+      "url": "https://arxiv.org/abs/2609.33472"
+    },
+    {
+      "text": "PEST: Parameter Efficient Steering of Blackbox VLMs via Agentic Few-shot Alignment for Hateful Meme Moderation",
+      "url": "https://arxiv.org/abs/2601.04692"
+    },
+    {
+      "text": "What masking geometry works best for EEG foundation models?",
+      "url": "https://arxiv.org/abs/2609.33487"
+    }
+  ],
+  "lastUpdated": "2026-09-29T05:15:56Z"
+}
