@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Problems of Proliferation",
+    "url": "https://www.lesswrong.com/posts/ZHC6g5BijA5fRyGWu/problems-of-proliferation-1"
+  },
+  "topStories": [
+    {
+      "text": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+    },
+    {
+      "text": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law",
+      "url": "https://www.politico.com/news/2026/09/29/advocates-sue-openai-over-hugging-face-hack-with-california-anti-hacking-law-01097532"
+    },
+    {
+      "text": "Astra 6.1 Pulled As Insufficiently Aligned",
+      "url": "https://www.lesswrong.com/posts/gEDNSiCY2GGQrFS65/astra-6-1-pulled-as-insufficiently-aligned"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Issue Bias in Generative AI Writing Assistance: Political Issues and LLMs in the Swedish 2026 Election",
+      "url": "https://arxiv.org/abs/2609.15207"
+    },
+    {
+      "text": "What Drives Citations in Production Large Language Models? An Observational Multi-Method Study of Two Million AI Citations Across Ten Thousand Web Pages",
+      "url": "https://arxiv.org/abs/2609.35077"
+    },
+    {
+      "text": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+    },
+    {
+      "text": "Against strong decision-theoretic realism",
+      "url": "https://www.lesswrong.com/posts/5ro9kSxhP8mHXGmn4/against-strong-decision-theoretic-realism-1"
+    },
+    {
+      "text": "OPENAI LAUNCHES DOTS, ITS MUSE COMPETITOR",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+    },
+    {
+      "text": "Fast grants for AI x Animals",
+      "url": "https://www.lesswrong.com/posts/ZpEjYDrbZx8hooLkK/fast-grants-for-ai-x-animals"
+    },
+    {
+      "text": "OPENAI DEVDAY 2026 LIVE BLOG",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+    },
+    {
+      "text": "How Does Changing the Elo of a Chess Transformer Affect its Computations?",
+      "url": "https://www.lesswrong.com/posts/3haqQKsi8yHkuskQX/how-does-changing-the-elo-of-a-chess-transformer-affect-its"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "EEG-Fusion: Failure-Informed Source-Free Expert Routing for Robust Motor Imagery EEG Decoding",
+      "url": "https://arxiv.org/abs/2609.33962"
+    },
+    {
+      "text": "Separating personal from population gains when calibrating EEG foundation models for new users",
+      "url": "https://arxiv.org/abs/2609.34801"
+    },
+    {
+      "text": "Beyond Feature Reliability: Repeat-Informed Multifractal Curve Regression for Brain-Age Prediction",
+      "url": "https://arxiv.org/abs/2609.29307"
+    },
+    {
+      "text": "TwinKV: A Composable Repair Pass for KV Cache Eviction via Pairwise Key Redundancy",
+      "url": "https://arxiv.org/abs/2608.27128"
+    },
+    {
+      "text": "Recovering General Capabilities via Uncertainty-Calibrated Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2608.26735"
+    },
+    {
+      "text": "Graph Domain Adaptation Does Not End with Representation Learning",
+      "url": "https://arxiv.org/abs/2609.25692"
+    },
+    {
+      "text": "ERSkill: Evolving for Skill-Guided Adaptive Memory Retrieval",
+      "url": "https://arxiv.org/abs/2608.12720"
+    },
+    {
+      "text": "When Sparse Reward Meets Dense Distillation: Training Dynamics of On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.34849"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "CoViST: Visual Token Compression via Composable States",
+      "url": "https://arxiv.org/abs/2609.33397"
+    },
+    {
+      "text": "COEVO: Co-Evolving Context and Parameters for Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.33398"
+    },
+    {
+      "text": "Diversified Multinomial Logit Contextual Bandits",
+      "url": "https://arxiv.org/abs/2607.11684"
+    },
+    {
+      "text": "Rotated Manifold Optimization for Low-Rank Adaptation",
+      "url": "https://arxiv.org/abs/2609.34264"
+    },
+    {
+      "text": "Simulation-Free Learning of GP-SDEs from Irregular Observations",
+      "url": "https://arxiv.org/abs/2609.33112"
+    },
+    {
+      "text": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+      "url": "https://arxiv.org/abs/2609.33439"
+    },
+    {
+      "text": "D-JEPA: Design-Recoverable JEPA Representation with Swappable Physics Decoders",
+      "url": "https://arxiv.org/abs/2609.33110"
+    },
+    {
+      "text": "What Shared Prefixes Hide: Trajectory Dropout for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.33455"
+    }
+  ],
+  "lastUpdated": "2026-09-29T20:11:20Z"
+}
