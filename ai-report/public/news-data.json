@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Gate AI Training, Not Just Releases",
-    "url": "https://www.lesswrong.com/posts/hFrgJ8eXvypqswQZF/gate-ai-training-not-just-releases"
+    "text": "What Drives Citations in Production Large Language Models? An Observational Multi-Method Study of Two Million AI Citations Across Ten Thousand Web Pages",
+    "url": "https://arxiv.org/abs/2609.35077"
   },
   "topStories": [
     {
+      "text": "Issue Bias in Generative AI Writing Assistance: Political Issues and LLMs in the Swedish 2026 Election",
+      "url": "https://arxiv.org/abs/2609.15207"
+    },
+    {
+      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
+      "url": "https://arxiv.org/abs/2412.16633"
+    },
+    {
       "text": "2026 in LLMs (so far)",
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
-    },
-    {
-      "text": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
-      "url": "https://www.lesswrong.com/posts/PgbAnqdqdJcrS2Gsy/the-likely-outcome-of-an-ai-pause-is-that-we-unpause-too"
-    },
-    {
-      "text": "FLORIDA SEEKS A BAN ON CHATGPT ACTING LIKE A PERSON",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
     }
   ],
   "leftColumn": [
     {
-      "text": "Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms",
-      "url": "https://arxiv.org/abs/2609.30940"
+      "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
+      "url": "https://arxiv.org/abs/2602.01553"
     },
     {
-      "text": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
+      "text": "One Attack to Fool Them All: Highly Transferable Black-Box Adversarial Attacks on Frontier MLLMs",
+      "url": "https://arxiv.org/abs/2609.33833"
     },
     {
-      "text": "OPENAI KEEPS BULLDOZING MATHEMATICIANS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group"
+      "text": "RAISE: Reinforcing Access Control Policy Synthesis in LLMs via Symbolic Evaluation",
+      "url": "https://arxiv.org/abs/2609.33796"
     },
     {
-      "text": "Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study",
-      "url": "https://arxiv.org/abs/2609.29433"
+      "text": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
+      "url": "https://arxiv.org/abs/2609.34457"
     },
     {
-      "text": "OPENAI’S AI AGENTS NEED TO CATCH UP",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
+      "text": "Quantifying How Training Gradient Sparsity Affect Spiking Neural Network Accuracy And Robustness",
+      "url": "https://arxiv.org/abs/2509.23762"
     },
     {
-      "text": "protecting qwen3-8b from gcg based persona jailbreaks by steering with a linear direction",
-      "url": "https://www.lesswrong.com/posts/tn7sFvqdawwN3xFzE/protecting-qwen3-8b-from-gcg-based-persona-jailbreaks-by"
+      "text": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
     },
     {
-      "text": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+      "text": "Large Language Models for Automated Cross-Domain Machine Learning Task Type Identification: A Benchmark Dataset and Evaluation",
+      "url": "https://arxiv.org/abs/2609.35335"
     },
     {
-      "text": "G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
-      "url": "https://arxiv.org/abs/2609.31009"
+      "text": "TempoKV: Timely Staging of LLM KV Caches for Memory-Semantic Flash",
+      "url": "https://arxiv.org/abs/2609.35065"
     }
   ],
   "centerColumn": [
     {
-      "text": "Prompt Injection Detection for Email Agents Through Attack Chain Modeling",
-      "url": "https://arxiv.org/abs/2609.30657"
+      "text": "One Readout, Many Repairs: Diffusion-Guided Hierarchical Search for Tool-Agent Repair",
+      "url": "https://arxiv.org/abs/2609.34879"
     },
     {
-      "text": "The KV Cache Is the New Memory Wall",
-      "url": "https://arxiv.org/abs/2609.30854"
+      "text": "Universal Pose Pretraining for Generalizable Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2602.19710"
     },
     {
-      "text": "TR-SSQP: A Trust-Region Method for Constrained Stochastic Optimization under Heavy-Tailed Noise",
-      "url": "https://arxiv.org/abs/2609.30732"
+      "text": "Bridging MOOCs, Smart Teaching, and AI-Assisted Learning: A Unified Quantitative Model",
+      "url": "https://arxiv.org/abs/2507.14266"
     },
     {
-      "text": "FRESHLATENT: Channel-Aware Latent Adaptation for Resource-Constrained Embodied VLM Perception",
-      "url": "https://arxiv.org/abs/2609.30629"
+      "text": "When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety",
+      "url": "https://arxiv.org/abs/2609.34771"
     },
     {
-      "text": "Why Alzheimer's Speech Screening Fails to Generalize: Bridging the Deployment Gap via Cross-Corpus Evidence Anchoring",
-      "url": "https://arxiv.org/abs/2609.31293"
+      "text": "Scalable Attribution and Control of Model Behavior During Training",
+      "url": "https://arxiv.org/abs/2609.33667"
     },
     {
-      "text": "Bayesian Uncertainty Quantification for fMRI Functional Connectivity via Simulation-Based Inference",
-      "url": "https://arxiv.org/abs/2609.30445"
+      "text": "Does Learning to Predict the World Help Agents Act? Auditing World-Model Post-Training",
+      "url": "https://arxiv.org/abs/2609.33335"
     },
     {
-      "text": "Intent2Tc: Automated Intent-to-Traffic Control Translation with Language Models",
-      "url": "https://arxiv.org/abs/2609.31397"
+      "text": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+      "url": "https://arxiv.org/abs/2609.21465"
     },
     {
-      "text": "Distribution of hitting times for dissipative random dynamical systems on $\\mathbb{R}^d$, with application to stochastic gradient descent",
-      "url": "https://arxiv.org/abs/2609.30274"
+      "text": "Temporal Graph Learning of Wearable Actigraphy and Sleep Traces for Modelling Adolescent Crystallized Intelligence",
+      "url": "https://arxiv.org/abs/2609.33428"
     }
   ],
   "rightColumn": [
     {
-      "text": "Parameters vs. Context: TRACE Fine-Tuning for Robust Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2609.30337"
+      "text": "SchemaMem: Schema-Indexed Recurrent Memory for Delayed State Retrieval",
+      "url": "https://arxiv.org/abs/2609.33436"
     },
     {
-      "text": "CacheReforge: Bounded Recovery for Stale KV Caches under Evolving Adapters",
-      "url": "https://arxiv.org/abs/2609.30884"
+      "text": "OVD: On-policy Verbal Distillation",
+      "url": "https://arxiv.org/abs/2601.21968"
     },
     {
-      "text": "EPOC: Endpoint-Preserving Online Correction With Compressed Residual State for Multi-Horizon Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2609.30929"
+      "text": "Elucidating the Design Space of Regression-based Diffusion Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.33444"
     },
     {
-      "text": "SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents",
-      "url": "https://arxiv.org/abs/2609.30971"
+      "text": "A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation",
+      "url": "https://arxiv.org/abs/2609.33457"
     },
     {
-      "text": "Low-Bit Recurrent States in Hybrid Language Models",
-      "url": "https://arxiv.org/abs/2609.30950"
+      "text": "OP-Bench: Benchmarking Over-Personalization for Memory-Augmented Personalized Conversational Agents",
+      "url": "https://arxiv.org/abs/2601.13722"
     },
     {
-      "text": "Towards Understanding Momentum Acceleration in River-Valley Loss Landscape",
-      "url": "https://arxiv.org/abs/2609.30957"
+      "text": "Geometric Identification in Predict-Then-Optimize Learning",
+      "url": "https://arxiv.org/abs/2609.33472"
     },
     {
-      "text": "Guarded Gradient-Based Activation Steering of Shutdown Responses in Qwen3.5-0.8B: A Minimum-Step Policy",
-      "url": "https://arxiv.org/abs/2609.30326"
+      "text": "PEST: Parameter Efficient Steering of Blackbox VLMs via Agentic Few-shot Alignment for Hateful Meme Moderation",
+      "url": "https://arxiv.org/abs/2601.04692"
     },
     {
-      "text": "LipSSM: Structurally Lipschitz-Bounded Cascaded State-Space Model via Metric Transfer between Consecutive SSM Layers",
-      "url": "https://arxiv.org/abs/2609.30973"
+      "text": "What masking geometry works best for EEG foundation models?",
+      "url": "https://arxiv.org/abs/2609.33487"
     }
   ],
-  "lastUpdated": "2026-09-28T21:27:29Z"
+  "lastUpdated": "2026-09-29T05:15:56Z"
 }
