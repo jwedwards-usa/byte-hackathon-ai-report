@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Do AI models assist with human rights violations?",
+    "url": "https://www.lesswrong.com/posts/bAPSoJJ3wsAepd6Zj/do-ai-models-assist-with-human-rights-violations"
+  },
+  "topStories": [
+    {
+      "text": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+    },
+    {
+      "text": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+    },
+    {
+      "text": "What Drives Citations in Production Large Language Models? An Observational Multi-Method Study of Two Million AI Citations Across Ten Thousand Web Pages",
+      "url": "https://arxiv.org/abs/2609.35077"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Issue Bias in Generative AI Writing Assistance: Political Issues and LLMs in the Swedish 2026 Election",
+      "url": "https://arxiv.org/abs/2609.15207"
+    },
+    {
+      "text": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+    },
+    {
+      "text": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/"
+    },
+    {
+      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
+      "url": "https://arxiv.org/abs/2412.16633"
+    },
+    {
+      "text": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty"
+    },
+    {
+      "text": "One Attack to Fool Them All: Highly Transferable Black-Box Adversarial Attacks on Frontier MLLMs",
+      "url": "https://arxiv.org/abs/2609.33833"
+    },
+    {
+      "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
+      "url": "https://arxiv.org/abs/2602.01553"
+    },
+    {
+      "text": "RAISE: Reinforcing Access Control Policy Synthesis in LLMs via Symbolic Evaluation",
+      "url": "https://arxiv.org/abs/2609.33796"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "lapanda: A Matrix-Free Differentiable Solver for Nonconvex Constrained Optimization Layers",
+      "url": "https://arxiv.org/abs/2609.33630"
+    },
+    {
+      "text": "An Attention-Driven Heterogeneous GNN Model for Credit Card Fraud Detection",
+      "url": "https://arxiv.org/abs/2609.32106"
+    },
+    {
+      "text": "RAZOR: Pruning Replaceable Experts in LLMs",
+      "url": "https://arxiv.org/abs/2609.30465"
+    },
+    {
+      "text": "Optimal transport meets speech: a tutorial review",
+      "url": "https://arxiv.org/abs/2609.31787"
+    },
+    {
+      "text": "Tail-Weight Control and Localized Generalization in Nearly Low-Rank Adversarial Classification",
+      "url": "https://arxiv.org/abs/2609.23688"
+    },
+    {
+      "text": "Learning Regional Snow Water Equivalent and Snow Height Variations from Sentinel-1 InSAR Acquisitions",
+      "url": "https://arxiv.org/abs/2609.34614"
+    },
+    {
+      "text": "Compiled Agency: Coding Agents as Game AI Researchers -- from a Roguelike to StarCraft II and Civilization",
+      "url": "https://arxiv.org/abs/2609.18996"
+    },
+    {
+      "text": "DisKO: Deep Koopman Learning in Distribution Space from Unpaired Snapshots",
+      "url": "https://arxiv.org/abs/2609.34629"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MoGround: Measuring and Mitigating Modality Distraction in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.33431"
+    },
+    {
+      "text": "SchemaMem: Schema-Indexed Recurrent Memory for Delayed State Retrieval",
+      "url": "https://arxiv.org/abs/2609.33436"
+    },
+    {
+      "text": "Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis",
+      "url": "https://arxiv.org/abs/2606.10381"
+    },
+    {
+      "text": "Elucidating the Design Space of Regression-based Diffusion Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.33444"
+    },
+    {
+      "text": "A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation",
+      "url": "https://arxiv.org/abs/2609.33457"
+    },
+    {
+      "text": "Sci-Rho: A Multilingual Visually-Grounded Symbolic Benchmark for STEM Problems",
+      "url": "https://arxiv.org/abs/2606.08034"
+    },
+    {
+      "text": "Geometric Identification in Predict-Then-Optimize Learning",
+      "url": "https://arxiv.org/abs/2609.33472"
+    },
+    {
+      "text": "Vault: One-Step Latent Generation with Positive-Anchored Rewards for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2606.06219"
+    }
+  ],
+  "lastUpdated": "2026-09-29T12:46:33Z"
+}
