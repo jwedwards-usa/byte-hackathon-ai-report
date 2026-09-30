@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The world's best gradual disempowerment model organism: Frontier AI labs",
+    "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism"
+  },
+  "topStories": [
+    {
+      "text": "What Drives Citations in Production Large Language Models? An Observational Multi-Method Study of Two Million AI Citations Across Ten Thousand Web Pages",
+      "url": "https://arxiv.org/abs/2609.35077"
+    },
+    {
+      "text": "Issue Bias in Generative AI Writing Assistance: Political Issues and LLMs in the Swedish 2026 Election",
+      "url": "https://arxiv.org/abs/2609.15207"
+    },
+    {
+      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
+      "url": "https://arxiv.org/abs/2412.16633"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+    },
+    {
+      "text": "Quoting Anthropic Frontier Red Team",
+      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
+    },
+    {
+      "text": "An Alternative to Fully-Aligned Swarms",
+      "url": "https://www.lesswrong.com/posts/wm5Dby6uELsQqxBeM/an-alternative-to-fully-aligned-swarms-1"
+    },
+    {
+      "text": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+      "url": "https://github.com/lostmsu/TurboGPT"
+    },
+    {
+      "text": "Astra 6.1 Pulled As Insufficiently Aligned",
+      "url": "https://www.lesswrong.com/posts/gEDNSiCY2GGQrFS65/astra-6-1-pulled-as-insufficiently-aligned"
+    },
+    {
+      "text": "Quantifying How Training Gradient Sparsity Affect Spiking Neural Network Accuracy And Robustness",
+      "url": "https://arxiv.org/abs/2509.23762"
+    },
+    {
+      "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
+      "url": "https://arxiv.org/abs/2602.01553"
+    },
+    {
+      "text": "RAISE: Reinforcing Access Control Policy Synthesis in LLMs via Symbolic Evaluation",
+      "url": "https://arxiv.org/abs/2609.33796"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "DR-net-Mamba: Selective State-Space Modeling for Long-Range ECG Time-Series Denoising",
+      "url": "https://arxiv.org/abs/2609.35634"
+    },
+    {
+      "text": "Deep Delta Learning",
+      "url": "https://arxiv.org/abs/2601.00417"
+    },
+    {
+      "text": "What Drives Dialectal Jailbreaks? An Ablation of Surface Form, Cultural Framing, and Strategy Banks",
+      "url": "https://arxiv.org/abs/2609.31664"
+    },
+    {
+      "text": "ChEmbed: Enhancing Chemical Literature Search Through Domain-Specific Text Embeddings",
+      "url": "https://arxiv.org/abs/2508.01643"
+    },
+    {
+      "text": "AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists",
+      "url": "https://arxiv.org/abs/2506.08140"
+    },
+    {
+      "text": "Building Intelligent Agents with Neuro-Symbolic Concepts",
+      "url": "https://arxiv.org/abs/2505.06191"
+    },
+    {
+      "text": "Red-Teaming Text-to-Image Models via In-Context Experience Replay and Semantic-Preserving Prompt Rewriting",
+      "url": "https://arxiv.org/abs/2411.16769"
+    },
+    {
+      "text": "ScAn-Bench: Evaluating Scaling Analysis Methodology",
+      "url": "https://arxiv.org/abs/2609.35707"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "FoldAttention: Declared-Reference Softmax for Fast Decode and Deterministic Backward",
+      "url": "https://arxiv.org/abs/2609.33410"
+    },
+    {
+      "text": "PlaylistEval: Can Video-Language Judges Be Trusted at Day Scale and Beyond?",
+      "url": "https://arxiv.org/abs/2609.34314"
+    },
+    {
+      "text": "A Light Bilevel Refinement Aligns Self-Supervised Representations for Stronger Task-Specific Learning",
+      "url": "https://arxiv.org/abs/2609.33424"
+    },
+    {
+      "text": "MoGround: Measuring and Mitigating Modality Distraction in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.33431"
+    },
+    {
+      "text": "SchemaMem: Schema-Indexed Recurrent Memory for Delayed State Retrieval",
+      "url": "https://arxiv.org/abs/2609.33436"
+    },
+    {
+      "text": "UniAR: A Unified Framework for Autism Recognition Enhanced by Multi-View Prompt Learning",
+      "url": "https://arxiv.org/abs/2609.31298"
+    },
+    {
+      "text": "Elucidating the Design Space of Regression-based Diffusion Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.33444"
+    },
+    {
+      "text": "A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation",
+      "url": "https://arxiv.org/abs/2609.33457"
+    }
+  ],
+  "lastUpdated": "2026-09-30T00:32:35Z"
+}
