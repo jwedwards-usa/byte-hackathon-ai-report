@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "A ‘Morally Binding’ White House Accord on AI Safety",
+    "url": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "Rather than allow or ban open weights, rethinking access",
+      "url": "https://www.lesswrong.com/posts/WLdsxrDFbgRnWKstm/rather-than-allow-or-ban-open-weights-rethinking-access"
+    },
+    {
+      "text": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+    },
+    {
+      "text": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "One Attack to Fool Them All: Highly Transferable Black-Box Adversarial Attacks on Frontier MLLMs",
+      "url": "https://arxiv.org/abs/2609.33833"
+    },
+    {
+      "text": "RAISE: Reinforcing Access Control Policy Synthesis in LLMs via Symbolic Evaluation",
+      "url": "https://arxiv.org/abs/2609.33796"
+    },
+    {
+      "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
+      "url": "https://arxiv.org/abs/2602.01553"
+    },
+    {
+      "text": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
+      "url": "https://arxiv.org/abs/2609.34457"
+    },
+    {
+      "text": "Beyond Keywords: Leveraging Generative LLMs and Label Aggregation to Classify Economic Policy Uncertainty in News Articles",
+      "url": "https://arxiv.org/abs/2609.35856"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Model Hermeneutics: Monitoring Closed-Weight Models with Open-Weight Internals",
+      "url": "https://www.lesswrong.com/posts/CZLhfNGaDqtYxvGJD/model-hermeneutics-monitoring-closed-weight-models-with-open"
+    },
+    {
+      "text": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation",
+      "url": "https://arxiv.org/abs/2609.33742"
+    },
+    {
+      "text": "Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.34422"
+    },
+    {
+      "text": "Unlocking Few-Step Diffusion for Faithful Previews",
+      "url": "https://arxiv.org/abs/2609.34406"
+    },
+    {
+      "text": "FineART: Fine-grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation",
+      "url": "https://arxiv.org/abs/2609.36416"
+    },
+    {
+      "text": "Online Versatile Incremental Learning: Towards Class and Domain-Agnostic Adaptation at Any Time",
+      "url": "https://arxiv.org/abs/2609.36442"
+    },
+    {
+      "text": "ABC-Align: Prediction-Powered Alignment with Adaptive Bias Control",
+      "url": "https://arxiv.org/abs/2609.34374"
+    },
+    {
+      "text": "FORGE: Form-Optimal Routing of Grounded Evidence for Frozen LLM Agents",
+      "url": "https://arxiv.org/abs/2609.34358"
+    },
+    {
+      "text": "Where Activation Sparsity and KV-Cache Sparsity Cross in LLM Decoding",
+      "url": "https://arxiv.org/abs/2609.33889"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "From Dead Code and Static Requirements to Working Engines: Software Revival with Coding Agents",
+      "url": "https://arxiv.org/abs/2609.36161"
+    },
+    {
+      "text": "The Price of Locality: Why Forward-Forward Underperforms Backpropagation?",
+      "url": "https://arxiv.org/abs/2609.33240"
+    },
+    {
+      "text": "Self-Adapting Group of Experts for Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2609.35412"
+    },
+    {
+      "text": "SMORE: Stability-Promoting Mesh-Agnostic Model Reduction for Time-Dependent PDEs",
+      "url": "https://arxiv.org/abs/2609.33205"
+    },
+    {
+      "text": "Re-derivability Decides What a Staged Agent Pipeline Recovers After an Upstream Fault",
+      "url": "https://arxiv.org/abs/2609.32802"
+    },
+    {
+      "text": "Encoder-Sharing Hierarchical Federated Multi-Task Learning for VANETs",
+      "url": "https://arxiv.org/abs/2609.36157"
+    },
+    {
+      "text": "Digital Twin Modeling of Quantum Dynamical Systems: Dissipative Quantum Reservoir Computing",
+      "url": "https://arxiv.org/abs/2609.36901"
+    },
+    {
+      "text": "dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model",
+      "url": "https://arxiv.org/abs/2608.02673"
+    }
+  ],
+  "lastUpdated": "2026-09-30T22:44:18Z"
+}
