@@ -1,12 +1,38 @@
 {
   "mainHeadline": {
-    "text": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
-    "url": "https://arxiv.org/abs/2609.34457"
+    "text": "A ‘Morally Binding’ White House Accord on AI Safety",
+    "url": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety"
   },
   "topStories": [
     {
-      "text": "Beyond Keywords: Leveraging Generative LLMs and Label Aggregation to Classify Economic Policy Uncertainty in News Articles",
-      "url": "https://arxiv.org/abs/2609.35856"
+      "text": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+    },
+    {
+      "text": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments"
+    },
+    {
+      "text": "By default, Chinese AI falls very behind",
+      "url": "https://www.lesswrong.com/posts/fDE6k8SGr9ANtMFcj/by-default-chinese-ai-falls-very-behind"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
+    },
+    {
+      "text": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+    },
+    {
+      "text": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+    },
+    {
+      "text": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
+      "url": "https://arxiv.org/abs/2609.34457"
     },
     {
       "text": "Plain Transformers are Surprisingly Powerful Link Predictors",
@@ -15,109 +41,83 @@
     {
       "text": "One Attack to Fool Them All: Highly Transferable Black-Box Adversarial Attacks on Frontier MLLMs",
       "url": "https://arxiv.org/abs/2609.33833"
-    }
-  ],
-  "leftColumn": [
+    },
+    {
+      "text": "Beyond Keywords: Leveraging Generative LLMs and Label Aggregation to Classify Economic Policy Uncertainty in News Articles",
+      "url": "https://arxiv.org/abs/2609.35856"
+    },
     {
       "text": "RAISE: Reinforcing Access Control Policy Synthesis in LLMs via Symbolic Evaluation",
       "url": "https://arxiv.org/abs/2609.33796"
-    },
-    {
-      "text": "Will AI Agents Pay to Avoid Killing Animals?",
-      "url": "https://www.lesswrong.com/posts/2dg5F9iWunz2k2oZb/will-ai-agents-pay-to-avoid-killing-animals-1"
-    },
-    {
-      "text": "AAR 9/29: Public Sector AI Symposium Ottawa (AWS+Accenture+Anthropic), Policy Foresight Afternoon (Center for International Governance Innovation), Versaterm Users Conference (Police, Fire, Emergency), GCXpo at Area X.O (Department of National Defence), and VCF Cluster Access (Lucid Computing)",
-      "url": "https://www.lesswrong.com/posts/7nexTjJGx5Ss2C2h5/aar-9-29-public-sector-ai-symposium-ottawa-aws-accenture"
-    },
-    {
-      "text": "MegaGraph: Towards Efficient Training of Large-Scale Graph Transformers with Automated Hybrid Parallelism",
-      "url": "https://arxiv.org/abs/2609.34420"
-    },
-    {
-      "text": "TemporalGraphLLM: Temporal Graph Neural Networks with Large Language Models for Dynamic Text-Attributed Graphs",
-      "url": "https://arxiv.org/abs/2609.31881"
-    },
-    {
-      "text": "Dagger: Decoupling-based Model Stealing Attack against Graph Neural Networks",
-      "url": "https://arxiv.org/abs/2609.37972"
-    },
-    {
-      "text": "PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games",
-      "url": "https://arxiv.org/abs/2609.09059"
-    },
-    {
-      "text": "Large Language Models for Automated Cross-Domain Machine Learning Task Type Identification: A Benchmark Dataset and Evaluation",
-      "url": "https://arxiv.org/abs/2609.35335"
     }
   ],
   "centerColumn": [
     {
-      "text": "Taming the Greeks: Option Portfolios with Inductive Biases",
-      "url": "https://arxiv.org/abs/2609.33767"
+      "text": "SkillBloat: Token Amplification Attacks via Skill Injection in LLM Coding Agents",
+      "url": "https://arxiv.org/abs/2608.21929"
     },
     {
-      "text": "Post-Training at the Edge of Detectability: A Game-Theoretic Approach to Fine-Tuning",
-      "url": "https://arxiv.org/abs/2607.26358"
+      "text": "DisKO: Deep Koopman Learning in Distribution Space from Unpaired Snapshots",
+      "url": "https://arxiv.org/abs/2609.34629"
     },
     {
-      "text": "From Behavior to Mechanism: Tracing Divergent Response Modes in Frontier Language Models",
-      "url": "https://arxiv.org/abs/2608.06578"
+      "text": "Learning Regional Snow Water Equivalent and Snow Height Variations from Sentinel-1 InSAR Acquisitions",
+      "url": "https://arxiv.org/abs/2609.34614"
     },
     {
-      "text": "How LLM Task-Adaptation Reshapes Alignment: A Multi-dimensional Study of Behavioral and Representational Drift",
-      "url": "https://arxiv.org/abs/2607.22676"
+      "text": "TOWARDS BREAKING THE LEARNING SYSTEM WALL USING MULTIMODAL TUTORING TRANSCRIPTIONS",
+      "url": "https://arxiv.org/abs/2609.36502"
     },
     {
-      "text": "Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation",
-      "url": "https://arxiv.org/abs/2609.36995"
+      "text": "When local gains fail to transfer: Frozen Earth-observation embeddings across wildfires",
+      "url": "https://arxiv.org/abs/2609.34602"
     },
     {
-      "text": "Identical Runs, Different Results: Benchmarking AI Coding Agents on Open-Weight Models",
-      "url": "https://arxiv.org/abs/2609.33812"
+      "text": "PulseInfer: I/O-Centric Sparse KV Cache Offloading for Efficient Long-Context LLM Decoding",
+      "url": "https://arxiv.org/abs/2609.34555"
     },
     {
-      "text": "One Analyst Is Not Ground Truth: Grading Agent-Built Financial Models Against Observed Professional Practice",
-      "url": "https://arxiv.org/abs/2607.24889"
+      "text": "Low-Confidence Remasking Traps Flexibility: Realizing Arbitrary-Order Potential for Diverse Rollouts in Diffusion LLMs",
+      "url": "https://arxiv.org/abs/2609.34509"
     },
     {
-      "text": "Measuring Collapse and Correction in Homogeneous-Panel LLM Debate",
-      "url": "https://arxiv.org/abs/2609.35279"
+      "text": "Where Activation Sparsity and KV-Cache Sparsity Cross in LLM Decoding",
+      "url": "https://arxiv.org/abs/2609.33889"
     }
   ],
   "rightColumn": [
     {
-      "text": "Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning",
-      "url": "https://arxiv.org/abs/2608.19966"
+      "text": "OntoTKGE: Ontology-Enhanced Temporal Knowledge Graph Extrapolation",
+      "url": "https://arxiv.org/abs/2604.05468"
     },
     {
-      "text": "CTP-FL: Common-Trajectory Gradient Prediction for Federated Learning",
-      "url": "https://arxiv.org/abs/2609.35130"
+      "text": "Safe Score Matching: Diffusion Policies with Hamilton-Jacobi Reachability for Online Safe Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.33337"
     },
     {
-      "text": "FlexiWorld: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales",
-      "url": "https://arxiv.org/abs/2609.35138"
+      "text": "CoSE-E: A Benchmark for Code-switched Speech Evaluation in Enterprise Settings",
+      "url": "https://arxiv.org/abs/2609.35645"
     },
     {
-      "text": "D-JEPA: Design-Recoverable JEPA Representation with Swappable Physics Decoders",
-      "url": "https://arxiv.org/abs/2609.33110"
+      "text": "Extractable Memorization From First Principles",
+      "url": "https://arxiv.org/abs/2607.12649"
     },
     {
-      "text": "Spatial Memory Agent: Experience-Grounded Procedural Memory for Spatial Intelligence",
-      "url": "https://arxiv.org/abs/2608.12743"
+      "text": "Algorithmic Harms Associated with Generative Model-Augmented Recommendation Systems",
+      "url": "https://arxiv.org/abs/2609.33073"
     },
     {
-      "text": "DualGuard: Dual-Mode Quality Control for Logic-Preserving Data Augmentation",
-      "url": "https://arxiv.org/abs/2609.32431"
+      "text": "Visual Parallel Search: Learning to Search High-Resolution Images with Parallel Tile Inspection and Adaptive Zoom",
+      "url": "https://arxiv.org/abs/2609.37002"
     },
     {
-      "text": "How Linear Attention Remembers",
-      "url": "https://arxiv.org/abs/2609.33093"
+      "text": "ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning",
+      "url": "https://arxiv.org/abs/2609.36333"
     },
     {
-      "text": "Geometry-Aware Operator Families for Structured Representation Learning",
-      "url": "https://arxiv.org/abs/2609.33089"
+      "text": "Calibrating One-Round Membership Inference with Neighbors",
+      "url": "https://arxiv.org/abs/2609.36331"
     }
   ],
-  "lastUpdated": "2026-09-30T09:47:10Z"
+  "lastUpdated": "2026-09-30T18:02:34Z"
 }
