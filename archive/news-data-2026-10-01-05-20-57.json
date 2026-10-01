@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs",
+    "url": "https://arxiv.org/abs/2609.38899"
+  },
+  "topStories": [
+    {
+      "text": "Who Warmed the Archives? LLMs Overestimate Historical Warmth",
+      "url": "https://arxiv.org/abs/2609.37499"
+    },
+    {
+      "text": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs",
+      "url": "https://arxiv.org/abs/2603.28013"
+    },
+    {
+      "text": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+      "url": "https://arxiv.org/abs/2608.13786"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
+      "url": "https://arxiv.org/abs/2609.38415"
+    },
+    {
+      "text": "dattri-LLM: A Unified and Efficient Library for Training Data Attribution at LLM Scale",
+      "url": "https://arxiv.org/abs/2609.38767"
+    },
+    {
+      "text": "Travel Time Prediction in Supply Chain Management Using Machine Learning",
+      "url": "https://arxiv.org/abs/2609.38190"
+    },
+    {
+      "text": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "url": "https://arxiv.org/abs/2609.38177"
+    },
+    {
+      "text": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+      "url": "https://arxiv.org/abs/2609.39001"
+    },
+    {
+      "text": "When Context Changes: Understanding Update Failures in LLMs",
+      "url": "https://arxiv.org/abs/2609.38866"
+    },
+    {
+      "text": "Faithful Dual-constrained Erasure for Robust LLM Safety Alignment",
+      "url": "https://arxiv.org/abs/2609.39279"
+    },
+    {
+      "text": "Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation",
+      "url": "https://arxiv.org/abs/2604.13354"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "WARP: A Unified Benchmark for Invisible Image Watermarking -- Robustness and Protection Against Attacks",
+      "url": "https://arxiv.org/abs/2609.40031"
+    },
+    {
+      "text": "DE-VAE: Revealing Uncertainty in Parametric and Inverse Projections with Variational Autoencoders using Differential Entropy",
+      "url": "https://arxiv.org/abs/2508.12145"
+    },
+    {
+      "text": "Searching for BSM Experimental Signatures with Large Lagrangian Models",
+      "url": "https://arxiv.org/abs/2609.38309"
+    },
+    {
+      "text": "Airfoil2Vec: Spectral Geometry-Conditioned Neural Surrogate Models for Airfoil Aerodynamics and a Downforce-Generating CFD Dataset",
+      "url": "https://arxiv.org/abs/2609.38213"
+    },
+    {
+      "text": "TutlAit v1: a crowdsourced Moroccan Tamazight speech dataset with Arabic transcriptions and regional accent labels",
+      "url": "https://arxiv.org/abs/2609.38219"
+    },
+    {
+      "text": "Rethinking Multimodal Fake News Detection in the Generative AI Era",
+      "url": "https://arxiv.org/abs/2609.36850"
+    },
+    {
+      "text": "Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2609.39820"
+    },
+    {
+      "text": "TTMark: Pairwise Distortion-Free Watermarking Beyond Single-Token Entropy",
+      "url": "https://arxiv.org/abs/2609.36372"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Signal-Routed Temperature Scaling: Low-Capacity Risk-Conditioned Calibration for Small Validation Budgets",
+      "url": "https://arxiv.org/abs/2609.38936"
+    },
+    {
+      "text": "Robust Risk-Sensitive Reinforcement Learning from Corrupted Human Feedback",
+      "url": "https://arxiv.org/abs/2609.38938"
+    },
+    {
+      "text": "Adaptive Reparametrized Time for Score-Based Diffusion Sampling",
+      "url": "https://arxiv.org/abs/2607.02137"
+    },
+    {
+      "text": "Scale-Split Neural Operator for Memory- and Data-Efficient 3D Turbulence Prediction",
+      "url": "https://arxiv.org/abs/2609.38977"
+    },
+    {
+      "text": "SCORE-LM: State-Space Radar Representations with Language Models for Fault Diagnosis",
+      "url": "https://arxiv.org/abs/2609.38980"
+    },
+    {
+      "text": "Smaller Models, Better Rejects: Preference Distillation Scaling",
+      "url": "https://arxiv.org/abs/2609.38987"
+    },
+    {
+      "text": "Anchoring Adversarial Trajectories to Data Manifolds: A Bilevel Transfer Optimization Framework",
+      "url": "https://arxiv.org/abs/2609.38991"
+    },
+    {
+      "text": "From Dataset Spectral Geometry to Network Weights: A Geometry-Aware Initialization for Sigmoidal MLPs in Image Classification",
+      "url": "https://arxiv.org/abs/2606.28444"
+    }
+  ],
+  "lastUpdated": "2026-10-01T05:20:57Z"
+}
