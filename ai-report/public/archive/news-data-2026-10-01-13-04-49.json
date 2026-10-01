@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI Safety Communication Tips",
+    "url": "https://www.lesswrong.com/posts/tN73bSLeXWfiiCw7a/ai-safety-communication-tips"
+  },
+  "topStories": [
+    {
+      "text": "We started an AI safety party in Sweden: here's how it went",
+      "url": "https://www.lesswrong.com/posts/usZvXEwyrzdD4n2D4/we-started-an-ai-safety-party-in-sweden-here-s-how-it-went"
+    },
+    {
+      "text": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+    },
+    {
+      "text": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+      "url": "https://arxiv.org/abs/2608.13786"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs",
+      "url": "https://arxiv.org/abs/2603.28013"
+    },
+    {
+      "text": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
+      "url": "https://arxiv.org/abs/2609.38415"
+    },
+    {
+      "text": "Who Warmed the Archives? LLMs Overestimate Historical Warmth",
+      "url": "https://arxiv.org/abs/2609.37499"
+    },
+    {
+      "text": "SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2609.38899"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+    },
+    {
+      "text": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "url": "https://arxiv.org/abs/2609.38177"
+    },
+    {
+      "text": "EDGC: Entropy-driven Dynamic Gradient Compression for Efficient LLM Training",
+      "url": "https://arxiv.org/abs/2511.10333"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation",
+      "url": "https://arxiv.org/abs/2609.39727"
+    },
+    {
+      "text": "Learning Steganography Is Easy, Learning Steganographic Reasoning Is Hard",
+      "url": "https://arxiv.org/abs/2609.39838"
+    },
+    {
+      "text": "GrammarRL: Effective Grammar-Constrained Decoding via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.39869"
+    },
+    {
+      "text": "EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses",
+      "url": "https://arxiv.org/abs/2609.39284"
+    },
+    {
+      "text": "When the Wrong Key Wins: Understanding and Detecting Hallucinations in LLMs",
+      "url": "https://arxiv.org/abs/2609.15106"
+    },
+    {
+      "text": "ConflictGuide: AutoResearch Improves When Competing Behaviors Are Made Visible",
+      "url": "https://arxiv.org/abs/2609.39933"
+    },
+    {
+      "text": "When Instructions Retrieve Trajectories: Diagnosing and Mitigating Generalization Failures in VLA Models",
+      "url": "https://arxiv.org/abs/2609.39971"
+    },
+    {
+      "text": "What Can Component-Replacement Evidence Establish? A Critical Scoping Review of Local Decisions in LLM Agents",
+      "url": "https://arxiv.org/abs/2609.39989"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "What Survives When You Compress a Recursive Reasoner for the Edge?",
+      "url": "https://arxiv.org/abs/2606.26488"
+    },
+    {
+      "text": "From Tokens to Policy: Causal and Interpretable Heterogeneous Treatment Effects Identification",
+      "url": "https://arxiv.org/abs/2606.17010"
+    },
+    {
+      "text": "RealWorldShop: Benchmarking and Improving Conversational Shopping Agents in Real-World E-commerce",
+      "url": "https://arxiv.org/abs/2609.38974"
+    },
+    {
+      "text": "Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2606.13571"
+    },
+    {
+      "text": "Foundation-Preserving Optimization in Generalized Eigenspace",
+      "url": "https://arxiv.org/abs/2606.00132"
+    },
+    {
+      "text": "TaxDistill: Improving Metagenomic Taxonomic Annotation via Distilled Genomic Foundation Models",
+      "url": "https://arxiv.org/abs/2605.28868"
+    },
+    {
+      "text": "Beyond Prediction: Steering VLM Agents with Retrospective World Modeling",
+      "url": "https://arxiv.org/abs/2609.39101"
+    },
+    {
+      "text": "Opportunistic Target Selection: Early Directional Commitment for Query-Efficient Black-Box Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2605.25663"
+    }
+  ],
+  "lastUpdated": "2026-10-01T13:04:49Z"
+}
