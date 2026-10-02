@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "How to apply to AI safety fellowships (and beyond)",
+    "url": "https://www.lesswrong.com/posts/PiP4JqQFKhoqHGG2n/how-to-apply-to-ai-safety-fellowships-and-beyond"
+  },
+  "topStories": [
+    {
+      "text": "AI Safety Can't Afford to Pick a Side on Consciousness",
+      "url": "https://www.lesswrong.com/posts/xvABT7XDFG5gdGrsZ/ai-safety-can-t-afford-to-pick-a-side-on-consciousness"
+    },
+    {
+      "text": "Dialogue with Eliezer Yudkowsky on Neural Networks",
+      "url": "https://www.lesswrong.com/posts/PA7f9a9ZFcqpjmGEZ/dialogue-with-eliezer-yudkowsky-on-neural-networks"
+    },
+    {
+      "text": "Failure modes of Claude Code in a supervised but code-blind 60h project",
+      "url": "https://www.lesswrong.com/posts/RjuZ4spL96rtvbmLt/failure-modes-of-claude-code-in-a-supervised-but-code-blind"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
+      "url": "https://arxiv.org/abs/2412.16633"
+    },
+    {
+      "text": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail"
+    },
+    {
+      "text": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+    },
+    {
+      "text": "GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation",
+      "url": "https://arxiv.org/abs/2604.01997"
+    },
+    {
+      "text": "DynGhost: Temporally-Modelled Transformer for Dynamic Ghost Imagings",
+      "url": "https://arxiv.org/abs/2605.10185"
+    },
+    {
+      "text": "MedFeat: Model-Aware and Explainability-Driven Feature Engineering with LLMs for Tabular Prediction",
+      "url": "https://arxiv.org/abs/2603.02221"
+    },
+    {
+      "text": "VERITYGATE: A Four-Gate Schema-Level Faithfulness Framework and Paired Benchmark for Grounded LLM Narrations over Structured Evidence",
+      "url": "https://arxiv.org/abs/2610.00833"
+    },
+    {
+      "text": "Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data",
+      "url": "https://arxiv.org/abs/2603.00059"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "url": "https://arxiv.org/abs/2610.00015"
+    },
+    {
+      "text": "Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes",
+      "url": "https://arxiv.org/abs/2610.01324"
+    },
+    {
+      "text": "ROGUE: Evaluating Corrigibility Failures in Frontier Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2606.00341"
+    },
+    {
+      "text": "CASCADE Conformal Prediction: Uncertainty-Adaptive Prediction Intervals for Two-Stage Clinical Decision Support",
+      "url": "https://arxiv.org/abs/2605.20468"
+    },
+    {
+      "text": "Graph Hierarchical Recurrence for Long-Range Generalization",
+      "url": "https://arxiv.org/abs/2605.18387"
+    },
+    {
+      "text": "Closing the Loop: Practical Training Recipes for Looped Language Models",
+      "url": "https://arxiv.org/abs/2610.00673"
+    },
+    {
+      "text": "Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States",
+      "url": "https://arxiv.org/abs/2605.07579"
+    },
+    {
+      "text": "Provable FDR Control for Deep Feature Selection: Deep MLPs and Beyond",
+      "url": "https://arxiv.org/abs/2512.04696"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Verification Pulses and the Cost of Escaping Wrong Consensus",
+      "url": "https://arxiv.org/abs/2610.00256"
+    },
+    {
+      "text": "Sharp Oracle-Regret Tradeoffs for Projection-Free Online Convex Optimization",
+      "url": "https://arxiv.org/abs/2610.00254"
+    },
+    {
+      "text": "The Null Is the Hard Part: Exact Tests for Memorization in Generative Models",
+      "url": "https://arxiv.org/abs/2610.00251"
+    },
+    {
+      "text": "Rethinking Data Augmentation under Covariate Shift: Invariant-Guided Diffusion and Prototype Reweighting",
+      "url": "https://arxiv.org/abs/2610.00873"
+    },
+    {
+      "text": "Learning Multiple Timescales for Goal-Conditioned Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.00849"
+    },
+    {
+      "text": "Cross-Benchmark Transfer from RL on Agentic Coding Tasks",
+      "url": "https://arxiv.org/abs/2610.00890"
+    },
+    {
+      "text": "MCRI: A Four-Dimensional Framework for Analyzing and Evaluating Agent Skills",
+      "url": "https://arxiv.org/abs/2610.01506"
+    },
+    {
+      "text": "Useful to Whom? Sample Value Is Defined Only Relative to the Learner",
+      "url": "https://arxiv.org/abs/2610.00221"
+    }
+  ],
+  "lastUpdated": "2026-10-02T22:17:56Z"
+}
