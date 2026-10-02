@@ -1,20 +1,20 @@
 {
   "mainHeadline": {
-    "text": "AI #188: Gemini Dot Argon",
-    "url": "https://www.lesswrong.com/posts/S2EAn9v4BwRdptsom/ai-188-gemini-dot-argon"
+    "text": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail"
   },
   "topStories": [
     {
-      "text": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail"
-    },
-    {
-      "text": "Learning Steganography Is Easy, Learning Steganographic Reasoning Is Hard",
-      "url": "https://www.lesswrong.com/posts/5L7beYAmpu8zEvnYq/learning-steganography-is-easy-learning-steganographic"
-    },
-    {
       "text": "SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs",
       "url": "https://arxiv.org/abs/2609.38899"
+    },
+    {
+      "text": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs",
+      "url": "https://arxiv.org/abs/2603.28013"
+    },
+    {
+      "text": "Who Warmed the Archives? LLMs Overestimate Historical Warmth",
+      "url": "https://arxiv.org/abs/2609.37499"
     }
   ],
   "leftColumn": [
@@ -23,101 +23,101 @@
       "url": "https://arxiv.org/abs/2609.38415"
     },
     {
-      "text": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs",
-      "url": "https://arxiv.org/abs/2603.28013"
-    },
-    {
       "text": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
       "url": "https://arxiv.org/abs/2608.13786"
-    },
-    {
-      "text": "Who Warmed the Archives? LLMs Overestimate Historical Warmth",
-      "url": "https://arxiv.org/abs/2609.37499"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Book Review: Obsolete",
-      "url": "https://www.lesswrong.com/posts/cMpCgoYw53WictTLH/book-review-obsolete"
+      "text": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
     },
     {
-      "text": "My retrospective from MATS 10.0",
-      "url": "https://www.lesswrong.com/posts/rktrjGjXEbWsg7zof/my-retrospective-from-mats-10-0"
+      "text": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+      "url": "https://arxiv.org/abs/2609.39001"
     },
     {
-      "text": "Scientists on the Manhattan Project continued developing the atomic bomb even after it was clear that there was no need to",
-      "url": "https://www.lesswrong.com/posts/CjZJLXRMDdbgAH3iG/scientists-on-the-manhattan-project-continued-developing-the"
+      "text": "dattri-LLM: A Unified and Efficient Library for Training Data Attribution at LLM Scale",
+      "url": "https://arxiv.org/abs/2609.38767"
+    },
+    {
+      "text": "EDGC: Entropy-driven Dynamic Gradient Compression for Efficient LLM Training",
+      "url": "https://arxiv.org/abs/2511.10333"
+    },
+    {
+      "text": "PassGPT+: Leveraging Linguistic Priors for Password Modeling",
+      "url": "https://arxiv.org/abs/2609.39880"
     }
   ],
   "centerColumn": [
     {
-      "text": "PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents",
-      "url": "https://arxiv.org/abs/2606.12329"
+      "text": "Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference",
+      "url": "https://arxiv.org/abs/2609.36654"
     },
     {
-      "text": "Evidence-Guided Schema Normalization for Temporal Tabular Reasoning",
-      "url": "https://arxiv.org/abs/2512.00329"
+      "text": "Positive Ratings, Hidden Concerns: Employee Voice Disclosure in AI-Mediated Organizational Listening",
+      "url": "https://arxiv.org/abs/2609.38788"
     },
     {
-      "text": "ProtScape: A molecular structure and energy-aware representation for protein conformation generation",
-      "url": "https://arxiv.org/abs/2410.20317"
+      "text": "Where Scientific Search Agents Fail: Decision-Checkpoint Auditing of Exposure and Inspection Attempts",
+      "url": "https://arxiv.org/abs/2609.38670"
     },
     {
-      "text": "LogiC-Diff: Embedding Security Properties Into AI-Enabled Cyber-Physical Systems",
-      "url": "https://arxiv.org/abs/2609.38381"
+      "text": "AgBench: Agentic AI Benchmarks for Personal AI Devices",
+      "url": "https://arxiv.org/abs/2609.38652"
     },
     {
-      "text": "Probabilistic Adversarial Training",
-      "url": "https://arxiv.org/abs/2609.39798"
+      "text": "When Scientific Contradictions Are Lost in Translation",
+      "url": "https://arxiv.org/abs/2609.38621"
     },
     {
-      "text": "A Comprehensive Benchmark of Source-Free Universal Domain Adaptation on Time Series Representations",
-      "url": "https://arxiv.org/abs/2609.39810"
+      "text": "Sense and Sensitivity: Benchmarking LLM Clinical Triage Recommendations with Physician Experts",
+      "url": "https://arxiv.org/abs/2609.38600"
     },
     {
-      "text": "ModSec-Learn: Boosting ModSecurity with Machine Learning",
-      "url": "https://arxiv.org/abs/2406.13547"
+      "text": "Towards Model as a Library: Offline, Community-Sourced AI for Low-Resource African Languages",
+      "url": "https://arxiv.org/abs/2609.38574"
     },
     {
-      "text": "Colorectal Cancer Segmentation with Adaptive Augmentation and Multi-Resolution Ensemble Models",
-      "url": "https://arxiv.org/abs/2609.38419"
+      "text": "Does a prosody-trained representation help beyond trainable fusion? A parameter-matched study with frozen HuBERT",
+      "url": "https://arxiv.org/abs/2609.36754"
     }
   ],
   "rightColumn": [
     {
-      "text": "Signal-Routed Temperature Scaling: Low-Capacity Risk-Conditioned Calibration for Small Validation Budgets",
-      "url": "https://arxiv.org/abs/2609.38936"
+      "text": "Also Small Models Can Reasonably Self-Evaluate Their Confidence",
+      "url": "https://arxiv.org/abs/2609.39478"
     },
     {
-      "text": "Robust Risk-Sensitive Reinforcement Learning from Corrupted Human Feedback",
-      "url": "https://arxiv.org/abs/2609.38938"
+      "text": "Learning to Build: Autonomous Robotic Assembly of Stable Structures Without Predefined Plans",
+      "url": "https://arxiv.org/abs/2602.23934"
     },
     {
-      "text": "Tracing the Evolution of Oracle Bone Characters Across Three Millennia",
-      "url": "https://arxiv.org/abs/2609.35674"
+      "text": "Effects of Structural Allocation of Geometric Task Diversity in Linear Meta-Learning Models",
+      "url": "https://arxiv.org/abs/2509.18349"
     },
     {
-      "text": "Scale-Split Neural Operator for Memory- and Data-Efficient 3D Turbulence Prediction",
-      "url": "https://arxiv.org/abs/2609.38977"
+      "text": "Beyond Prediction: Steering VLM Agents with Retrospective World Modeling",
+      "url": "https://arxiv.org/abs/2609.39101"
     },
     {
-      "text": "SCORE-LM: State-Space Radar Representations with Language Models for Fault Diagnosis",
-      "url": "https://arxiv.org/abs/2609.38980"
+      "text": "T-ARC: Topology-Aware Randomized Clustering via Distributionally Robust Stochastic Block Models",
+      "url": "https://arxiv.org/abs/2609.39466"
     },
     {
-      "text": "Smaller Models, Better Rejects: Preference Distillation Scaling",
-      "url": "https://arxiv.org/abs/2609.38987"
+      "text": "Adapting Context Compression for Long-Horizon Agents with Counterfactual Continuations",
+      "url": "https://arxiv.org/abs/2609.36526"
     },
     {
-      "text": "Anchoring Adversarial Trajectories to Data Manifolds: A Bilevel Transfer Optimization Framework",
-      "url": "https://arxiv.org/abs/2609.38991"
+      "text": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
+      "url": "https://arxiv.org/abs/2609.37686"
     },
     {
-      "text": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
-      "url": "https://arxiv.org/abs/2608.27513"
+      "text": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
+      "url": "https://arxiv.org/abs/2609.22005"
     }
   ],
-  "lastUpdated": "2026-10-01T20:40:02Z"
+  "lastUpdated": "2026-10-02T00:54:45Z"
 }

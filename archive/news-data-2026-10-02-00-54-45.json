@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail"
+  },
+  "topStories": [
+    {
+      "text": "SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2609.38899"
+    },
+    {
+      "text": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs",
+      "url": "https://arxiv.org/abs/2603.28013"
+    },
+    {
+      "text": "Who Warmed the Archives? LLMs Overestimate Historical Warmth",
+      "url": "https://arxiv.org/abs/2609.37499"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
+      "url": "https://arxiv.org/abs/2609.38415"
+    },
+    {
+      "text": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+      "url": "https://arxiv.org/abs/2608.13786"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+    },
+    {
+      "text": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+      "url": "https://arxiv.org/abs/2609.39001"
+    },
+    {
+      "text": "dattri-LLM: A Unified and Efficient Library for Training Data Attribution at LLM Scale",
+      "url": "https://arxiv.org/abs/2609.38767"
+    },
+    {
+      "text": "EDGC: Entropy-driven Dynamic Gradient Compression for Efficient LLM Training",
+      "url": "https://arxiv.org/abs/2511.10333"
+    },
+    {
+      "text": "PassGPT+: Leveraging Linguistic Priors for Password Modeling",
+      "url": "https://arxiv.org/abs/2609.39880"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference",
+      "url": "https://arxiv.org/abs/2609.36654"
+    },
+    {
+      "text": "Positive Ratings, Hidden Concerns: Employee Voice Disclosure in AI-Mediated Organizational Listening",
+      "url": "https://arxiv.org/abs/2609.38788"
+    },
+    {
+      "text": "Where Scientific Search Agents Fail: Decision-Checkpoint Auditing of Exposure and Inspection Attempts",
+      "url": "https://arxiv.org/abs/2609.38670"
+    },
+    {
+      "text": "AgBench: Agentic AI Benchmarks for Personal AI Devices",
+      "url": "https://arxiv.org/abs/2609.38652"
+    },
+    {
+      "text": "When Scientific Contradictions Are Lost in Translation",
+      "url": "https://arxiv.org/abs/2609.38621"
+    },
+    {
+      "text": "Sense and Sensitivity: Benchmarking LLM Clinical Triage Recommendations with Physician Experts",
+      "url": "https://arxiv.org/abs/2609.38600"
+    },
+    {
+      "text": "Towards Model as a Library: Offline, Community-Sourced AI for Low-Resource African Languages",
+      "url": "https://arxiv.org/abs/2609.38574"
+    },
+    {
+      "text": "Does a prosody-trained representation help beyond trainable fusion? A parameter-matched study with frozen HuBERT",
+      "url": "https://arxiv.org/abs/2609.36754"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Also Small Models Can Reasonably Self-Evaluate Their Confidence",
+      "url": "https://arxiv.org/abs/2609.39478"
+    },
+    {
+      "text": "Learning to Build: Autonomous Robotic Assembly of Stable Structures Without Predefined Plans",
+      "url": "https://arxiv.org/abs/2602.23934"
+    },
+    {
+      "text": "Effects of Structural Allocation of Geometric Task Diversity in Linear Meta-Learning Models",
+      "url": "https://arxiv.org/abs/2509.18349"
+    },
+    {
+      "text": "Beyond Prediction: Steering VLM Agents with Retrospective World Modeling",
+      "url": "https://arxiv.org/abs/2609.39101"
+    },
+    {
+      "text": "T-ARC: Topology-Aware Randomized Clustering via Distributionally Robust Stochastic Block Models",
+      "url": "https://arxiv.org/abs/2609.39466"
+    },
+    {
+      "text": "Adapting Context Compression for Long-Horizon Agents with Counterfactual Continuations",
+      "url": "https://arxiv.org/abs/2609.36526"
+    },
+    {
+      "text": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
+      "url": "https://arxiv.org/abs/2609.37686"
+    },
+    {
+      "text": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
+      "url": "https://arxiv.org/abs/2609.22005"
+    }
+  ],
+  "lastUpdated": "2026-10-02T00:54:45Z"
+}
