@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Improving CoT Monitorability of Evaluation Awareness via Verbalization Training",
-    "url": "https://www.lesswrong.com/posts/LYBmbP668hgHEJNiZ/improving-cot-monitorability-of-evaluation-awareness-via"
+    "text": "Failure modes of Claude Code in a supervised but code-blind 60h project",
+    "url": "https://www.lesswrong.com/posts/RjuZ4spL96rtvbmLt/failure-modes-of-claude-code-in-a-supervised-but-code-blind"
   },
   "topStories": [
     {
+      "text": "Improving CoT Monitorability of Evaluation Awareness via Verbalization Training",
+      "url": "https://www.lesswrong.com/posts/LYBmbP668hgHEJNiZ/improving-cot-monitorability-of-evaluation-awareness-via"
+    },
+    {
+      "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
+    },
+    {
       "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
       "url": "https://arxiv.org/abs/2412.16633"
-    },
-    {
-      "text": "GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation",
-      "url": "https://arxiv.org/abs/2604.01997"
-    },
-    {
-      "text": "MedFeat: Model-Aware and Explainability-Driven Feature Engineering with LLMs for Tabular Prediction",
-      "url": "https://arxiv.org/abs/2603.02221"
     }
   ],
   "leftColumn": [
+    {
+      "text": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail"
+    },
+    {
+      "text": "A Key-Position Confound in no-cot-bench (and implications for interpreting looped transformers)",
+      "url": "https://www.lesswrong.com/posts/ehF4kej38fkhb5cT3/a-key-position-confound-in-no-cot-bench-and-implications-for"
+    },
     {
       "text": "VERITYGATE: A Four-Gate Schema-Level Faithfulness Framework and Paired Benchmark for Grounded LLM Narrations over Structured Evidence",
       "url": "https://arxiv.org/abs/2610.00833"
     },
     {
-      "text": "Legal text classification in Korean sexual offense cases: from traditional machine learning to large language models with XAI insights",
-      "url": "https://arxiv.org/abs/2610.00087"
-    },
-    {
-      "text": "DynGhost: Temporally-Modelled Transformer for Dynamic Ghost Imagings",
-      "url": "https://arxiv.org/abs/2605.10185"
+      "text": "MedFeat: Model-Aware and Explainability-Driven Feature Engineering with LLMs for Tabular Prediction",
+      "url": "https://arxiv.org/abs/2603.02221"
     },
     {
       "text": "Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data",
       "url": "https://arxiv.org/abs/2603.00059"
     },
     {
-      "text": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail"
+      "text": "DynGhost: Temporally-Modelled Transformer for Dynamic Ghost Imagings",
+      "url": "https://arxiv.org/abs/2605.10185"
     },
     {
-      "text": "A foundation for systematic analysis of transformers and RNNs for tractography",
-      "url": "https://arxiv.org/abs/2610.01894"
+      "text": "Legal text classification in Korean sexual offense cases: from traditional machine learning to large language models with XAI insights",
+      "url": "https://arxiv.org/abs/2610.00087"
     },
     {
-      "text": "Feature Selective Model Collapse in Diffusion Models: Total Replacement versus Fixed-Budget Training",
-      "url": "https://arxiv.org/abs/2610.01318"
-    },
-    {
-      "text": "Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences",
-      "url": "https://arxiv.org/abs/2510.06105"
+      "text": "GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation",
+      "url": "https://arxiv.org/abs/2604.01997"
     }
   ],
   "centerColumn": [
     {
-      "text": "TopTimeNet: Topologically-assisted time-series classification model",
-      "url": "https://arxiv.org/abs/2609.39792"
+      "text": "Talked Out of the Truth: Sycophancy in the Reasoning Chains of Multimodal Models",
+      "url": "https://arxiv.org/abs/2608.28623"
     },
     {
-      "text": "MCIR: A Feature Dependence-Aware Explainability Method with Reliability Guarantees",
-      "url": "https://arxiv.org/abs/2610.01641"
+      "text": "MGSM-Pro: A Simple Strategy for Robust Multilingual Mathematical Reasoning Evaluation",
+      "url": "https://arxiv.org/abs/2601.21225"
     },
     {
-      "text": "Cog-VADU: A Training-Free Cognitive Reasoning Framework for Video Anomaly Detection and Understanding",
-      "url": "https://arxiv.org/abs/2610.01754"
+      "text": "Adam at the Edge of Stability: Adaptive Feedback, Provable Oscillation, and Gradient Reversal",
+      "url": "https://arxiv.org/abs/2608.20638"
     },
     {
-      "text": "Walking the Embedding Space: Datastore Extraction from Multimodal RAG",
-      "url": "https://arxiv.org/abs/2610.01871"
+      "text": "Finding the Right Fit: Model-Harness Interactions across Agent Tasks",
+      "url": "https://arxiv.org/abs/2610.00917"
     },
     {
-      "text": "Minimax Optimal Regret for Causal Logistic Bandits with Counterfactual Fairness",
-      "url": "https://arxiv.org/abs/2610.01377"
+      "text": "Deny Without Disabling: Authorization-Paired Evaluation and Control for Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.00371"
     },
     {
-      "text": "Unifying Distributional Training for One-Step Visual Generation",
-      "url": "https://arxiv.org/abs/2609.35763"
+      "text": "FedSAP: Federated Learning with Structured Adaptive Partitioning for Multi-Domain Heterogeneous Edge Devices",
+      "url": "https://arxiv.org/abs/2610.01638"
     },
     {
-      "text": "Why Does Train-Validation Separation Emerge? Update-Pressure Density Dynamics in Pretrained Backbones",
-      "url": "https://arxiv.org/abs/2610.01425"
+      "text": "Textual Planning with Explicit Latent Transitions",
+      "url": "https://arxiv.org/abs/2602.04557"
     },
     {
-      "text": "Placement Is Free, Composition Is Not: The Latin Square as a Provably-Balanced Construction for Heterogeneous Sequence-Mixer Stacks",
-      "url": "https://arxiv.org/abs/2609.20269"
+      "text": "LEAD: Layer-wise Expert-aligned Decoding for Faithful Radiology Report Generation",
+      "url": "https://arxiv.org/abs/2602.04617"
     }
   ],
   "rightColumn": [
     {
-      "text": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
-      "url": "https://arxiv.org/abs/2604.12102"
+      "text": "Useful to Whom? Sample Value Is Defined Only Relative to the Learner",
+      "url": "https://arxiv.org/abs/2610.00221"
     },
     {
-      "text": "Dependency-Aware Reward Shaping for Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.01207"
+      "text": "Four Ways to Grow a Classifier and Why One of Them Cannot Learn",
+      "url": "https://arxiv.org/abs/2610.00180"
     },
     {
-      "text": "Exact information accounting for SGD methods",
-      "url": "https://arxiv.org/abs/2610.00446"
+      "text": "Classification Based on Association Rules Algorithm for Breast Cancer",
+      "url": "https://arxiv.org/abs/2610.00174"
     },
     {
-      "text": "One pool, many targets: a conservation layer and what archival data can identify",
-      "url": "https://arxiv.org/abs/2610.00445"
+      "text": "Latent Information Sharing for Accelerating Federated Learning",
+      "url": "https://arxiv.org/abs/2610.01126"
     },
     {
-      "text": "Optimal Centered Active Excitation in Linear System Identification",
-      "url": "https://arxiv.org/abs/2604.05518"
+      "text": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
+      "url": "https://arxiv.org/abs/2610.00118"
     },
     {
-      "text": "Revision-Aware Independent Agent Graphs for Dynamic Reasoning",
-      "url": "https://arxiv.org/abs/2610.01249"
+      "text": "Parameter-Efficient Distributionally Robust Adaptation of Tabular Foundation Models under Subpopulation Shift",
+      "url": "https://arxiv.org/abs/2610.01143"
     },
     {
-      "text": "On Learning Spatial Structure from Pre-Beamforming Per-Antenna Range-Doppler Radar Measurements",
-      "url": "https://arxiv.org/abs/2604.01921"
+      "text": "Beyond Decodability: Do Acoustic Factors Drive Predictions in Speech-Based Alzheimer's Assessment?",
+      "url": "https://arxiv.org/abs/2610.01846"
     },
     {
-      "text": "Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution",
-      "url": "https://arxiv.org/abs/2610.00417"
+      "text": "PPO-HRAP: Proximal Policy Optimization with a Hybrid Regime-Aware Policy for Risk-Controlled Trading",
+      "url": "https://arxiv.org/abs/2610.01325"
     }
   ],
-  "lastUpdated": "2026-10-02T09:53:26Z"
+  "lastUpdated": "2026-10-02T17:57:17Z"
 }
