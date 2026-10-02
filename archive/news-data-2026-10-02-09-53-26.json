@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Improving CoT Monitorability of Evaluation Awareness via Verbalization Training",
+    "url": "https://www.lesswrong.com/posts/LYBmbP668hgHEJNiZ/improving-cot-monitorability-of-evaluation-awareness-via"
+  },
+  "topStories": [
+    {
+      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
+      "url": "https://arxiv.org/abs/2412.16633"
+    },
+    {
+      "text": "GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation",
+      "url": "https://arxiv.org/abs/2604.01997"
+    },
+    {
+      "text": "MedFeat: Model-Aware and Explainability-Driven Feature Engineering with LLMs for Tabular Prediction",
+      "url": "https://arxiv.org/abs/2603.02221"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "VERITYGATE: A Four-Gate Schema-Level Faithfulness Framework and Paired Benchmark for Grounded LLM Narrations over Structured Evidence",
+      "url": "https://arxiv.org/abs/2610.00833"
+    },
+    {
+      "text": "Legal text classification in Korean sexual offense cases: from traditional machine learning to large language models with XAI insights",
+      "url": "https://arxiv.org/abs/2610.00087"
+    },
+    {
+      "text": "DynGhost: Temporally-Modelled Transformer for Dynamic Ghost Imagings",
+      "url": "https://arxiv.org/abs/2605.10185"
+    },
+    {
+      "text": "Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data",
+      "url": "https://arxiv.org/abs/2603.00059"
+    },
+    {
+      "text": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail"
+    },
+    {
+      "text": "A foundation for systematic analysis of transformers and RNNs for tractography",
+      "url": "https://arxiv.org/abs/2610.01894"
+    },
+    {
+      "text": "Feature Selective Model Collapse in Diffusion Models: Total Replacement versus Fixed-Budget Training",
+      "url": "https://arxiv.org/abs/2610.01318"
+    },
+    {
+      "text": "Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences",
+      "url": "https://arxiv.org/abs/2510.06105"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "TopTimeNet: Topologically-assisted time-series classification model",
+      "url": "https://arxiv.org/abs/2609.39792"
+    },
+    {
+      "text": "MCIR: A Feature Dependence-Aware Explainability Method with Reliability Guarantees",
+      "url": "https://arxiv.org/abs/2610.01641"
+    },
+    {
+      "text": "Cog-VADU: A Training-Free Cognitive Reasoning Framework for Video Anomaly Detection and Understanding",
+      "url": "https://arxiv.org/abs/2610.01754"
+    },
+    {
+      "text": "Walking the Embedding Space: Datastore Extraction from Multimodal RAG",
+      "url": "https://arxiv.org/abs/2610.01871"
+    },
+    {
+      "text": "Minimax Optimal Regret for Causal Logistic Bandits with Counterfactual Fairness",
+      "url": "https://arxiv.org/abs/2610.01377"
+    },
+    {
+      "text": "Unifying Distributional Training for One-Step Visual Generation",
+      "url": "https://arxiv.org/abs/2609.35763"
+    },
+    {
+      "text": "Why Does Train-Validation Separation Emerge? Update-Pressure Density Dynamics in Pretrained Backbones",
+      "url": "https://arxiv.org/abs/2610.01425"
+    },
+    {
+      "text": "Placement Is Free, Composition Is Not: The Latin Square as a Provably-Balanced Construction for Heterogeneous Sequence-Mixer Stacks",
+      "url": "https://arxiv.org/abs/2609.20269"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
+      "url": "https://arxiv.org/abs/2604.12102"
+    },
+    {
+      "text": "Dependency-Aware Reward Shaping for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.01207"
+    },
+    {
+      "text": "Exact information accounting for SGD methods",
+      "url": "https://arxiv.org/abs/2610.00446"
+    },
+    {
+      "text": "One pool, many targets: a conservation layer and what archival data can identify",
+      "url": "https://arxiv.org/abs/2610.00445"
+    },
+    {
+      "text": "Optimal Centered Active Excitation in Linear System Identification",
+      "url": "https://arxiv.org/abs/2604.05518"
+    },
+    {
+      "text": "Revision-Aware Independent Agent Graphs for Dynamic Reasoning",
+      "url": "https://arxiv.org/abs/2610.01249"
+    },
+    {
+      "text": "On Learning Spatial Structure from Pre-Beamforming Per-Antenna Range-Doppler Radar Measurements",
+      "url": "https://arxiv.org/abs/2604.01921"
+    },
+    {
+      "text": "Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution",
+      "url": "https://arxiv.org/abs/2610.00417"
+    }
+  ],
+  "lastUpdated": "2026-10-02T09:53:26Z"
+}
