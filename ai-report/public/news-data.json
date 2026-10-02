@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "How Albertsons Companies is reimagining retail from the inside out",
-    "url": "https://openai.com/index/albertsons-reimagining-retail"
+    "text": "Improving CoT Monitorability of Evaluation Awareness via Verbalization Training",
+    "url": "https://www.lesswrong.com/posts/LYBmbP668hgHEJNiZ/improving-cot-monitorability-of-evaluation-awareness-via"
   },
   "topStories": [
     {
-      "text": "SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2609.38899"
+      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
+      "url": "https://arxiv.org/abs/2412.16633"
     },
     {
-      "text": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs",
-      "url": "https://arxiv.org/abs/2603.28013"
+      "text": "GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation",
+      "url": "https://arxiv.org/abs/2604.01997"
     },
     {
-      "text": "Who Warmed the Archives? LLMs Overestimate Historical Warmth",
-      "url": "https://arxiv.org/abs/2609.37499"
+      "text": "MedFeat: Model-Aware and Explainability-Driven Feature Engineering with LLMs for Tabular Prediction",
+      "url": "https://arxiv.org/abs/2603.02221"
     }
   ],
   "leftColumn": [
     {
-      "text": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
-      "url": "https://arxiv.org/abs/2609.38415"
+      "text": "VERITYGATE: A Four-Gate Schema-Level Faithfulness Framework and Paired Benchmark for Grounded LLM Narrations over Structured Evidence",
+      "url": "https://arxiv.org/abs/2610.00833"
     },
     {
-      "text": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
-      "url": "https://arxiv.org/abs/2608.13786"
+      "text": "Legal text classification in Korean sexual offense cases: from traditional machine learning to large language models with XAI insights",
+      "url": "https://arxiv.org/abs/2610.00087"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "DynGhost: Temporally-Modelled Transformer for Dynamic Ghost Imagings",
+      "url": "https://arxiv.org/abs/2605.10185"
     },
     {
-      "text": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+      "text": "Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data",
+      "url": "https://arxiv.org/abs/2603.00059"
     },
     {
-      "text": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
-      "url": "https://arxiv.org/abs/2609.39001"
+      "text": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail"
     },
     {
-      "text": "dattri-LLM: A Unified and Efficient Library for Training Data Attribution at LLM Scale",
-      "url": "https://arxiv.org/abs/2609.38767"
+      "text": "A foundation for systematic analysis of transformers and RNNs for tractography",
+      "url": "https://arxiv.org/abs/2610.01894"
     },
     {
-      "text": "EDGC: Entropy-driven Dynamic Gradient Compression for Efficient LLM Training",
-      "url": "https://arxiv.org/abs/2511.10333"
+      "text": "Feature Selective Model Collapse in Diffusion Models: Total Replacement versus Fixed-Budget Training",
+      "url": "https://arxiv.org/abs/2610.01318"
     },
     {
-      "text": "PassGPT+: Leveraging Linguistic Priors for Password Modeling",
-      "url": "https://arxiv.org/abs/2609.39880"
+      "text": "Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences",
+      "url": "https://arxiv.org/abs/2510.06105"
     }
   ],
   "centerColumn": [
     {
-      "text": "Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference",
-      "url": "https://arxiv.org/abs/2609.36654"
+      "text": "TopTimeNet: Topologically-assisted time-series classification model",
+      "url": "https://arxiv.org/abs/2609.39792"
     },
     {
-      "text": "Positive Ratings, Hidden Concerns: Employee Voice Disclosure in AI-Mediated Organizational Listening",
-      "url": "https://arxiv.org/abs/2609.38788"
+      "text": "MCIR: A Feature Dependence-Aware Explainability Method with Reliability Guarantees",
+      "url": "https://arxiv.org/abs/2610.01641"
     },
     {
-      "text": "Where Scientific Search Agents Fail: Decision-Checkpoint Auditing of Exposure and Inspection Attempts",
-      "url": "https://arxiv.org/abs/2609.38670"
+      "text": "Cog-VADU: A Training-Free Cognitive Reasoning Framework for Video Anomaly Detection and Understanding",
+      "url": "https://arxiv.org/abs/2610.01754"
     },
     {
-      "text": "AgBench: Agentic AI Benchmarks for Personal AI Devices",
-      "url": "https://arxiv.org/abs/2609.38652"
+      "text": "Walking the Embedding Space: Datastore Extraction from Multimodal RAG",
+      "url": "https://arxiv.org/abs/2610.01871"
     },
     {
-      "text": "When Scientific Contradictions Are Lost in Translation",
-      "url": "https://arxiv.org/abs/2609.38621"
+      "text": "Minimax Optimal Regret for Causal Logistic Bandits with Counterfactual Fairness",
+      "url": "https://arxiv.org/abs/2610.01377"
     },
     {
-      "text": "Sense and Sensitivity: Benchmarking LLM Clinical Triage Recommendations with Physician Experts",
-      "url": "https://arxiv.org/abs/2609.38600"
+      "text": "Unifying Distributional Training for One-Step Visual Generation",
+      "url": "https://arxiv.org/abs/2609.35763"
     },
     {
-      "text": "Towards Model as a Library: Offline, Community-Sourced AI for Low-Resource African Languages",
-      "url": "https://arxiv.org/abs/2609.38574"
+      "text": "Why Does Train-Validation Separation Emerge? Update-Pressure Density Dynamics in Pretrained Backbones",
+      "url": "https://arxiv.org/abs/2610.01425"
     },
     {
-      "text": "Does a prosody-trained representation help beyond trainable fusion? A parameter-matched study with frozen HuBERT",
-      "url": "https://arxiv.org/abs/2609.36754"
+      "text": "Placement Is Free, Composition Is Not: The Latin Square as a Provably-Balanced Construction for Heterogeneous Sequence-Mixer Stacks",
+      "url": "https://arxiv.org/abs/2609.20269"
     }
   ],
   "rightColumn": [
     {
-      "text": "Also Small Models Can Reasonably Self-Evaluate Their Confidence",
-      "url": "https://arxiv.org/abs/2609.39478"
+      "text": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
+      "url": "https://arxiv.org/abs/2604.12102"
     },
     {
-      "text": "Learning to Build: Autonomous Robotic Assembly of Stable Structures Without Predefined Plans",
-      "url": "https://arxiv.org/abs/2602.23934"
+      "text": "Dependency-Aware Reward Shaping for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.01207"
     },
     {
-      "text": "Effects of Structural Allocation of Geometric Task Diversity in Linear Meta-Learning Models",
-      "url": "https://arxiv.org/abs/2509.18349"
+      "text": "Exact information accounting for SGD methods",
+      "url": "https://arxiv.org/abs/2610.00446"
     },
     {
-      "text": "Beyond Prediction: Steering VLM Agents with Retrospective World Modeling",
-      "url": "https://arxiv.org/abs/2609.39101"
+      "text": "One pool, many targets: a conservation layer and what archival data can identify",
+      "url": "https://arxiv.org/abs/2610.00445"
     },
     {
-      "text": "T-ARC: Topology-Aware Randomized Clustering via Distributionally Robust Stochastic Block Models",
-      "url": "https://arxiv.org/abs/2609.39466"
+      "text": "Optimal Centered Active Excitation in Linear System Identification",
+      "url": "https://arxiv.org/abs/2604.05518"
     },
     {
-      "text": "Adapting Context Compression for Long-Horizon Agents with Counterfactual Continuations",
-      "url": "https://arxiv.org/abs/2609.36526"
+      "text": "Revision-Aware Independent Agent Graphs for Dynamic Reasoning",
+      "url": "https://arxiv.org/abs/2610.01249"
     },
     {
-      "text": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
-      "url": "https://arxiv.org/abs/2609.37686"
+      "text": "On Learning Spatial Structure from Pre-Beamforming Per-Antenna Range-Doppler Radar Measurements",
+      "url": "https://arxiv.org/abs/2604.01921"
     },
     {
-      "text": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
-      "url": "https://arxiv.org/abs/2609.22005"
+      "text": "Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution",
+      "url": "https://arxiv.org/abs/2610.00417"
     }
   ],
-  "lastUpdated": "2026-10-02T00:54:45Z"
+  "lastUpdated": "2026-10-02T09:53:26Z"
 }
