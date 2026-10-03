@@ -13,52 +13,52 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "The Tamed Animal Farm",
-      "url": "https://www.lesswrong.com/posts/a4cZpKkQwDzjfhfoS/the-tamed-animal-farm"
+      "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Singular Learning Theory Comprehensive - 3",
-      "url": "https://www.lesswrong.com/posts/Azn6WWQb8HRNjxH9A/singular-learning-theory-comprehensive-3"
-    },
-    {
-      "text": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
-    },
-    {
-      "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
-    },
     {
       "text": "CHATHAM SCALES ITS CAPITAL MARKETS EXPERTISE WITH OPENAI",
       "url": "https://openai.com/index/chatham-financial"
     },
     {
-      "text": "Measuring the Creativity Potential of LLM Agents",
-      "url": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/"
+      "text": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
     },
     {
       "text": "Reviewing my LessWrong post history with Claude",
       "url": "https://www.lesswrong.com/posts/PAzerqAofFCLoWsgK/reviewing-my-lesswrong-post-history-with-claude"
     },
     {
-      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+      "text": "Low-Background Minds",
+      "url": "https://www.lesswrong.com/posts/p9qNwqXsiEPPuG9tz/low-background-minds"
     },
     {
-      "text": "Intent vs Impact vs Expectation and Alternatives",
-      "url": "https://www.lesswrong.com/posts/ke3BF2aZLeGobCRLJ/intent-vs-impact-vs-expectation-and-alternatives"
+      "text": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+    },
+    {
+      "text": "The Journal of Writing and Artificial Intelligence",
+      "url": "https://www.jwai.org"
+    },
+    {
+      "text": "Singular Learning Theory Comprehensive - 3",
+      "url": "https://www.lesswrong.com/posts/Azn6WWQb8HRNjxH9A/singular-learning-theory-comprehensive-3"
+    },
+    {
+      "text": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6"
     }
   ],
   "centerColumn": [
     {
-      "text": "META OPEN SOURCES CODE TO LET YOU MAKE MUSE AI GADGETS",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+      "text": "How to talk about extinction",
+      "url": "https://www.lesswrong.com/posts/RJTkboMEgDifkiaxd/how-to-talk-about-extinction"
     },
     {
-      "text": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+      "text": "META OPEN SOURCES CODE TO LET YOU MAKE MUSE AI GADGETS",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
     },
     {
       "text": "How to Build a Control Plane for AI Agents",
@@ -81,23 +81,11 @@
       "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001"
     },
     {
-      "text": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement"
+      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
     }
   ],
   "rightColumn": [
-    {
-      "text": "Documenting the tech worker movement",
-      "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918"
-    },
-    {
-      "text": "AI music maker Suno now generates spoken words",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
-    },
-    {
-      "text": "3 Questions: A new resource to empower young entrepreneurs",
-      "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002"
-    },
     {
       "text": "A blog based on git sure feels nice",
       "url": "https://www.lesswrong.com/posts/e3TCEuhoAz5XJrzGk/a-blog-based-on-git-sure-feels-nice"
@@ -107,17 +95,29 @@
       "url": "https://www.lesswrong.com/posts/3uT42yoj2iimYn7Ra/lab-leak-in-russia"
     },
     {
-      "text": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos"
+      "text": "Computational tools for society’s most complex challenges",
+      "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002"
+    },
+    {
+      "text": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/"
+    },
+    {
+      "text": "BREAKING UP (WITH ELON MUSK) IS HARD TO DO",
+      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis"
+    },
+    {
+      "text": "Documenting the tech worker movement",
+      "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918"
     },
     {
       "text": "AI hallucinations are making entitled customers even worse",
       "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents"
     },
     {
-      "text": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      "text": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
     }
   ],
-  "lastUpdated": "2026-10-03T16:19:49Z"
+  "lastUpdated": "2026-10-03T21:07:09Z"
 }
