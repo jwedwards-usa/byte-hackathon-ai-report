@@ -5,60 +5,60 @@
   },
   "topStories": [
     {
+      "text": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+    },
+    {
       "text": "An OpenAI safety employee has quit and is sounding the alarm",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
     },
     {
       "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
       "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "CHATHAM SCALES ITS CAPITAL MARKETS EXPERTISE WITH OPENAI",
       "url": "https://openai.com/index/chatham-financial"
     },
     {
-      "text": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+      "text": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+    },
+    {
+      "text": "Why I didn't write",
+      "url": "https://www.lesswrong.com/posts/3a2Zxnvt7DJ9HFnHF/why-i-didn-t-write"
     },
     {
       "text": "Reviewing my LessWrong post history with Claude",
       "url": "https://www.lesswrong.com/posts/PAzerqAofFCLoWsgK/reviewing-my-lesswrong-post-history-with-claude"
     },
     {
-      "text": "Low-Background Minds",
-      "url": "https://www.lesswrong.com/posts/p9qNwqXsiEPPuG9tz/low-background-minds"
-    },
-    {
       "text": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
     },
     {
-      "text": "The Journal of Writing and Artificial Intelligence",
-      "url": "https://www.jwai.org"
-    },
-    {
-      "text": "Singular Learning Theory Comprehensive - 3",
-      "url": "https://www.lesswrong.com/posts/Azn6WWQb8HRNjxH9A/singular-learning-theory-comprehensive-3"
-    },
-    {
-      "text": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6"
+      "text": "September sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
     }
   ],
   "centerColumn": [
     {
-      "text": "How to talk about extinction",
-      "url": "https://www.lesswrong.com/posts/RJTkboMEgDifkiaxd/how-to-talk-about-extinction"
+      "text": "Rocks to Rules: Climbing a Rickety-But-Interoperable Semantic Ladder",
+      "url": "https://www.lesswrong.com/posts/hEDMDFmb322yfufYL/rocks-to-rules-climbing-a-rickety-but-interoperable-semantic"
     },
     {
-      "text": "META OPEN SOURCES CODE TO LET YOU MAKE MUSE AI GADGETS",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+      "text": "How to talk about extinction",
+      "url": "https://www.lesswrong.com/posts/RJTkboMEgDifkiaxd/how-to-talk-about-extinction"
     },
     {
       "text": "How to Build a Control Plane for AI Agents",
@@ -77,8 +77,8 @@
       "url": "https://chatgpt.com/features/sites/"
     },
     {
-      "text": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001"
+      "text": "The Journal of Writing and Artificial Intelligence",
+      "url": "https://www.jwai.org"
     },
     {
       "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -86,10 +86,6 @@
     }
   ],
   "rightColumn": [
-    {
-      "text": "A blog based on git sure feels nice",
-      "url": "https://www.lesswrong.com/posts/e3TCEuhoAz5XJrzGk/a-blog-based-on-git-sure-feels-nice"
-    },
     {
       "text": "Lab Leak in Russia ",
       "url": "https://www.lesswrong.com/posts/3uT42yoj2iimYn7Ra/lab-leak-in-russia"
@@ -115,9 +111,13 @@
       "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents"
     },
     {
+      "text": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+    },
+    {
       "text": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
     }
   ],
-  "lastUpdated": "2026-10-03T21:07:09Z"
+  "lastUpdated": "2026-10-03T23:51:42Z"
 }
