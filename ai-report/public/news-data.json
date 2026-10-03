@@ -5,119 +5,125 @@
   },
   "topStories": [
     {
-      "text": "AI Safety Can't Afford to Pick a Side on Consciousness",
-      "url": "https://www.lesswrong.com/posts/xvABT7XDFG5gdGrsZ/ai-safety-can-t-afford-to-pick-a-side-on-consciousness"
+      "text": "State of the Field: AI for Epistemics and Coordination",
+      "url": "https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination"
     },
     {
       "text": "Dialogue with Eliezer Yudkowsky on Neural Networks",
       "url": "https://www.lesswrong.com/posts/PA7f9a9ZFcqpjmGEZ/dialogue-with-eliezer-yudkowsky-on-neural-networks"
     },
     {
-      "text": "Failure modes of Claude Code in a supervised but code-blind 60h project",
-      "url": "https://www.lesswrong.com/posts/RjuZ4spL96rtvbmLt/failure-modes-of-claude-code-in-a-supervised-but-code-blind"
+      "text": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail"
     }
   ],
   "leftColumn": [
     {
-      "text": "EASIER SAID THAN DONE: UNPACKING INTENT-BEHAVIOR GAP IN JAILBREAKING LLM-BASED ROBOTS",
-      "url": "https://arxiv.org/abs/2412.16633"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail"
+      "text": "Reviewing my LessWrong post history with Claude",
+      "url": "https://www.lesswrong.com/posts/PAzerqAofFCLoWsgK/reviewing-my-lesswrong-post-history-with-claude"
+    },
+    {
+      "text": "Low-Background Minds",
+      "url": "https://www.lesswrong.com/posts/p9qNwqXsiEPPuG9tz/low-background-minds"
+    },
+    {
+      "text": "What is recursive self-improvement and what would it mean to ban it?",
+      "url": "https://www.lesswrong.com/posts/ZT2rKu3Z6RaargYYF/what-is-recursive-self-improvement-and-what-would-it-mean-to"
+    },
+    {
+      "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
     },
     {
       "text": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
     },
     {
-      "text": "GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation",
-      "url": "https://arxiv.org/abs/2604.01997"
+      "text": "CHATHAM SCALES ITS CAPITAL MARKETS EXPERTISE WITH OPENAI",
+      "url": "https://openai.com/index/chatham-financial"
     },
     {
-      "text": "DynGhost: Temporally-Modelled Transformer for Dynamic Ghost Imagings",
-      "url": "https://arxiv.org/abs/2605.10185"
-    },
-    {
-      "text": "MedFeat: Model-Aware and Explainability-Driven Feature Engineering with LLMs for Tabular Prediction",
-      "url": "https://arxiv.org/abs/2603.02221"
-    },
-    {
-      "text": "VERITYGATE: A Four-Gate Schema-Level Faithfulness Framework and Paired Benchmark for Grounded LLM Narrations over Structured Evidence",
-      "url": "https://arxiv.org/abs/2610.00833"
-    },
-    {
-      "text": "Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data",
-      "url": "https://arxiv.org/abs/2603.00059"
+      "text": "How to talk about extinction",
+      "url": "https://www.lesswrong.com/posts/RJTkboMEgDifkiaxd/how-to-talk-about-extinction"
     }
   ],
   "centerColumn": [
     {
-      "text": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "url": "https://arxiv.org/abs/2610.00015"
+      "text": "Lab Leak in Russia ",
+      "url": "https://www.lesswrong.com/posts/3uT42yoj2iimYn7Ra/lab-leak-in-russia"
     },
     {
-      "text": "Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes",
-      "url": "https://arxiv.org/abs/2610.01324"
+      "text": "META OPEN SOURCES CODE TO LET YOU MAKE MUSE AI GADGETS",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
     },
     {
-      "text": "ROGUE: Evaluating Corrigibility Failures in Frontier Computer-Use Agents",
-      "url": "https://arxiv.org/abs/2606.00341"
+      "text": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
     },
     {
-      "text": "CASCADE Conformal Prediction: Uncertainty-Adaptive Prediction Intervals for Two-Stage Clinical Decision Support",
-      "url": "https://arxiv.org/abs/2605.20468"
+      "text": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
     },
     {
-      "text": "Graph Hierarchical Recurrence for Long-Range Generalization",
-      "url": "https://arxiv.org/abs/2605.18387"
+      "text": "SITES IN CHATGPT",
+      "url": "https://chatgpt.com/features/sites/"
     },
     {
-      "text": "Closing the Loop: Practical Training Recipes for Looped Language Models",
-      "url": "https://arxiv.org/abs/2610.00673"
+      "text": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001"
     },
     {
-      "text": "Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States",
-      "url": "https://arxiv.org/abs/2605.07579"
+      "text": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement"
     },
     {
-      "text": "Provable FDR Control for Deep Feature Selection: Deep MLPs and Beyond",
-      "url": "https://arxiv.org/abs/2512.04696"
+      "text": "A big-tent or small-tent AI safety movement?",
+      "url": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/11d1c529-6f8d-4df3-acb6-f291eaa271f2_1024x559.jpeg",
+        "alt": "A big-tent or small-tent AI safety movement?",
+        "width": 600,
+        "height": 400
+      }
     }
   ],
   "rightColumn": [
     {
-      "text": "Verification Pulses and the Cost of Escaping Wrong Consensus",
-      "url": "https://arxiv.org/abs/2610.00256"
+      "text": "Your AI Bill Is a Toll Booth. Stop Paying Twice.",
+      "url": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/"
     },
     {
-      "text": "Sharp Oracle-Regret Tradeoffs for Projection-Free Online Convex Optimization",
-      "url": "https://arxiv.org/abs/2610.00254"
+      "text": "Petrov Day in Cusco, with a candle",
+      "url": "https://www.lesswrong.com/posts/nmBXMp97vhxC4ucuE/petrov-day-in-cusco-with-a-candle-1"
     },
     {
-      "text": "The Null Is the Hard Part: Exact Tests for Memorization in Generative Models",
-      "url": "https://arxiv.org/abs/2610.00251"
+      "text": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry"
     },
     {
-      "text": "Rethinking Data Augmentation under Covariate Shift: Invariant-Guided Diffusion and Prototype Reweighting",
-      "url": "https://arxiv.org/abs/2610.00873"
+      "text": "Amazon writes scary blog warning communities not to block data centers",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
     },
     {
-      "text": "Learning Multiple Timescales for Goal-Conditioned Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.00849"
+      "text": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
     },
     {
-      "text": "Cross-Benchmark Transfer from RL on Agentic Coding Tasks",
-      "url": "https://arxiv.org/abs/2610.00890"
+      "text": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
     },
     {
-      "text": "MCRI: A Four-Dimensional Framework for Analyzing and Evaluating Agent Skills",
-      "url": "https://arxiv.org/abs/2610.01506"
+      "text": "Loss of cell identity drives human aging: Two new papers",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human"
     },
     {
-      "text": "Useful to Whom? Sample Value Is Defined Only Relative to the Learner",
-      "url": "https://arxiv.org/abs/2610.00221"
+      "text": "Google’s new Guided Vision feature can help you read the fine print",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
     }
   ],
-  "lastUpdated": "2026-10-02T22:17:56Z"
+  "lastUpdated": "2026-10-03T04:54:07Z"
 }
