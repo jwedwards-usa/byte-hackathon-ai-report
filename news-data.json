@@ -1,12 +1,46 @@
 {
   "mainHeadline": {
-    "text": "Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking",
-    "url": "https://arxiv.org/abs/2610.03066"
+    "text": "OPENAI IS STICKING MORE ADS IN CHATGPT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
   },
   "topStories": [
     {
+      "text": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
+    {
+      "text": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+    },
+    {
+      "text": "Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking",
+      "url": "https://arxiv.org/abs/2610.03066"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+    },
+    {
       "text": "Repurposing Pre-trained LLMs as High Fidelity Continuous Text Autoencoders",
       "url": "https://arxiv.org/abs/2609.27248"
+    },
+    {
+      "text": "Do LLMs feel pain?",
+      "url": "https://www.lesswrong.com/posts/7otkexcdREdxrhMwD/do-llms-feel-pain"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Automating the Application of HCI Principles: Skills for On-Demand UI Construction, the Human-AI Space to Think, and the Future of HCI",
+      "url": "https://arxiv.org/abs/2610.02369"
+    },
+    {
+      "text": "LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs",
+      "url": "https://arxiv.org/abs/2610.02902"
     },
     {
       "text": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
@@ -17,83 +51,41 @@
       "url": "https://arxiv.org/abs/2607.14197"
     }
   ],
-  "leftColumn": [
-    {
-      "text": "Automating the Application of HCI Principles: Skills for On-Demand UI Construction, the Human-AI Space to Think, and the Future of HCI",
-      "url": "https://arxiv.org/abs/2610.02369"
-    },
-    {
-      "text": "Neuron merging via inverse-activation regression for post-training compression of sigmoid neural networks",
-      "url": "https://arxiv.org/abs/2610.02559"
-    },
-    {
-      "text": "LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity",
-      "url": "https://arxiv.org/abs/2609.29672"
-    },
-    {
-      "text": "Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG",
-      "url": "https://arxiv.org/abs/2607.02802"
-    },
-    {
-      "text": "Coherence-Driven Belief Formation and Population Dynamics of Contagion in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.02654"
-    },
-    {
-      "text": "Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact",
-      "url": "https://arxiv.org/abs/2605.14021"
-    },
-    {
-      "text": "LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs",
-      "url": "https://arxiv.org/abs/2610.02902"
-    },
-    {
-      "text": "Quantum parameter estimation with uncertainty quantification from continuous measurement data using neural network ensembles",
-      "url": "https://arxiv.org/abs/2509.10756"
-    }
-  ],
   "centerColumn": [
     {
-      "text": "Unifying Distributional Training for One-Step Visual Generation",
-      "url": "https://arxiv.org/abs/2609.35763"
+      "text": "You Only Align Once: Propagating Cooperative Behaviors in Multi-Agent Systems through Seed Agents",
+      "url": "https://arxiv.org/abs/2605.27586"
     },
     {
-      "text": "A hybrid CNN-adjoint optimization framework for reconstruction of viscoelastic tissue properties in magnetic resonance elastography",
-      "url": "https://arxiv.org/abs/2610.02634"
+      "text": "A Controlled Audit of Personal AI Memory for Rating Prediction",
+      "url": "https://arxiv.org/abs/2610.02764"
     },
     {
-      "text": "WAM-OPD: Joint Video-Action Supervision for World Action Model Post-Training with On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2608.22364"
+      "text": "A Language Model from 1913: Pretraining on Historical Text",
+      "url": "https://arxiv.org/abs/2606.02991"
+    },
+    {
+      "text": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "url": "https://arxiv.org/abs/2610.02260"
+    },
+    {
+      "text": "Muon Learns Facts Better: Understanding the Role of Spectral Orthogonalization",
+      "url": "https://arxiv.org/abs/2610.02798"
     },
     {
       "text": "Rethinking the Evaluation of Harness Evolution for Agents",
       "url": "https://arxiv.org/abs/2607.12227"
     },
     {
-      "text": "SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints",
-      "url": "https://arxiv.org/abs/2607.05363"
+      "text": "Evolving Hybrid Quantum-Classical Architectures for Image Classification",
+      "url": "https://arxiv.org/abs/2610.03220"
     },
     {
-      "text": "Understanding Why Language Models Hallucinate: Testing Reasoning Against Priors",
-      "url": "https://arxiv.org/abs/2607.00447"
-    },
-    {
-      "text": "Unmasking Propaganda: A Comparative Analysis of Masked and Causal Language Models",
-      "url": "https://arxiv.org/abs/2610.03077"
-    },
-    {
-      "text": "Compound AI System Reliability: A Failure Taxonomy and Resilience Pattern Catalog from 150 Production Incidents",
-      "url": "https://arxiv.org/abs/2610.02503"
+      "text": "Mixture-of-Experts for Cryptocurrency Order Execution: Training Stability, Tail Risk, and Failure Modes",
+      "url": "https://arxiv.org/abs/2610.03369"
     }
   ],
   "rightColumn": [
-    {
-      "text": "To Explore The Strange New World Beyond Data Distribution: System Behavior, Causality Tax, and Non-causal Base Model",
-      "url": "https://arxiv.org/abs/2610.02839"
-    },
-    {
-      "text": "Understanding Enrichment in Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.02846"
-    },
     {
       "text": "Counterfactual Action Evaluation, Observation Bottlenecks, and Representation Geometry in Joint-Embedding Predictive World Models",
       "url": "https://arxiv.org/abs/2610.02860"
@@ -103,21 +95,29 @@
       "url": "https://arxiv.org/abs/2610.02864"
     },
     {
-      "text": "Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion",
-      "url": "https://arxiv.org/abs/2209.14887"
+      "text": "Hindsight-Guided Rationale Distillation for Rare Disease Diagnosis",
+      "url": "https://arxiv.org/abs/2610.03176"
     },
     {
-      "text": "Causal Memory Policy: Making Memory Utility Identifiable by Intervening on Retrieval",
-      "url": "https://arxiv.org/abs/2610.02070"
+      "text": "Fold'EM: Direct atomic structure inference from Cryo-EM particles",
+      "url": "https://arxiv.org/abs/2610.01358"
     },
     {
       "text": "Distributionally Robust Survival Models under Subpopulation Shift and Outlier Contamination",
       "url": "https://arxiv.org/abs/2610.02868"
     },
     {
-      "text": "CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2609.35883"
+      "text": "How to Find and Reuse Policies for Continuous Adaptation in Lifelong Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.03119"
+    },
+    {
+      "text": "Toward Omni Multimodal Graph Foundation Model: A Topology-Driven Binding Approach",
+      "url": "https://arxiv.org/abs/2610.02881"
+    },
+    {
+      "text": "DyRA: Dynamic Residual Approximation for Efficient Matrix Multiplication in DNNs",
+      "url": "https://arxiv.org/abs/2610.02882"
     }
   ],
-  "lastUpdated": "2026-10-05T05:12:47Z"
+  "lastUpdated": "2026-10-05T14:25:08Z"
 }

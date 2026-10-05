@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OPENAI IS STICKING MORE ADS IN CHATGPT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+  },
+  "topStories": [
+    {
+      "text": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
+    {
+      "text": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+    },
+    {
+      "text": "Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking",
+      "url": "https://arxiv.org/abs/2610.03066"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+    },
+    {
+      "text": "Repurposing Pre-trained LLMs as High Fidelity Continuous Text Autoencoders",
+      "url": "https://arxiv.org/abs/2609.27248"
+    },
+    {
+      "text": "Do LLMs feel pain?",
+      "url": "https://www.lesswrong.com/posts/7otkexcdREdxrhMwD/do-llms-feel-pain"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Automating the Application of HCI Principles: Skills for On-Demand UI Construction, the Human-AI Space to Think, and the Future of HCI",
+      "url": "https://arxiv.org/abs/2610.02369"
+    },
+    {
+      "text": "LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs",
+      "url": "https://arxiv.org/abs/2610.02902"
+    },
+    {
+      "text": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
+      "url": "https://arxiv.org/abs/2603.29112"
+    },
+    {
+      "text": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
+      "url": "https://arxiv.org/abs/2607.14197"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "You Only Align Once: Propagating Cooperative Behaviors in Multi-Agent Systems through Seed Agents",
+      "url": "https://arxiv.org/abs/2605.27586"
+    },
+    {
+      "text": "A Controlled Audit of Personal AI Memory for Rating Prediction",
+      "url": "https://arxiv.org/abs/2610.02764"
+    },
+    {
+      "text": "A Language Model from 1913: Pretraining on Historical Text",
+      "url": "https://arxiv.org/abs/2606.02991"
+    },
+    {
+      "text": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "url": "https://arxiv.org/abs/2610.02260"
+    },
+    {
+      "text": "Muon Learns Facts Better: Understanding the Role of Spectral Orthogonalization",
+      "url": "https://arxiv.org/abs/2610.02798"
+    },
+    {
+      "text": "Rethinking the Evaluation of Harness Evolution for Agents",
+      "url": "https://arxiv.org/abs/2607.12227"
+    },
+    {
+      "text": "Evolving Hybrid Quantum-Classical Architectures for Image Classification",
+      "url": "https://arxiv.org/abs/2610.03220"
+    },
+    {
+      "text": "Mixture-of-Experts for Cryptocurrency Order Execution: Training Stability, Tail Risk, and Failure Modes",
+      "url": "https://arxiv.org/abs/2610.03369"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Counterfactual Action Evaluation, Observation Bottlenecks, and Representation Geometry in Joint-Embedding Predictive World Models",
+      "url": "https://arxiv.org/abs/2610.02860"
+    },
+    {
+      "text": "NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings",
+      "url": "https://arxiv.org/abs/2610.02864"
+    },
+    {
+      "text": "Hindsight-Guided Rationale Distillation for Rare Disease Diagnosis",
+      "url": "https://arxiv.org/abs/2610.03176"
+    },
+    {
+      "text": "Fold'EM: Direct atomic structure inference from Cryo-EM particles",
+      "url": "https://arxiv.org/abs/2610.01358"
+    },
+    {
+      "text": "Distributionally Robust Survival Models under Subpopulation Shift and Outlier Contamination",
+      "url": "https://arxiv.org/abs/2610.02868"
+    },
+    {
+      "text": "How to Find and Reuse Policies for Continuous Adaptation in Lifelong Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.03119"
+    },
+    {
+      "text": "Toward Omni Multimodal Graph Foundation Model: A Topology-Driven Binding Approach",
+      "url": "https://arxiv.org/abs/2610.02881"
+    },
+    {
+      "text": "DyRA: Dynamic Residual Approximation for Efficient Matrix Multiplication in DNNs",
+      "url": "https://arxiv.org/abs/2610.02882"
+    }
+  ],
+  "lastUpdated": "2026-10-05T14:25:08Z"
+}
