@@ -1,0 +1,107 @@
+{
+  "mainHeadline": {
+    "text": "Do LLMs feel pain?",
+    "url": "https://www.lesswrong.com/posts/7otkexcdREdxrhMwD/do-llms-feel-pain"
+  },
+  "topStories": [
+    {
+      "text": "Hiring in the AI Safety Ecosystem",
+      "url": "https://www.lesswrong.com/posts/wSGdahLyfnxrqKopm/hiring-in-the-ai-safety-ecosystem"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Inside the ML4Good Technical AI Safety Bootcamp: What to Expect",
+      "url": "https://www.lesswrong.com/posts/a7Lds5i5rfEE2doFa/inside-the-ml4good-technical-ai-safety-bootcamp-what-to-1"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+    },
+    {
+      "text": "Creating Rogue AI Sanctuaries has Major Issues from an Ecological Perspective and Beyond",
+      "url": "https://www.lesswrong.com/posts/xGBo5zSPHuPzTpbhf/creating-rogue-ai-sanctuaries-has-major-issues-from-an"
+    },
+    {
+      "text": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+    },
+    {
+      "text": "Reducing synthetic markers makes some SDF false facts linearly indistinguishable from pretraining-acquired knowledge",
+      "url": "https://www.lesswrong.com/posts/yYk5iwGqcn6XKLnWw/reducing-synthetic-markers-makes-some-sdf-false-facts"
+    },
+    {
+      "text": "Will you be sad if you don't have kids? I checked the evidence before my window closes",
+      "url": "https://www.lesswrong.com/posts/6MfFT3Px4s35qffte/will-you-be-sad-if-you-don-t-have-kids-i-checked-the"
+    },
+    {
+      "text": "Pain is Unavoidable, but Suffering is Optional",
+      "url": "https://www.lesswrong.com/posts/yW44SrovrbPzDriqk/pain-is-unavoidable-but-suffering-is-optional"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "MATS × CG Pitch Week: What Happened, What We Learned",
+      "url": "https://www.lesswrong.com/posts/APRgDaNQjF4DWQhHg/mats-cg-pitch-week-what-happened-what-we-learned"
+    },
+    {
+      "text": "We Should Build Human-Empowering Software",
+      "url": "https://www.lesswrong.com/posts/66sfFtSjz8X4AvWjY/we-should-build-human-empowering-software"
+    },
+    {
+      "text": "Positive and Negative Updates Re: Lab Leak in Russia",
+      "url": "https://www.lesswrong.com/posts/isyxM8LGF3vxyr3eW/positive-and-negative-updates-re-lab-leak-in-russia"
+    },
+    {
+      "text": "How to Govern AI Agents",
+      "url": "https://towardsdatascience.com/how-to-govern-ai-agents/"
+    },
+    {
+      "text": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+    },
+    {
+      "text": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Measuring the Creativity Potential of LLM Agents",
+      "url": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/"
+    },
+    {
+      "text": "The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”",
+      "url": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/"
+    },
+    {
+      "text": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+    },
+    {
+      "text": "September sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
+    },
+    {
+      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+    },
+    {
+      "text": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos"
+    },
+    {
+      "text": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+    },
+    {
+      "text": "How to Use a PINN for a Navier-Stokes Inverse Problem",
+      "url": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/"
+    }
+  ],
+  "lastUpdated": "2026-10-05T00:13:01Z"
+}
