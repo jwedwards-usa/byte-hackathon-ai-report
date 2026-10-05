@@ -1,107 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Do LLMs feel pain?",
-    "url": "https://www.lesswrong.com/posts/7otkexcdREdxrhMwD/do-llms-feel-pain"
+    "text": "Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking",
+    "url": "https://arxiv.org/abs/2610.03066"
   },
   "topStories": [
     {
-      "text": "Hiring in the AI Safety Ecosystem",
-      "url": "https://www.lesswrong.com/posts/wSGdahLyfnxrqKopm/hiring-in-the-ai-safety-ecosystem"
+      "text": "Repurposing Pre-trained LLMs as High Fidelity Continuous Text Autoencoders",
+      "url": "https://arxiv.org/abs/2609.27248"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
+      "url": "https://arxiv.org/abs/2603.29112"
     },
     {
-      "text": "Inside the ML4Good Technical AI Safety Bootcamp: What to Expect",
-      "url": "https://www.lesswrong.com/posts/a7Lds5i5rfEE2doFa/inside-the-ml4good-technical-ai-safety-bootcamp-what-to-1"
+      "text": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
+      "url": "https://arxiv.org/abs/2607.14197"
     }
   ],
   "leftColumn": [
     {
-      "text": "An OpenAI safety employee has quit and is sounding the alarm",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+      "text": "Automating the Application of HCI Principles: Skills for On-Demand UI Construction, the Human-AI Space to Think, and the Future of HCI",
+      "url": "https://arxiv.org/abs/2610.02369"
     },
     {
-      "text": "Creating Rogue AI Sanctuaries has Major Issues from an Ecological Perspective and Beyond",
-      "url": "https://www.lesswrong.com/posts/xGBo5zSPHuPzTpbhf/creating-rogue-ai-sanctuaries-has-major-issues-from-an"
+      "text": "Neuron merging via inverse-activation regression for post-training compression of sigmoid neural networks",
+      "url": "https://arxiv.org/abs/2610.02559"
     },
     {
-      "text": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+      "text": "LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity",
+      "url": "https://arxiv.org/abs/2609.29672"
     },
     {
-      "text": "Reducing synthetic markers makes some SDF false facts linearly indistinguishable from pretraining-acquired knowledge",
-      "url": "https://www.lesswrong.com/posts/yYk5iwGqcn6XKLnWw/reducing-synthetic-markers-makes-some-sdf-false-facts"
+      "text": "Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG",
+      "url": "https://arxiv.org/abs/2607.02802"
     },
     {
-      "text": "Will you be sad if you don't have kids? I checked the evidence before my window closes",
-      "url": "https://www.lesswrong.com/posts/6MfFT3Px4s35qffte/will-you-be-sad-if-you-don-t-have-kids-i-checked-the"
+      "text": "Coherence-Driven Belief Formation and Population Dynamics of Contagion in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.02654"
     },
     {
-      "text": "Pain is Unavoidable, but Suffering is Optional",
-      "url": "https://www.lesswrong.com/posts/yW44SrovrbPzDriqk/pain-is-unavoidable-but-suffering-is-optional"
+      "text": "Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact",
+      "url": "https://arxiv.org/abs/2605.14021"
+    },
+    {
+      "text": "LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs",
+      "url": "https://arxiv.org/abs/2610.02902"
+    },
+    {
+      "text": "Quantum parameter estimation with uncertainty quantification from continuous measurement data using neural network ensembles",
+      "url": "https://arxiv.org/abs/2509.10756"
     }
   ],
   "centerColumn": [
     {
-      "text": "MATS × CG Pitch Week: What Happened, What We Learned",
-      "url": "https://www.lesswrong.com/posts/APRgDaNQjF4DWQhHg/mats-cg-pitch-week-what-happened-what-we-learned"
+      "text": "Unifying Distributional Training for One-Step Visual Generation",
+      "url": "https://arxiv.org/abs/2609.35763"
     },
     {
-      "text": "We Should Build Human-Empowering Software",
-      "url": "https://www.lesswrong.com/posts/66sfFtSjz8X4AvWjY/we-should-build-human-empowering-software"
+      "text": "A hybrid CNN-adjoint optimization framework for reconstruction of viscoelastic tissue properties in magnetic resonance elastography",
+      "url": "https://arxiv.org/abs/2610.02634"
     },
     {
-      "text": "Positive and Negative Updates Re: Lab Leak in Russia",
-      "url": "https://www.lesswrong.com/posts/isyxM8LGF3vxyr3eW/positive-and-negative-updates-re-lab-leak-in-russia"
+      "text": "WAM-OPD: Joint Video-Action Supervision for World Action Model Post-Training with On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2608.22364"
     },
     {
-      "text": "How to Govern AI Agents",
-      "url": "https://towardsdatascience.com/how-to-govern-ai-agents/"
+      "text": "Rethinking the Evaluation of Harness Evolution for Agents",
+      "url": "https://arxiv.org/abs/2607.12227"
     },
     {
-      "text": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+      "text": "SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints",
+      "url": "https://arxiv.org/abs/2607.05363"
     },
     {
-      "text": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+      "text": "Understanding Why Language Models Hallucinate: Testing Reasoning Against Priors",
+      "url": "https://arxiv.org/abs/2607.00447"
+    },
+    {
+      "text": "Unmasking Propaganda: A Comparative Analysis of Masked and Causal Language Models",
+      "url": "https://arxiv.org/abs/2610.03077"
+    },
+    {
+      "text": "Compound AI System Reliability: A Failure Taxonomy and Resilience Pattern Catalog from 150 Production Incidents",
+      "url": "https://arxiv.org/abs/2610.02503"
     }
   ],
   "rightColumn": [
     {
-      "text": "Measuring the Creativity Potential of LLM Agents",
-      "url": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/"
+      "text": "To Explore The Strange New World Beyond Data Distribution: System Behavior, Causality Tax, and Non-causal Base Model",
+      "url": "https://arxiv.org/abs/2610.02839"
     },
     {
-      "text": "The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”",
-      "url": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/"
+      "text": "Understanding Enrichment in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.02846"
     },
     {
-      "text": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+      "text": "Counterfactual Action Evaluation, Observation Bottlenecks, and Representation Geometry in Joint-Embedding Predictive World Models",
+      "url": "https://arxiv.org/abs/2610.02860"
     },
     {
-      "text": "September sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
+      "text": "NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings",
+      "url": "https://arxiv.org/abs/2610.02864"
     },
     {
-      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+      "text": "Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion",
+      "url": "https://arxiv.org/abs/2209.14887"
     },
     {
-      "text": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos"
+      "text": "Causal Memory Policy: Making Memory Utility Identifiable by Intervening on Retrieval",
+      "url": "https://arxiv.org/abs/2610.02070"
     },
     {
-      "text": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+      "text": "Distributionally Robust Survival Models under Subpopulation Shift and Outlier Contamination",
+      "url": "https://arxiv.org/abs/2610.02868"
     },
     {
-      "text": "How to Use a PINN for a Navier-Stokes Inverse Problem",
-      "url": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/"
+      "text": "CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2609.35883"
     }
   ],
-  "lastUpdated": "2026-10-05T00:13:01Z"
+  "lastUpdated": "2026-10-05T05:12:47Z"
 }

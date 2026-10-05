@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking",
+    "url": "https://arxiv.org/abs/2610.03066"
+  },
+  "topStories": [
+    {
+      "text": "Repurposing Pre-trained LLMs as High Fidelity Continuous Text Autoencoders",
+      "url": "https://arxiv.org/abs/2609.27248"
+    },
+    {
+      "text": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
+      "url": "https://arxiv.org/abs/2603.29112"
+    },
+    {
+      "text": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
+      "url": "https://arxiv.org/abs/2607.14197"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Automating the Application of HCI Principles: Skills for On-Demand UI Construction, the Human-AI Space to Think, and the Future of HCI",
+      "url": "https://arxiv.org/abs/2610.02369"
+    },
+    {
+      "text": "Neuron merging via inverse-activation regression for post-training compression of sigmoid neural networks",
+      "url": "https://arxiv.org/abs/2610.02559"
+    },
+    {
+      "text": "LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity",
+      "url": "https://arxiv.org/abs/2609.29672"
+    },
+    {
+      "text": "Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG",
+      "url": "https://arxiv.org/abs/2607.02802"
+    },
+    {
+      "text": "Coherence-Driven Belief Formation and Population Dynamics of Contagion in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.02654"
+    },
+    {
+      "text": "Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact",
+      "url": "https://arxiv.org/abs/2605.14021"
+    },
+    {
+      "text": "LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs",
+      "url": "https://arxiv.org/abs/2610.02902"
+    },
+    {
+      "text": "Quantum parameter estimation with uncertainty quantification from continuous measurement data using neural network ensembles",
+      "url": "https://arxiv.org/abs/2509.10756"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Unifying Distributional Training for One-Step Visual Generation",
+      "url": "https://arxiv.org/abs/2609.35763"
+    },
+    {
+      "text": "A hybrid CNN-adjoint optimization framework for reconstruction of viscoelastic tissue properties in magnetic resonance elastography",
+      "url": "https://arxiv.org/abs/2610.02634"
+    },
+    {
+      "text": "WAM-OPD: Joint Video-Action Supervision for World Action Model Post-Training with On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2608.22364"
+    },
+    {
+      "text": "Rethinking the Evaluation of Harness Evolution for Agents",
+      "url": "https://arxiv.org/abs/2607.12227"
+    },
+    {
+      "text": "SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints",
+      "url": "https://arxiv.org/abs/2607.05363"
+    },
+    {
+      "text": "Understanding Why Language Models Hallucinate: Testing Reasoning Against Priors",
+      "url": "https://arxiv.org/abs/2607.00447"
+    },
+    {
+      "text": "Unmasking Propaganda: A Comparative Analysis of Masked and Causal Language Models",
+      "url": "https://arxiv.org/abs/2610.03077"
+    },
+    {
+      "text": "Compound AI System Reliability: A Failure Taxonomy and Resilience Pattern Catalog from 150 Production Incidents",
+      "url": "https://arxiv.org/abs/2610.02503"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "To Explore The Strange New World Beyond Data Distribution: System Behavior, Causality Tax, and Non-causal Base Model",
+      "url": "https://arxiv.org/abs/2610.02839"
+    },
+    {
+      "text": "Understanding Enrichment in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.02846"
+    },
+    {
+      "text": "Counterfactual Action Evaluation, Observation Bottlenecks, and Representation Geometry in Joint-Embedding Predictive World Models",
+      "url": "https://arxiv.org/abs/2610.02860"
+    },
+    {
+      "text": "NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings",
+      "url": "https://arxiv.org/abs/2610.02864"
+    },
+    {
+      "text": "Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion",
+      "url": "https://arxiv.org/abs/2209.14887"
+    },
+    {
+      "text": "Causal Memory Policy: Making Memory Utility Identifiable by Intervening on Retrieval",
+      "url": "https://arxiv.org/abs/2610.02070"
+    },
+    {
+      "text": "Distributionally Robust Survival Models under Subpopulation Shift and Outlier Contamination",
+      "url": "https://arxiv.org/abs/2610.02868"
+    },
+    {
+      "text": "CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2609.35883"
+    }
+  ],
+  "lastUpdated": "2026-10-05T05:12:47Z"
+}
