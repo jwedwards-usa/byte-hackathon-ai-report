@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Research Note: Filtering Subversion-Relevant Information From Pretraining Data Is Feasible",
+    "url": "https://www.lesswrong.com/posts/HwdXDoCH7KXdKsz7k/research-note-filtering-subversion-relevant-information-from"
+  },
+  "topStories": [
+    {
+      "text": "OPENAI IS ADDING TEXT WATERMARKING IN CHATGPT AND CODEX",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+    },
+    {
+      "text": "How Would We Know? Reflections on trying to make AI go well amid deep uncertainty",
+      "url": "https://www.lesswrong.com/posts/ZjAEgv3mrimKNepa5/how-would-we-know-reflections-on-trying-to-make-ai-go-well"
+    },
+    {
+      "text": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Current AIs out-persuade professionals in lab settings but (probably) not in the world",
+      "url": "https://www.lesswrong.com/posts/CzmMvnPy7YdSRucDH/current-ais-out-persuade-professionals-in-lab-settings-but"
+    },
+    {
+      "text": "OPENAI IS STICKING MORE ADS IN CHATGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+    },
+    {
+      "text": "All the drama around AI’s takeover of mathematics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+    },
+    {
+      "text": "Self-Modeling Interventions Modulate Emergent Misalignment",
+      "url": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment"
+    },
+    {
+      "text": "Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking",
+      "url": "https://arxiv.org/abs/2610.03066"
+    },
+    {
+      "text": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
+    },
+    {
+      "text": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
+    {
+      "text": "Repurposing Pre-trained LLMs as High Fidelity Continuous Text Autoencoders",
+      "url": "https://arxiv.org/abs/2609.27248"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "LS-AR: Future-Predictive Latent Steering in Autoregressive LLMs",
+      "url": "https://arxiv.org/abs/2610.03093"
+    },
+    {
+      "text": "Talked Out of the Truth: Sycophancy in the Reasoning Chains of Multimodal Models",
+      "url": "https://arxiv.org/abs/2608.28623"
+    },
+    {
+      "text": "VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models",
+      "url": "https://arxiv.org/abs/2311.18837"
+    },
+    {
+      "text": "Mawqif-XT: An Arabic Benchmark Dataset for Cross-Target Stance Detection",
+      "url": "https://arxiv.org/abs/2608.09539"
+    },
+    {
+      "text": "The Conflict Between Logic and Memory: Training Conditions for Optimizer-Dependent Rule Acquisition",
+      "url": "https://arxiv.org/abs/2610.00403"
+    },
+    {
+      "text": "AgentTrap: Stateful Feedback Deception against Autonomous Penetration Testing Agents",
+      "url": "https://arxiv.org/abs/2610.02869"
+    },
+    {
+      "text": "Query-aware routing for Cross-lingual performance gains in Encoders",
+      "url": "https://arxiv.org/abs/2610.02875"
+    },
+    {
+      "text": "Unifying Distributional Training for One-Step Visual Generation",
+      "url": "https://arxiv.org/abs/2609.35763"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AvoKV-E: Payload-Aware KV Cache Eviction for Long Reasoning",
+      "url": "https://arxiv.org/abs/2610.03007"
+    },
+    {
+      "text": "Scalar Federated Learning for Linear Quadratic Regulator",
+      "url": "https://arxiv.org/abs/2604.05088"
+    },
+    {
+      "text": "Signal Simplification Is Not Predictive Simplification: Diagnosing Residual Neural Forecasting in Short-Horizon Volatility",
+      "url": "https://arxiv.org/abs/2610.03019"
+    },
+    {
+      "text": "Learning to Revise Reasoning with Segment-wise On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.02703"
+    },
+    {
+      "text": "Label-Efficient Time Series Classification at Scale: A Dual-Stream OSSE-LSTM with Counterfactual Attribution",
+      "url": "https://arxiv.org/abs/2610.02704"
+    },
+    {
+      "text": "Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning",
+      "url": "https://arxiv.org/abs/2610.02715"
+    },
+    {
+      "text": "Balancing Multimodal Learning via Functional Progress",
+      "url": "https://arxiv.org/abs/2610.03035"
+    },
+    {
+      "text": "Fold'EM: Direct atomic structure inference from Cryo-EM particles",
+      "url": "https://arxiv.org/abs/2610.01358"
+    }
+  ],
+  "lastUpdated": "2026-10-05T22:20:21Z"
+}
