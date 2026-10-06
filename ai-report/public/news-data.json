@@ -9,115 +9,115 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
     },
     {
-      "text": "OPENAI IS STICKING MORE ADS IN CHATGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+      "text": "How funny are the frontier AI models?",
+      "url": "https://www.lesswrong.com/posts/oG53pJxkHgpL4Ny4d/how-funny-are-the-frontier-ai-models"
     },
     {
-      "text": "Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization",
-      "url": "https://arxiv.org/abs/2610.05329"
+      "text": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
     }
   ],
   "leftColumn": [
     {
-      "text": "GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation",
-      "url": "https://arxiv.org/abs/2610.05387"
+      "text": "I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.",
+      "url": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/"
     },
     {
-      "text": "An Executable Benchmark for LLM-Based HLS Repair:Design Complexity and Repair Underconstraint",
-      "url": "https://arxiv.org/abs/2610.03971"
+      "text": "Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization",
+      "url": "https://arxiv.org/abs/2610.05329"
     },
     {
       "text": "Building LLM Agent Systems the Deep Learning Way: From Modular Design to Architecture Search",
       "url": "https://arxiv.org/abs/2610.04961"
     },
     {
-      "text": "Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems",
-      "url": "https://arxiv.org/abs/2606.04816"
-    },
-    {
       "text": "TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps",
       "url": "https://arxiv.org/abs/2609.14762"
+    },
+    {
+      "text": "GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation",
+      "url": "https://arxiv.org/abs/2610.05387"
     },
     {
       "text": "Errors of LLM-Assisted Literature Retrieval in Environmental Science: A Comparison Study of Abstract versus Full-text Based Prompts",
       "url": "https://arxiv.org/abs/2610.05690"
     },
     {
-      "text": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models",
-      "url": "https://arxiv.org/abs/2610.05966"
+      "text": "Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems",
+      "url": "https://arxiv.org/abs/2606.04816"
     },
     {
-      "text": "Transformer Based Time-Series Forecasting for Stock",
-      "url": "https://arxiv.org/abs/2502.09625"
+      "text": "An Executable Benchmark for LLM-Based HLS Repair:Design Complexity and Repair Underconstraint",
+      "url": "https://arxiv.org/abs/2610.03971"
     }
   ],
   "centerColumn": [
     {
-      "text": "Boosting Transferable Adversarial Attacks against Deep Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.06083"
+      "text": "SYNLAT: Syntax-Aligned Text-Latent Compression for Chain-of-Thought Reasoning",
+      "url": "https://arxiv.org/abs/2610.03839"
     },
     {
-      "text": "AgentPrivArena: Evaluating and Auditing Real-world AI Agent Privacy",
-      "url": "https://arxiv.org/abs/2610.06454"
+      "text": "Granularity-Adaptive Credit Assignment for Long-Horizon LLM Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.12424"
     },
     {
-      "text": "Lossy Compression of PDE Training Inputs: Field Reconstruction Error Does Not Order the Cost to a Trained Operator",
-      "url": "https://arxiv.org/abs/2610.06095"
+      "text": "DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.23181"
+    },
+    {
+      "text": "Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.06244"
+    },
+    {
+      "text": "What May an Agent Change About Itself? A Containment Floor for Self-Configuring Agent Runtimes",
+      "url": "https://arxiv.org/abs/2610.06274"
+    },
+    {
+      "text": "Solving VeriContest with a Lean-Backed Rust Verifier",
+      "url": "https://arxiv.org/abs/2610.03994"
+    },
+    {
+      "text": "Beyond TVLA: Anderson-Darling Leakage Assessment for Neural Network Side-Channel Leakage Detection",
+      "url": "https://arxiv.org/abs/2603.18647"
     },
     {
       "text": "Same Pieces, Different Servers: A Tetris Benchmark for AI Agents as Served",
       "url": "https://arxiv.org/abs/2603.02348"
-    },
-    {
-      "text": "VIRENA: Virtual Arena for Research, Education, and Democratic Innovation",
-      "url": "https://arxiv.org/abs/2602.12207"
-    },
-    {
-      "text": "Machine learning for journal entry testing: A type-aware evaluation of anomaly detectors under a review budget",
-      "url": "https://arxiv.org/abs/2610.06133"
-    },
-    {
-      "text": "DE-OCCLUDING BROADBAND METALENS",
-      "url": "https://arxiv.org/abs/2601.19403"
-    },
-    {
-      "text": "Towards Optimal Valve Prescription for Transcatheter Aortic Valve Replacement (TAVR) Surgery: A Machine Learning Approach",
-      "url": "https://arxiv.org/abs/2512.09198"
     }
   ],
   "rightColumn": [
     {
-      "text": "Self-Evaluating Recursive Agents",
-      "url": "https://arxiv.org/abs/2610.04902"
+      "text": "A Measured Communication-Quality Frontier for Federated LoRA Fine-Tuning with Adaptive Phase-Switching",
+      "url": "https://arxiv.org/abs/2609.13512"
     },
     {
-      "text": "Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase",
-      "url": "https://arxiv.org/abs/2609.31630"
+      "text": "Private Component-by-Component Learning",
+      "url": "https://arxiv.org/abs/2610.05102"
     },
     {
-      "text": "Monitorability Disposition in Large Reasoning Models",
-      "url": "https://arxiv.org/abs/2610.04914"
+      "text": "From Fixed Keys to Readable Schemas: Small Language Models for Vehicle Agent Function Calls",
+      "url": "https://arxiv.org/abs/2609.09476"
     },
     {
-      "text": "OverdoseMoE: A Multi-Expert Framework for Opioid Overdose Risk Prediction",
-      "url": "https://arxiv.org/abs/2609.40108"
+      "text": "Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.05125"
     },
     {
-      "text": "Zero-Shot Time-Series Question Answering via Decoupled Perception and Reasoning",
-      "url": "https://arxiv.org/abs/2610.04942"
+      "text": "Recursive Improvement of a Differentiable Scientific Software Ecosystem",
+      "url": "https://arxiv.org/abs/2610.04561"
     },
     {
-      "text": "BACAM: Behavior-Aware Continual Agent Merging for Multi-Turn Interaction",
-      "url": "https://arxiv.org/abs/2610.04966"
+      "text": "Generalized Geometry Block Proximal Linearized Method for Multiblock Nonconvex and Nonsmooth Optimization",
+      "url": "https://arxiv.org/abs/2609.39301"
     },
     {
-      "text": "EPOC: Endpoint-Preserving Online Correction With Compressed Residual State for Multi-Horizon Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2609.30929"
+      "text": "Action-Consequence Alignment for Reliable Planning and Self-Improving in Latent World Models",
+      "url": "https://arxiv.org/abs/2610.04539"
     },
     {
-      "text": "Precision over Scale: A Polish-Silesian Benchmark and a Translation System Outperforming Open-Source and Commercial Models",
-      "url": "https://arxiv.org/abs/2610.01082"
+      "text": "Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology",
+      "url": "https://arxiv.org/abs/2610.05157"
     }
   ],
-  "lastUpdated": "2026-10-06T05:53:39Z"
+  "lastUpdated": "2026-10-06T13:25:37Z"
 }
