@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
+      "text": "A fascinating case of an LLM prompt-injecting its own user",
+      "url": "https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"
+    },
+    {
       "text": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
     },
     {
-      "text": "How funny are the frontier AI models?",
-      "url": "https://www.lesswrong.com/posts/oG53pJxkHgpL4Ny4d/how-funny-are-the-frontier-ai-models"
-    },
-    {
-      "text": "Google is about to remove free access to Gemini Flash and Pro",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+      "text": "Readings on the nature of alignment research",
+      "url": "https://www.lesswrong.com/posts/mskmgoE8HwgkD8hSo/readings-on-the-nature-of-alignment-research"
     }
   ],
   "leftColumn": [
     {
-      "text": "I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.",
-      "url": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/"
+      "text": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership"
+    },
+    {
+      "text": "Qualitative impressions from creating AI honeypots for six months",
+      "url": "https://www.lesswrong.com/posts/kifFQuvu7yq6eHrb8/qualitative-impressions-from-creating-ai-honeypots-for-six"
+    },
+    {
+      "text": "Comparing AI Policy Courses",
+      "url": "https://www.lesswrong.com/posts/Jgjj9rZPqjffuzXwN/comparing-ai-policy-courses"
     },
     {
       "text": "Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization",
       "url": "https://arxiv.org/abs/2610.05329"
     },
     {
-      "text": "Building LLM Agent Systems the Deep Learning Way: From Modular Design to Architecture Search",
-      "url": "https://arxiv.org/abs/2610.04961"
+      "text": "GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation",
+      "url": "https://arxiv.org/abs/2610.05387"
     },
     {
       "text": "TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps",
       "url": "https://arxiv.org/abs/2609.14762"
     },
     {
-      "text": "GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation",
-      "url": "https://arxiv.org/abs/2610.05387"
-    },
-    {
-      "text": "Errors of LLM-Assisted Literature Retrieval in Environmental Science: A Comparison Study of Abstract versus Full-text Based Prompts",
-      "url": "https://arxiv.org/abs/2610.05690"
+      "text": "Building LLM Agent Systems the Deep Learning Way: From Modular Design to Architecture Search",
+      "url": "https://arxiv.org/abs/2610.04961"
     },
     {
       "text": "Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems",
       "url": "https://arxiv.org/abs/2606.04816"
-    },
-    {
-      "text": "An Executable Benchmark for LLM-Based HLS Repair:Design Complexity and Repair Underconstraint",
-      "url": "https://arxiv.org/abs/2610.03971"
     }
   ],
   "centerColumn": [
     {
-      "text": "SYNLAT: Syntax-Aligned Text-Latent Compression for Chain-of-Thought Reasoning",
-      "url": "https://arxiv.org/abs/2610.03839"
+      "text": "$\\pi^2$: Structure-Originated Reasoning Data Improves Long-Context Reasoning Ability of Large Language Models",
+      "url": "https://arxiv.org/abs/2604.05114"
     },
     {
-      "text": "Granularity-Adaptive Credit Assignment for Long-Horizon LLM Agent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2609.12424"
+      "text": "Dependable AI-Assisted Engineering: A Formal Framework for AI Participation and Assurance in Safety-Critical Workflows",
+      "url": "https://arxiv.org/abs/2610.04084"
     },
     {
-      "text": "DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.23181"
+      "text": "Bounded Reasoning: Cognitive Hierarchy in Human-versus-AI Cyber Defense",
+      "url": "https://arxiv.org/abs/2610.04878"
     },
     {
-      "text": "Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.06244"
-    },
-    {
-      "text": "What May an Agent Change About Itself? A Containment Floor for Self-Configuring Agent Runtimes",
-      "url": "https://arxiv.org/abs/2610.06274"
-    },
-    {
-      "text": "Solving VeriContest with a Lean-Backed Rust Verifier",
-      "url": "https://arxiv.org/abs/2610.03994"
+      "text": "ElasticMem: Latent Memory as a Learnable Resource for LLM Agents",
+      "url": "https://arxiv.org/abs/2605.30690"
     },
     {
       "text": "Beyond TVLA: Anderson-Darling Leakage Assessment for Neural Network Side-Channel Leakage Detection",
       "url": "https://arxiv.org/abs/2603.18647"
     },
     {
+      "text": "Mind the Gaps: From Failure Attribution to Closed-Form Repair of Code Language Models",
+      "url": "https://arxiv.org/abs/2610.05277"
+    },
+    {
       "text": "Same Pieces, Different Servers: A Tetris Benchmark for AI Agents as Served",
       "url": "https://arxiv.org/abs/2603.02348"
+    },
+    {
+      "text": "Word-Class and Construction-Like Structure Emerges in Neural Successor Representations Trained on Natural Language",
+      "url": "https://arxiv.org/abs/2605.24585"
     }
   ],
   "rightColumn": [
     {
-      "text": "A Measured Communication-Quality Frontier for Federated LoRA Fine-Tuning with Adaptive Phase-Switching",
-      "url": "https://arxiv.org/abs/2609.13512"
-    },
-    {
-      "text": "Private Component-by-Component Learning",
-      "url": "https://arxiv.org/abs/2610.05102"
-    },
-    {
-      "text": "From Fixed Keys to Readable Schemas: Small Language Models for Vehicle Agent Function Calls",
-      "url": "https://arxiv.org/abs/2609.09476"
-    },
-    {
-      "text": "Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2610.05125"
-    },
-    {
-      "text": "Recursive Improvement of a Differentiable Scientific Software Ecosystem",
-      "url": "https://arxiv.org/abs/2610.04561"
-    },
-    {
-      "text": "Generalized Geometry Block Proximal Linearized Method for Multiblock Nonconvex and Nonsmooth Optimization",
-      "url": "https://arxiv.org/abs/2609.39301"
-    },
-    {
-      "text": "Action-Consequence Alignment for Reliable Planning and Self-Improving in Latent World Models",
-      "url": "https://arxiv.org/abs/2610.04539"
-    },
-    {
       "text": "Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology",
       "url": "https://arxiv.org/abs/2610.05157"
+    },
+    {
+      "text": "Measuring Learned Monotone Temporal Aggregation at Matched Admissibility",
+      "url": "https://arxiv.org/abs/2610.05196"
+    },
+    {
+      "text": "Cross-Time Directional Selection in Diffusion Sampling",
+      "url": "https://arxiv.org/abs/2610.05199"
+    },
+    {
+      "text": "TasteRoute: Personalized Routing for Video Generation",
+      "url": "https://arxiv.org/abs/2610.05896"
+    },
+    {
+      "text": "Ranking Bandits for Carousel Interfaces with Observable Browsing Depth",
+      "url": "https://arxiv.org/abs/2610.05220"
+    },
+    {
+      "text": "A Tropical Geometry View of Forgetting: A Per-Unit Projector for Knowledge-Preserving Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.04670"
+    },
+    {
+      "text": "Pythia: Toward Foundation World Models for Multimodal Time Series",
+      "url": "https://arxiv.org/abs/2610.05240"
+    },
+    {
+      "text": "Kolmogorov-Arnold Networks for Personal Context Recognition on ExtraSensory",
+      "url": "https://arxiv.org/abs/2610.05250"
     }
   ],
-  "lastUpdated": "2026-10-06T13:25:37Z"
+  "lastUpdated": "2026-10-06T20:23:52Z"
 }
