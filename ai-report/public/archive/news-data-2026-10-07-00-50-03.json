@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OPENAI IS ADDING TEXT WATERMARKING IN CHATGPT AND CODEX",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+  },
+  "topStories": [
+    {
+      "text": "LLM-OPENAI-DECISIONS 0.1A0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+    },
+    {
+      "text": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
+    },
+    {
+      "text": "OPENAI DROPS ANOTHER BATCH OF MATHEMATICAL BREAKTHROUGHS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
+    },
+    {
+      "text": "Childhood and Education #21: Grades and Standards",
+      "url": "https://www.lesswrong.com/posts/QXmyxaQnB57reu7ie/childhood-and-education-21-grades-and-standards"
+    },
+    {
+      "text": "AI Safety at the Frontier: Paper Highlights of August \u0026 September 2026",
+      "url": "https://www.lesswrong.com/posts/sxtB288gm2tAaLfNu/ai-safety-at-the-frontier-paper-highlights-of-august-and"
+    },
+    {
+      "text": "Comparing AI Policy Courses",
+      "url": "https://www.lesswrong.com/posts/Jgjj9rZPqjffuzXwN/comparing-ai-policy-courses"
+    },
+    {
+      "text": "A fascinating case of an LLM prompt-injecting its own user",
+      "url": "https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"
+    },
+    {
+      "text": "Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization",
+      "url": "https://arxiv.org/abs/2610.05329"
+    },
+    {
+      "text": "Readings on the nature of alignment research",
+      "url": "https://www.lesswrong.com/posts/mskmgoE8HwgkD8hSo/readings-on-the-nature-of-alignment-research"
+    },
+    {
+      "text": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "When Evidence Changes: Evaluating Memory Repair and Re-reading in Language-Model Agents",
+      "url": "https://arxiv.org/abs/2610.03902"
+    },
+    {
+      "text": "Lossy Compression of PDE Training Inputs: Field Reconstruction Error Does Not Order the Cost to a Trained Operator",
+      "url": "https://arxiv.org/abs/2610.06095"
+    },
+    {
+      "text": "Bi-objective chance-constrained evolutionary optimization for large-scale open-pit mine scheduling under geological uncertainty",
+      "url": "https://arxiv.org/abs/2511.08275"
+    },
+    {
+      "text": "IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation",
+      "url": "https://arxiv.org/abs/2610.04074"
+    },
+    {
+      "text": "Questioning the Questions: Sustaining Self-Evolution in Reasoning Models",
+      "url": "https://arxiv.org/abs/2610.04299"
+    },
+    {
+      "text": "AI-Enabled Quality Assurance for Multiple-Choice Assessment Items",
+      "url": "https://arxiv.org/abs/2610.04267"
+    },
+    {
+      "text": "Dependable AI-Assisted Engineering: A Formal Framework for AI Participation and Assurance in Safety-Critical Workflows",
+      "url": "https://arxiv.org/abs/2610.04084"
+    },
+    {
+      "text": "DE-OCCLUDING BROADBAND METALENS",
+      "url": "https://arxiv.org/abs/2601.19403"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
+      "url": "https://arxiv.org/abs/2610.03888"
+    },
+    {
+      "text": "The Surrogate Is Not the Reward: Post-Surrogate Primary-Outcome Acquisition in Contextual Bandits",
+      "url": "https://arxiv.org/abs/2610.06610"
+    },
+    {
+      "text": "Streaming Multi-Track Timeline Control for 3D Human Motion Generation",
+      "url": "https://arxiv.org/abs/2610.03873"
+    },
+    {
+      "text": "On the Cardinality of Optimal Representations in the Binary-Source Information Bottleneck",
+      "url": "https://arxiv.org/abs/2610.06627"
+    },
+    {
+      "text": "Representation-Space MMD for Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.06648"
+    },
+    {
+      "text": "Revisiting Label-Free Speaker Embedding Enhancement with vMF Profile Likelihood",
+      "url": "https://arxiv.org/abs/2610.06691"
+    },
+    {
+      "text": "A Solvable Model of Adaptive Learning Rate Rescaling: Acceleration, Stability \u0026 Scaling",
+      "url": "https://arxiv.org/abs/2610.06701"
+    },
+    {
+      "text": "SoK: Semantic Decision Engines in Network Control Loops",
+      "url": "https://arxiv.org/abs/2610.06425"
+    }
+  ],
+  "lastUpdated": "2026-10-07T00:50:03Z"
+}
