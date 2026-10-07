@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "OPENAI IS ADDING TEXT WATERMARKING IN CHATGPT AND CODEX",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+    "text": "An overview of frontier AI company monitoring practices in mid 2026",
+    "url": "https://www.lesswrong.com/posts/E4Jpmo3igPnGnXtL4/an-overview-of-frontier-ai-company-monitoring-practices-in"
   },
   "topStories": [
     {
+      "text": "OPENAI IS ADDING TEXT WATERMARKING IN CHATGPT AND CODEX",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+    },
+    {
+      "text": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+    },
+    {
       "text": "LLM-OPENAI-DECISIONS 0.1A0",
       "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
-    },
-    {
-      "text": "OpenAI “rogue” agent activities found on Wikimedia projects",
-      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
-    },
-    {
-      "text": "OPENAI DROPS ANOTHER BATCH OF MATHEMATICAL BREAKTHROUGHS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
     }
   ],
   "leftColumn": [
     {
-      "text": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
+      "text": "AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training",
+      "url": "https://arxiv.org/abs/2508.19073"
     },
     {
-      "text": "Childhood and Education #21: Grades and Standards",
-      "url": "https://www.lesswrong.com/posts/QXmyxaQnB57reu7ie/childhood-and-education-21-grades-and-standards"
+      "text": "JAILBREAKING OPEN-WEIGHT LLMS VIA RANDOM EMBEDDING PERTURBATIONS",
+      "url": "https://arxiv.org/abs/2610.07125"
     },
     {
-      "text": "AI Safety at the Frontier: Paper Highlights of August \u0026 September 2026",
-      "url": "https://www.lesswrong.com/posts/sxtB288gm2tAaLfNu/ai-safety-at-the-frontier-paper-highlights-of-august-and"
-    },
-    {
-      "text": "Comparing AI Policy Courses",
-      "url": "https://www.lesswrong.com/posts/Jgjj9rZPqjffuzXwN/comparing-ai-policy-courses"
+      "text": "OPENAI DROPS ANOTHER BATCH OF MATHEMATICAL BREAKTHROUGHS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
     },
     {
       "text": "A fascinating case of an LLM prompt-injecting its own user",
       "url": "https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"
     },
     {
-      "text": "Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization",
-      "url": "https://arxiv.org/abs/2610.05329"
+      "text": "Coding with \"Enemy\": Can Human Developers Detect AI Agent Sabotage?",
+      "url": "https://arxiv.org/abs/2606.05647"
     },
     {
-      "text": "Readings on the nature of alignment research",
-      "url": "https://www.lesswrong.com/posts/mskmgoE8HwgkD8hSo/readings-on-the-nature-of-alignment-research"
+      "text": "TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps",
+      "url": "https://arxiv.org/abs/2609.14762"
     },
     {
-      "text": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership"
+      "text": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
+      "url": "https://arxiv.org/abs/2609.34457"
+    },
+    {
+      "text": "Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems",
+      "url": "https://arxiv.org/abs/2606.04816"
     }
   ],
   "centerColumn": [
     {
-      "text": "When Evidence Changes: Evaluating Memory Repair and Re-reading in Language-Model Agents",
-      "url": "https://arxiv.org/abs/2610.03902"
+      "text": "The Acknowledgment Point Is the System: Durable Policy-Decision Receipts for AI Audit Evidence",
+      "url": "https://arxiv.org/abs/2608.17176"
     },
     {
-      "text": "Lossy Compression of PDE Training Inputs: Field Reconstruction Error Does Not Order the Cost to a Trained Operator",
-      "url": "https://arxiv.org/abs/2610.06095"
+      "text": "Science Done on a Machine by a Machine: AI Agents in Computational Chemistry",
+      "url": "https://arxiv.org/abs/2608.18508"
+    },
+    {
+      "text": "Quantization Effects on Tool-Failure Recovery Vary Across Prompts and Evaluation Designs",
+      "url": "https://arxiv.org/abs/2610.07781"
+    },
+    {
+      "text": "Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell",
+      "url": "https://arxiv.org/abs/2610.07782"
     },
     {
       "text": "Bi-objective chance-constrained evolutionary optimization for large-scale open-pit mine scheduling under geological uncertainty",
       "url": "https://arxiv.org/abs/2511.08275"
     },
     {
-      "text": "IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation",
-      "url": "https://arxiv.org/abs/2610.04074"
+      "text": "AI Assistance Reduces Persistence and Hurts Independent Performance",
+      "url": "https://arxiv.org/abs/2604.04721"
     },
     {
-      "text": "Questioning the Questions: Sustaining Self-Evolution in Reasoning Models",
-      "url": "https://arxiv.org/abs/2610.04299"
+      "text": "Do I Need the Cloud? Uncertainty-Aware Step-Level Handoff for Small Language Model Agents",
+      "url": "https://arxiv.org/abs/2610.07816"
     },
     {
-      "text": "AI-Enabled Quality Assurance for Multiple-Choice Assessment Items",
-      "url": "https://arxiv.org/abs/2610.04267"
-    },
-    {
-      "text": "Dependable AI-Assisted Engineering: A Formal Framework for AI Participation and Assurance in Safety-Critical Workflows",
-      "url": "https://arxiv.org/abs/2610.04084"
-    },
-    {
-      "text": "DE-OCCLUDING BROADBAND METALENS",
-      "url": "https://arxiv.org/abs/2601.19403"
+      "text": "SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents",
+      "url": "https://arxiv.org/abs/2606.05761"
     }
   ],
   "rightColumn": [
     {
-      "text": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
-      "url": "https://arxiv.org/abs/2610.03888"
+      "text": "GS-Codec: A Gaussian-Splatting Bottleneck for Neural Audio Coding",
+      "url": "https://arxiv.org/abs/2610.04651"
     },
     {
-      "text": "The Surrogate Is Not the Reward: Post-Surrogate Primary-Outcome Acquisition in Contextual Bandits",
-      "url": "https://arxiv.org/abs/2610.06610"
+      "text": "Variance-Averse $n$-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments",
+      "url": "https://arxiv.org/abs/2610.07899"
     },
     {
-      "text": "Streaming Multi-Track Timeline Control for 3D Human Motion Generation",
-      "url": "https://arxiv.org/abs/2610.03873"
+      "text": "LifeLong Digital Twin: A Unified Modeling Paradigm and Agent Harness for Event-Driven Lifelong Health State Trajectories",
+      "url": "https://arxiv.org/abs/2610.05566"
     },
     {
-      "text": "On the Cardinality of Optimal Representations in the Binary-Source Information Bottleneck",
-      "url": "https://arxiv.org/abs/2610.06627"
+      "text": "Is this machine playing?",
+      "url": "https://arxiv.org/abs/2610.07130"
     },
     {
-      "text": "Representation-Space MMD for Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2610.06648"
+      "text": "VoCa: Designing Speech-Canvas Interaction for Voice-Based Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.04706"
     },
     {
-      "text": "Revisiting Label-Free Speaker Embedding Enhancement with vMF Profile Likelihood",
-      "url": "https://arxiv.org/abs/2610.06691"
+      "text": "Organising Trajectory Evidence for Language-Model Agent Assurance: Fragments, Methods, and the Residual",
+      "url": "https://arxiv.org/abs/2610.04710"
     },
     {
-      "text": "A Solvable Model of Adaptive Learning Rate Rescaling: Acceleration, Stability \u0026 Scaling",
-      "url": "https://arxiv.org/abs/2610.06701"
+      "text": "Towards Automatically Pruning Logging Code with Coding Agents: How Far Are We?",
+      "url": "https://arxiv.org/abs/2610.04716"
     },
     {
-      "text": "SoK: Semantic Decision Engines in Network Control Loops",
-      "url": "https://arxiv.org/abs/2610.06425"
+      "text": "Knossos and Ariadne: Benchmarking and Learning Complete Diagram Topology Extraction with Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.04721"
     }
   ],
-  "lastUpdated": "2026-10-07T00:50:03Z"
+  "lastUpdated": "2026-10-07T10:18:51Z"
 }

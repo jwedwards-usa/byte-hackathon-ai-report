@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "An overview of frontier AI company monitoring practices in mid 2026",
+    "url": "https://www.lesswrong.com/posts/E4Jpmo3igPnGnXtL4/an-overview-of-frontier-ai-company-monitoring-practices-in"
+  },
+  "topStories": [
+    {
+      "text": "OPENAI IS ADDING TEXT WATERMARKING IN CHATGPT AND CODEX",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+    },
+    {
+      "text": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+    },
+    {
+      "text": "LLM-OPENAI-DECISIONS 0.1A0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training",
+      "url": "https://arxiv.org/abs/2508.19073"
+    },
+    {
+      "text": "JAILBREAKING OPEN-WEIGHT LLMS VIA RANDOM EMBEDDING PERTURBATIONS",
+      "url": "https://arxiv.org/abs/2610.07125"
+    },
+    {
+      "text": "OPENAI DROPS ANOTHER BATCH OF MATHEMATICAL BREAKTHROUGHS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+    },
+    {
+      "text": "A fascinating case of an LLM prompt-injecting its own user",
+      "url": "https://www.lesswrong.com/posts/CMWivoHeRNNErEykc/a-fascinating-case-of-an-llm-prompt-injecting-its-own-user"
+    },
+    {
+      "text": "Coding with \"Enemy\": Can Human Developers Detect AI Agent Sabotage?",
+      "url": "https://arxiv.org/abs/2606.05647"
+    },
+    {
+      "text": "TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps",
+      "url": "https://arxiv.org/abs/2609.14762"
+    },
+    {
+      "text": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
+      "url": "https://arxiv.org/abs/2609.34457"
+    },
+    {
+      "text": "Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems",
+      "url": "https://arxiv.org/abs/2606.04816"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The Acknowledgment Point Is the System: Durable Policy-Decision Receipts for AI Audit Evidence",
+      "url": "https://arxiv.org/abs/2608.17176"
+    },
+    {
+      "text": "Science Done on a Machine by a Machine: AI Agents in Computational Chemistry",
+      "url": "https://arxiv.org/abs/2608.18508"
+    },
+    {
+      "text": "Quantization Effects on Tool-Failure Recovery Vary Across Prompts and Evaluation Designs",
+      "url": "https://arxiv.org/abs/2610.07781"
+    },
+    {
+      "text": "Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell",
+      "url": "https://arxiv.org/abs/2610.07782"
+    },
+    {
+      "text": "Bi-objective chance-constrained evolutionary optimization for large-scale open-pit mine scheduling under geological uncertainty",
+      "url": "https://arxiv.org/abs/2511.08275"
+    },
+    {
+      "text": "AI Assistance Reduces Persistence and Hurts Independent Performance",
+      "url": "https://arxiv.org/abs/2604.04721"
+    },
+    {
+      "text": "Do I Need the Cloud? Uncertainty-Aware Step-Level Handoff for Small Language Model Agents",
+      "url": "https://arxiv.org/abs/2610.07816"
+    },
+    {
+      "text": "SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents",
+      "url": "https://arxiv.org/abs/2606.05761"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "GS-Codec: A Gaussian-Splatting Bottleneck for Neural Audio Coding",
+      "url": "https://arxiv.org/abs/2610.04651"
+    },
+    {
+      "text": "Variance-Averse $n$-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments",
+      "url": "https://arxiv.org/abs/2610.07899"
+    },
+    {
+      "text": "LifeLong Digital Twin: A Unified Modeling Paradigm and Agent Harness for Event-Driven Lifelong Health State Trajectories",
+      "url": "https://arxiv.org/abs/2610.05566"
+    },
+    {
+      "text": "Is this machine playing?",
+      "url": "https://arxiv.org/abs/2610.07130"
+    },
+    {
+      "text": "VoCa: Designing Speech-Canvas Interaction for Voice-Based Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.04706"
+    },
+    {
+      "text": "Organising Trajectory Evidence for Language-Model Agent Assurance: Fragments, Methods, and the Residual",
+      "url": "https://arxiv.org/abs/2610.04710"
+    },
+    {
+      "text": "Towards Automatically Pruning Logging Code with Coding Agents: How Far Are We?",
+      "url": "https://arxiv.org/abs/2610.04716"
+    },
+    {
+      "text": "Knossos and Ariadne: Benchmarking and Learning Complete Diagram Topology Extraction with Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.04721"
+    }
+  ],
+  "lastUpdated": "2026-10-07T10:18:51Z"
+}
