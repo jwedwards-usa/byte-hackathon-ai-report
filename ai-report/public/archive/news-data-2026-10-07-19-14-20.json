@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+    "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/"
+  },
+  "topStories": [
+    {
+      "text": "Visual explainer of empirical Neural Tangent Kernels",
+      "url": "https://www.lesswrong.com/posts/Dp6QAadFPmwmQFtCE/visual-explainer-of-empirical-neural-tangent-kernels"
+    },
+    {
+      "text": "An overview of frontier AI company monitoring practices in mid 2026",
+      "url": "https://www.lesswrong.com/posts/E4Jpmo3igPnGnXtL4/an-overview-of-frontier-ai-company-monitoring-practices-in"
+    },
+    {
+      "text": "Training with conflicting values can induce CoT override",
+      "url": "https://www.lesswrong.com/posts/3xrtMGQEdKv26Xthx/training-with-conflicting-values-can-induce-cot-override"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OPENAI SAYS TEENS USE CHATGPT FOR UNDER 15 MINUTES A DAY",
+      "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/"
+    },
+    {
+      "text": "CHATGPT IS GETTING COLLEGE PLANNING TOOLS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards"
+    },
+    {
+      "text": "RADISSON HOTEL GROUP BRINGS HOTEL DISCOVERY INTO CHATGPT",
+      "url": "https://openai.com/index/radisson"
+    },
+    {
+      "text": "LLM-OPENAI-DECISIONS 0.1A0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+    },
+    {
+      "text": "Evidence suggests RSI may decelerate",
+      "url": "https://www.lesswrong.com/posts/eReLsyTBhxDrG2rN3/evidence-suggests-rsi-may-decelerate"
+    },
+    {
+      "text": "JAILBREAKING OPEN-WEIGHT LLMS VIA RANDOM EMBEDDING PERTURBATIONS",
+      "url": "https://arxiv.org/abs/2610.07125"
+    },
+    {
+      "text": "AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training",
+      "url": "https://arxiv.org/abs/2508.19073"
+    },
+    {
+      "text": "OPENAI DROPS ANOTHER BATCH OF MATHEMATICAL BREAKTHROUGHS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "LatentWave: JEPA Pretraining for Wireless Foundation Models",
+      "url": "https://arxiv.org/abs/2606.06373"
+    },
+    {
+      "text": "Same-Number Citation Swaps: Stress-Testing Jev as a Financial Evidence Judge",
+      "url": "https://arxiv.org/abs/2610.08675"
+    },
+    {
+      "text": "GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks",
+      "url": "https://arxiv.org/abs/2610.06517"
+    },
+    {
+      "text": "Anatomy of LLM Sycophancy: What a Flip Rate Hides",
+      "url": "https://arxiv.org/abs/2610.06522"
+    },
+    {
+      "text": "Beyond Private Training: The New Landscape of AI Privacy",
+      "url": "https://arxiv.org/abs/2609.19456"
+    },
+    {
+      "text": "Using Process Mining to Generate AI Agents from Software Engineering Process Records",
+      "url": "https://arxiv.org/abs/2607.04948"
+    },
+    {
+      "text": "AI Agent Pull Requests on GitHub: Frequency, Structure, and Merge Conflict Rates",
+      "url": "https://arxiv.org/abs/2607.04697"
+    },
+    {
+      "text": "Low-Resource Safety Failures Are Action Failures, Not Representation Failures",
+      "url": "https://arxiv.org/abs/2606.01196"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Hierarchy-GBP: Accelerating Factor Graph Inference via Abstraction and Recovery",
+      "url": "https://arxiv.org/abs/2610.06978"
+    },
+    {
+      "text": "EasyClassifier: Honest, Reproducible Machine-Learning Classification for Researchers Who Do Not Program",
+      "url": "https://arxiv.org/abs/2610.04758"
+    },
+    {
+      "text": "Robot Learning with Visual Predicted Force",
+      "url": "https://arxiv.org/abs/2610.04741"
+    },
+    {
+      "text": "Calibrated Answers About Randomized Trials From a 4-Billion-Parameter Open Model: A Registered Test and a License-Clean Release",
+      "url": "https://arxiv.org/abs/2610.07019"
+    },
+    {
+      "text": "Knossos and Ariadne: Benchmarking and Learning Complete Diagram Topology Extraction with Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.04721"
+    },
+    {
+      "text": "Towards Automatically Pruning Logging Code with Coding Agents: How Far Are We?",
+      "url": "https://arxiv.org/abs/2610.04716"
+    },
+    {
+      "text": "Organising Trajectory Evidence for Language-Model Agent Assurance: Fragments, Methods, and the Residual",
+      "url": "https://arxiv.org/abs/2610.04710"
+    },
+    {
+      "text": "Data Fusion for Errors-in-Variables",
+      "url": "https://arxiv.org/abs/2610.07048"
+    }
+  ],
+  "lastUpdated": "2026-10-07T19:14:19Z"
+}
