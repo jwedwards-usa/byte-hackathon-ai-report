@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #189: New Math",
+    "url": "https://www.lesswrong.com/posts/DZPodskqJJNEkMLvH/ai-189-new-math"
+  },
+  "topStories": [
+    {
+      "text": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle"
+    },
+    {
+      "text": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+    },
+    {
+      "text": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior",
+      "url": "https://arxiv.org/abs/2602.02639"
+    },
+    {
+      "text": "FROM EXPECTED HARMFULNESS TO LIKELIHOOD: A PROBABILISTIC REFORMULATION OF JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.09973"
+    },
+    {
+      "text": "RADISSON HOTEL GROUP BRINGS HOTEL DISCOVERY INTO CHATGPT",
+      "url": "https://openai.com/index/radisson"
+    },
+    {
+      "text": "LLM-OPENAI-DECISIONS 0.1A0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+    },
+    {
+      "text": "USA TODAY BECOMES THE LATEST PUBLISHER TO SUE OPENAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+    },
+    {
+      "text": "POLLO AI TURNS CREATIVE IDEAS INTO CAMPAIGNS WITH OPENAI",
+      "url": "https://openai.com/index/pollo-ai"
+    },
+    {
+      "text": "Deep Learning for Longitudinal Medical Imaging: A Scoping Review",
+      "url": "https://arxiv.org/abs/2610.08838"
+    },
+    {
+      "text": "Arctic Questions, Missing Answers: A Dataset and Benchmark for LLM Abstention in Arctic Science",
+      "url": "https://arxiv.org/abs/2610.09446"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The Deceptive Bandit Problem: Exploratory Coupling and the Fragility of Multi-Agent Learning",
+      "url": "https://arxiv.org/abs/2610.09120"
+    },
+    {
+      "text": "Talking with Language Models",
+      "url": "https://arxiv.org/abs/2610.09064"
+    },
+    {
+      "text": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "url": "https://arxiv.org/abs/2610.09087"
+    },
+    {
+      "text": "From Probabilities to Decisions: Search and Multi-Teacher Distillation with Jev",
+      "url": "https://arxiv.org/abs/2610.09188"
+    },
+    {
+      "text": "Training Language Models To Be Coherent Decision-Makers",
+      "url": "https://arxiv.org/abs/2610.09164"
+    },
+    {
+      "text": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2610.09059"
+    },
+    {
+      "text": "SwarmReconGuard: Black-Box Detection of Distributed Collective Reconnaissance by Individually Benign-Looking Agent Populations",
+      "url": "https://arxiv.org/abs/2610.09138"
+    },
+    {
+      "text": "CoDR: Training-Free Confidence-Drift Remasking for Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.08833"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "An Accuracy--Information Tradeoff for Loss-Difference Conditional Mutual Information",
+      "url": "https://arxiv.org/abs/2610.09206"
+    },
+    {
+      "text": "MUNITE: Unified Multimodal Latent Inference for Any-to-Any Multimodal Generation",
+      "url": "https://arxiv.org/abs/2610.09866"
+    },
+    {
+      "text": "GAGR-Lab: Evaluating Joint Spatial-Geometric and Analytic Function Reasoning",
+      "url": "https://arxiv.org/abs/2610.10201"
+    },
+    {
+      "text": "Identifiability of a dissipative knowledge-dynamics model: exact recovery under designed excitation, degeneration on observational data",
+      "url": "https://arxiv.org/abs/2610.09889"
+    },
+    {
+      "text": "UniSkill: Learning Actor-Aligned Skill Proposals for an Evolving Policy",
+      "url": "https://arxiv.org/abs/2610.10164"
+    },
+    {
+      "text": "NeuralZip: Reusable Setup for Fast Lossless Compression",
+      "url": "https://arxiv.org/abs/2610.09916"
+    },
+    {
+      "text": "RewardWeaver: Long-Horizon Interactive Learning for Language Agents via Self-Evolving Reward Adaptation",
+      "url": "https://arxiv.org/abs/2610.10120"
+    },
+    {
+      "text": "SkillSandbox: Skill Verification via Dynamic Scenario Synthesis",
+      "url": "https://arxiv.org/abs/2610.10088"
+    }
+  ],
+  "lastUpdated": "2026-10-08T19:00:04Z"
+}
