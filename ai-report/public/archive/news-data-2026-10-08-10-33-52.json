@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Claude Haiku 5.5",
+    "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+  },
+  "topStories": [
+    {
+      "text": "AI Vigil at Congress",
+      "url": "https://www.lesswrong.com/posts/EqfdfetDKxpFszpdD/ai-vigil-at-congress"
+    },
+    {
+      "text": "FROM EXPECTED HARMFULNESS TO LIKELIHOOD: A PROBABILISTIC REFORMULATION OF JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.09973"
+    },
+    {
+      "text": "A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior",
+      "url": "https://arxiv.org/abs/2602.02639"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "RADISSON HOTEL GROUP BRINGS HOTEL DISCOVERY INTO CHATGPT",
+      "url": "https://openai.com/index/radisson"
+    },
+    {
+      "text": "LLM-OPENAI-DECISIONS 0.1A0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+    },
+    {
+      "text": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+    },
+    {
+      "text": "NLAs miss some internalized behaviors",
+      "url": "https://www.lesswrong.com/posts/BcCcSfTHqz74kdTMF/nlas-miss-some-internalized-behaviors"
+    },
+    {
+      "text": "Algorithmic Scratchpads and Curriculum Staging for Arithmetic Reasoning in Tiny Transformers",
+      "url": "https://arxiv.org/abs/2610.09003"
+    },
+    {
+      "text": "Arctic Questions, Missing Answers: A Dataset and Benchmark for LLM Abstention in Arctic Science",
+      "url": "https://arxiv.org/abs/2610.09446"
+    },
+    {
+      "text": "Deep Learning for Longitudinal Medical Imaging: A Scoping Review",
+      "url": "https://arxiv.org/abs/2610.08838"
+    },
+    {
+      "text": "ARE OPENAI'S MATH RESULTS \"CREATIVE\" IN AN IMPORTANT WAY? ",
+      "url": "https://www.lesswrong.com/posts/neHiCSdL4tJDg7Hrm/are-openai-s-math-results-creative-in-an-important-way"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training",
+      "url": "https://arxiv.org/abs/2605.14605"
+    },
+    {
+      "text": "Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2609.13205"
+    },
+    {
+      "text": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
+      "url": "https://arxiv.org/abs/2609.10296"
+    },
+    {
+      "text": "Constrained latent state modeling: A unifying perspective on representation learning under competing constraints",
+      "url": "https://arxiv.org/abs/2605.15995"
+    },
+    {
+      "text": "The Parser Already Knows: Lightweight Bias Correction in Constrained Decoding",
+      "url": "https://arxiv.org/abs/2608.10137"
+    },
+    {
+      "text": "Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files",
+      "url": "https://arxiv.org/abs/2610.09264"
+    },
+    {
+      "text": "FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement",
+      "url": "https://arxiv.org/abs/2607.01111"
+    },
+    {
+      "text": "A Unified Information-Theoretic Approach to Constrained Multi-Fidelity Multi-Objective Bayesian Optimization",
+      "url": "https://arxiv.org/abs/2610.10174"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "RSI-Forge: From Research Papers to Environments for Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2610.09426"
+    },
+    {
+      "text": "NAViLoss: An Underwater Navigation-Aware Dual-Residual Objective for Physics-Consistent Learning",
+      "url": "https://arxiv.org/abs/2610.09690"
+    },
+    {
+      "text": "Benign Overfitting under Heterogeneous Input Fusion",
+      "url": "https://arxiv.org/abs/2610.09340"
+    },
+    {
+      "text": "The Attribution Blind Spot: Layerwise Trajectory Diagnostics for Source Reliance in Retrieval-Augmented Language Models",
+      "url": "https://arxiv.org/abs/2610.09493"
+    },
+    {
+      "text": "Cognitive Schemas, Laws and Tasks",
+      "url": "https://arxiv.org/abs/2610.09495"
+    },
+    {
+      "text": "Ream: Unfolding Mutual Awareness in Human-Agent Workspaces",
+      "url": "https://arxiv.org/abs/2610.09497"
+    },
+    {
+      "text": "Denoising Blocks, Not Tokens: Efficient Compressed Continuous Diffusion with Branching Token Realization",
+      "url": "https://arxiv.org/abs/2610.09311"
+    },
+    {
+      "text": "MovieSTAGE: Scene, Transition, and Global Encoding for Movie-fMRI ADHD Classification",
+      "url": "https://arxiv.org/abs/2610.09306"
+    }
+  ],
+  "lastUpdated": "2026-10-08T10:33:52Z"
+}

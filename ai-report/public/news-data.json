@@ -5,16 +5,16 @@
   },
   "topStories": [
     {
-      "text": "ARE OPENAI'S MATH RESULTS \"CREATIVE\" IN AN IMPORTANT WAY? ",
-      "url": "https://www.lesswrong.com/posts/neHiCSdL4tJDg7Hrm/are-openai-s-math-results-creative-in-an-important-way"
+      "text": "AI Vigil at Congress",
+      "url": "https://www.lesswrong.com/posts/EqfdfetDKxpFszpdD/ai-vigil-at-congress"
     },
     {
-      "text": "The Curve Bends You",
-      "url": "https://www.lesswrong.com/posts/qFa5qpw9bJiQMpJks/the-curve-bends-you"
+      "text": "FROM EXPECTED HARMFULNESS TO LIKELIHOOD: A PROBABILISTIC REFORMULATION OF JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.09973"
     },
     {
-      "text": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+      "text": "A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior",
+      "url": "https://arxiv.org/abs/2602.02639"
     }
   ],
   "leftColumn": [
@@ -23,101 +23,101 @@
       "url": "https://openai.com/index/radisson"
     },
     {
-      "text": "JAILBREAKING OPEN-WEIGHT LLMS VIA RANDOM EMBEDDING PERTURBATIONS",
-      "url": "https://arxiv.org/abs/2610.07125"
-    },
-    {
-      "text": "AEGIS: Runtime-Guided GPU Collocation for Multi-Tenant Deep Learning Training",
-      "url": "https://arxiv.org/abs/2508.19073"
-    },
-    {
       "text": "LLM-OPENAI-DECISIONS 0.1A0",
       "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
     },
     {
-      "text": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-      "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/"
+      "text": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
     },
     {
-      "text": "CHATGPT IS GETTING COLLEGE PLANNING TOOLS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards"
+      "text": "NLAs miss some internalized behaviors",
+      "url": "https://www.lesswrong.com/posts/BcCcSfTHqz74kdTMF/nlas-miss-some-internalized-behaviors"
     },
     {
-      "text": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+      "text": "Algorithmic Scratchpads and Curriculum Staging for Arithmetic Reasoning in Tiny Transformers",
+      "url": "https://arxiv.org/abs/2610.09003"
     },
     {
-      "text": "TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps",
-      "url": "https://arxiv.org/abs/2609.14762"
+      "text": "Arctic Questions, Missing Answers: A Dataset and Benchmark for LLM Abstention in Arctic Science",
+      "url": "https://arxiv.org/abs/2610.09446"
+    },
+    {
+      "text": "Deep Learning for Longitudinal Medical Imaging: A Scoping Review",
+      "url": "https://arxiv.org/abs/2610.08838"
+    },
+    {
+      "text": "ARE OPENAI'S MATH RESULTS \"CREATIVE\" IN AN IMPORTANT WAY? ",
+      "url": "https://www.lesswrong.com/posts/neHiCSdL4tJDg7Hrm/are-openai-s-math-results-creative-in-an-important-way"
     }
   ],
   "centerColumn": [
     {
-      "text": "Bidirectional Preference Synthesis: Learning Prompt-Conditioned Preferences from Boundary Failures",
-      "url": "https://arxiv.org/abs/2610.04328"
+      "text": "A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training",
+      "url": "https://arxiv.org/abs/2605.14605"
     },
     {
-      "text": "Towards Optimal Valve Prescription for Transcatheter Aortic Valve Replacement (TAVR) Surgery: A Machine Learning Approach",
-      "url": "https://arxiv.org/abs/2512.09198"
+      "text": "Self-Indexing Attention for Compression-Compatible Sparse Long-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2609.13205"
     },
     {
-      "text": "From Latent Space to Jacobian Space: Measuring, Evading, and Training Against Safety-Content Accessibility",
-      "url": "https://arxiv.org/abs/2610.04316"
+      "text": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
+      "url": "https://arxiv.org/abs/2609.10296"
     },
     {
-      "text": "When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction",
-      "url": "https://arxiv.org/abs/2605.12922"
+      "text": "Constrained latent state modeling: A unifying perspective on representation learning under competing constraints",
+      "url": "https://arxiv.org/abs/2605.15995"
     },
     {
-      "text": "The Universal Weight Subspace Hypothesis",
-      "url": "https://arxiv.org/abs/2512.05117"
+      "text": "The Parser Already Knows: Lightweight Bias Correction in Constrained Decoding",
+      "url": "https://arxiv.org/abs/2608.10137"
     },
     {
-      "text": "EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI",
-      "url": "https://arxiv.org/abs/2610.04301"
+      "text": "Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files",
+      "url": "https://arxiv.org/abs/2610.09264"
     },
     {
-      "text": "Language-Conditioned Token and Reasoning Efficiency in Large Language Models: A Paired Cross-Lingual Study Protocol",
-      "url": "https://arxiv.org/abs/2610.04295"
+      "text": "FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement",
+      "url": "https://arxiv.org/abs/2607.01111"
     },
     {
-      "text": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
-      "url": "https://arxiv.org/abs/2604.19753"
+      "text": "A Unified Information-Theoretic Approach to Constrained Multi-Fidelity Multi-Objective Bayesian Optimization",
+      "url": "https://arxiv.org/abs/2610.10174"
     }
   ],
   "rightColumn": [
     {
-      "text": "CodeForge-MA: Execution-Verified Multi-Agent Learning with Language-Conditioned LoRA for Multilingual Code Generation",
-      "url": "https://arxiv.org/abs/2610.05481"
+      "text": "RSI-Forge: From Research Papers to Environments for Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2610.09426"
     },
     {
-      "text": "From Probe Scores to Alarm Policies: Operational Validity of Activation Monitors for Language-Model Agents",
-      "url": "https://arxiv.org/abs/2610.04575"
+      "text": "NAViLoss: An Underwater Navigation-Aware Dual-Residual Objective for Physics-Consistent Learning",
+      "url": "https://arxiv.org/abs/2610.09690"
     },
     {
-      "text": "Hierarchical Reinforcement Learning with Stable Temporal Abstraction for Language Model Agents",
-      "url": "https://arxiv.org/abs/2610.05473"
+      "text": "Benign Overfitting under Heterogeneous Input Fusion",
+      "url": "https://arxiv.org/abs/2610.09340"
     },
     {
-      "text": "ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution",
-      "url": "https://arxiv.org/abs/2610.04605"
+      "text": "The Attribution Blind Spot: Layerwise Trajectory Diagnostics for Source Reliance in Retrieval-Augmented Language Models",
+      "url": "https://arxiv.org/abs/2610.09493"
     },
     {
-      "text": "A Decision-Focused Neural Optimization Framework for Personalized Route Reproduction from Vehicle Trajectories",
-      "url": "https://arxiv.org/abs/2610.07857"
+      "text": "Cognitive Schemas, Laws and Tasks",
+      "url": "https://arxiv.org/abs/2610.09495"
     },
     {
-      "text": "GS-Codec: A Gaussian-Splatting Bottleneck for Neural Audio Coding",
-      "url": "https://arxiv.org/abs/2610.04651"
+      "text": "Ream: Unfolding Mutual Awareness in Human-Agent Workspaces",
+      "url": "https://arxiv.org/abs/2610.09497"
     },
     {
-      "text": "Hallucination Across the Reasoning Lifecycle: Interface Visibility, Causal Evidence, and Release Control in Large Reasoning Models",
-      "url": "https://arxiv.org/abs/2610.05472"
+      "text": "Denoising Blocks, Not Tokens: Efficient Compressed Continuous Diffusion with Branching Token Realization",
+      "url": "https://arxiv.org/abs/2610.09311"
     },
     {
-      "text": "TeleTune: Evolving Agent Skills From Offline Telemetry",
-      "url": "https://arxiv.org/abs/2610.05437"
+      "text": "MovieSTAGE: Scene, Transition, and Global Encoding for Movie-fMRI ADHD Classification",
+      "url": "https://arxiv.org/abs/2610.09306"
     }
   ],
-  "lastUpdated": "2026-10-08T01:10:41Z"
+  "lastUpdated": "2026-10-08T10:33:52Z"
 }
