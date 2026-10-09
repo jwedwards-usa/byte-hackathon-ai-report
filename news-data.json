@@ -1,9 +1,39 @@
 {
   "mainHeadline": {
-    "text": "Countervailing Technologies",
-    "url": "https://www.lesswrong.com/posts/TuBYwefHQLDXttwdP/countervailing-technologies"
+    "text": "NEW MATH FROM OPENAI",
+    "url": "https://www.lesswrong.com/posts/eyqxBuxXCaamNSxBB/new-math-from-openai"
   },
   "topStories": [
+    {
+      "text": "What can language models teach us about understanding?",
+      "url": "https://www.lesswrong.com/posts/vpdAKFnGqx8emZ2rm/what-can-language-models-teach-us-about-understanding"
+    },
+    {
+      "text": "Clarifying types of rogue AI activity: Breakout, breakin, exfiltration, … What’s what?",
+      "url": "https://www.lesswrong.com/posts/GqrJjNkiWbogxCLL5/clarifying-types-of-rogue-ai-activity-breakout-breakin"
+    },
+    {
+      "text": "Europe’s leading AI model still can’t reliably follow European law",
+      "url": "https://www.lesswrong.com/posts/XK7qJ3vGjuFuHfxaF/europe-s-leading-ai-model-still-can-t-reliably-follow"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463"
+    },
+    {
+      "text": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+    },
+    {
+      "text": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
+      "url": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/"
+    },
+    {
+      "text": "A new feature for my blog, built using my voice",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
+    },
     {
       "text": "OpenAI doubles down on decision to fire three AI safety researchers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
@@ -13,111 +43,81 @@
       "url": "https://openai.com/index/sophos"
     },
     {
-      "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-      "url": "https://arxiv.org/abs/2610.12463"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Claude Haiku 5.5",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
-    },
-    {
-      "text": "Technical people: actually consider comms",
-      "url": "https://www.lesswrong.com/posts/LkheZqaMDhS8Mz4mP/technical-people-actually-consider-comms"
-    },
-    {
-      "text": "AGI as an Infinite Digital Spain",
-      "url": "https://www.lesswrong.com/posts/e6w8DuiW44kkDCSgG/agi-as-an-infinite-digital-spain"
-    },
-    {
-      "text": "Stop telling people to pivot to AI safety, I beg you",
-      "url": "https://www.lesswrong.com/posts/xLgJJC3CD3y3AhtKn/stop-telling-people-to-pivot-to-ai-safety-i-beg-you"
-    },
-    {
-      "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
-      "url": "https://arxiv.org/abs/2603.08993"
-    },
-    {
       "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
       "url": "https://arxiv.org/abs/2610.11542"
     },
     {
-      "text": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle"
-    },
-    {
-      "text": "POLLO AI TURNS CREATIVE IDEAS INTO CAMPAIGNS WITH OPENAI",
-      "url": "https://openai.com/index/pollo-ai"
+      "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
+      "url": "https://arxiv.org/abs/2603.08993"
     }
   ],
   "centerColumn": [
     {
-      "text": "When AI Finds Hidden Messages, Does It Report?",
-      "url": "https://arxiv.org/abs/2610.10620"
+      "text": "Soft Tournament Equilibrium: Differentiable Set-Valued Inference for Non-Transitive Pairwise Comparisons",
+      "url": "https://arxiv.org/abs/2604.04328"
     },
     {
-      "text": "DEX: Digit-Level Early Exit for Energy-Efficient MSDF Neural Network Inference",
-      "url": "https://arxiv.org/abs/2610.11748"
+      "text": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
+      "url": "https://arxiv.org/abs/2610.08966"
     },
     {
-      "text": "ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration",
-      "url": "https://arxiv.org/abs/2610.12337"
+      "text": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+      "url": "https://arxiv.org/abs/2610.10845"
     },
     {
-      "text": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
-      "url": "https://arxiv.org/abs/2610.12299"
+      "text": "TRACE: A Governance Framework for Measuring Explainability Debt in Production AI Systems",
+      "url": "https://arxiv.org/abs/2610.10957"
     },
     {
-      "text": "Open-Vocabulary Audio-Visual Event Localization via Complex-Valued Fusion",
-      "url": "https://arxiv.org/abs/2610.11846"
+      "text": "Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time",
+      "url": "https://arxiv.org/abs/2601.15172"
     },
     {
-      "text": "HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments",
-      "url": "https://arxiv.org/abs/2610.12274"
+      "text": "Prospective Prediction of OOD Degradation from Source-Side Training Dynamics",
+      "url": "https://arxiv.org/abs/2610.12397"
     },
     {
-      "text": "Could LLM Watermark Detection be Public?",
-      "url": "https://arxiv.org/abs/2610.12106"
+      "text": "Brain foundation model-guided source-selective domain adaptation for cross-subject EEG decoding",
+      "url": "https://arxiv.org/abs/2507.21037"
     },
     {
-      "text": "Language Models as AI Research World Models",
-      "url": "https://arxiv.org/abs/2610.12235"
+      "text": "SPD-MetaFormer is what you need for small-data brain decoding",
+      "url": "https://arxiv.org/abs/2610.10952"
     }
   ],
   "rightColumn": [
     {
-      "text": "Meddies-PII: A Multilingual Framework for Personally Identifiable Information Extraction in Clinical De-identification",
-      "url": "https://arxiv.org/abs/2609.12544"
-    },
-    {
-      "text": "Residual spectral instabilities in representation learning",
-      "url": "https://arxiv.org/abs/2610.11257"
-    },
-    {
-      "text": "System-Prompt Conditioning and Hidden-State Geometry in Four Open-Weight Models: Corrections and What Survives",
-      "url": "https://arxiv.org/abs/2607.09842"
-    },
-    {
-      "text": "From Geometry to Generalization: Why Row Normalization Can Beat Adam and Muon",
-      "url": "https://arxiv.org/abs/2610.11309"
-    },
-    {
-      "text": "A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring",
-      "url": "https://arxiv.org/abs/2605.14360"
-    },
-    {
-      "text": "BridgeGuard: Explicit Safety Drift for Diffusion-based Autonomous Driving",
-      "url": "https://arxiv.org/abs/2610.11483"
-    },
-    {
-      "text": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
-      "url": "https://arxiv.org/abs/2608.19776"
-    },
-    {
       "text": "Robust and Efficient Noisy-Label Time-Series Classification via Dynamic Time Warping Based Granular Ball Computing",
       "url": "https://arxiv.org/abs/2608.11704"
+    },
+    {
+      "text": "NanoProof: Open and Efficient Automated Theorem Proving in Lean 4",
+      "url": "https://arxiv.org/abs/2610.11605"
+    },
+    {
+      "text": "Constructing Structured Decision Sources for Consensus-Based Pseudo-Label Learning",
+      "url": "https://arxiv.org/abs/2610.11621"
+    },
+    {
+      "text": "Right Family, Wrong Skill: Evaluating Risk Exposure in Agent Skill Retrieval",
+      "url": "https://arxiv.org/abs/2606.10388"
+    },
+    {
+      "text": "LoRi: Low-Rank Distillation for Implicit Reasoning",
+      "url": "https://arxiv.org/abs/2606.05315"
+    },
+    {
+      "text": "Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation",
+      "url": "https://arxiv.org/abs/2606.01833"
+    },
+    {
+      "text": "Camera-Noise Residuals for Face-Swap Detection: Redundant, Not Complementary, and Why",
+      "url": "https://arxiv.org/abs/2610.11683"
+    },
+    {
+      "text": "Can Jev be Your Q or Policy in Reinforcement Learning?",
+      "url": "https://arxiv.org/abs/2610.11692"
     }
   ],
-  "lastUpdated": "2026-10-09T10:36:27Z"
+  "lastUpdated": "2026-10-09T18:25:12Z"
 }

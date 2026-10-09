@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "NEW MATH FROM OPENAI",
+    "url": "https://www.lesswrong.com/posts/eyqxBuxXCaamNSxBB/new-math-from-openai"
+  },
+  "topStories": [
+    {
+      "text": "What can language models teach us about understanding?",
+      "url": "https://www.lesswrong.com/posts/vpdAKFnGqx8emZ2rm/what-can-language-models-teach-us-about-understanding"
+    },
+    {
+      "text": "Clarifying types of rogue AI activity: Breakout, breakin, exfiltration, … What’s what?",
+      "url": "https://www.lesswrong.com/posts/GqrJjNkiWbogxCLL5/clarifying-types-of-rogue-ai-activity-breakout-breakin"
+    },
+    {
+      "text": "Europe’s leading AI model still can’t reliably follow European law",
+      "url": "https://www.lesswrong.com/posts/XK7qJ3vGjuFuHfxaF/europe-s-leading-ai-model-still-can-t-reliably-follow"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463"
+    },
+    {
+      "text": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+    },
+    {
+      "text": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
+      "url": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/"
+    },
+    {
+      "text": "A new feature for my blog, built using my voice",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
+    },
+    {
+      "text": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    },
+    {
+      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos"
+    },
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    },
+    {
+      "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
+      "url": "https://arxiv.org/abs/2603.08993"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Soft Tournament Equilibrium: Differentiable Set-Valued Inference for Non-Transitive Pairwise Comparisons",
+      "url": "https://arxiv.org/abs/2604.04328"
+    },
+    {
+      "text": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
+      "url": "https://arxiv.org/abs/2610.08966"
+    },
+    {
+      "text": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+      "url": "https://arxiv.org/abs/2610.10845"
+    },
+    {
+      "text": "TRACE: A Governance Framework for Measuring Explainability Debt in Production AI Systems",
+      "url": "https://arxiv.org/abs/2610.10957"
+    },
+    {
+      "text": "Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time",
+      "url": "https://arxiv.org/abs/2601.15172"
+    },
+    {
+      "text": "Prospective Prediction of OOD Degradation from Source-Side Training Dynamics",
+      "url": "https://arxiv.org/abs/2610.12397"
+    },
+    {
+      "text": "Brain foundation model-guided source-selective domain adaptation for cross-subject EEG decoding",
+      "url": "https://arxiv.org/abs/2507.21037"
+    },
+    {
+      "text": "SPD-MetaFormer is what you need for small-data brain decoding",
+      "url": "https://arxiv.org/abs/2610.10952"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Robust and Efficient Noisy-Label Time-Series Classification via Dynamic Time Warping Based Granular Ball Computing",
+      "url": "https://arxiv.org/abs/2608.11704"
+    },
+    {
+      "text": "NanoProof: Open and Efficient Automated Theorem Proving in Lean 4",
+      "url": "https://arxiv.org/abs/2610.11605"
+    },
+    {
+      "text": "Constructing Structured Decision Sources for Consensus-Based Pseudo-Label Learning",
+      "url": "https://arxiv.org/abs/2610.11621"
+    },
+    {
+      "text": "Right Family, Wrong Skill: Evaluating Risk Exposure in Agent Skill Retrieval",
+      "url": "https://arxiv.org/abs/2606.10388"
+    },
+    {
+      "text": "LoRi: Low-Rank Distillation for Implicit Reasoning",
+      "url": "https://arxiv.org/abs/2606.05315"
+    },
+    {
+      "text": "Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation",
+      "url": "https://arxiv.org/abs/2606.01833"
+    },
+    {
+      "text": "Camera-Noise Residuals for Face-Swap Detection: Redundant, Not Complementary, and Why",
+      "url": "https://arxiv.org/abs/2610.11683"
+    },
+    {
+      "text": "Can Jev be Your Q or Policy in Reinforcement Learning?",
+      "url": "https://arxiv.org/abs/2610.11692"
+    }
+  ],
+  "lastUpdated": "2026-10-09T18:25:12Z"
+}
