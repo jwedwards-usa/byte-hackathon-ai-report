@@ -1,23 +1,13 @@
 {
   "mainHeadline": {
-    "text": "AI #189: New Math",
-    "url": "https://www.lesswrong.com/posts/DZPodskqJJNEkMLvH/ai-189-new-math"
+    "text": "Reviewing failure modes in science as we prepare for AI researchers",
+    "url": "https://www.lesswrong.com/posts/otoPaykRRAkjfzpHN/reviewing-failure-modes-in-science-as-we-prepare-for-ai"
   },
   "topStories": [
     {
-      "text": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle"
+      "text": "Towards embedded evaluations for scheming propensities",
+      "url": "https://www.lesswrong.com/posts/LZGuqoYHphet9sfZs/towards-embedded-evaluations-for-scheming-propensities"
     },
-    {
-      "text": "Claude Haiku 5.5",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
-    },
-    {
-      "text": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
-    }
-  ],
-  "leftColumn": [
     {
       "text": "A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior",
       "url": "https://arxiv.org/abs/2602.02639"
@@ -25,99 +15,109 @@
     {
       "text": "FROM EXPECTED HARMFULNESS TO LIKELIHOOD: A PROBABILISTIC REFORMULATION OF JAILBREAKING LLM AGENTS",
       "url": "https://arxiv.org/abs/2610.09973"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
     },
     {
       "text": "RADISSON HOTEL GROUP BRINGS HOTEL DISCOVERY INTO CHATGPT",
       "url": "https://openai.com/index/radisson"
     },
     {
-      "text": "LLM-OPENAI-DECISIONS 0.1A0",
-      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
-    },
-    {
-      "text": "USA TODAY BECOMES THE LATEST PUBLISHER TO SUE OPENAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+      "text": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle"
     },
     {
       "text": "POLLO AI TURNS CREATIVE IDEAS INTO CAMPAIGNS WITH OPENAI",
       "url": "https://openai.com/index/pollo-ai"
     },
     {
-      "text": "Deep Learning for Longitudinal Medical Imaging: A Scoping Review",
-      "url": "https://arxiv.org/abs/2610.08838"
+      "text": "Algorithmic Scratchpads and Curriculum Staging for Arithmetic Reasoning in Tiny Transformers",
+      "url": "https://arxiv.org/abs/2610.09003"
     },
     {
       "text": "Arctic Questions, Missing Answers: A Dataset and Benchmark for LLM Abstention in Arctic Science",
       "url": "https://arxiv.org/abs/2610.09446"
+    },
+    {
+      "text": "Deep Learning for Longitudinal Medical Imaging: A Scoping Review",
+      "url": "https://arxiv.org/abs/2610.08838"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "centerColumn": [
-    {
-      "text": "The Deceptive Bandit Problem: Exploratory Coupling and the Fragility of Multi-Agent Learning",
-      "url": "https://arxiv.org/abs/2610.09120"
-    },
     {
       "text": "Talking with Language Models",
       "url": "https://arxiv.org/abs/2610.09064"
     },
     {
-      "text": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
-      "url": "https://arxiv.org/abs/2610.09087"
+      "text": "Perturbation Sensitivity of Maximum-Likelihood Pairwise Ranking in Computational Decision Systems",
+      "url": "https://arxiv.org/abs/2604.17805"
     },
     {
-      "text": "From Probabilities to Decisions: Search and Multi-Teacher Distillation with Jev",
-      "url": "https://arxiv.org/abs/2610.09188"
-    },
-    {
-      "text": "Training Language Models To Be Coherent Decision-Makers",
-      "url": "https://arxiv.org/abs/2610.09164"
-    },
-    {
-      "text": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
-      "url": "https://arxiv.org/abs/2610.09059"
+      "text": "PoreML: A Data-Driven Framework for Learning Multiphase Flow in Porous Media",
+      "url": "https://arxiv.org/abs/2610.10314"
     },
     {
       "text": "SwarmReconGuard: Black-Box Detection of Distributed Collective Reconnaissance by Individually Benign-Looking Agent Populations",
       "url": "https://arxiv.org/abs/2610.09138"
     },
     {
-      "text": "CoDR: Training-Free Confidence-Drift Remasking for Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2610.08833"
+      "text": "A Vehicle-Integrated Approach to Digital Twin Deployment for Bridges Through Drive-By Sensing",
+      "url": "https://arxiv.org/abs/2610.08822"
+    },
+    {
+      "text": "Benchmarking System One decision models against trained classifiers and language models for automated decision gates",
+      "url": "https://arxiv.org/abs/2610.00346"
+    },
+    {
+      "text": "Average-Reward Reinforcement Learning for Multichain MDPs: A Hierarchical Decomposition Approach",
+      "url": "https://arxiv.org/abs/2610.10326"
+    },
+    {
+      "text": "Rubric Spans are Label Representations: Joint LLM Encoding for Short Answer Scoring",
+      "url": "https://arxiv.org/abs/2610.09660"
     }
   ],
   "rightColumn": [
     {
-      "text": "An Accuracy--Information Tradeoff for Loss-Difference Conditional Mutual Information",
-      "url": "https://arxiv.org/abs/2610.09206"
+      "text": "Expected Sample Complexity in Multi-Armed Bandits",
+      "url": "https://arxiv.org/abs/2610.09929"
     },
     {
-      "text": "MUNITE: Unified Multimodal Latent Inference for Any-to-Any Multimodal Generation",
-      "url": "https://arxiv.org/abs/2610.09866"
+      "text": "Learning Traffic Flow Dynamics with Stochastic Physics-Informed Neural Cellular Automata",
+      "url": "https://arxiv.org/abs/2610.09946"
     },
     {
-      "text": "GAGR-Lab: Evaluating Joint Spatial-Geometric and Analytic Function Reasoning",
-      "url": "https://arxiv.org/abs/2610.10201"
+      "text": "An Informational Curse of Horizon in Goal-Conditioned Policy Learning",
+      "url": "https://arxiv.org/abs/2610.09247"
     },
     {
-      "text": "Identifiability of a dissipative knowledge-dynamics model: exact recovery under designed excitation, degeneration on observational data",
-      "url": "https://arxiv.org/abs/2610.09889"
+      "text": "Symmetry-Informed Causal Partial Identification",
+      "url": "https://arxiv.org/abs/2610.09230"
     },
     {
-      "text": "UniSkill: Learning Actor-Aligned Skill Proposals for an Evolving Policy",
-      "url": "https://arxiv.org/abs/2610.10164"
+      "text": "Efficient Patch-Based Anomaly Detection Fused with Diffusion Driven Generative Modeling for Semiconductor Wafer Bin Map Open Set Anomaly Detection",
+      "url": "https://arxiv.org/abs/2610.09993"
     },
     {
-      "text": "NeuralZip: Reusable Setup for Fast Lossless Compression",
-      "url": "https://arxiv.org/abs/2610.09916"
+      "text": "Temporal Predictive Multiplicity: Equally Accurate Time Series Models Yield Different Forecast Trajectories",
+      "url": "https://arxiv.org/abs/2610.09994"
     },
     {
-      "text": "RewardWeaver: Long-Horizon Interactive Learning for Language Agents via Self-Evolving Reward Adaptation",
-      "url": "https://arxiv.org/abs/2610.10120"
+      "text": "Beyond Reward Suppression: Near-Optimal Offline Attacks on Warm-Start Bandits with Bounded Rewards",
+      "url": "https://arxiv.org/abs/2610.10000"
     },
     {
-      "text": "SkillSandbox: Skill Verification via Dynamic Scenario Synthesis",
-      "url": "https://arxiv.org/abs/2610.10088"
+      "text": "A Drosophila Whole-Connectome Network Can Learn Human-Designed Cognitive Tasks",
+      "url": "https://arxiv.org/abs/2610.10014"
     }
   ],
-  "lastUpdated": "2026-10-08T19:00:04Z"
+  "lastUpdated": "2026-10-09T01:26:15Z"
 }
