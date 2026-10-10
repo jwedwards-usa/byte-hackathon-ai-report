@@ -1,38 +1,34 @@
 {
   "mainHeadline": {
-    "text": "NEW MATH FROM OPENAI",
-    "url": "https://www.lesswrong.com/posts/eyqxBuxXCaamNSxBB/new-math-from-openai"
+    "text": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
+    "url": "https://www.lesswrong.com/posts/qwk7Xc2qhMChXqntK/paper-distillation-for-incrimination-and-distillation-for"
   },
   "topStories": [
-    {
-      "text": "What can language models teach us about understanding?",
-      "url": "https://www.lesswrong.com/posts/vpdAKFnGqx8emZ2rm/what-can-language-models-teach-us-about-understanding"
-    },
     {
       "text": "Clarifying types of rogue AI activity: Breakout, breakin, exfiltration, … What’s what?",
       "url": "https://www.lesswrong.com/posts/GqrJjNkiWbogxCLL5/clarifying-types-of-rogue-ai-activity-breakout-breakin"
     },
     {
-      "text": "Europe’s leading AI model still can’t reliably follow European law",
-      "url": "https://www.lesswrong.com/posts/XK7qJ3vGjuFuHfxaF/europe-s-leading-ai-model-still-can-t-reliably-follow"
-    }
-  ],
-  "leftColumn": [
-    {
       "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
       "url": "https://arxiv.org/abs/2610.12463"
     },
     {
-      "text": "Claude Haiku 5.5",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+      "text": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Cracks in the Narcissus Mirror",
+      "url": "https://www.lesswrong.com/posts/2DWgtyDfafWAzuD6w/cracks-in-the-narcissus-mirror"
     },
     {
-      "text": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
-      "url": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/"
+      "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
     },
     {
-      "text": "A new feature for my blog, built using my voice",
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
+      "text": "What can language models teach us about understanding?",
+      "url": "https://www.lesswrong.com/posts/vpdAKFnGqx8emZ2rm/what-can-language-models-teach-us-about-understanding"
     },
     {
       "text": "OpenAI doubles down on decision to fire three AI safety researchers",
@@ -49,75 +45,79 @@
     {
       "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
       "url": "https://arxiv.org/abs/2603.08993"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "centerColumn": [
     {
-      "text": "Soft Tournament Equilibrium: Differentiable Set-Valued Inference for Non-Transitive Pairwise Comparisons",
-      "url": "https://arxiv.org/abs/2604.04328"
+      "text": "SWE-Journey: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction",
+      "url": "https://arxiv.org/abs/2610.11559"
     },
     {
-      "text": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
-      "url": "https://arxiv.org/abs/2610.08966"
+      "text": "Missing Modality-Aware Calibration for Trustworthy Brain Tumor Segmentation",
+      "url": "https://arxiv.org/abs/2610.11419"
     },
     {
-      "text": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
-      "url": "https://arxiv.org/abs/2610.10845"
+      "text": "How Much Human Label Variation Does Formal Semantic Structure Explain? Group-Level Effects and Item-Level Ceilings in NLI",
+      "url": "https://arxiv.org/abs/2607.15870"
     },
     {
-      "text": "TRACE: A Governance Framework for Measuring Explainability Debt in Production AI Systems",
-      "url": "https://arxiv.org/abs/2610.10957"
+      "text": "Measuring Cultural Alignment Beyond the Average: A Framework for Evaluating Maternal-Health LLM Interactions in Indian Contexts",
+      "url": "https://arxiv.org/abs/2610.11586"
     },
     {
-      "text": "Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time",
-      "url": "https://arxiv.org/abs/2601.15172"
+      "text": "SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2610.11583"
     },
     {
-      "text": "Prospective Prediction of OOD Degradation from Source-Side Training Dynamics",
-      "url": "https://arxiv.org/abs/2610.12397"
+      "text": "mAVE: A Watermark for Joint Audio-Visual Generation Models",
+      "url": "https://arxiv.org/abs/2603.07090"
     },
     {
-      "text": "Brain foundation model-guided source-selective domain adaptation for cross-subject EEG decoding",
-      "url": "https://arxiv.org/abs/2507.21037"
+      "text": "Phonologically Informed Tokenization for German Speech Recognition: A Cross-Domain Study",
+      "url": "https://arxiv.org/abs/2610.11646"
     },
     {
-      "text": "SPD-MetaFormer is what you need for small-data brain decoding",
-      "url": "https://arxiv.org/abs/2610.10952"
+      "text": "Bayesian Optimisation under State-Preservation Constraints",
+      "url": "https://arxiv.org/abs/2610.12150"
     }
   ],
   "rightColumn": [
     {
-      "text": "Robust and Efficient Noisy-Label Time-Series Classification via Dynamic Time Warping Based Granular Ball Computing",
-      "url": "https://arxiv.org/abs/2608.11704"
+      "text": "Minimax PAC Bounds for Learning in Exogenous Contextual MDPs",
+      "url": "https://arxiv.org/abs/2606.25170"
     },
     {
-      "text": "NanoProof: Open and Efficient Automated Theorem Proving in Lean 4",
-      "url": "https://arxiv.org/abs/2610.11605"
+      "text": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.11989"
     },
     {
-      "text": "Constructing Structured Decision Sources for Consensus-Based Pseudo-Label Learning",
-      "url": "https://arxiv.org/abs/2610.11621"
+      "text": "An Interpretable Approach to PDE Solution Discovery via Structural Experience Distillation",
+      "url": "https://arxiv.org/abs/2610.12003"
     },
     {
-      "text": "Right Family, Wrong Skill: Evaluating Risk Exposure in Agent Skill Retrieval",
-      "url": "https://arxiv.org/abs/2606.10388"
+      "text": "Memory by Design: Probabilistic Sequence Layers",
+      "url": "https://arxiv.org/abs/2605.31163"
     },
     {
-      "text": "LoRi: Low-Rank Distillation for Implicit Reasoning",
-      "url": "https://arxiv.org/abs/2606.05315"
+      "text": "PulseBound: Future-Beat State Forecasting Under an Explicit Information Boundary",
+      "url": "https://arxiv.org/abs/2610.12010"
     },
     {
-      "text": "Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation",
-      "url": "https://arxiv.org/abs/2606.01833"
+      "text": "Symbolic Density Estimators for Unnormalized Distributions",
+      "url": "https://arxiv.org/abs/2610.10807"
     },
     {
-      "text": "Camera-Noise Residuals for Face-Swap Detection: Redundant, Not Complementary, and Why",
-      "url": "https://arxiv.org/abs/2610.11683"
+      "text": "MemoWM: How World Models Change What Agents Need to Remember",
+      "url": "https://arxiv.org/abs/2610.10778"
     },
     {
-      "text": "Can Jev be Your Q or Policy in Reinforcement Learning?",
-      "url": "https://arxiv.org/abs/2610.11692"
+      "text": "Road Maps as Free Geometric Priors: Weather-Invariant Drone Geo-Localization with GeoFuse",
+      "url": "https://arxiv.org/abs/2605.14925"
     }
   ],
-  "lastUpdated": "2026-10-09T18:25:12Z"
+  "lastUpdated": "2026-10-10T00:59:12Z"
 }
