@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
+    "url": "https://www.lesswrong.com/posts/qwk7Xc2qhMChXqntK/paper-distillation-for-incrimination-and-distillation-for"
+  },
+  "topStories": [
+    {
+      "text": "Clarifying types of rogue AI activity: Breakout, breakin, exfiltration, … What’s what?",
+      "url": "https://www.lesswrong.com/posts/GqrJjNkiWbogxCLL5/clarifying-types-of-rogue-ai-activity-breakout-breakin"
+    },
+    {
+      "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463"
+    },
+    {
+      "text": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Cracks in the Narcissus Mirror",
+      "url": "https://www.lesswrong.com/posts/2DWgtyDfafWAzuD6w/cracks-in-the-narcissus-mirror"
+    },
+    {
+      "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+    },
+    {
+      "text": "What can language models teach us about understanding?",
+      "url": "https://www.lesswrong.com/posts/vpdAKFnGqx8emZ2rm/what-can-language-models-teach-us-about-understanding"
+    },
+    {
+      "text": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    },
+    {
+      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos"
+    },
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    },
+    {
+      "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
+      "url": "https://arxiv.org/abs/2603.08993"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "SWE-Journey: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction",
+      "url": "https://arxiv.org/abs/2610.11559"
+    },
+    {
+      "text": "Missing Modality-Aware Calibration for Trustworthy Brain Tumor Segmentation",
+      "url": "https://arxiv.org/abs/2610.11419"
+    },
+    {
+      "text": "How Much Human Label Variation Does Formal Semantic Structure Explain? Group-Level Effects and Item-Level Ceilings in NLI",
+      "url": "https://arxiv.org/abs/2607.15870"
+    },
+    {
+      "text": "Measuring Cultural Alignment Beyond the Average: A Framework for Evaluating Maternal-Health LLM Interactions in Indian Contexts",
+      "url": "https://arxiv.org/abs/2610.11586"
+    },
+    {
+      "text": "SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2610.11583"
+    },
+    {
+      "text": "mAVE: A Watermark for Joint Audio-Visual Generation Models",
+      "url": "https://arxiv.org/abs/2603.07090"
+    },
+    {
+      "text": "Phonologically Informed Tokenization for German Speech Recognition: A Cross-Domain Study",
+      "url": "https://arxiv.org/abs/2610.11646"
+    },
+    {
+      "text": "Bayesian Optimisation under State-Preservation Constraints",
+      "url": "https://arxiv.org/abs/2610.12150"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Minimax PAC Bounds for Learning in Exogenous Contextual MDPs",
+      "url": "https://arxiv.org/abs/2606.25170"
+    },
+    {
+      "text": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.11989"
+    },
+    {
+      "text": "An Interpretable Approach to PDE Solution Discovery via Structural Experience Distillation",
+      "url": "https://arxiv.org/abs/2610.12003"
+    },
+    {
+      "text": "Memory by Design: Probabilistic Sequence Layers",
+      "url": "https://arxiv.org/abs/2605.31163"
+    },
+    {
+      "text": "PulseBound: Future-Beat State Forecasting Under an Explicit Information Boundary",
+      "url": "https://arxiv.org/abs/2610.12010"
+    },
+    {
+      "text": "Symbolic Density Estimators for Unnormalized Distributions",
+      "url": "https://arxiv.org/abs/2610.10807"
+    },
+    {
+      "text": "MemoWM: How World Models Change What Agents Need to Remember",
+      "url": "https://arxiv.org/abs/2610.10778"
+    },
+    {
+      "text": "Road Maps as Free Geometric Priors: Weather-Invariant Drone Geo-Localization with GeoFuse",
+      "url": "https://arxiv.org/abs/2605.14925"
+    }
+  ],
+  "lastUpdated": "2026-10-10T00:59:12Z"
+}
