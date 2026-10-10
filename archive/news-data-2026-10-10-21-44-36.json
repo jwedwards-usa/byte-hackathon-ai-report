@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The potentially deadly threat of AI output-optimization",
+    "url": "https://www.lesswrong.com/posts/aWhLqMKoDz7Bam33x/the-potentially-deadly-threat-of-ai-output-optimization"
+  },
+  "topStories": [
+    {
+      "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463"
+    },
+    {
+      "text": "Claude Haiku 4.5 submits false police tip; Anthropic takes 72 days to notice",
+      "url": "https://www.lesswrong.com/posts/NohAAhLDP42Kdqatr/claude-haiku-4-5-submits-false-police-tip-anthropic-takes-72"
+    },
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
+      "url": "https://arxiv.org/abs/2603.08993"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "WorldBench: Evaluating LLMs on Three.js Voxel World Generation",
+      "url": "https://arxiv.org/abs/2610.10622"
+    },
+    {
+      "text": "Machine learning and information theory concepts towards an AI Mathematician",
+      "url": "https://arxiv.org/abs/2403.04571"
+    },
+    {
+      "text": "Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection",
+      "url": "https://arxiv.org/abs/2610.11585"
+    },
+    {
+      "text": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    },
+    {
+      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos"
+    },
+    {
+      "text": "Deadlock in the Parliament of the Self",
+      "url": "https://www.lesswrong.com/posts/g4JxdHg9PhnuufH4t/deadlock-in-the-parliament-of-the-self"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Heterogeneous-Modal Unsupervised Domain Adaptation via Latent Space Bridging",
+      "url": "https://arxiv.org/abs/2506.15971"
+    },
+    {
+      "text": "More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models",
+      "url": "https://arxiv.org/abs/2510.04532"
+    },
+    {
+      "text": "HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface",
+      "url": "https://arxiv.org/abs/2609.20659"
+    },
+    {
+      "text": "Beyond Direct Access: Resource Hijacking in LLM Agents",
+      "url": "https://arxiv.org/abs/2608.15108"
+    },
+    {
+      "text": "HistCAD: Constraint-Aware Parametric CAD Histories for Evaluating Editability",
+      "url": "https://arxiv.org/abs/2602.19171"
+    },
+    {
+      "text": "Certified Corruption Budgets: Anytime-Valid Leaderboard Claims under Adaptive Rigging",
+      "url": "https://arxiv.org/abs/2610.10597"
+    },
+    {
+      "text": "Agentic Critical Training",
+      "url": "https://arxiv.org/abs/2603.08706"
+    },
+    {
+      "text": "Strategic Governance of AI Models in Earth Science",
+      "url": "https://arxiv.org/abs/2610.10560"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents",
+      "url": "https://arxiv.org/abs/2512.14014"
+    },
+    {
+      "text": "MissMAC-Bench: Building Solid Benchmark for Missing Modality Issue in Robust Multimodal Affective Computing",
+      "url": "https://arxiv.org/abs/2602.00811"
+    },
+    {
+      "text": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.11989"
+    },
+    {
+      "text": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
+      "url": "https://arxiv.org/abs/2603.18166"
+    },
+    {
+      "text": "RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning",
+      "url": "https://arxiv.org/abs/2610.12333"
+    },
+    {
+      "text": "Prediction-Powered Data Fusion for Treatment Effect Estimation",
+      "url": "https://arxiv.org/abs/2610.12332"
+    },
+    {
+      "text": "An Investigation of Model Coherence: Narrow Finetunes Contradict Themselves Under Resampling",
+      "url": "https://arxiv.org/abs/2610.12129"
+    },
+    {
+      "text": "OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression",
+      "url": "https://arxiv.org/abs/2610.12134"
+    }
+  ],
+  "lastUpdated": "2026-10-10T21:44:36Z"
+}
