@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+    "url": "https://arxiv.org/abs/2610.12463"
+  },
+  "topStories": [
+    {
+      "text": "Claude Haiku 4.5 submits false police tip; Anthropic takes 72 days to notice",
+      "url": "https://www.lesswrong.com/posts/NohAAhLDP42Kdqatr/claude-haiku-4-5-submits-false-police-tip-anthropic-takes-72"
+    },
+    {
+      "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
+      "url": "https://arxiv.org/abs/2603.08993"
+    },
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Clarifying types of rogue AI activity: Breakout, breakin, exfiltration, … What’s what?",
+      "url": "https://www.lesswrong.com/posts/GqrJjNkiWbogxCLL5/clarifying-types-of-rogue-ai-activity-breakout-breakin"
+    },
+    {
+      "text": "Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection",
+      "url": "https://arxiv.org/abs/2610.11585"
+    },
+    {
+      "text": "WorldBench: Evaluating LLMs on Three.js Voxel World Generation",
+      "url": "https://arxiv.org/abs/2610.10622"
+    },
+    {
+      "text": "Machine learning and information theory concepts towards an AI Mathematician",
+      "url": "https://arxiv.org/abs/2403.04571"
+    },
+    {
+      "text": "From Chain-of-Thought to Loops: Non-Autoregressive Latent Reasoning via Looped Transformers",
+      "url": "https://arxiv.org/abs/2610.11472"
+    },
+    {
+      "text": "Large Language Model Turnover Undermines Screening for Artificial Intelligence-Assisted Scientific Writing",
+      "url": "https://arxiv.org/abs/2610.11599"
+    },
+    {
+      "text": "Nullify: Null-Space Activation Steering for Training-Free LLM Unlearning",
+      "url": "https://arxiv.org/abs/2610.10655"
+    },
+    {
+      "text": "CPR for LLMs: Critical-Point Routing against Catastrophic Forgetting in Domain Adaptation",
+      "url": "https://arxiv.org/abs/2608.30158"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+      "url": "https://arxiv.org/abs/2610.12436"
+    },
+    {
+      "text": "When Interfaces Speak: Data-Aware Generative UI Harness for Active Interaction",
+      "url": "https://arxiv.org/abs/2610.11123"
+    },
+    {
+      "text": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "url": "https://arxiv.org/abs/2610.12466"
+    },
+    {
+      "text": "UniData: Universal Multimodal Instruction Generation Pipeline",
+      "url": "https://arxiv.org/abs/2610.11363"
+    },
+    {
+      "text": "Language Modeling is Monotone Compression",
+      "url": "https://arxiv.org/abs/2610.11031"
+    },
+    {
+      "text": "From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model",
+      "url": "https://arxiv.org/abs/2610.05711"
+    },
+    {
+      "text": "GameCommBench: A Unified Benchmark and Type-Aware Evaluation for AI-Generated Game Commentary",
+      "url": "https://arxiv.org/abs/2610.11129"
+    },
+    {
+      "text": "Strategic Governance of AI Models in Earth Science",
+      "url": "https://arxiv.org/abs/2610.10560"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Can Jev be Your Q or Policy in Reinforcement Learning?",
+      "url": "https://arxiv.org/abs/2610.11692"
+    },
+    {
+      "text": "Epistemic Disturbance in the Graph Model for Conflict Resolution: State-Preserving Actions, Four-Valued Assessments, and the Distinction between Capability and Intention",
+      "url": "https://arxiv.org/abs/2610.11690"
+    },
+    {
+      "text": "HI3D 3.0 (Twinkle3D): Object-specific 3D Asset Generation with High Resolution",
+      "url": "https://arxiv.org/abs/2610.11685"
+    },
+    {
+      "text": "Proof-of-Use: Mitigating Tool-Call Hacking in Deep Research Agents",
+      "url": "https://arxiv.org/abs/2510.10931"
+    },
+    {
+      "text": "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents",
+      "url": "https://arxiv.org/abs/2512.14014"
+    },
+    {
+      "text": "MissMAC-Bench: Building Solid Benchmark for Missing Modality Issue in Robust Multimodal Affective Computing",
+      "url": "https://arxiv.org/abs/2602.00811"
+    },
+    {
+      "text": "DIAL-OPD: Learning More from Fewer Tokens in On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.11659"
+    },
+    {
+      "text": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
+      "url": "https://arxiv.org/abs/2603.18166"
+    }
+  ],
+  "lastUpdated": "2026-10-10T09:58:45Z"
+}
