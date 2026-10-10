@@ -1,26 +1,38 @@
 {
   "mainHeadline": {
-    "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-    "url": "https://arxiv.org/abs/2610.12463"
+    "text": "The potentially deadly threat of AI output-optimization",
+    "url": "https://www.lesswrong.com/posts/aWhLqMKoDz7Bam33x/the-potentially-deadly-threat-of-ai-output-optimization"
   },
   "topStories": [
     {
+      "text": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463"
+    },
+    {
       "text": "Claude Haiku 4.5 submits false police tip; Anthropic takes 72 days to notice",
       "url": "https://www.lesswrong.com/posts/NohAAhLDP42Kdqatr/claude-haiku-4-5-submits-false-police-tip-anthropic-takes-72"
+    },
+    {
+      "text": "Examing Emergent Misalignment in a recurrent LLM with a logit lens",
+      "url": "https://www.lesswrong.com/posts/NskJJLSvJmHY2oBaa/examing-emergent-misalignment-in-a-recurrent-llm-with-a"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
     },
     {
       "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
       "url": "https://arxiv.org/abs/2603.08993"
     },
     {
-      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
-      "url": "https://arxiv.org/abs/2610.11542"
-    }
-  ],
-  "leftColumn": [
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
     {
-      "text": "Clarifying types of rogue AI activity: Breakout, breakin, exfiltration, … What’s what?",
-      "url": "https://www.lesswrong.com/posts/GqrJjNkiWbogxCLL5/clarifying-types-of-rogue-ai-activity-breakout-breakin"
+      "text": "The Problem With“Doomers” and “Optimists”",
+      "url": "https://www.lesswrong.com/posts/yTp4DWBhNMSsfF5yL/the-problem-with-doomers-and-optimists"
     },
     {
       "text": "Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection",
@@ -35,89 +47,77 @@
       "url": "https://arxiv.org/abs/2403.04571"
     },
     {
-      "text": "From Chain-of-Thought to Loops: Non-Autoregressive Latent Reasoning via Looped Transformers",
-      "url": "https://arxiv.org/abs/2610.11472"
-    },
-    {
-      "text": "Large Language Model Turnover Undermines Screening for Artificial Intelligence-Assisted Scientific Writing",
-      "url": "https://arxiv.org/abs/2610.11599"
-    },
-    {
-      "text": "Nullify: Null-Space Activation Steering for Training-Free LLM Unlearning",
-      "url": "https://arxiv.org/abs/2610.10655"
-    },
-    {
-      "text": "CPR for LLMs: Critical-Point Routing against Catastrophic Forgetting in Domain Adaptation",
-      "url": "https://arxiv.org/abs/2608.30158"
+      "text": "An Alignment Forum for AIs? (or: Verification in the Age of Slop)",
+      "url": "https://www.lesswrong.com/posts/KhmMXnR7s5HwXRLqB/an-alignment-forum-for-ais-or-verification-in-the-age-of"
     }
   ],
   "centerColumn": [
     {
-      "text": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
-      "url": "https://arxiv.org/abs/2610.12436"
+      "text": "ExecVLA: Following Fine-Grained Execution Constraints in Vision-Language-Action Models with Bi-Level Action Representation",
+      "url": "https://arxiv.org/abs/2603.17524"
     },
     {
-      "text": "When Interfaces Speak: Data-Aware Generative UI Harness for Active Interaction",
-      "url": "https://arxiv.org/abs/2610.11123"
-    },
-    {
-      "text": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-      "url": "https://arxiv.org/abs/2610.12466"
+      "text": "APEX: Assumption-free Projection-based Embedding eXamination Metric for Image Quality Assessment",
+      "url": "https://arxiv.org/abs/2605.07786"
     },
     {
       "text": "UniData: Universal Multimodal Instruction Generation Pipeline",
       "url": "https://arxiv.org/abs/2610.11363"
     },
     {
-      "text": "Language Modeling is Monotone Compression",
-      "url": "https://arxiv.org/abs/2610.11031"
+      "text": "From Log-Odds to Shapley Values: An Explanatory Geometry for the Weighted Naive Bayes Classifier",
+      "url": "https://arxiv.org/abs/2610.10642"
     },
     {
-      "text": "From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model",
-      "url": "https://arxiv.org/abs/2610.05711"
+      "text": "Pretrained self-supervised speech models can recognize unseen consonants",
+      "url": "https://arxiv.org/abs/2606.11542"
     },
     {
-      "text": "GameCommBench: A Unified Benchmark and Type-Aware Evaluation for AI-Generated Game Commentary",
-      "url": "https://arxiv.org/abs/2610.11129"
+      "text": "RL-ARC: Calibrating Large Reasoning Models via Reasoning-guided Uncertainty",
+      "url": "https://arxiv.org/abs/2610.11352"
     },
     {
-      "text": "Strategic Governance of AI Models in Earth Science",
-      "url": "https://arxiv.org/abs/2610.10560"
+      "text": "Analyzing and Improving Fine-grained Preference Optimization in Medical LVLMs",
+      "url": "https://arxiv.org/abs/2606.12590"
+    },
+    {
+      "text": "From Suppression to Repair: Mitigating Object Hallucination in Large Vision-Language Models via Localized Distribution Alignment",
+      "url": "https://arxiv.org/abs/2610.11826"
     }
   ],
   "rightColumn": [
     {
-      "text": "Can Jev be Your Q or Policy in Reinforcement Learning?",
-      "url": "https://arxiv.org/abs/2610.11692"
+      "text": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.12355"
     },
     {
-      "text": "Epistemic Disturbance in the Graph Model for Conflict Resolution: State-Preserving Actions, Four-Valued Assessments, and the Distinction between Capability and Intention",
-      "url": "https://arxiv.org/abs/2610.11690"
+      "text": "Recursive Self-Improvement through Multi-Agent Self-Supervision",
+      "url": "https://arxiv.org/abs/2610.12176"
     },
     {
-      "text": "HI3D 3.0 (Twinkle3D): Object-specific 3D Asset Generation with High Resolution",
-      "url": "https://arxiv.org/abs/2610.11685"
+      "text": "RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning",
+      "url": "https://arxiv.org/abs/2610.12333"
     },
     {
-      "text": "Proof-of-Use: Mitigating Tool-Call Hacking in Deep Research Agents",
-      "url": "https://arxiv.org/abs/2510.10931"
+      "text": "LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.07505"
     },
     {
-      "text": "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents",
-      "url": "https://arxiv.org/abs/2512.14014"
+      "text": "MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare",
+      "url": "https://arxiv.org/abs/2605.11814"
     },
     {
-      "text": "MissMAC-Bench: Building Solid Benchmark for Missing Modality Issue in Robust Multimodal Affective Computing",
-      "url": "https://arxiv.org/abs/2602.00811"
+      "text": "Prediction-Powered Data Fusion for Treatment Effect Estimation",
+      "url": "https://arxiv.org/abs/2610.12332"
     },
     {
-      "text": "DIAL-OPD: Learning More from Fewer Tokens in On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.11659"
+      "text": "VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models",
+      "url": "https://arxiv.org/abs/2607.04517"
     },
     {
-      "text": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
-      "url": "https://arxiv.org/abs/2603.18166"
+      "text": "A Structural Theory of Cognitive Representation and Problem Solving,Contexts, Invariance, and the Knowledge Space",
+      "url": "https://arxiv.org/abs/2610.12306"
     }
   ],
-  "lastUpdated": "2026-10-10T09:58:45Z"
+  "lastUpdated": "2026-10-10T17:26:27Z"
 }
