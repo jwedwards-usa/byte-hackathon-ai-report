@@ -13,15 +13,11 @@
       "url": "https://www.lesswrong.com/posts/NohAAhLDP42Kdqatr/claude-haiku-4-5-submits-false-police-tip-anthropic-takes-72"
     },
     {
-      "text": "Examing Emergent Misalignment in a recurrent LLM with a logit lens",
-      "url": "https://www.lesswrong.com/posts/NskJJLSvJmHY2oBaa/examing-emergent-misalignment-in-a-recurrent-llm-with-a"
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
-      "url": "https://arxiv.org/abs/2610.11542"
-    },
     {
       "text": "Arbiter: Detecting Interference in LLM Agent System Prompts",
       "url": "https://arxiv.org/abs/2603.08993"
@@ -29,14 +25,6 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "The Problem With“Doomers” and “Optimists”",
-      "url": "https://www.lesswrong.com/posts/yTp4DWBhNMSsfF5yL/the-problem-with-doomers-and-optimists"
-    },
-    {
-      "text": "Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection",
-      "url": "https://arxiv.org/abs/2610.11585"
     },
     {
       "text": "WorldBench: Evaluating LLMs on Three.js Voxel World Generation",
@@ -47,77 +35,89 @@
       "url": "https://arxiv.org/abs/2403.04571"
     },
     {
-      "text": "An Alignment Forum for AIs? (or: Verification in the Age of Slop)",
-      "url": "https://www.lesswrong.com/posts/KhmMXnR7s5HwXRLqB/an-alignment-forum-for-ais-or-verification-in-the-age-of"
+      "text": "Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection",
+      "url": "https://arxiv.org/abs/2610.11585"
+    },
+    {
+      "text": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    },
+    {
+      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos"
+    },
+    {
+      "text": "Deadlock in the Parliament of the Self",
+      "url": "https://www.lesswrong.com/posts/g4JxdHg9PhnuufH4t/deadlock-in-the-parliament-of-the-self"
     }
   ],
   "centerColumn": [
     {
-      "text": "ExecVLA: Following Fine-Grained Execution Constraints in Vision-Language-Action Models with Bi-Level Action Representation",
-      "url": "https://arxiv.org/abs/2603.17524"
+      "text": "Heterogeneous-Modal Unsupervised Domain Adaptation via Latent Space Bridging",
+      "url": "https://arxiv.org/abs/2506.15971"
     },
     {
-      "text": "APEX: Assumption-free Projection-based Embedding eXamination Metric for Image Quality Assessment",
-      "url": "https://arxiv.org/abs/2605.07786"
+      "text": "More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models",
+      "url": "https://arxiv.org/abs/2510.04532"
     },
     {
-      "text": "UniData: Universal Multimodal Instruction Generation Pipeline",
-      "url": "https://arxiv.org/abs/2610.11363"
+      "text": "HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface",
+      "url": "https://arxiv.org/abs/2609.20659"
     },
     {
-      "text": "From Log-Odds to Shapley Values: An Explanatory Geometry for the Weighted Naive Bayes Classifier",
-      "url": "https://arxiv.org/abs/2610.10642"
+      "text": "Beyond Direct Access: Resource Hijacking in LLM Agents",
+      "url": "https://arxiv.org/abs/2608.15108"
     },
     {
-      "text": "Pretrained self-supervised speech models can recognize unseen consonants",
-      "url": "https://arxiv.org/abs/2606.11542"
+      "text": "HistCAD: Constraint-Aware Parametric CAD Histories for Evaluating Editability",
+      "url": "https://arxiv.org/abs/2602.19171"
     },
     {
-      "text": "RL-ARC: Calibrating Large Reasoning Models via Reasoning-guided Uncertainty",
-      "url": "https://arxiv.org/abs/2610.11352"
+      "text": "Certified Corruption Budgets: Anytime-Valid Leaderboard Claims under Adaptive Rigging",
+      "url": "https://arxiv.org/abs/2610.10597"
     },
     {
-      "text": "Analyzing and Improving Fine-grained Preference Optimization in Medical LVLMs",
-      "url": "https://arxiv.org/abs/2606.12590"
+      "text": "Agentic Critical Training",
+      "url": "https://arxiv.org/abs/2603.08706"
     },
     {
-      "text": "From Suppression to Repair: Mitigating Object Hallucination in Large Vision-Language Models via Localized Distribution Alignment",
-      "url": "https://arxiv.org/abs/2610.11826"
+      "text": "Strategic Governance of AI Models in Earth Science",
+      "url": "https://arxiv.org/abs/2610.10560"
     }
   ],
   "rightColumn": [
     {
-      "text": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.12355"
+      "text": "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents",
+      "url": "https://arxiv.org/abs/2512.14014"
     },
     {
-      "text": "Recursive Self-Improvement through Multi-Agent Self-Supervision",
-      "url": "https://arxiv.org/abs/2610.12176"
+      "text": "MissMAC-Bench: Building Solid Benchmark for Missing Modality Issue in Robust Multimodal Affective Computing",
+      "url": "https://arxiv.org/abs/2602.00811"
+    },
+    {
+      "text": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.11989"
+    },
+    {
+      "text": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
+      "url": "https://arxiv.org/abs/2603.18166"
     },
     {
       "text": "RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning",
       "url": "https://arxiv.org/abs/2610.12333"
     },
     {
-      "text": "LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2605.07505"
-    },
-    {
-      "text": "MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare",
-      "url": "https://arxiv.org/abs/2605.11814"
-    },
-    {
       "text": "Prediction-Powered Data Fusion for Treatment Effect Estimation",
       "url": "https://arxiv.org/abs/2610.12332"
     },
     {
-      "text": "VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models",
-      "url": "https://arxiv.org/abs/2607.04517"
+      "text": "An Investigation of Model Coherence: Narrow Finetunes Contradict Themselves Under Resampling",
+      "url": "https://arxiv.org/abs/2610.12129"
     },
     {
-      "text": "A Structural Theory of Cognitive Representation and Problem Solving,Contexts, Invariance, and the Knowledge Space",
-      "url": "https://arxiv.org/abs/2610.12306"
+      "text": "OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression",
+      "url": "https://arxiv.org/abs/2610.12134"
     }
   ],
-  "lastUpdated": "2026-10-10T17:26:27Z"
+  "lastUpdated": "2026-10-10T21:44:36Z"
 }
