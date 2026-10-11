@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The potentially deadly threat of AI output-optimization",
+    "url": "https://www.lesswrong.com/posts/aWhLqMKoDz7Bam33x/the-potentially-deadly-threat-of-ai-output-optimization"
+  },
+  "topStories": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    },
+    {
+      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment",
+      "url": "https://www.lesswrong.com/posts/HJPJArDvcvRBkbaEa/narrow-multimodal-fine-tuning-can-induce-emergent"
+    },
+    {
+      "text": "Hello World, AI Doompop",
+      "url": "https://www.lesswrong.com/posts/o7wPsYgRtDLbpH32v/hello-world-ai-doompop"
+    },
+    {
+      "text": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+    },
+    {
+      "text": "Seed diversity as a hypothetical anti-distillation mechanism ",
+      "url": "https://www.lesswrong.com/posts/npbA6xTq24PqsybQe/seed-diversity-as-a-hypothetical-anti-distillation-mechanism"
+    },
+    {
+      "text": "The Bloody Finish Line",
+      "url": "https://www.lesswrong.com/posts/KQD59bWHcaXQvjrLQ/the-bloody-finish-line-1"
+    },
+    {
+      "text": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
+    },
+    {
+      "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+    },
+    {
+      "text": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
+      "url": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The Non-Compassionate Case for Model Welfare",
+      "url": "https://www.lesswrong.com/posts/GegMuKsZZrjGAPLQi/the-non-compassionate-case-for-model-welfare"
+    },
+    {
+      "text": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+    },
+    {
+      "text": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+    },
+    {
+      "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
+    },
+    {
+      "text": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+    },
+    {
+      "text": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    },
+    {
+      "text": "The Problem With“Doomers” and “Optimists”",
+      "url": "https://www.lesswrong.com/posts/yTp4DWBhNMSsfF5yL/the-problem-with-doomers-and-optimists"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
+    },
+    {
+      "text": "Trump’s attempt to rename AI is looking awfully artificial",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding"
+    },
+    {
+      "text": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
+    },
+    {
+      "text": "Build Your First AI Agent with One Tool Call",
+      "url": "https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/"
+    },
+    {
+      "text": "Stop Using AI. Start Hiring It.",
+      "url": "https://towardsdatascience.com/stop-using-ai-start-hiring-it/"
+    },
+    {
+      "text": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
+    },
+    {
+      "text": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+    },
+    {
+      "text": "Why Temperature 0 Isn't Deterministic",
+      "url": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/"
+    }
+  ],
+  "lastUpdated": "2026-10-11T05:18:34Z"
+}
