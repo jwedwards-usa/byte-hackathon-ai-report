@@ -1,38 +1,42 @@
 {
   "mainHeadline": {
-    "text": "The potentially deadly threat of AI output-optimization",
-    "url": "https://www.lesswrong.com/posts/aWhLqMKoDz7Bam33x/the-potentially-deadly-threat-of-ai-output-optimization"
+    "text": "AI made me into a manager against my will",
+    "url": "https://www.lesswrong.com/posts/jrR9bCdWKhExWNJvb/ai-made-me-into-a-manager-against-my-will"
   },
   "topStories": [
+    {
+      "text": "Large to Small Model Stitching Destroys What You Built It to Carry Along the Fit",
+      "url": "https://www.lesswrong.com/posts/hww4XcMXuRcqffqKx/large-to-small-model-stitching-destroys-what-you-built-it-to-1"
+    },
+    {
+      "text": "A PRACTICAL GUIDE TO OPENAI'S NEW DECISIONS API",
+      "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"
+    },
+    {
+      "text": "Not Deciphering The Voynich Manuscript",
+      "url": "https://www.lesswrong.com/posts/Adxnsud5siZTRAaT3/not-deciphering-the-voynich-manuscript"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+      "text": "No, Cryptography Is Not “Dual Use” the Same Way AI Is",
+      "url": "https://www.lesswrong.com/posts/JghgmjDqddjLfGuCW/no-cryptography-is-not-dual-use-the-same-way-ai-is"
     },
     {
-      "text": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
-      "url": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/"
-    }
-  ],
-  "leftColumn": [
+      "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+    },
     {
-      "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+      "text": "An update on Generality Labs",
+      "url": "https://www.lesswrong.com/posts/mnWj4hSJxhSJY4N7N/an-update-on-generality-labs"
     },
     {
       "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
-    },
-    {
-      "text": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
-      "url": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/"
-    },
-    {
-      "text": "A new feature for my blog, built using my voice",
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
     },
     {
       "text": "Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment",
@@ -41,20 +45,16 @@
     {
       "text": "Hello World, AI Doompop",
       "url": "https://www.lesswrong.com/posts/o7wPsYgRtDLbpH32v/hello-world-ai-doompop"
-    },
-    {
-      "text": "Deadlock in the Parliament of the Self",
-      "url": "https://www.lesswrong.com/posts/g4JxdHg9PhnuufH4t/deadlock-in-the-parliament-of-the-self"
-    },
-    {
-      "text": "exfiltration through self-distillation",
-      "url": "https://www.lesswrong.com/posts/TjZsZtezfEnJKvxQe/exfiltration-through-self-distillation"
     }
   ],
   "centerColumn": [
     {
-      "text": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+      "text": "Telephoto Camera: Pixel 10 Pro vs 11 Pro",
+      "url": "https://www.lesswrong.com/posts/7nik4GZ2BEg7e9FNr/telephoto-camera-pixel-10-pro-vs-11-pro"
+    },
+    {
+      "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
     },
     {
       "text": "Seed diversity as a hypothetical anti-distillation mechanism ",
@@ -73,38 +73,34 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
     },
     {
-      "text": "The Problem With“Doomers” and “Optimists”",
-      "url": "https://www.lesswrong.com/posts/yTp4DWBhNMSsfF5yL/the-problem-with-doomers-and-optimists"
+      "text": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+    },
+    {
+      "text": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
     },
     {
       "text": "How Can AI Agents Read Untrusted Sources Safely?",
       "url": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/"
     },
     {
-      "text": "Dwarf Fortress uses version control now",
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
-    }
-  ],
-  "rightColumn": [
-    {
-      "text": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
+      "text": "Quoting The New York Times",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
     },
     {
-      "text": "Trump’s attempt to rename AI is looking awfully artificial",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding"
-    },
-    {
-      "text": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
+      "text": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/"
     },
     {
       "text": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
       "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
-    },
-    {
-      "text": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/"
     },
     {
       "text": "Why Temperature 0 Isn't Deterministic",
@@ -113,17 +109,7 @@
     {
       "text": "Deno is joining Cloudflare",
       "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
-    },
-    {
-      "text": "I expect rapid progress but not towards general superintelligence",
-      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "image": {
-        "src": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
-        "alt": "I expect rapid progress but not towards general superintelligence",
-        "width": 600,
-        "height": 400
-      }
     }
   ],
-  "lastUpdated": "2026-10-11T12:37:30Z"
+  "lastUpdated": "2026-10-11T19:43:43Z"
 }
