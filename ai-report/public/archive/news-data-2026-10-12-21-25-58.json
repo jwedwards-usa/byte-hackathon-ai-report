@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+    "url": "https://www.lesswrong.com/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+  },
+  "topStories": [
+    {
+      "text": "Research Lessons I Learned at MATS \u0026 Redwood",
+      "url": "https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"
+    },
+    {
+      "text": "More people should write basic AI safety explainers",
+      "url": "https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"
+    },
+    {
+      "text": "Anthropic Has Told The World Little About Their Rogue Claudes",
+      "url": "https://www.lesswrong.com/posts/XDphrmdrt8yGyRSuL/anthropic-has-told-the-world-little-about-their-rogue"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Labs’ current alignment plans seem terrible",
+      "url": "https://www.lesswrong.com/posts/xyg3ecpFNuGr5q8Zq/labs-current-alignment-plans-seem-terrible"
+    },
+    {
+      "text": "Do Deep Ensembles Actually Capture Uncertainty in Graph Neural Networks?",
+      "url": "https://arxiv.org/abs/2605.22593"
+    },
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    },
+    {
+      "text": "Planning with Transformers: Chain of Computation and Structured Context Windows",
+      "url": "https://arxiv.org/abs/2607.17710"
+    },
+    {
+      "text": "Simulating Training Spikes of Deep Neural Networks by Layer-wise Random Feature Models",
+      "url": "https://arxiv.org/abs/2610.13524"
+    },
+    {
+      "text": "What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)",
+      "url": "https://arxiv.org/abs/2608.06202"
+    },
+    {
+      "text": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
+      "url": "https://arxiv.org/abs/2610.13663"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining",
+      "url": "https://arxiv.org/abs/2604.17633"
+    },
+    {
+      "text": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
+      "url": "https://arxiv.org/abs/2610.13783"
+    },
+    {
+      "text": "Learning Size Independent Constraint Models from Input Data and Positive and Negative Example Solutions",
+      "url": "https://arxiv.org/abs/2610.13640"
+    },
+    {
+      "text": "Humanize Olympiad Agents: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify",
+      "url": "https://arxiv.org/abs/2610.13632"
+    },
+    {
+      "text": "Learning by Compression: Risk Estimates Attain the Law-of-Large-Numbers Rate",
+      "url": "https://arxiv.org/abs/2610.13442"
+    },
+    {
+      "text": "MENTOR: Learning from Failure with On-Policy Pedagogical Intervention",
+      "url": "https://arxiv.org/abs/2610.13594"
+    },
+    {
+      "text": "MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures",
+      "url": "https://arxiv.org/abs/2610.13534"
+    },
+    {
+      "text": "UniConFlow: A Unified Constrained Flow-Matching Framework for Certified Motion Planning",
+      "url": "https://arxiv.org/abs/2506.02955"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents",
+      "url": "https://arxiv.org/abs/2610.12957"
+    },
+    {
+      "text": "Product Monte Carlo: Expectation Under a Product of Densities",
+      "url": "https://arxiv.org/abs/2610.12702"
+    },
+    {
+      "text": "When Generative Models Act as Simulators",
+      "url": "https://arxiv.org/abs/2610.12847"
+    },
+    {
+      "text": "LeWAM: End-to-End World and Action Modeling with JEPAs",
+      "url": "https://arxiv.org/abs/2610.12818"
+    },
+    {
+      "text": "Efficient Audio-Visual Speech Enhancement via Reinforcement Learning-Based Neural Architecture Search",
+      "url": "https://arxiv.org/abs/2610.12796"
+    },
+    {
+      "text": "PVBRF-ID: Private, Verifiable and Byzantine-Robust Federated Intrusion Detection for Oilfield Enterprise Networks",
+      "url": "https://arxiv.org/abs/2610.12704"
+    },
+    {
+      "text": "An Input-Dependent Readout Phase for Resonant Sequence Models",
+      "url": "https://arxiv.org/abs/2610.12496"
+    },
+    {
+      "text": "A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning",
+      "url": "https://arxiv.org/abs/2610.13744"
+    }
+  ],
+  "lastUpdated": "2026-10-12T21:25:58Z"
+}
