@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Do Deep Ensembles Actually Capture Uncertainty in Graph Neural Networks?",
+    "url": "https://arxiv.org/abs/2605.22593"
+  },
+  "topStories": [
+    {
+      "text": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
+      "url": "https://arxiv.org/abs/2610.13663"
+    },
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    },
+    {
+      "text": "Planning with Transformers: Chain of Computation and Structured Context Windows",
+      "url": "https://arxiv.org/abs/2607.17710"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)",
+      "url": "https://arxiv.org/abs/2608.06202"
+    },
+    {
+      "text": "Simulating Training Spikes of Deep Neural Networks by Layer-wise Random Feature Models",
+      "url": "https://arxiv.org/abs/2610.13524"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+    },
+    {
+      "text": "Model-agnostic Knowledge Augmented Machine Learning for Weakly Annotated Bioimaging Data",
+      "url": "https://arxiv.org/abs/2610.13637"
+    },
+    {
+      "text": "Bridging Human and Model Attention: Explainability Analysis of CNN, Mamba, and ViT Architectures with Gaze-Based Validation",
+      "url": "https://arxiv.org/abs/2610.12703"
+    },
+    {
+      "text": "Probabilistic Ship Trajectory Forecasting using Transformer Models on AIS Data",
+      "url": "https://arxiv.org/abs/2610.13557"
+    },
+    {
+      "text": "Transformer-based In-Context Score Operator Learning for Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.13690"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "TernaryLLM: Ternarized Large Language Model",
+      "url": "https://arxiv.org/abs/2406.07177"
+    },
+    {
+      "text": "ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents",
+      "url": "https://arxiv.org/abs/2610.13395"
+    },
+    {
+      "text": "Optimal Algorithms for Nonsmooth Nonconvex Stochastic Optimization with Constraints",
+      "url": "https://arxiv.org/abs/2610.13787"
+    },
+    {
+      "text": "Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation",
+      "url": "https://arxiv.org/abs/2605.11307"
+    },
+    {
+      "text": "Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph",
+      "url": "https://arxiv.org/abs/2605.08037"
+    },
+    {
+      "text": "Training Non-Differentiable Networks via Optimal Transport",
+      "url": "https://arxiv.org/abs/2605.01928"
+    },
+    {
+      "text": "Weight Clustering Reveals the Importance of Relative Rank in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.17917"
+    },
+    {
+      "text": "Defence against the dark arts of distillation: Unsupervised discovery of subliminal learning",
+      "url": "https://arxiv.org/abs/2610.13536"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Simultaneous Competitive and Regret Guarantees for TCP Acknowledgment",
+      "url": "https://arxiv.org/abs/2610.13571"
+    },
+    {
+      "text": "$L_0$ Feature Selection via Monte Carlo Tree Search in High-Dimensional Financial Regression",
+      "url": "https://arxiv.org/abs/2610.13574"
+    },
+    {
+      "text": "Cross-Behavior Policy Optimization: Unified Learning from Offline Demonstrations and On- and Off-Policy Rollouts via a Shared Regression Target",
+      "url": "https://arxiv.org/abs/2610.12830"
+    },
+    {
+      "text": "Inverse Synthesis of Shock Time Series from Shock Response Spectra Using Ensembles of Conditional Variational Autoencoders",
+      "url": "https://arxiv.org/abs/2610.12820"
+    },
+    {
+      "text": "Private and Distributionally Robust Federated Multiclass Classification",
+      "url": "https://arxiv.org/abs/2610.13631"
+    },
+    {
+      "text": "Self-Preservation in Language Models",
+      "url": "https://arxiv.org/abs/2610.12602"
+    },
+    {
+      "text": "SelectArena: A Modern Benchmark for Feature Selection on Real-world Tabular Data",
+      "url": "https://arxiv.org/abs/2610.13644"
+    },
+    {
+      "text": "TabReliBench: Evaluating Tabular Foundation Models Beyond Predictive Accuracy",
+      "url": "https://arxiv.org/abs/2610.13654"
+    }
+  ],
+  "lastUpdated": "2026-10-12T10:48:55Z"
+}
