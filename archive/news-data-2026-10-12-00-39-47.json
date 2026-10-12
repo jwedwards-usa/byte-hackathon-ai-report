@@ -1,0 +1,115 @@
+{
+  "mainHeadline": {
+    "text": "AI made me into a manager against my will",
+    "url": "https://www.lesswrong.com/posts/jrR9bCdWKhExWNJvb/ai-made-me-into-a-manager-against-my-will"
+  },
+  "topStories": [
+    {
+      "text": "My Buddy Mike, Efficiency Gains From AI, and The World’s Most Boringly Benign Criminal Conspiracy",
+      "url": "https://www.lesswrong.com/posts/YmTmQDuQR6ki2BSGN/my-buddy-mike-efficiency-gains-from-ai-and-the-world-s-most"
+    },
+    {
+      "text": "AI Videos Ate My Brain -\nAnd I kinda love it",
+      "url": "https://www.lesswrong.com/posts/sR4tMgRawNFyv9etN/ai-videos-ate-my-brain-and-i-kinda-love-it"
+    },
+    {
+      "text": "If possible mind-space is vast, we should assume the same applies to consciousness-space",
+      "url": "https://www.lesswrong.com/posts/aEsjpFRkpErE3jMH4/if-possible-mind-space-is-vast-we-should-assume-the-same"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Not Deciphering The Voynich Manuscript",
+      "url": "https://www.lesswrong.com/posts/Adxnsud5siZTRAaT3/not-deciphering-the-voynich-manuscript"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Large to Small Model Stitching Destroys What You Built It to Carry Along the Fit",
+      "url": "https://www.lesswrong.com/posts/hww4XcMXuRcqffqKx/large-to-small-model-stitching-destroys-what-you-built-it-to-1"
+    },
+    {
+      "text": "A PRACTICAL GUIDE TO OPENAI'S NEW DECISIONS API",
+      "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"
+    },
+    {
+      "text": "Minimum required pacing: finish aligning it before you train the next one",
+      "url": "https://www.lesswrong.com/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"
+    },
+    {
+      "text": "No, Cryptography Is Not “Dual Use” the Same Way AI Is",
+      "url": "https://www.lesswrong.com/posts/JghgmjDqddjLfGuCW/no-cryptography-is-not-dual-use-the-same-way-ai-is"
+    },
+    {
+      "text": "Show HN: LLMxRay an open-source observability tool for LLMs",
+      "url": "https://github.com/LogneBudo/llmxray"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046"
+    },
+    {
+      "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+    },
+    {
+      "text": "An update on Generality Labs",
+      "url": "https://www.lesswrong.com/posts/mnWj4hSJxhSJY4N7N/an-update-on-generality-labs"
+    },
+    {
+      "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+    },
+    {
+      "text": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+    },
+    {
+      "text": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+    },
+    {
+      "text": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
+    },
+    {
+      "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    },
+    {
+      "text": "How Can AI Agents Read Untrusted Sources Safely?",
+      "url": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/"
+    },
+    {
+      "text": "Quoting The New York Times",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+    },
+    {
+      "text": "Telephoto Camera: Pixel 10 Pro vs 11 Pro",
+      "url": "https://www.lesswrong.com/posts/7nik4GZ2BEg7e9FNr/telephoto-camera-pixel-10-pro-vs-11-pro"
+    },
+    {
+      "text": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+    },
+    {
+      "text": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+    },
+    {
+      "text": "Why Temperature 0 Isn't Deterministic",
+      "url": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/"
+    }
+  ],
+  "lastUpdated": "2026-10-12T00:39:47Z"
+}
