@@ -1,38 +1,76 @@
 {
   "mainHeadline": {
-    "text": "AIs can clearly read books",
-    "url": "https://www.lesswrong.com/posts/fbzCtkidS56k67qwp/ais-can-clearly-read-books"
+    "text": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident",
+    "url": "https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and"
   },
   "topStories": [
     {
-      "text": "OPENAI FIRES THREE SAFETY RESEARCHERS",
-      "url": "https://www.lesswrong.com/posts/zCNm2PnqE5Zp6Z2FW/openai-fires-three-safety-researchers"
+      "text": "Below the Frontier: The Battle for Good-Enough AI",
+      "url": "https://www.lesswrong.com/posts/SN22j2rChsvcJjXrb/below-the-frontier-the-battle-for-good-enough-ai"
+    },
+    {
+      "text": "AIs can clearly read books",
+      "url": "https://www.lesswrong.com/posts/fbzCtkidS56k67qwp/ais-can-clearly-read-books"
     },
     {
       "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
       "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
-    },
-    {
-      "text": "Anthropic Has Told The World Little About Their Rogue Claudes",
-      "url": "https://www.lesswrong.com/posts/XDphrmdrt8yGyRSuL/anthropic-has-told-the-world-little-about-their-rogue"
     }
   ],
   "leftColumn": [
     {
-      "text": "Research Lessons I Learned at MATS \u0026 Redwood",
-      "url": "https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"
+      "text": "Launching the Hong Kong AI Safety Hub (HASH), a new home for AI safety work in Hong Kong ",
+      "url": "https://www.lesswrong.com/posts/w6fr55sxYLSHC64CD/launching-the-hong-kong-ai-safety-hub-hash-a-new-home-for-ai"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Good Evals Are Hard: An ImpossibleBench Audit",
-      "url": "https://www.lesswrong.com/posts/qnrjAhiqire7JeoN2/good-evals-are-hard-an-impossiblebench-audit"
+      "text": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
     },
     {
-      "text": "More people should write basic AI safety explainers",
-      "url": "https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"
+      "text": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+    },
+    {
+      "text": "Personas in a Pre-Internet Language Model",
+      "url": "https://www.lesswrong.com/posts/qchwP6wt4teHgxoKu/personas-in-a-pre-internet-language-model"
+    },
+    {
+      "text": "Facebook will let you customize your feed algorithm using AI",
+      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+    },
+    {
+      "text": "AI Horizons Forum (Dec 12–13, SF)",
+      "url": "https://www.lesswrong.com/events/tfYip7iCfgNa2aCyi/ai-horizons-forum-dec-12-13-sf"
+    },
+    {
+      "text": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471"
+    },
+    {
+      "text": "Quoting Geoffrey Huntley",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
+    },
+    {
+      "text": "Book Review: The Receipt Horizon by Joel Borgen",
+      "url": "https://www.lesswrong.com/posts/SHGoidzbo4CCG8DiP/book-review-the-receipt-horizon-by-joel-borgen"
+    },
+    {
+      "text": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+    },
+    {
+      "text": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
     },
     {
       "text": "Q\u0026A: Building accountability behind our words — and AI’s — in civic conversations",
@@ -45,20 +83,24 @@
     {
       "text": "The ecologist revealing the invisible networks that revive rainforests",
       "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
-    },
-    {
-      "text": "A PRACTICAL GUIDE TO OPENAI'S NEW DECISIONS API",
-      "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"
     }
   ],
-  "centerColumn": [
+  "rightColumn": [
     {
-      "text": "'Employee-like' ≠ Employee-level",
-      "url": "https://www.lesswrong.com/posts/2dKP6sB7DxaQJ2syE/employee-like-employee-level"
+      "text": "Apple launches HomeView, its first smart display for the home",
+      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
     },
     {
-      "text": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+      "text": "Coding Agents Can Solve the Task — But How Much Work Did They Waste?",
+      "url": "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/"
+    },
+    {
+      "text": "Building a RAG Pipeline with LLM Embeddings and Scikit-learn",
+      "url": "https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/"
+    },
+    {
+      "text": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas"
     },
     {
       "text": "META HAS SOME WONDER FULL NEW AI MODELS ",
@@ -75,49 +117,7 @@
     {
       "text": "We Specified an AI Agent in 2016. We Called It Analytics.",
       "url": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/"
-    },
-    {
-      "text": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
-    },
-    {
-      "text": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
-      "url": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/"
     }
   ],
-  "rightColumn": [
-    {
-      "text": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
-    },
-    {
-      "text": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas"
-    },
-    {
-      "text": "Vibe signaling externalities and the people-to-places pipeline",
-      "url": "https://www.lesswrong.com/posts/ZSD9Ex8ipPW4gnk4o/vibe-signaling-externalities-and-the-people-to-places-1"
-    },
-    {
-      "text": "Mars may be a hellhole, but the moon is not far behind",
-      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
-    },
-    {
-      "text": "Minimum required pacing: finish aligning it before you train the next one",
-      "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"
-    },
-    {
-      "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
-    },
-    {
-      "text": "Do you have any ideas?",
-      "url": "https://www.lesswrong.com/posts/AAnLpPekcLkXAr5FQ/do-you-have-any-ideas"
-    },
-    {
-      "text": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046"
-    }
-  ],
-  "lastUpdated": "2026-10-13T06:32:57Z"
+  "lastUpdated": "2026-10-13T17:52:49Z"
 }
