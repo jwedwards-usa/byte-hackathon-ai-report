@@ -1,57 +1,91 @@
 {
   "mainHeadline": {
-    "text": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident",
-    "url": "https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and"
+    "text": "China AI Safety Regulation Monthly Monitor, Issue 1 (September 2026)",
+    "url": "https://www.lesswrong.com/posts/TKcjrvcMuY7Ca7Ya9/china-ai-safety-regulation-monthly-monitor-issue-1-september"
   },
   "topStories": [
     {
-      "text": "Below the Frontier: The Battle for Good-Enough AI",
-      "url": "https://www.lesswrong.com/posts/SN22j2rChsvcJjXrb/below-the-frontier-the-battle-for-good-enough-ai"
+      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.lesswrong.com/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
     },
     {
-      "text": "AIs can clearly read books",
-      "url": "https://www.lesswrong.com/posts/fbzCtkidS56k67qwp/ais-can-clearly-read-books"
+      "text": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
     },
     {
-      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
-      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+      "text": "LLMs Knowingly Hide Their Mistakes",
+      "url": "https://www.lesswrong.com/posts/w9BCdjwztmAGdrptD/llms-knowingly-hide-their-mistakes-1"
     }
   ],
   "leftColumn": [
     {
-      "text": "Launching the Hong Kong AI Safety Hub (HASH), a new home for AI safety work in Hong Kong ",
-      "url": "https://www.lesswrong.com/posts/w6fr55sxYLSHC64CD/launching-the-hong-kong-ai-safety-hub-hash-a-new-home-for-ai"
+      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+    },
+    {
+      "text": "A Spine within the Swarm",
+      "url": "https://www.lesswrong.com/posts/8hkA4ohpzS4vkwDgx/a-spine-within-the-swarm"
+    },
+    {
+      "text": "OPENAI FINDS RECORDING DEVICE IN ONE OF THEIR OFFICES",
+      "url": "https://www.lesswrong.com/posts/qYC6PnMGKW5vbzbmz/openai-finds-recording-device-in-one-of-their-offices"
+    },
+    {
+      "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+    },
+    {
+      "text": "LLM-META-AI 0.2",
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      "text": "Roko Mijic talks AI Risk on The Peter McCormack Show",
+      "url": "https://www.lesswrong.com/posts/Loon8uN59gSgyMfWP/roko-mijic-talks-ai-risk-on-the-peter-mccormack-show"
     },
     {
-      "text": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+      "text": "Thoughts on alignment science vs. engineering",
+      "url": "https://www.lesswrong.com/posts/Dz2mwB6T32hsPHxeM/thoughts-on-alignment-science-vs-engineering"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
     },
     {
-      "text": "Personas in a Pre-Internet Language Model",
-      "url": "https://www.lesswrong.com/posts/qchwP6wt4teHgxoKu/personas-in-a-pre-internet-language-model"
+      "text": "Sleep puzzle system",
+      "url": "https://www.lesswrong.com/posts/aGRCdKzJquahKsfcX/sleep-puzzle-system-1"
     },
     {
-      "text": "Facebook will let you customize your feed algorithm using AI",
-      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
-    },
-    {
-      "text": "AI Horizons Forum (Dec 12–13, SF)",
-      "url": "https://www.lesswrong.com/events/tfYip7iCfgNa2aCyi/ai-horizons-forum-dec-12-13-sf"
+      "text": "Feierabend",
+      "url": "https://www.lesswrong.com/posts/pu6HaKWx3wcxq4Dvm/feierabend"
     },
     {
       "text": "Gemini 4 Argon for Robotics",
       "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    },
+    {
+      "text": "GOOGLE FINALLY RELEASES GEMINI 4 ARGON",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+    },
+    {
+      "text": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+    },
+    {
+      "text": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+    },
+    {
+      "text": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
     }
   ],
-  "centerColumn": [
+  "rightColumn": [
     {
       "text": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
       "url": "https://news.ycombinator.com/item?id=50073471"
@@ -61,63 +95,29 @@
       "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
     },
     {
-      "text": "Book Review: The Receipt Horizon by Joel Borgen",
-      "url": "https://www.lesswrong.com/posts/SHGoidzbo4CCG8DiP/book-review-the-receipt-horizon-by-joel-borgen"
-    },
-    {
-      "text": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
-    },
-    {
-      "text": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-    },
-    {
-      "text": "Q\u0026A: Building accountability behind our words — and AI’s — in civic conversations",
-      "url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013"
-    },
-    {
-      "text": "I Built a Trap for AI Image Judges. They Walked Into a Different One.",
-      "url": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/"
-    },
-    {
-      "text": "The ecologist revealing the invisible networks that revive rainforests",
-      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
-    }
-  ],
-  "rightColumn": [
-    {
-      "text": "Apple launches HomeView, its first smart display for the home",
-      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
-    },
-    {
-      "text": "Coding Agents Can Solve the Task — But How Much Work Did They Waste?",
-      "url": "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/"
-    },
-    {
       "text": "Building a RAG Pipeline with LLM Embeddings and Scikit-learn",
       "url": "https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/"
     },
     {
-      "text": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas"
-    },
-    {
-      "text": "META HAS SOME WONDER FULL NEW AI MODELS ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+      "text": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
     },
     {
       "text": "web-edit 0.1a0",
       "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
     },
     {
-      "text": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
-    },
-    {
       "text": "We Specified an AI Agent in 2016. We Called It Analytics.",
       "url": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/"
+    },
+    {
+      "text": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+    },
+    {
+      "text": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
+      "url": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/"
     }
   ],
-  "lastUpdated": "2026-10-13T17:52:49Z"
+  "lastUpdated": "2026-10-13T23:10:37Z"
 }
