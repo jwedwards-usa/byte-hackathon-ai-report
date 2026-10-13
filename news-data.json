@@ -1,16 +1,16 @@
 {
   "mainHeadline": {
-    "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
-    "url": "https://www.lesswrong.com/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+    "text": "AIs can clearly read books",
+    "url": "https://www.lesswrong.com/posts/fbzCtkidS56k67qwp/ais-can-clearly-read-books"
   },
   "topStories": [
     {
-      "text": "Research Lessons I Learned at MATS \u0026 Redwood",
-      "url": "https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"
+      "text": "OPENAI FIRES THREE SAFETY RESEARCHERS",
+      "url": "https://www.lesswrong.com/posts/zCNm2PnqE5Zp6Z2FW/openai-fires-three-safety-researchers"
     },
     {
-      "text": "More people should write basic AI safety explainers",
-      "url": "https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"
+      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
     },
     {
       "text": "Anthropic Has Told The World Little About Their Rogue Claudes",
@@ -19,105 +19,105 @@
   ],
   "leftColumn": [
     {
-      "text": "Labs’ current alignment plans seem terrible",
-      "url": "https://www.lesswrong.com/posts/xyg3ecpFNuGr5q8Zq/labs-current-alignment-plans-seem-terrible"
-    },
-    {
-      "text": "Do Deep Ensembles Actually Capture Uncertainty in Graph Neural Networks?",
-      "url": "https://arxiv.org/abs/2605.22593"
-    },
-    {
-      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
-      "url": "https://arxiv.org/abs/2610.11542"
-    },
-    {
-      "text": "Planning with Transformers: Chain of Computation and Structured Context Windows",
-      "url": "https://arxiv.org/abs/2607.17710"
-    },
-    {
-      "text": "Simulating Training Spikes of Deep Neural Networks by Layer-wise Random Feature Models",
-      "url": "https://arxiv.org/abs/2610.13524"
-    },
-    {
-      "text": "What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)",
-      "url": "https://arxiv.org/abs/2608.06202"
-    },
-    {
-      "text": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
-      "url": "https://arxiv.org/abs/2610.13663"
+      "text": "Research Lessons I Learned at MATS \u0026 Redwood",
+      "url": "https://www.lesswrong.com/posts/Q4rcvgjbgjTwmn8Xa/research-lessons-i-learned-at-mats-and-redwood"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Good Evals Are Hard: An ImpossibleBench Audit",
+      "url": "https://www.lesswrong.com/posts/qnrjAhiqire7JeoN2/good-evals-are-hard-an-impossiblebench-audit"
+    },
+    {
+      "text": "More people should write basic AI safety explainers",
+      "url": "https://www.lesswrong.com/posts/yLdgq9uAxDHzqXdjj/more-people-should-write-basic-ai-safety-explainers"
+    },
+    {
+      "text": "Q\u0026A: Building accountability behind our words — and AI’s — in civic conversations",
+      "url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013"
+    },
+    {
+      "text": "I Built a Trap for AI Image Judges. They Walked Into a Different One.",
+      "url": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/"
+    },
+    {
+      "text": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+    },
+    {
+      "text": "A PRACTICAL GUIDE TO OPENAI'S NEW DECISIONS API",
+      "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"
     }
   ],
   "centerColumn": [
     {
-      "text": "Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining",
-      "url": "https://arxiv.org/abs/2604.17633"
+      "text": "'Employee-like' ≠ Employee-level",
+      "url": "https://www.lesswrong.com/posts/2dKP6sB7DxaQJ2syE/employee-like-employee-level"
     },
     {
-      "text": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
-      "url": "https://arxiv.org/abs/2610.13783"
+      "text": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
     },
     {
-      "text": "Learning Size Independent Constraint Models from Input Data and Positive and Negative Example Solutions",
-      "url": "https://arxiv.org/abs/2610.13640"
+      "text": "META HAS SOME WONDER FULL NEW AI MODELS ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
     },
     {
-      "text": "Humanize Olympiad Agents: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify",
-      "url": "https://arxiv.org/abs/2610.13632"
+      "text": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
     },
     {
-      "text": "Learning by Compression: Risk Estimates Attain the Law-of-Large-Numbers Rate",
-      "url": "https://arxiv.org/abs/2610.13442"
+      "text": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
     },
     {
-      "text": "MENTOR: Learning from Failure with On-Policy Pedagogical Intervention",
-      "url": "https://arxiv.org/abs/2610.13594"
+      "text": "We Specified an AI Agent in 2016. We Called It Analytics.",
+      "url": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/"
     },
     {
-      "text": "MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures",
-      "url": "https://arxiv.org/abs/2610.13534"
+      "text": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
     },
     {
-      "text": "UniConFlow: A Unified Constrained Flow-Matching Framework for Certified Motion Planning",
-      "url": "https://arxiv.org/abs/2506.02955"
+      "text": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
+      "url": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/"
     }
   ],
   "rightColumn": [
     {
-      "text": "JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents",
-      "url": "https://arxiv.org/abs/2610.12957"
+      "text": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
     },
     {
-      "text": "Product Monte Carlo: Expectation Under a Product of Densities",
-      "url": "https://arxiv.org/abs/2610.12702"
+      "text": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas"
     },
     {
-      "text": "When Generative Models Act as Simulators",
-      "url": "https://arxiv.org/abs/2610.12847"
+      "text": "Vibe signaling externalities and the people-to-places pipeline",
+      "url": "https://www.lesswrong.com/posts/ZSD9Ex8ipPW4gnk4o/vibe-signaling-externalities-and-the-people-to-places-1"
     },
     {
-      "text": "LeWAM: End-to-End World and Action Modeling with JEPAs",
-      "url": "https://arxiv.org/abs/2610.12818"
+      "text": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
     },
     {
-      "text": "Efficient Audio-Visual Speech Enhancement via Reinforcement Learning-Based Neural Architecture Search",
-      "url": "https://arxiv.org/abs/2610.12796"
+      "text": "Minimum required pacing: finish aligning it before you train the next one",
+      "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"
     },
     {
-      "text": "PVBRF-ID: Private, Verifiable and Byzantine-Robust Federated Intrusion Detection for Oilfield Enterprise Networks",
-      "url": "https://arxiv.org/abs/2610.12704"
+      "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
     },
     {
-      "text": "An Input-Dependent Readout Phase for Resonant Sequence Models",
-      "url": "https://arxiv.org/abs/2610.12496"
+      "text": "Do you have any ideas?",
+      "url": "https://www.lesswrong.com/posts/AAnLpPekcLkXAr5FQ/do-you-have-any-ideas"
     },
     {
-      "text": "A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning",
-      "url": "https://arxiv.org/abs/2610.13744"
+      "text": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046"
     }
   ],
-  "lastUpdated": "2026-10-12T21:25:58Z"
+  "lastUpdated": "2026-10-13T06:32:57Z"
 }
