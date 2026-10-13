@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "China AI Safety Regulation Monthly Monitor, Issue 1 (September 2026)",
+    "url": "https://www.lesswrong.com/posts/TKcjrvcMuY7Ca7Ya9/china-ai-safety-regulation-monthly-monitor-issue-1-september"
+  },
+  "topStories": [
+    {
+      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.lesswrong.com/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+    },
+    {
+      "text": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
+    },
+    {
+      "text": "LLMs Knowingly Hide Their Mistakes",
+      "url": "https://www.lesswrong.com/posts/w9BCdjwztmAGdrptD/llms-knowingly-hide-their-mistakes-1"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+    },
+    {
+      "text": "A Spine within the Swarm",
+      "url": "https://www.lesswrong.com/posts/8hkA4ohpzS4vkwDgx/a-spine-within-the-swarm"
+    },
+    {
+      "text": "OPENAI FINDS RECORDING DEVICE IN ONE OF THEIR OFFICES",
+      "url": "https://www.lesswrong.com/posts/qYC6PnMGKW5vbzbmz/openai-finds-recording-device-in-one-of-their-offices"
+    },
+    {
+      "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+    },
+    {
+      "text": "LLM-META-AI 0.2",
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Roko Mijic talks AI Risk on The Peter McCormack Show",
+      "url": "https://www.lesswrong.com/posts/Loon8uN59gSgyMfWP/roko-mijic-talks-ai-risk-on-the-peter-mccormack-show"
+    },
+    {
+      "text": "Thoughts on alignment science vs. engineering",
+      "url": "https://www.lesswrong.com/posts/Dz2mwB6T32hsPHxeM/thoughts-on-alignment-science-vs-engineering"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+    },
+    {
+      "text": "Sleep puzzle system",
+      "url": "https://www.lesswrong.com/posts/aGRCdKzJquahKsfcX/sleep-puzzle-system-1"
+    },
+    {
+      "text": "Feierabend",
+      "url": "https://www.lesswrong.com/posts/pu6HaKWx3wcxq4Dvm/feierabend"
+    },
+    {
+      "text": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    },
+    {
+      "text": "GOOGLE FINALLY RELEASES GEMINI 4 ARGON",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+    },
+    {
+      "text": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+    },
+    {
+      "text": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+    },
+    {
+      "text": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471"
+    },
+    {
+      "text": "Quoting Geoffrey Huntley",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
+    },
+    {
+      "text": "Building a RAG Pipeline with LLM Embeddings and Scikit-learn",
+      "url": "https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/"
+    },
+    {
+      "text": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+    },
+    {
+      "text": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
+    },
+    {
+      "text": "We Specified an AI Agent in 2016. We Called It Analytics.",
+      "url": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/"
+    },
+    {
+      "text": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+    },
+    {
+      "text": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
+      "url": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/"
+    }
+  ],
+  "lastUpdated": "2026-10-13T23:10:37Z"
+}
