@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
+      "text": "Some interesting internal documents from Anthropic litigation",
+      "url": "https://www.lesswrong.com/posts/em5wnA7gpQSvfsuxQ/some-interesting-internal-documents-from-anthropic"
+    },
+    {
       "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
       "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
     },
     {
-      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
-      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
-    },
-    {
-      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
-      "url": "https://arxiv.org/abs/2610.16042"
+      "text": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
     }
   ],
   "leftColumn": [
     {
-      "text": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
-      "url": "https://arxiv.org/abs/2610.18465"
+      "text": "AMP PUTS AI AGENTS TO WORK BEYOND CODE WITH OPENAI MODELS",
+      "url": "https://openai.com/index/amp-beyond-coding"
     },
     {
-      "text": "Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports",
-      "url": "https://arxiv.org/abs/2610.18762"
+      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+      "url": "https://arxiv.org/abs/2610.16042"
+    },
+    {
+      "text": "AI is mass decompiling games. That's both awesome and scary.",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
+    },
+    {
+      "text": "PPA 4: Parametric Modeling and Types of Uncertainty",
+      "url": "https://www.lesswrong.com/posts/rdZjejLiJCqwzie9n/ppa-4-parametric-modeling-and-types-of-uncertainty"
     },
     {
       "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
       "url": "https://arxiv.org/abs/2609.09090"
     },
     {
-      "text": "Do Deep Ensembles Actually Capture Uncertainty in Graph Neural Networks?",
-      "url": "https://arxiv.org/abs/2605.22593"
+      "text": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
+      "url": "https://arxiv.org/abs/2610.18465"
     },
     {
       "text": "ATTCK-R: KNOWLEDGE-AWARE LONG-HORIZON JAILBREAKING FOR PROTECTED LLMS",
       "url": "https://arxiv.org/abs/2610.16305"
     },
     {
-      "text": "Your prompt… plus everything you've ever (publicly) written",
-      "url": "https://www.lesswrong.com/posts/STBuKAX9kkMJunErA/your-prompt-plus-everything-you-ve-ever-publicly-written"
-    },
-    {
-      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
-      "url": "https://arxiv.org/abs/2610.11542"
-    },
-    {
-      "text": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
-      "url": "https://arxiv.org/abs/2609.13192"
+      "text": "Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports",
+      "url": "https://arxiv.org/abs/2610.18762"
     }
   ],
   "centerColumn": [
     {
-      "text": "GREAT: A Graph Edge Attention Network for the Electric Vehicle Routing Problem with Asymmetric Costs",
-      "url": "https://arxiv.org/abs/2408.16717"
+      "text": "TC-Next: Zero-Shot Multimodal Cyclone Forecasting",
+      "url": "https://arxiv.org/abs/2609.02085"
     },
     {
-      "text": "Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification",
-      "url": "https://arxiv.org/abs/2604.14643"
+      "text": "Media Slant is Contagious",
+      "url": "https://arxiv.org/abs/2202.07269"
     },
     {
-      "text": "Rollout-Time Intervention: Unlocking Agentic Reinforcement Learning Beyond Policy Limits",
-      "url": "https://arxiv.org/abs/2610.13438"
+      "text": "Revisiting the 16x Pretraining Compute Gap between Diffusion and Autoregressive Language Models",
+      "url": "https://arxiv.org/abs/2610.17590"
     },
     {
-      "text": "Training a Compact, Strong, and Realistic Text-to-Speech Model",
-      "url": "https://arxiv.org/abs/2610.14776"
+      "text": "MajorTOM:Elliot Pretrain, A Multi-Sensor, Multi-Temporal Pretraining Dataset for Earth Observation",
+      "url": "https://arxiv.org/abs/2610.18624"
     },
     {
-      "text": "HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments",
-      "url": "https://arxiv.org/abs/2610.12274"
-    },
-    {
-      "text": "Neural Dimensional Analysis: Foundations of Dimensionless and Scale-Consistent Computation",
-      "url": "https://arxiv.org/abs/2610.17969"
-    },
-    {
-      "text": "SAIL: Scientific Agentic Intelligence via a Science-Aware Loop",
-      "url": "https://arxiv.org/abs/2610.11451"
+      "text": "Efficient Learning of Survival Analysis Models Under Outcome-Dependent Truncation and Censoring",
+      "url": "https://arxiv.org/abs/2610.12538"
     },
     {
       "text": "AdaptEvo: Learning under Imperfect Supervision through Confidence-Adaptive Training with Knowledge Evolution",
       "url": "https://arxiv.org/abs/2610.11354"
+    },
+    {
+      "text": "Self-improving data synthesis can scale embedding models across domains and tasks",
+      "url": "https://arxiv.org/abs/2610.14730"
+    },
+    {
+      "text": "Kwai Summary Attention V2 Technical Report",
+      "url": "https://arxiv.org/abs/2610.18654"
     }
   ],
   "rightColumn": [
     {
-      "text": "HiSTOR: Structured Treatment-outcome Representation Learning for High-Dimensional Longitudinal Data",
-      "url": "https://arxiv.org/abs/2610.17739"
+      "text": "Discrete Flow Matching for Offline-to-Online Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.12379"
     },
     {
-      "text": "IsoVRBench: Video Reward Modeling Without Human Feedback",
-      "url": "https://arxiv.org/abs/2610.17234"
+      "text": "Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2610.15888"
+    },
+    {
+      "text": "Selective Successor Eligibility Traces for RLVR",
+      "url": "https://arxiv.org/abs/2605.05965"
+    },
+    {
+      "text": "Sample-Optimal Multi-Group Learning with an ERM Oracle",
+      "url": "https://arxiv.org/abs/2610.15916"
+    },
+    {
+      "text": "Cross-Stage Coherence in Hierarchical Driving VQA: A Consistency Protocol and Parameter-Efficient Gated Context Routing",
+      "url": "https://arxiv.org/abs/2604.22560"
+    },
+    {
+      "text": "Stochastic Gradient Descent Ascent is Suboptimal for Nonconvex-P{\\L} Min-Max Games",
+      "url": "https://arxiv.org/abs/2610.07814"
+    },
+    {
+      "text": "MILP the Gap: An Automated Reasoning Approach to Condorcet's Paradox",
+      "url": "https://arxiv.org/abs/2604.19851"
     },
     {
       "text": "Error-Based Bidirectional Predictive Coding Enables Deep, 4-Bit Predictive Coding Networks",
       "url": "https://arxiv.org/abs/2610.15933"
-    },
-    {
-      "text": "Instance-Adaptive Online Multiclass Multicalibration",
-      "url": "https://arxiv.org/abs/2610.15954"
-    },
-    {
-      "text": "CESNET-TimeSeries26: A Multi-Year Network Traffic Time Series Dataset for Annual Seasonality, Concept Drift, and Long-Term Anomaly Detection",
-      "url": "https://arxiv.org/abs/2610.14799"
-    },
-    {
-      "text": "GREAT-ESDD: Graph Edge Attention Network for Effectively Steered Delivery Decisions",
-      "url": "https://arxiv.org/abs/2610.14792"
-    },
-    {
-      "text": "Probabilistic Forecasting of Wildfire Size Using Conditional Flow Matching",
-      "url": "https://arxiv.org/abs/2610.15983"
-    },
-    {
-      "text": "Counterfactual Regret for Reflective Agents with Lean-Verified Guarantees",
-      "url": "https://arxiv.org/abs/2610.14790"
     }
   ],
-  "lastUpdated": "2026-10-14T11:51:18Z"
+  "lastUpdated": "2026-10-14T17:13:34Z"
 }
