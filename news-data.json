@@ -1,69 +1,57 @@
 {
   "mainHeadline": {
-    "text": "China AI Safety Regulation Monthly Monitor, Issue 1 (September 2026)",
-    "url": "https://www.lesswrong.com/posts/TKcjrvcMuY7Ca7Ya9/china-ai-safety-regulation-monthly-monitor-issue-1-september"
+    "text": "llm-gemini 0.35",
+    "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
   },
   "topStories": [
     {
+      "text": "China AI Safety Regulation Monthly Monitor, Issue 1 (September 2026)",
+      "url": "https://www.lesswrong.com/posts/TKcjrvcMuY7Ca7Ya9/china-ai-safety-regulation-monthly-monitor-issue-1-september"
+    },
+    {
       "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
-      "url": "https://www.lesswrong.com/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+    },
+    {
+      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
     },
     {
       "text": "Redesigning source control at Anthropic",
       "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
     },
     {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
       "text": "LLMs Knowingly Hide Their Mistakes",
       "url": "https://www.lesswrong.com/posts/w9BCdjwztmAGdrptD/llms-knowingly-hide-their-mistakes-1"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
-      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
-    },
-    {
-      "text": "A Spine within the Swarm",
-      "url": "https://www.lesswrong.com/posts/8hkA4ohpzS4vkwDgx/a-spine-within-the-swarm"
-    },
-    {
-      "text": "OPENAI FINDS RECORDING DEVICE IN ONE OF THEIR OFFICES",
-      "url": "https://www.lesswrong.com/posts/qYC6PnMGKW5vbzbmz/openai-finds-recording-device-in-one-of-their-offices"
-    },
-    {
-      "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
     },
     {
       "text": "LLM-META-AI 0.2",
       "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "South Korea, ACX Meetups Everywhere Fall 2026",
+      "url": "https://www.lesswrong.com/events/tukEEmv3ypNquWh9B/south-korea-acx-meetups-everywhere-fall-2026"
     },
     {
-      "text": "Roko Mijic talks AI Risk on The Peter McCormack Show",
-      "url": "https://www.lesswrong.com/posts/Loon8uN59gSgyMfWP/roko-mijic-talks-ai-risk-on-the-peter-mccormack-show"
+      "text": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+      "url": "https://github.com/RayenMlayeh/jevcrawl"
     },
     {
-      "text": "Thoughts on alignment science vs. engineering",
-      "url": "https://www.lesswrong.com/posts/Dz2mwB6T32hsPHxeM/thoughts-on-alignment-science-vs-engineering"
+      "text": "OPENAI FINDS RECORDING DEVICE IN ONE OF THEIR OFFICES",
+      "url": "https://www.lesswrong.com/posts/qYC6PnMGKW5vbzbmz/openai-finds-recording-device-in-one-of-their-offices"
     }
   ],
   "centerColumn": [
-    {
-      "text": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
-    },
-    {
-      "text": "Sleep puzzle system",
-      "url": "https://www.lesswrong.com/posts/aGRCdKzJquahKsfcX/sleep-puzzle-system-1"
-    },
-    {
-      "text": "Feierabend",
-      "url": "https://www.lesswrong.com/posts/pu6HaKWx3wcxq4Dvm/feierabend"
-    },
     {
       "text": "Gemini 4 Argon for Robotics",
       "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
@@ -83,20 +71,28 @@
     {
       "text": "AI labs are buying data from dead startups to train their models",
       "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+    },
+    {
+      "text": "I Built a Trap for AI Image Judges. They Walked Into a Different One.",
+      "url": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/"
+    },
+    {
+      "text": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+    },
+    {
+      "text": "Thoughts on alignment science vs. engineering",
+      "url": "https://www.lesswrong.com/posts/Dz2mwB6T32hsPHxeM/thoughts-on-alignment-science-vs-engineering"
     }
   ],
   "rightColumn": [
     {
-      "text": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-      "url": "https://news.ycombinator.com/item?id=50073471"
-    },
-    {
-      "text": "Quoting Geoffrey Huntley",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
-    },
-    {
       "text": "Building a RAG Pipeline with LLM Embeddings and Scikit-learn",
       "url": "https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/"
+    },
+    {
+      "text": "web-edit 0.1a1",
+      "url": "https://simonwillison.net/2026/Oct/13/web-edit/"
     },
     {
       "text": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
@@ -117,7 +113,11 @@
     {
       "text": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
       "url": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/"
+    },
+    {
+      "text": "GOOGLE MAKES IT EASIER TO LAUNCH YOUR VIBE-CODED APPS",
+      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
     }
   ],
-  "lastUpdated": "2026-10-13T23:10:37Z"
+  "lastUpdated": "2026-10-14T04:34:39Z"
 }

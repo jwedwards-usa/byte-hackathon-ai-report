@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "llm-gemini 0.35",
+    "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+  },
+  "topStories": [
+    {
+      "text": "China AI Safety Regulation Monthly Monitor, Issue 1 (September 2026)",
+      "url": "https://www.lesswrong.com/posts/TKcjrvcMuY7Ca7Ya9/china-ai-safety-regulation-monthly-monitor-issue-1-september"
+    },
+    {
+      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+    },
+    {
+      "text": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+      "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+    },
+    {
+      "text": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "LLMs Knowingly Hide Their Mistakes",
+      "url": "https://www.lesswrong.com/posts/w9BCdjwztmAGdrptD/llms-knowingly-hide-their-mistakes-1"
+    },
+    {
+      "text": "LLM-META-AI 0.2",
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
+    },
+    {
+      "text": "South Korea, ACX Meetups Everywhere Fall 2026",
+      "url": "https://www.lesswrong.com/events/tukEEmv3ypNquWh9B/south-korea-acx-meetups-everywhere-fall-2026"
+    },
+    {
+      "text": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+      "url": "https://github.com/RayenMlayeh/jevcrawl"
+    },
+    {
+      "text": "OPENAI FINDS RECORDING DEVICE IN ONE OF THEIR OFFICES",
+      "url": "https://www.lesswrong.com/posts/qYC6PnMGKW5vbzbmz/openai-finds-recording-device-in-one-of-their-offices"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    },
+    {
+      "text": "GOOGLE FINALLY RELEASES GEMINI 4 ARGON",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+    },
+    {
+      "text": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+    },
+    {
+      "text": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+    },
+    {
+      "text": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+    },
+    {
+      "text": "I Built a Trap for AI Image Judges. They Walked Into a Different One.",
+      "url": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/"
+    },
+    {
+      "text": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+    },
+    {
+      "text": "Thoughts on alignment science vs. engineering",
+      "url": "https://www.lesswrong.com/posts/Dz2mwB6T32hsPHxeM/thoughts-on-alignment-science-vs-engineering"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Building a RAG Pipeline with LLM Embeddings and Scikit-learn",
+      "url": "https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/"
+    },
+    {
+      "text": "web-edit 0.1a1",
+      "url": "https://simonwillison.net/2026/Oct/13/web-edit/"
+    },
+    {
+      "text": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+    },
+    {
+      "text": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
+    },
+    {
+      "text": "We Specified an AI Agent in 2016. We Called It Analytics.",
+      "url": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/"
+    },
+    {
+      "text": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+    },
+    {
+      "text": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
+      "url": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/"
+    },
+    {
+      "text": "GOOGLE MAKES IT EASIER TO LAUNCH YOUR VIBE-CODED APPS",
+      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
+    }
+  ],
+  "lastUpdated": "2026-10-14T04:34:39Z"
+}
