@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+    "url": "https://arxiv.org/abs/2610.16042"
+  },
+  "topStories": [
+    {
+      "text": "The basic argument for making AI better at moral philosophy",
+      "url": "https://www.lesswrong.com/posts/auMyz6pjPX5nGLYsL/the-basic-argument-for-making-ai-better-at-moral-philosophy"
+    },
+    {
+      "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "url": "https://arxiv.org/abs/2609.09090"
+    },
+    {
+      "text": "EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses",
+      "url": "https://arxiv.org/abs/2501.06597"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    },
+    {
+      "text": "I trained GPT-2 with full-batch gradient descent so you don't have to",
+      "url": "https://www.lesswrong.com/posts/9gqjdRyJxSM6kS7zi/i-trained-gpt-2-with-full-batch-gradient-descent-so-you-don"
+    },
+    {
+      "text": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "text": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    },
+    {
+      "text": "Fisher information and the geometry of memorization in neural networks",
+      "url": "https://arxiv.org/abs/2610.16161"
+    },
+    {
+      "text": "Physics-Informed Graph Neural Networks to Reconstruct Local Fields Considering Finite Strain Hyperelasticity",
+      "url": "https://arxiv.org/abs/2507.05291"
+    },
+    {
+      "text": "Ground-Truth Subgraphs for Better Training and Evaluation of Knowledge Graph Augmented LLMs",
+      "url": "https://arxiv.org/abs/2511.04473"
+    },
+    {
+      "text": "inLoRA-MINT: Internal Representations for Auditing Training Data in Domain-adapted LLMs",
+      "url": "https://arxiv.org/abs/2610.18051"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "FALLNEST: Dual-Domain Dataset Condensation of Imbalanced IMU Data for Wearable Fall Detection",
+      "url": "https://arxiv.org/abs/2610.18260"
+    },
+    {
+      "text": "Two-stage Residual Learning for Modelling Strength-Informed Optimisation of Thermal Systems",
+      "url": "https://arxiv.org/abs/2610.19539"
+    },
+    {
+      "text": "A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training",
+      "url": "https://arxiv.org/abs/2605.14605"
+    },
+    {
+      "text": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
+      "url": "https://arxiv.org/abs/2605.12483"
+    },
+    {
+      "text": "Not All Drift Is a Mechanism: Tracing Prompt Adaptation in LLMs",
+      "url": "https://arxiv.org/abs/2610.18412"
+    },
+    {
+      "text": "Beyond Bias Scores: Answerability Confounds in Activation Steering with Gradient-Constrained Direction Design (GCD)",
+      "url": "https://arxiv.org/abs/2610.17641"
+    },
+    {
+      "text": "Resource-Efficient 3D Shape and Orientation Estimation of Road Users using Roadside RGB Camera and 3D Radar",
+      "url": "https://arxiv.org/abs/2610.18417"
+    },
+    {
+      "text": "Verifier-Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks",
+      "url": "https://arxiv.org/abs/2610.17609"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "DexFLEX: Contact-Aware Foundation Controller for Command-Guided Dexterity",
+      "url": "https://arxiv.org/abs/2610.14372"
+    },
+    {
+      "text": "TraceSampler: Making Sampling Errors Predictable and Correctable for Accelerated Generative Sampling",
+      "url": "https://arxiv.org/abs/2610.14332"
+    },
+    {
+      "text": "MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation",
+      "url": "https://arxiv.org/abs/2610.17014"
+    },
+    {
+      "text": "T2J-BENCH: Benchmarking Coding Agents on Execution-Grounded PyTorch-to-JAX Repository Migration",
+      "url": "https://arxiv.org/abs/2605.29054"
+    },
+    {
+      "text": "CWE-bench: Refocusing Agentic Security from Exploitation to Defense",
+      "url": "https://arxiv.org/abs/2610.17020"
+    },
+    {
+      "text": "SPLICE: Sparse Physics Library Identification and Compositional Expansion",
+      "url": "https://arxiv.org/abs/2610.17029"
+    },
+    {
+      "text": "EV-JEPA: Elastic V-JEPA for Any Device and Cross-Device Inference",
+      "url": "https://arxiv.org/abs/2610.14324"
+    },
+    {
+      "text": "MvFFN: Multi-view Floor plan Feed-forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction",
+      "url": "https://arxiv.org/abs/2610.14315"
+    }
+  ],
+  "lastUpdated": "2026-10-15T04:10:55Z"
+}
