@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+    "url": "https://arxiv.org/abs/2610.16042"
   },
   "topStories": [
     {
-      "text": "llm-gemini 0.35",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
-    },
-    {
-      "text": "AI Marketplaces Can Contribute to, and Profit From, the AI 2040 Plan: Research Directions and Strategy",
-      "url": "https://www.lesswrong.com/posts/Bug3fDHCru6uWDuJg/ai-marketplaces-can-contribute-to-and-profit-from-the-ai"
-    },
-    {
-      "text": "Some interesting internal documents from Anthropic litigation",
-      "url": "https://www.lesswrong.com/posts/em5wnA7gpQSvfsuxQ/some-interesting-internal-documents-from-anthropic"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
-      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
-    },
-    {
-      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
-      "url": "https://arxiv.org/abs/2610.16042"
-    },
-    {
-      "text": "Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports",
-      "url": "https://arxiv.org/abs/2610.18762"
-    },
-    {
-      "text": "ATTCK-R: KNOWLEDGE-AWARE LONG-HORIZON JAILBREAKING FOR PROTECTED LLMS",
-      "url": "https://arxiv.org/abs/2610.16305"
+      "text": "The basic argument for making AI better at moral philosophy",
+      "url": "https://www.lesswrong.com/posts/auMyz6pjPX5nGLYsL/the-basic-argument-for-making-ai-better-at-moral-philosophy"
     },
     {
       "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
       "url": "https://arxiv.org/abs/2609.09090"
     },
     {
-      "text": "Do Deep Ensembles Actually Capture Uncertainty in Graph Neural Networks?",
-      "url": "https://arxiv.org/abs/2605.22593"
+      "text": "EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses",
+      "url": "https://arxiv.org/abs/2501.06597"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
     },
     {
-      "text": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
-      "url": "https://arxiv.org/abs/2610.18465"
+      "text": "I trained GPT-2 with full-batch gradient descent so you don't have to",
+      "url": "https://www.lesswrong.com/posts/9gqjdRyJxSM6kS7zi/i-trained-gpt-2-with-full-batch-gradient-descent-so-you-don"
     },
     {
-      "text": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
+      "text": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "text": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    },
+    {
+      "text": "Fisher information and the geometry of memorization in neural networks",
+      "url": "https://arxiv.org/abs/2610.16161"
+    },
+    {
+      "text": "Physics-Informed Graph Neural Networks to Reconstruct Local Fields Considering Finite Strain Hyperelasticity",
+      "url": "https://arxiv.org/abs/2507.05291"
+    },
+    {
+      "text": "Ground-Truth Subgraphs for Better Training and Evaluation of Knowledge Graph Augmented LLMs",
+      "url": "https://arxiv.org/abs/2511.04473"
+    },
+    {
+      "text": "inLoRA-MINT: Internal Representations for Auditing Training Data in Domain-adapted LLMs",
+      "url": "https://arxiv.org/abs/2610.18051"
     }
   ],
   "centerColumn": [
     {
-      "text": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "url": "https://arxiv.org/abs/2610.14224"
+      "text": "FALLNEST: Dual-Domain Dataset Condensation of Imbalanced IMU Data for Wearable Fall Detection",
+      "url": "https://arxiv.org/abs/2610.18260"
     },
     {
-      "text": "AeroChem: Closed-loop Physics-Informed State Space Modeling for Long-term Chemically-Reactive Air Quality Forecasting--Extended Version",
-      "url": "https://arxiv.org/abs/2610.16630"
+      "text": "Two-stage Residual Learning for Modelling Strength-Informed Optimisation of Thermal Systems",
+      "url": "https://arxiv.org/abs/2610.19539"
     },
     {
-      "text": "Tokenization-Invariant Watermarking: A Byte-Local Method for LLM Text",
-      "url": "https://arxiv.org/abs/2610.14378"
+      "text": "A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training",
+      "url": "https://arxiv.org/abs/2605.14605"
     },
     {
-      "text": "Rollout-Time Intervention: Unlocking Agentic Reinforcement Learning Beyond Policy Limits",
-      "url": "https://arxiv.org/abs/2610.13438"
+      "text": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
+      "url": "https://arxiv.org/abs/2605.12483"
     },
     {
-      "text": "Efficient Learning of Survival Analysis Models Under Outcome-Dependent Truncation and Censoring",
-      "url": "https://arxiv.org/abs/2610.12538"
+      "text": "Not All Drift Is a Mechanism: Tracing Prompt Adaptation in LLMs",
+      "url": "https://arxiv.org/abs/2610.18412"
     },
     {
-      "text": "Decoupling Knowledge Forgetting and Refusal Learning in MLLM Unlearning",
-      "url": "https://arxiv.org/abs/2610.14605"
+      "text": "Beyond Bias Scores: Answerability Confounds in Activation Steering with Gradient-Constrained Direction Design (GCD)",
+      "url": "https://arxiv.org/abs/2610.17641"
     },
     {
-      "text": "Self-improving data synthesis can scale embedding models across domains and tasks",
-      "url": "https://arxiv.org/abs/2610.14730"
+      "text": "Resource-Efficient 3D Shape and Orientation Estimation of Road Users using Roadside RGB Camera and 3D Radar",
+      "url": "https://arxiv.org/abs/2610.18417"
     },
     {
-      "text": "Hardware-Assisted Multi-Stage Ransomware Detection with Adaptive Machine Learning",
-      "url": "https://arxiv.org/abs/2610.15951"
+      "text": "Verifier-Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks",
+      "url": "https://arxiv.org/abs/2610.17609"
     }
   ],
   "rightColumn": [
     {
-      "text": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
-      "url": "https://arxiv.org/abs/2604.19734"
+      "text": "DexFLEX: Contact-Aware Foundation Controller for Command-Guided Dexterity",
+      "url": "https://arxiv.org/abs/2610.14372"
     },
     {
-      "text": "Negative Advantages Is a Double-Edged Sword: Calibrating advantages in GRPO for Search Agents",
-      "url": "https://arxiv.org/abs/2604.18235"
+      "text": "TraceSampler: Making Sampling Errors Predictable and Correctable for Accelerated Generative Sampling",
+      "url": "https://arxiv.org/abs/2610.14332"
     },
     {
-      "text": "Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2610.15888"
+      "text": "MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation",
+      "url": "https://arxiv.org/abs/2610.17014"
     },
     {
-      "text": "Beyond Single-Model Optimization: Preserving Plasticity in Continual Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.15414"
+      "text": "T2J-BENCH: Benchmarking Coding Agents on Execution-Grounded PyTorch-to-JAX Repository Migration",
+      "url": "https://arxiv.org/abs/2605.29054"
     },
     {
-      "text": "Sample-Optimal Multi-Group Learning with an ERM Oracle",
-      "url": "https://arxiv.org/abs/2610.15916"
+      "text": "CWE-bench: Refocusing Agentic Security from Exploitation to Defense",
+      "url": "https://arxiv.org/abs/2610.17020"
     },
     {
-      "text": "Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective",
-      "url": "https://arxiv.org/abs/2604.14025"
+      "text": "SPLICE: Sparse Physics Library Identification and Compositional Expansion",
+      "url": "https://arxiv.org/abs/2610.17029"
     },
     {
-      "text": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-      "url": "https://arxiv.org/abs/2610.14162"
+      "text": "EV-JEPA: Elastic V-JEPA for Any Device and Cross-Device Inference",
+      "url": "https://arxiv.org/abs/2610.14324"
     },
     {
-      "text": "AromaGen: Interactive Generation of Rich Olfactory Experiences with Multimodal Language Models",
-      "url": "https://arxiv.org/abs/2604.01650"
+      "text": "MvFFN: Multi-view Floor plan Feed-forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction",
+      "url": "https://arxiv.org/abs/2610.14315"
     }
   ],
-  "lastUpdated": "2026-10-14T21:46:02Z"
+  "lastUpdated": "2026-10-15T04:10:55Z"
 }
