@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
-    "url": "https://arxiv.org/abs/2610.16042"
+    "text": "Robustness: Backfire Risks in AI Safety and Governance",
+    "url": "https://www.lesswrong.com/posts/g73ZwuzChySQCxjjv/robustness-backfire-risks-in-ai-safety-and-governance"
   },
   "topStories": [
+    {
+      "text": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
+      "url": "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape"
+    },
     {
       "text": "The basic argument for making AI better at moral philosophy",
       "url": "https://www.lesswrong.com/posts/auMyz6pjPX5nGLYsL/the-basic-argument-for-making-ai-better-at-moral-philosophy"
     },
     {
-      "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
-      "url": "https://arxiv.org/abs/2609.09090"
-    },
-    {
-      "text": "EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses",
-      "url": "https://arxiv.org/abs/2501.06597"
+      "text": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
     }
   ],
   "leftColumn": [
     {
-      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
-      "url": "https://arxiv.org/abs/2610.11542"
+      "text": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    },
+    {
+      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+    },
+    {
+      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+      "url": "https://arxiv.org/abs/2610.16042"
     },
     {
       "text": "I trained GPT-2 with full-batch gradient descent so you don't have to",
       "url": "https://www.lesswrong.com/posts/9gqjdRyJxSM6kS7zi/i-trained-gpt-2-with-full-batch-gradient-descent-so-you-don"
     },
     {
-      "text": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+      "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "url": "https://arxiv.org/abs/2609.09090"
     },
     {
-      "text": "llm-gemini 0.35",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+      "text": "ML4Good Impact Assessment",
+      "url": "https://www.lesswrong.com/posts/vNeezYG27nsnnpW98/ml4good-impact-assessment"
     },
     {
-      "text": "Fisher information and the geometry of memorization in neural networks",
-      "url": "https://arxiv.org/abs/2610.16161"
+      "text": "EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses",
+      "url": "https://arxiv.org/abs/2501.06597"
     },
     {
-      "text": "Physics-Informed Graph Neural Networks to Reconstruct Local Fields Considering Finite Strain Hyperelasticity",
-      "url": "https://arxiv.org/abs/2507.05291"
-    },
-    {
-      "text": "Ground-Truth Subgraphs for Better Training and Evaluation of Knowledge Graph Augmented LLMs",
-      "url": "https://arxiv.org/abs/2511.04473"
-    },
-    {
-      "text": "inLoRA-MINT: Internal Representations for Auditing Training Data in Domain-adapted LLMs",
-      "url": "https://arxiv.org/abs/2610.18051"
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
     }
   ],
   "centerColumn": [
     {
-      "text": "FALLNEST: Dual-Domain Dataset Condensation of Imbalanced IMU Data for Wearable Fall Detection",
-      "url": "https://arxiv.org/abs/2610.18260"
+      "text": "Do Language Models Need Music Supervision? Verifiable Rewards for Multi-Constraint Symbolic Music Generation",
+      "url": "https://arxiv.org/abs/2609.23665"
     },
     {
-      "text": "Two-stage Residual Learning for Modelling Strength-Informed Optimisation of Thermal Systems",
-      "url": "https://arxiv.org/abs/2610.19539"
+      "text": "Tracking large chemical reaction networks and rare events by neural networks",
+      "url": "https://arxiv.org/abs/2512.10309"
     },
     {
-      "text": "A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training",
-      "url": "https://arxiv.org/abs/2605.14605"
+      "text": "Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops",
+      "url": "https://arxiv.org/abs/2610.18579"
     },
     {
-      "text": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
-      "url": "https://arxiv.org/abs/2605.12483"
+      "text": "Training Language Models to Fail Gracefully",
+      "url": "https://arxiv.org/abs/2610.20401"
     },
     {
-      "text": "Not All Drift Is a Mechanism: Tracing Prompt Adaptation in LLMs",
-      "url": "https://arxiv.org/abs/2610.18412"
+      "text": "Uni-RS: A Spatially Faithful Unified Understanding and Generation Model for Remote Sensing",
+      "url": "https://arxiv.org/abs/2601.17673"
     },
     {
-      "text": "Beyond Bias Scores: Answerability Confounds in Activation Steering with Gradient-Constrained Direction Design (GCD)",
-      "url": "https://arxiv.org/abs/2610.17641"
+      "text": "Flow Matching with Uncertainty Quantification and Guidance",
+      "url": "https://arxiv.org/abs/2602.10326"
     },
     {
-      "text": "Resource-Efficient 3D Shape and Orientation Estimation of Road Users using Roadside RGB Camera and 3D Radar",
-      "url": "https://arxiv.org/abs/2610.18417"
+      "text": "Large language models for partial differential equation workflows",
+      "url": "https://arxiv.org/abs/2608.03600"
     },
     {
-      "text": "Verifier-Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks",
-      "url": "https://arxiv.org/abs/2610.17609"
+      "text": "The Smart Buildings Challenge: Learning Foundation Models for Real-World Optimization at Scale",
+      "url": "https://arxiv.org/abs/2610.18511"
     }
   ],
   "rightColumn": [
     {
-      "text": "DexFLEX: Contact-Aware Foundation Controller for Command-Guided Dexterity",
-      "url": "https://arxiv.org/abs/2610.14372"
-    },
-    {
       "text": "TraceSampler: Making Sampling Errors Predictable and Correctable for Accelerated Generative Sampling",
       "url": "https://arxiv.org/abs/2610.14332"
-    },
-    {
-      "text": "MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation",
-      "url": "https://arxiv.org/abs/2610.17014"
-    },
-    {
-      "text": "T2J-BENCH: Benchmarking Coding Agents on Execution-Grounded PyTorch-to-JAX Repository Migration",
-      "url": "https://arxiv.org/abs/2605.29054"
-    },
-    {
-      "text": "CWE-bench: Refocusing Agentic Security from Exploitation to Defense",
-      "url": "https://arxiv.org/abs/2610.17020"
-    },
-    {
-      "text": "SPLICE: Sparse Physics Library Identification and Compositional Expansion",
-      "url": "https://arxiv.org/abs/2610.17029"
     },
     {
       "text": "EV-JEPA: Elastic V-JEPA for Any Device and Cross-Device Inference",
       "url": "https://arxiv.org/abs/2610.14324"
     },
     {
+      "text": "Interactive Navigation Beyond Reachability: Benchmark and Agentic Framework",
+      "url": "https://arxiv.org/abs/2610.17089"
+    },
+    {
       "text": "MvFFN: Multi-view Floor plan Feed-forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction",
       "url": "https://arxiv.org/abs/2610.14315"
+    },
+    {
+      "text": "Latent World Action Model for GUI Agents",
+      "url": "https://arxiv.org/abs/2610.14228"
+    },
+    {
+      "text": "Calibrated Typed Decisions for Entity, Relation, and Event Extraction",
+      "url": "https://arxiv.org/abs/2610.17113"
+    },
+    {
+      "text": "Learnable Low-Rank Polynomial Sketch for Effective Linear Attention",
+      "url": "https://arxiv.org/abs/2610.14219"
+    },
+    {
+      "text": "D2: High-Capability Full-Duplex Spoken Language Models from Half-Duplex Backbones",
+      "url": "https://arxiv.org/abs/2610.17124"
     }
   ],
-  "lastUpdated": "2026-10-15T04:10:55Z"
+  "lastUpdated": "2026-10-15T11:26:35Z"
 }

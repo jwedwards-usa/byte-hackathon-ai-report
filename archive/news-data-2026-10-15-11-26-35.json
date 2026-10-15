@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Robustness: Backfire Risks in AI Safety and Governance",
+    "url": "https://www.lesswrong.com/posts/g73ZwuzChySQCxjjv/robustness-backfire-risks-in-ai-safety-and-governance"
+  },
+  "topStories": [
+    {
+      "text": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
+      "url": "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape"
+    },
+    {
+      "text": "The basic argument for making AI better at moral philosophy",
+      "url": "https://www.lesswrong.com/posts/auMyz6pjPX5nGLYsL/the-basic-argument-for-making-ai-better-at-moral-philosophy"
+    },
+    {
+      "text": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    },
+    {
+      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+    },
+    {
+      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+      "url": "https://arxiv.org/abs/2610.16042"
+    },
+    {
+      "text": "I trained GPT-2 with full-batch gradient descent so you don't have to",
+      "url": "https://www.lesswrong.com/posts/9gqjdRyJxSM6kS7zi/i-trained-gpt-2-with-full-batch-gradient-descent-so-you-don"
+    },
+    {
+      "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "url": "https://arxiv.org/abs/2609.09090"
+    },
+    {
+      "text": "ML4Good Impact Assessment",
+      "url": "https://www.lesswrong.com/posts/vNeezYG27nsnnpW98/ml4good-impact-assessment"
+    },
+    {
+      "text": "EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses",
+      "url": "https://arxiv.org/abs/2501.06597"
+    },
+    {
+      "text": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "url": "https://arxiv.org/abs/2610.11542"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Do Language Models Need Music Supervision? Verifiable Rewards for Multi-Constraint Symbolic Music Generation",
+      "url": "https://arxiv.org/abs/2609.23665"
+    },
+    {
+      "text": "Tracking large chemical reaction networks and rare events by neural networks",
+      "url": "https://arxiv.org/abs/2512.10309"
+    },
+    {
+      "text": "Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops",
+      "url": "https://arxiv.org/abs/2610.18579"
+    },
+    {
+      "text": "Training Language Models to Fail Gracefully",
+      "url": "https://arxiv.org/abs/2610.20401"
+    },
+    {
+      "text": "Uni-RS: A Spatially Faithful Unified Understanding and Generation Model for Remote Sensing",
+      "url": "https://arxiv.org/abs/2601.17673"
+    },
+    {
+      "text": "Flow Matching with Uncertainty Quantification and Guidance",
+      "url": "https://arxiv.org/abs/2602.10326"
+    },
+    {
+      "text": "Large language models for partial differential equation workflows",
+      "url": "https://arxiv.org/abs/2608.03600"
+    },
+    {
+      "text": "The Smart Buildings Challenge: Learning Foundation Models for Real-World Optimization at Scale",
+      "url": "https://arxiv.org/abs/2610.18511"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "TraceSampler: Making Sampling Errors Predictable and Correctable for Accelerated Generative Sampling",
+      "url": "https://arxiv.org/abs/2610.14332"
+    },
+    {
+      "text": "EV-JEPA: Elastic V-JEPA for Any Device and Cross-Device Inference",
+      "url": "https://arxiv.org/abs/2610.14324"
+    },
+    {
+      "text": "Interactive Navigation Beyond Reachability: Benchmark and Agentic Framework",
+      "url": "https://arxiv.org/abs/2610.17089"
+    },
+    {
+      "text": "MvFFN: Multi-view Floor plan Feed-forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction",
+      "url": "https://arxiv.org/abs/2610.14315"
+    },
+    {
+      "text": "Latent World Action Model for GUI Agents",
+      "url": "https://arxiv.org/abs/2610.14228"
+    },
+    {
+      "text": "Calibrated Typed Decisions for Entity, Relation, and Event Extraction",
+      "url": "https://arxiv.org/abs/2610.17113"
+    },
+    {
+      "text": "Learnable Low-Rank Polynomial Sketch for Effective Linear Attention",
+      "url": "https://arxiv.org/abs/2610.14219"
+    },
+    {
+      "text": "D2: High-Capability Full-Duplex Spoken Language Models from Half-Duplex Backbones",
+      "url": "https://arxiv.org/abs/2610.17124"
+    }
+  ],
+  "lastUpdated": "2026-10-15T11:26:35Z"
+}
