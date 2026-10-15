@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Robustness: Backfire Risks in AI Safety and Governance",
+    "url": "https://www.lesswrong.com/posts/g73ZwuzChySQCxjjv/robustness-backfire-risks-in-ai-safety-and-governance"
+  },
+  "topStories": [
+    {
+      "text": "The user in the LLM might be a moral patient too (a strange implication of the PSM and simulators)",
+      "url": "https://www.lesswrong.com/posts/wCY4oNHpH2HGYGSoP/the-user-in-the-llm-might-be-a-moral-patient-too-a-strange"
+    },
+    {
+      "text": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "text": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Linkpost: Neural Networks Are Already Clean",
+      "url": "https://www.lesswrong.com/posts/x4kvabkF2Jk8GLZp8/linkpost-neural-networks-are-already-clean"
+    },
+    {
+      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+    },
+    {
+      "text": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
+      "url": "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape"
+    },
+    {
+      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+      "url": "https://arxiv.org/abs/2610.16042"
+    },
+    {
+      "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "url": "https://arxiv.org/abs/2609.09090"
+    },
+    {
+      "text": "CHATGPT ADS TARGET YOUR PHONE NUMBER, EMAIL",
+      "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/"
+    },
+    {
+      "text": "WHAT OPENAI’S 719 MATH PAPERS MEAN FOR DATA SCIENCE",
+      "url": "https://towardsdatascience.com/what-openais-719-math-papers-mean-for-data-science/"
+    },
+    {
+      "text": "ChatGPT Targets Ads to You Based on Your Prompts, Phone Number, and Email",
+      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Process Rewards for Outcome-Guided Reasoning Steps in LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.02341"
+    },
+    {
+      "text": "From Relation-Specific Heads to Shared Interventions: Contextual Entrainment in Language Models",
+      "url": "https://arxiv.org/abs/2610.18674"
+    },
+    {
+      "text": "The Smart Buildings Challenge: Learning Foundation Models for Real-World Optimization at Scale",
+      "url": "https://arxiv.org/abs/2610.18511"
+    },
+    {
+      "text": "ReTerm: Recovery Training for Self-Improving Terminal Agents",
+      "url": "https://arxiv.org/abs/2610.18484"
+    },
+    {
+      "text": "Large language models for partial differential equation workflows",
+      "url": "https://arxiv.org/abs/2608.03600"
+    },
+    {
+      "text": "SearchMaster: Grounded and Regulated Self-Play for Search Agents",
+      "url": "https://arxiv.org/abs/2608.01822"
+    },
+    {
+      "text": "Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery",
+      "url": "https://arxiv.org/abs/2610.18449"
+    },
+    {
+      "text": "Graph Coarsening Enables Escaping Local Optima in Compute-Constrained Nonconvex MAX-CUT",
+      "url": "https://arxiv.org/abs/2610.19043"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "EV-JEPA: Elastic V-JEPA for Any Device and Cross-Device Inference",
+      "url": "https://arxiv.org/abs/2610.14324"
+    },
+    {
+      "text": "From Suboptimal to Optimal: One-Step Latent Flow Policies for Offline Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.16984"
+    },
+    {
+      "text": "MvFFN: Multi-view Floor plan Feed-forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction",
+      "url": "https://arxiv.org/abs/2610.14315"
+    },
+    {
+      "text": "Latent World Action Model for GUI Agents",
+      "url": "https://arxiv.org/abs/2610.14228"
+    },
+    {
+      "text": "Learnable Low-Rank Polynomial Sketch for Effective Linear Attention",
+      "url": "https://arxiv.org/abs/2610.14219"
+    },
+    {
+      "text": "MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation",
+      "url": "https://arxiv.org/abs/2610.17014"
+    },
+    {
+      "text": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162"
+    },
+    {
+      "text": "CWE-bench: Refocusing Agentic Security from Exploitation to Defense",
+      "url": "https://arxiv.org/abs/2610.17020"
+    }
+  ],
+  "lastUpdated": "2026-10-15T16:58:44Z"
+}
