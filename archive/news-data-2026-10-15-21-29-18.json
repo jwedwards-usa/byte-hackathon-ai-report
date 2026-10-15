@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "llm-gemini 0.35",
+    "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+  },
+  "topStories": [
+    {
+      "text": "The user in the LLM might be a moral patient too (a strange implication of the PSM and simulators)",
+      "url": "https://www.lesswrong.com/posts/wCY4oNHpH2HGYGSoP/the-user-in-the-llm-might-be-a-moral-patient-too-a-strange"
+    },
+    {
+      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+    },
+    {
+      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+      "url": "https://arxiv.org/abs/2610.16042"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015"
+    },
+    {
+      "text": "You Should Specify Your Code Unambiguously (and Prove That You Did)",
+      "url": "https://www.lesswrong.com/posts/cfvwcdYxkcLsiSABk/you-should-specify-your-code-unambiguously-and-prove-that"
+    },
+    {
+      "text": "Linkpost: Neural Networks Are Already Clean",
+      "url": "https://www.lesswrong.com/posts/x4kvabkF2Jk8GLZp8/linkpost-neural-networks-are-already-clean"
+    },
+    {
+      "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "url": "https://arxiv.org/abs/2609.09090"
+    },
+    {
+      "text": "AI model decodes the language cells use to communicate",
+      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015"
+    },
+    {
+      "text": "Which AI safety organization does what? Puzzle/party games ",
+      "url": "https://www.lesswrong.com/posts/cA6Y9TwFbbTwGdXuj/which-ai-safety-organization-does-what-puzzle-party-games"
+    },
+    {
+      "text": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
+      "url": "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape"
+    },
+    {
+      "text": "EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses",
+      "url": "https://arxiv.org/abs/2501.06597"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2610.18853"
+    },
+    {
+      "text": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2610.18862"
+    },
+    {
+      "text": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "url": "https://arxiv.org/abs/2607.06546"
+    },
+    {
+      "text": "SharedSAE: a unified sparse dictionary across u-net blocks and denoising time for diffusion models",
+      "url": "https://arxiv.org/abs/2610.13997"
+    },
+    {
+      "text": "Splicing Hints into Reasoning Traces: Learning from Demonstrator Failures",
+      "url": "https://arxiv.org/abs/2610.13996"
+    },
+    {
+      "text": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "url": "https://arxiv.org/abs/2610.18869"
+    },
+    {
+      "text": "Beyond Policy Support: Interaction Constrained Offline Reinforcement Learning for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2610.09763"
+    },
+    {
+      "text": "Decidable Reasoning About Time in Finite-Domain Situation Calculus Theories",
+      "url": "https://arxiv.org/abs/2402.03164"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Improving the Bounds on Approximating Weighted Maximin Share for Chores",
+      "url": "https://arxiv.org/abs/2610.15520"
+    },
+    {
+      "text": "OceanFlow: Coherent Flow Matching for Probabilistic Ocean Modeling",
+      "url": "https://arxiv.org/abs/2610.15518"
+    },
+    {
+      "text": "Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation",
+      "url": "https://arxiv.org/abs/2610.17161"
+    },
+    {
+      "text": "Co-Evolving Acting and Forecasting for Language Agents",
+      "url": "https://arxiv.org/abs/2610.20597"
+    },
+    {
+      "text": "FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation",
+      "url": "https://arxiv.org/abs/2610.17191"
+    },
+    {
+      "text": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "url": "https://arxiv.org/abs/2610.20607"
+    },
+    {
+      "text": "A Unified Response Framework for Questions and Tutoring Dialogues",
+      "url": "https://arxiv.org/abs/2610.19532"
+    },
+    {
+      "text": "CoverSynth: Coverage-Guided Generation of Retrieval Evaluation Sets",
+      "url": "https://arxiv.org/abs/2610.15409"
+    }
+  ],
+  "lastUpdated": "2026-10-15T21:29:18Z"
+}
