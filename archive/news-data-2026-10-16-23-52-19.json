@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "\"About a quarter of them contained bugs\": Gemini 4's ML R\u0026D benchmark",
+    "url": "https://www.lesswrong.com/posts/7jmfDBu2GLCfdwSte/about-a-quarter-of-them-contained-bugs-gemini-4-s-ml-r-and-d"
+  },
+  "topStories": [
+    {
+      "text": "Monthly Roundup #47: October 2026",
+      "url": "https://www.lesswrong.com/posts/aLjkbY3KMajc5zemE/monthly-roundup-47-october-2026"
+    },
+    {
+      "text": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning ",
+      "url": "https://www.lesswrong.com/posts/xFxmqkjLNa2Bvs7cw/projection-sampling-preserves-capabilities-but-diminishes"
+    },
+    {
+      "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai"
+    },
+    {
+      "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    },
+    {
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
+    },
+    {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    },
+    {
+      "text": "Large Language Models Naively Recover Ethnicity from Individual Records",
+      "url": "https://arxiv.org/abs/2601.21132"
+    },
+    {
+      "text": "Learning Changes the World and Then What Was Learned has Changed: Training and Deploying Neural Networks in the Control Loop",
+      "url": "https://arxiv.org/abs/2610.22084"
+    },
+    {
+      "text": "Structure-Preserving Correction Learning for Sparse Bayesian Inference in Brain Source Imaging",
+      "url": "https://arxiv.org/abs/2606.07196"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Finite-Time Guarantees for Constrained Reinforcement Learning under Partial Observability",
+      "url": "https://arxiv.org/abs/2610.21548"
+    },
+    {
+      "text": "FDE-Gym: The Last Mile of AI Delivery",
+      "url": "https://arxiv.org/abs/2610.22350"
+    },
+    {
+      "text": "Improving Environment-Agnostic Coding Agents: The Role of Scaffolding",
+      "url": "https://arxiv.org/abs/2610.22289"
+    },
+    {
+      "text": "Prism-1: Position- and Rival-Independent Scoring for System One Models",
+      "url": "https://arxiv.org/abs/2610.22066"
+    },
+    {
+      "text": "FAOPs: Normal Forms and an Algebra for AI Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.22061"
+    },
+    {
+      "text": "From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research",
+      "url": "https://arxiv.org/abs/2610.21767"
+    },
+    {
+      "text": "Evaluating Inquiry Learning in LLM-Based Agents: Hypothesizing, Reasoning, and Exploration",
+      "url": "https://arxiv.org/abs/2610.21604"
+    },
+    {
+      "text": "ClaimScope: Label-Blind Witness Verification for Mathematical Claim Auditing",
+      "url": "https://arxiv.org/abs/2610.21581"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
+      "url": "https://arxiv.org/abs/2610.21147"
+    },
+    {
+      "text": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
+      "url": "https://arxiv.org/abs/2610.21167"
+    },
+    {
+      "text": "AgentEval: Evidence-Bounded Assessment of Stateful Agents",
+      "url": "https://arxiv.org/abs/2610.21177"
+    },
+    {
+      "text": "In-Context Batch Black-box Optimization via Flow Matching",
+      "url": "https://arxiv.org/abs/2610.20138"
+    },
+    {
+      "text": "Time-partitioning Gaussian Process Mixture Model",
+      "url": "https://arxiv.org/abs/2610.20860"
+    },
+    {
+      "text": "Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models",
+      "url": "https://arxiv.org/abs/2610.21195"
+    },
+    {
+      "text": "Exhaustive Canonical Skeletons Generation: A Formal Dataset for Decomposable Symbolic Regression",
+      "url": "https://arxiv.org/abs/2610.20108"
+    },
+    {
+      "text": "Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization",
+      "url": "https://arxiv.org/abs/2610.21742"
+    }
+  ],
+  "lastUpdated": "2026-10-16T23:52:19Z"
+}
