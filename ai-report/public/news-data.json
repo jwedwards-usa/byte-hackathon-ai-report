@@ -19,105 +19,105 @@
   ],
   "leftColumn": [
     {
-      "text": "CHATGPT CAN PEEK AT YOUR CHROME TABS NOW",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "A semi-scientific account of what makes me happy and/or what happiness makes me do, etc",
-      "url": "https://www.lesswrong.com/posts/PBHGnRbDikH2XvajQ/a-semi-scientific-account-of-what-makes-me-happy-and-or-what"
+      "text": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai"
     },
     {
       "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
     },
     {
-      "text": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
-      "url": "https://www.lesswrong.com/posts/Z8jjgjfpAJocqZiET/screwtape-adversarial-transcript-editing-for-monitor-red"
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
     },
     {
-      "text": "Structure-Preserving Correction Learning for Sparse Bayesian Inference in Brain Source Imaging",
-      "url": "https://arxiv.org/abs/2606.07196"
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    },
+    {
+      "text": "Large Language Models Naively Recover Ethnicity from Individual Records",
+      "url": "https://arxiv.org/abs/2601.21132"
     },
     {
       "text": "Learning Changes the World and Then What Was Learned has Changed: Training and Deploying Neural Networks in the Control Loop",
       "url": "https://arxiv.org/abs/2610.22084"
     },
     {
-      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
-      "url": "https://arxiv.org/abs/2610.22273"
+      "text": "Structure-Preserving Correction Learning for Sparse Bayesian Inference in Brain Source Imaging",
+      "url": "https://arxiv.org/abs/2606.07196"
     }
   ],
   "centerColumn": [
     {
-      "text": "Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches",
-      "url": "https://arxiv.org/abs/2610.22016"
+      "text": "Finite-Time Guarantees for Constrained Reinforcement Learning under Partial Observability",
+      "url": "https://arxiv.org/abs/2610.21548"
     },
     {
-      "text": "Momentum, Commentary Tone, and Earnings Surprise in LLM Financial Forecasts",
-      "url": "https://arxiv.org/abs/2610.22043"
+      "text": "FDE-Gym: The Last Mile of AI Delivery",
+      "url": "https://arxiv.org/abs/2610.22350"
     },
     {
-      "text": "Effectiveness of Hidden-State Probes for Localizing Reasoning Failures",
-      "url": "https://arxiv.org/abs/2610.22046"
+      "text": "Improving Environment-Agnostic Coding Agents: The Role of Scaffolding",
+      "url": "https://arxiv.org/abs/2610.22289"
     },
     {
-      "text": "Scientific feedback reveals productive regimes beyond training conventions",
-      "url": "https://arxiv.org/abs/2512.15756"
+      "text": "Prism-1: Position- and Rival-Independent Scoring for System One Models",
+      "url": "https://arxiv.org/abs/2610.22066"
     },
     {
-      "text": "Enhancing Multimodal RLVR with Pairwise Token Contrast and Adaptive Trajectory Confidence",
-      "url": "https://arxiv.org/abs/2610.21671"
+      "text": "FAOPs: Normal Forms and an Algebra for AI Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.22061"
     },
     {
-      "text": "CONTEXTLIFT: BREAKING THE SPURIOUS CORRELATION BEHIND CONDITIONAL EMERGENT MISALIGNMENT",
-      "url": "https://arxiv.org/abs/2610.21633"
+      "text": "From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research",
+      "url": "https://arxiv.org/abs/2610.21767"
     },
     {
-      "text": "System1-Arena: Which Decisions Can Be Left to System 1?",
-      "url": "https://arxiv.org/abs/2610.21244"
+      "text": "Evaluating Inquiry Learning in LLM-Based Agents: Hypothesizing, Reasoning, and Exploration",
+      "url": "https://arxiv.org/abs/2610.21604"
     },
     {
-      "text": "Chronoberg: A 250-Year Diachronic Corpus with Temporal Affective Lexicons for Language Model Analysis",
-      "url": "https://arxiv.org/abs/2509.22360"
+      "text": "ClaimScope: Label-Blind Witness Verification for Mathematical Claim Auditing",
+      "url": "https://arxiv.org/abs/2610.21581"
     }
   ],
   "rightColumn": [
     {
-      "text": "Spectrum Is Not Enough: A Random-Matrix Account of Data-Free Preconditioning for Differentially Private Learning",
-      "url": "https://arxiv.org/abs/2610.21312"
+      "text": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
+      "url": "https://arxiv.org/abs/2610.21147"
     },
     {
-      "text": "Ranking and Partitioning of Attention Heads for Sparse and Continual Reinforcement Learning Fine-tuning",
-      "url": "https://arxiv.org/abs/2610.21336"
+      "text": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
+      "url": "https://arxiv.org/abs/2610.21167"
     },
     {
-      "text": "Does On-Policy Distillation Need to Complete Every Rollout?",
-      "url": "https://arxiv.org/abs/2610.21337"
+      "text": "AgentEval: Evidence-Bounded Assessment of Stateful Agents",
+      "url": "https://arxiv.org/abs/2610.21177"
     },
     {
-      "text": "Probe-and-Resume: When and How to Evaluate Agent Execution",
-      "url": "https://arxiv.org/abs/2610.21088"
+      "text": "In-Context Batch Black-box Optimization via Flow Matching",
+      "url": "https://arxiv.org/abs/2610.20138"
     },
     {
-      "text": "Honesty is the Best Policy ... or is it? Demand Management for Probabilistic Service Options",
-      "url": "https://arxiv.org/abs/2610.21351"
+      "text": "Time-partitioning Gaussian Process Mixture Model",
+      "url": "https://arxiv.org/abs/2610.20860"
     },
     {
-      "text": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
-      "url": "https://arxiv.org/abs/2610.20960"
+      "text": "Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models",
+      "url": "https://arxiv.org/abs/2610.21195"
     },
     {
-      "text": "Multi-Target Few-Shot Prompting with Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2610.22294"
+      "text": "Exhaustive Canonical Skeletons Generation: A Formal Dataset for Decomposable Symbolic Regression",
+      "url": "https://arxiv.org/abs/2610.20108"
     },
     {
-      "text": "A Jury, Not an Electorate: Label-Free Reliability Estimation for Ensembles of Language Models",
-      "url": "https://arxiv.org/abs/2610.21085"
+      "text": "Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization",
+      "url": "https://arxiv.org/abs/2610.21742"
     }
   ],
-  "lastUpdated": "2026-10-16T21:02:10Z"
+  "lastUpdated": "2026-10-16T23:52:19Z"
 }
