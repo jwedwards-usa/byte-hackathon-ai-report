@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "llm-gemini 0.35",
-    "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    "text": "AI #190: Scion of the Times",
+    "url": "https://www.lesswrong.com/posts/z4guBXZeymkgvd75S/ai-190-scion-of-the-times"
   },
   "topStories": [
     {
-      "text": "The user in the LLM might be a moral patient too (a strange implication of the PSM and simulators)",
-      "url": "https://www.lesswrong.com/posts/wCY4oNHpH2HGYGSoP/the-user-in-the-llm-might-be-a-moral-patient-too-a-strange"
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
     },
     {
-      "text": "The Continual Constitutional Convention: How language models revise the documents that govern them",
-      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"
+      "text": "Large Language Models Naively Recover Ethnicity from Individual Records",
+      "url": "https://arxiv.org/abs/2601.21132"
     },
     {
-      "text": "AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
-      "url": "https://arxiv.org/abs/2610.16042"
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
     }
   ],
   "leftColumn": [
     {
-      "text": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015"
+      "text": "Structure-Preserving Correction Learning for Sparse Bayesian Inference in Brain Source Imaging",
+      "url": "https://arxiv.org/abs/2606.07196"
     },
     {
-      "text": "You Should Specify Your Code Unambiguously (and Prove That You Did)",
-      "url": "https://www.lesswrong.com/posts/cfvwcdYxkcLsiSABk/you-should-specify-your-code-unambiguously-and-prove-that"
+      "text": "Learning Changes the World and Then What Was Learned has Changed: Training and Deploying Neural Networks in the Control Loop",
+      "url": "https://arxiv.org/abs/2610.22084"
     },
     {
-      "text": "Linkpost: Neural Networks Are Already Clean",
-      "url": "https://www.lesswrong.com/posts/x4kvabkF2Jk8GLZp8/linkpost-neural-networks-are-already-clean"
+      "text": "Human Interventions as Labels: Localizing, Steering, and (Sometimes) Editing the Computations Behind LLM Agent Failures",
+      "url": "https://arxiv.org/abs/2610.21708"
     },
     {
-      "text": "SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
-      "url": "https://arxiv.org/abs/2609.09090"
+      "text": "Training-Free Task Vectors for LLM Behavioral Control",
+      "url": "https://arxiv.org/abs/2609.09054"
     },
     {
-      "text": "AI model decodes the language cells use to communicate",
-      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015"
+      "text": "RT-J: Large-Scale Pretraining of Relational Transformers for Context-Efficient Predictions",
+      "url": "https://arxiv.org/abs/2610.17867"
     },
     {
-      "text": "Which AI safety organization does what? Puzzle/party games ",
-      "url": "https://www.lesswrong.com/posts/cA6Y9TwFbbTwGdXuj/which-ai-safety-organization-does-what-puzzle-party-games"
+      "text": "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews",
+      "url": "https://arxiv.org/abs/2610.21046"
     },
     {
-      "text": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
-      "url": "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape"
+      "text": "ABNAT: Attention-Based Noise-Aware Training for Robust Transformers on Analog Compute-in-Memory Systems",
+      "url": "https://arxiv.org/abs/2610.22065"
     },
     {
-      "text": "EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses",
-      "url": "https://arxiv.org/abs/2501.06597"
+      "text": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+      "url": "https://arxiv.org/abs/2609.19705"
     }
   ],
   "centerColumn": [
     {
-      "text": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2610.18853"
+      "text": "Can LLMs Tell Stories Out of Order? A Corpus and Benchmark for Nonlinear Narrative Generation",
+      "url": "https://arxiv.org/abs/2610.21468"
     },
     {
-      "text": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-      "url": "https://arxiv.org/abs/2610.18862"
+      "text": "Tourist arrival forecasting with game-theoretic social influence weighting and deep learning",
+      "url": "https://arxiv.org/abs/2507.03411"
     },
     {
-      "text": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
-      "url": "https://arxiv.org/abs/2607.06546"
+      "text": "OnBodyAI - Why the Next AI Needs a Body",
+      "url": "https://arxiv.org/abs/2610.21137"
     },
     {
-      "text": "SharedSAE: a unified sparse dictionary across u-net blocks and denoising time for diffusion models",
-      "url": "https://arxiv.org/abs/2610.13997"
+      "text": "CARE-SD: Explainable Reasoning Architecture for Local SLM Self-Disclosure Analysis in Textual Data",
+      "url": "https://arxiv.org/abs/2610.21151"
     },
     {
-      "text": "Splicing Hints into Reasoning Traces: Learning from Demonstrator Failures",
-      "url": "https://arxiv.org/abs/2610.13996"
+      "text": "Efficient Pairwise Difference Learning: A Comparative Study of Encoding Strategies and Training Pair Selection",
+      "url": "https://arxiv.org/abs/2610.21644"
     },
     {
-      "text": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-      "url": "https://arxiv.org/abs/2610.18869"
+      "text": "BOLT: Universal Classifier Training via a Bayes-Error Upper Bound",
+      "url": "https://arxiv.org/abs/2501.07754"
     },
     {
-      "text": "Beyond Policy Support: Interaction Constrained Offline Reinforcement Learning for Autonomous Driving",
-      "url": "https://arxiv.org/abs/2610.09763"
+      "text": "ShiftQAT: Quantization-Aware Training for the Numerical Contract of a Fixed-Function Edge CNN Accelerator",
+      "url": "https://arxiv.org/abs/2610.21695"
     },
     {
-      "text": "Decidable Reasoning About Time in Finite-Domain Situation Calculus Theories",
-      "url": "https://arxiv.org/abs/2402.03164"
+      "text": "Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs",
+      "url": "https://arxiv.org/abs/2610.22230"
     }
   ],
   "rightColumn": [
     {
-      "text": "Improving the Bounds on Approximating Weighted Maximin Share for Chores",
-      "url": "https://arxiv.org/abs/2610.15520"
+      "text": "Behavioral Compositionality of Sparse Autoencoder Representations",
+      "url": "https://arxiv.org/abs/2610.21261"
     },
     {
-      "text": "OceanFlow: Coherent Flow Matching for Probabilistic Ocean Modeling",
-      "url": "https://arxiv.org/abs/2610.15518"
+      "text": "Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners",
+      "url": "https://arxiv.org/abs/2509.26226"
     },
     {
-      "text": "Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation",
-      "url": "https://arxiv.org/abs/2610.17161"
+      "text": "Diviner: Agentic RCA with Human-Governed Adaptation for Large-Scale Infrastructure",
+      "url": "https://arxiv.org/abs/2610.21281"
     },
     {
-      "text": "Co-Evolving Acting and Forecasting for Language Agents",
-      "url": "https://arxiv.org/abs/2610.20597"
+      "text": "Mallea: Building, Steering, and Memorizing Worlds with Coding Agent",
+      "url": "https://arxiv.org/abs/2610.21283"
     },
     {
-      "text": "FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation",
-      "url": "https://arxiv.org/abs/2610.17191"
+      "text": "The Density of Thought: Predicting and Steering Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.21286"
     },
     {
-      "text": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-      "url": "https://arxiv.org/abs/2610.20607"
+      "text": "Blockwise Stabilized Adaptive Cubic Regularization with Subsolvers via Recurrence",
+      "url": "https://arxiv.org/abs/2608.22129"
     },
     {
-      "text": "A Unified Response Framework for Questions and Tutoring Dialogues",
-      "url": "https://arxiv.org/abs/2610.19532"
+      "text": "Money-Mule Detection as a Relational Learning Problem: A Study on the RBIH NFPC Dataset",
+      "url": "https://arxiv.org/abs/2610.21314"
     },
     {
-      "text": "CoverSynth: Coverage-Guided Generation of Retrieval Evaluation Sets",
-      "url": "https://arxiv.org/abs/2610.15409"
+      "text": "PureTD: Reinforcement Learning for Backgammon Money Games with No Evaluation-time Search",
+      "url": "https://arxiv.org/abs/2608.15146"
     }
   ],
-  "lastUpdated": "2026-10-15T21:29:18Z"
+  "lastUpdated": "2026-10-16T04:13:32Z"
 }
