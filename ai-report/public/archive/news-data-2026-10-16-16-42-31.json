@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Monthly Roundup #47: October 2026",
+    "url": "https://www.lesswrong.com/posts/aLjkbY3KMajc5zemE/monthly-roundup-47-october-2026"
+  },
+  "topStories": [
+    {
+      "text": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning ",
+      "url": "https://www.lesswrong.com/posts/xFxmqkjLNa2Bvs7cw/projection-sampling-preserves-capabilities-but-diminishes"
+    },
+    {
+      "text": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
+      "url": "https://www.lesswrong.com/posts/Z8jjgjfpAJocqZiET/screwtape-adversarial-transcript-editing-for-monitor-red"
+    },
+    {
+      "text": "CHATGPT CAN PEEK AT YOUR CHROME TABS NOW",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Tips for Multiagent Work with Claude Opus 5.5",
+      "url": "https://www.lesswrong.com/posts/5uyo9fsd2wbuzXZE4/tips-for-multiagent-work-with-claude-opus-5-5"
+    },
+    {
+      "text": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+    },
+    {
+      "text": "Large Language Models Naively Recover Ethnicity from Individual Records",
+      "url": "https://arxiv.org/abs/2601.21132"
+    },
+    {
+      "text": "Structure-Preserving Correction Learning for Sparse Bayesian Inference in Brain Source Imaging",
+      "url": "https://arxiv.org/abs/2606.07196"
+    },
+    {
+      "text": "Learning Changes the World and Then What Was Learned has Changed: Training and Deploying Neural Networks in the Control Loop",
+      "url": "https://arxiv.org/abs/2610.22084"
+    },
+    {
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
+    },
+    {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Pairwise AUC Optimization Needs Corrective Power: A Unified View",
+      "url": "https://arxiv.org/abs/2610.21743"
+    },
+    {
+      "text": "Let's Ask Gauss: Improved One-Run Privacy Auditing",
+      "url": "https://arxiv.org/abs/2606.12733"
+    },
+    {
+      "text": "CARE-SD: Explainable Reasoning Architecture for Local SLM Self-Disclosure Analysis in Textual Data",
+      "url": "https://arxiv.org/abs/2610.21151"
+    },
+    {
+      "text": "Evolutionary Multi-Task Optimization for LLM-Guided Program Discovery",
+      "url": "https://arxiv.org/abs/2605.22613"
+    },
+    {
+      "text": "Neurodata Without Boredom: Benchmarking Agentic AI for Data Reuse",
+      "url": "https://arxiv.org/abs/2605.12808"
+    },
+    {
+      "text": "Physics-Aware Distillation of a Grid Foundation Model for Real-Time Edge Inference",
+      "url": "https://arxiv.org/abs/2610.21833"
+    },
+    {
+      "text": "HAServe: Horizon-Aware Scheduling and Memory Co-Design for Efficient LLM Serving",
+      "url": "https://arxiv.org/abs/2605.08581"
+    },
+    {
+      "text": "Provably Efficient Risk-Sensitive Offline Reinforcement Learning via Optimized Certainty Equivalents",
+      "url": "https://arxiv.org/abs/2610.21870"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Wrong Votes, Right Gradients: Why Majority-Vote Rewards Track Verifiable RL",
+      "url": "https://arxiv.org/abs/2610.20898"
+    },
+    {
+      "text": "Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models",
+      "url": "https://arxiv.org/abs/2610.21195"
+    },
+    {
+      "text": "Second Maximum of a Gaussian Random Field and Exact (t-)Spacing test",
+      "url": "https://arxiv.org/abs/2406.18397"
+    },
+    {
+      "text": "GSM: Efficient Language Modeling with Shared Global State",
+      "url": "https://arxiv.org/abs/2609.33465"
+    },
+    {
+      "text": "DeciCAD: Harness-Grounded Learning of Action Policies for CAD Agents",
+      "url": "https://arxiv.org/abs/2610.21755"
+    },
+    {
+      "text": "Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling",
+      "url": "https://arxiv.org/abs/2610.20497"
+    },
+    {
+      "text": "RM-OPD: On-Policy Distillation for Generative Reward Models",
+      "url": "https://arxiv.org/abs/2610.20174"
+    },
+    {
+      "text": "Diviner: Agentic RCA with Human-Governed Adaptation for Large-Scale Infrastructure",
+      "url": "https://arxiv.org/abs/2610.21281"
+    }
+  ],
+  "lastUpdated": "2026-10-16T16:42:31Z"
+}
