@@ -5,99 +5,87 @@
   },
   "topStories": [
     {
-      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
-      "url": "https://arxiv.org/abs/2610.22273"
+      "text": "Astra and Sol can take low probability actions with no CoT",
+      "url": "https://www.lesswrong.com/posts/yEdknsLwbooQAnxX6/astra-and-sol-can-take-low-probability-actions-with-no-cot"
     },
     {
-      "text": "Large Language Models Naively Recover Ethnicity from Individual Records",
-      "url": "https://arxiv.org/abs/2601.21132"
+      "text": "CHATGPT CAN PEEK AT YOUR CHROME TABS NOW",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
     },
     {
-      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
-      "url": "https://arxiv.org/abs/2610.21780"
+      "text": "Headwinds Everywhere (in the Chinese AI Safety Field)",
+      "url": "https://www.lesswrong.com/posts/AdM6Sdg5fZPnrHWSe/headwinds-everywhere-in-the-chinese-ai-safety-field"
     }
   ],
   "leftColumn": [
     {
-      "text": "Structure-Preserving Correction Learning for Sparse Bayesian Inference in Brain Source Imaging",
-      "url": "https://arxiv.org/abs/2606.07196"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
+    },
+    {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
     },
     {
       "text": "Learning Changes the World and Then What Was Learned has Changed: Training and Deploying Neural Networks in the Control Loop",
       "url": "https://arxiv.org/abs/2610.22084"
     },
     {
-      "text": "Human Interventions as Labels: Localizing, Steering, and (Sometimes) Editing the Computations Behind LLM Agent Failures",
-      "url": "https://arxiv.org/abs/2610.21708"
+      "text": "Large Language Models Naively Recover Ethnicity from Individual Records",
+      "url": "https://arxiv.org/abs/2601.21132"
     },
     {
-      "text": "Training-Free Task Vectors for LLM Behavioral Control",
-      "url": "https://arxiv.org/abs/2609.09054"
+      "text": "Structure-Preserving Correction Learning for Sparse Bayesian Inference in Brain Source Imaging",
+      "url": "https://arxiv.org/abs/2606.07196"
     },
     {
-      "text": "RT-J: Large-Scale Pretraining of Relational Transformers for Context-Efficient Predictions",
-      "url": "https://arxiv.org/abs/2610.17867"
+      "text": "AMP PUTS AI AGENTS TO WORK BEYOND CODE WITH OPENAI MODELS",
+      "url": "https://openai.com/index/amp-beyond-coding"
     },
     {
-      "text": "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews",
-      "url": "https://arxiv.org/abs/2610.21046"
-    },
-    {
-      "text": "ABNAT: Attention-Based Noise-Aware Training for Robust Transformers on Analog Compute-in-Memory Systems",
-      "url": "https://arxiv.org/abs/2610.22065"
-    },
-    {
-      "text": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
-      "url": "https://arxiv.org/abs/2609.19705"
+      "text": "How can LLM RL Work Despite Information-Theoretic Inefficiency",
+      "url": "https://www.lesswrong.com/posts/TbrmHshmcQMobveD3/how-can-llm-rl-work-despite-information-theoretic"
     }
   ],
   "centerColumn": [
     {
-      "text": "Can LLMs Tell Stories Out of Order? A Corpus and Benchmark for Nonlinear Narrative Generation",
-      "url": "https://arxiv.org/abs/2610.21468"
+      "text": "CascadeLedger: Counterfactual Auditing of Information and Resource Integrity in LLM Cascades",
+      "url": "https://arxiv.org/abs/2610.20668"
     },
     {
-      "text": "Tourist arrival forecasting with game-theoretic social influence weighting and deep learning",
-      "url": "https://arxiv.org/abs/2507.03411"
+      "text": "ClaimScope: Label-Blind Witness Verification for Mathematical Claim Auditing",
+      "url": "https://arxiv.org/abs/2610.21581"
     },
     {
-      "text": "OnBodyAI - Why the Next AI Needs a Body",
-      "url": "https://arxiv.org/abs/2610.21137"
+      "text": "SCRIBE: Scalable Contextual Representations of Interpretable Brain-Grounded Semantics",
+      "url": "https://arxiv.org/abs/2610.21518"
     },
     {
-      "text": "CARE-SD: Explainable Reasoning Architecture for Local SLM Self-Disclosure Analysis in Textual Data",
-      "url": "https://arxiv.org/abs/2610.21151"
+      "text": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+      "url": "https://arxiv.org/abs/2610.20926"
     },
     {
-      "text": "Efficient Pairwise Difference Learning: A Comparative Study of Encoding Strategies and Training Pair Selection",
-      "url": "https://arxiv.org/abs/2610.21644"
-    },
-    {
-      "text": "BOLT: Universal Classifier Training via a Bayes-Error Upper Bound",
-      "url": "https://arxiv.org/abs/2501.07754"
+      "text": "DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding",
+      "url": "https://arxiv.org/abs/2610.21327"
     },
     {
       "text": "ShiftQAT: Quantization-Aware Training for the Numerical Contract of a Fixed-Function Edge CNN Accelerator",
       "url": "https://arxiv.org/abs/2610.21695"
     },
     {
-      "text": "Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs",
-      "url": "https://arxiv.org/abs/2610.22230"
+      "text": "Pairwise AUC Optimization Needs Corrective Power: A Unified View",
+      "url": "https://arxiv.org/abs/2610.21743"
+    },
+    {
+      "text": "Does Latent Chain-of-Thought Actually Reason? A Single, Unifying Taxonomy for Latent Reasoning",
+      "url": "https://arxiv.org/abs/2610.21182"
     }
   ],
   "rightColumn": [
-    {
-      "text": "Behavioral Compositionality of Sparse Autoencoder Representations",
-      "url": "https://arxiv.org/abs/2610.21261"
-    },
-    {
-      "text": "Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners",
-      "url": "https://arxiv.org/abs/2509.26226"
-    },
-    {
-      "text": "Diviner: Agentic RCA with Human-Governed Adaptation for Large-Scale Infrastructure",
-      "url": "https://arxiv.org/abs/2610.21281"
-    },
     {
       "text": "Mallea: Building, Steering, and Memorizing Worlds with Coding Agent",
       "url": "https://arxiv.org/abs/2610.21283"
@@ -107,17 +95,29 @@
       "url": "https://arxiv.org/abs/2610.21286"
     },
     {
-      "text": "Blockwise Stabilized Adaptive Cubic Regularization with Subsolvers via Recurrence",
-      "url": "https://arxiv.org/abs/2608.22129"
+      "text": "EVA-Cap: Optimizing Audiovisual Video Captioning via Event-Centric Alignment",
+      "url": "https://arxiv.org/abs/2610.22186"
     },
     {
       "text": "Money-Mule Detection as a Relational Learning Problem: A Study on the RBIH NFPC Dataset",
       "url": "https://arxiv.org/abs/2610.21314"
     },
     {
-      "text": "PureTD: Reinforcement Learning for Backgammon Money Games with No Evaluation-time Search",
-      "url": "https://arxiv.org/abs/2608.15146"
+      "text": "Learning When to Think: Utility-Guided Adaptive Reasoning for Efficient Text Retrieval",
+      "url": "https://arxiv.org/abs/2610.21030"
+    },
+    {
+      "text": "Router Drift Control: Mitigating Off-Policy Degradation in Mixture-of-Experts Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.21682"
+    },
+    {
+      "text": "VELD-QA: A Large-Scale Dataset for Visual Evidence Grounding and Question Answering in Long Documents",
+      "url": "https://arxiv.org/abs/2610.20964"
+    },
+    {
+      "text": "PAC-Causal Learnability: From Identification to Finite-Sample Guarantees",
+      "url": "https://arxiv.org/abs/2507.18903"
     }
   ],
-  "lastUpdated": "2026-10-16T04:13:32Z"
+  "lastUpdated": "2026-10-16T11:22:28Z"
 }
