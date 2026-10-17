@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+    "url": "https://www.lesswrong.com/posts/NW4b7m6798byAndeB/leaked-anthropic-draft-ai-regulatory-bill-is-unacceptable"
+  },
+  "topStories": [
+    {
+      "text": "RedwoodBench: Can Frontier Models Imitate Conceptual AI Safety Researchers?",
+      "url": "https://www.lesswrong.com/posts/gAnqGRgQ2bQ4jcur6/redwoodbench-can-frontier-models-imitate-conceptual-ai"
+    },
+    {
+      "text": "Small LLMs perform no-CoT two-hop reasoning on synthetic facts with real bridges",
+      "url": "https://www.lesswrong.com/posts/CdWbCvKEoK39L3DzK/small-llms-perform-no-cot-two-hop-reasoning-on-synthetic"
+    },
+    {
+      "text": "LLMs can improve CoT Controllability via Reward Laundering",
+      "url": "https://www.lesswrong.com/posts/S9gRZgqr3yLQ9aMmv/llms-can-improve-cot-controllability-via-reward-laundering"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Toward scalable capability evaluations",
+      "url": "https://www.lesswrong.com/posts/ki6RuP7vptjqf6QQ7/toward-scalable-capability-evaluations"
+    },
+    {
+      "text": "When should an AI assistant push back? Measuring warnings and unsolicited opinions on decisions you've already made",
+      "url": "https://www.lesswrong.com/posts/KEjY6JBbT5EPjvxBt/when-should-an-ai-assistant-push-back-measuring-warnings-and-1"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    },
+    {
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
+    },
+    {
+      "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "text": "CHATGPT CAN PEEK AT YOUR CHROME TABS NOW",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+    },
+    {
+      "text": "Control questions matter: introspection, refusal ablation, and gates in open Gemma models",
+      "url": "https://www.lesswrong.com/posts/7TxeC9WPc5LxpjgP8/control-questions-matter-introspection-refusal-ablation-and"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "ReTerm: Recovery Training for Self-Improving Terminal Agents",
+      "url": "https://arxiv.org/abs/2610.18484"
+    },
+    {
+      "text": "A primer on evaluation methods for large language models in healthcare",
+      "url": "https://arxiv.org/abs/2609.14819"
+    },
+    {
+      "text": "FDE-Gym: The Last Mile of AI Delivery",
+      "url": "https://arxiv.org/abs/2610.22350"
+    },
+    {
+      "text": "Specification Gaming and a Constrained Reinforcement Learning Mitigation in a Cleaning Gridworld",
+      "url": "https://arxiv.org/abs/2610.22152"
+    },
+    {
+      "text": "ChaosBench-Logic v2: Evaluating LLM Logical Reasoning over Dynamical Systems at Scale",
+      "url": "https://arxiv.org/abs/2605.24305"
+    },
+    {
+      "text": "SCRIBE: Scalable Contextual Representations of Interpretable Brain-Grounded Semantics",
+      "url": "https://arxiv.org/abs/2610.21518"
+    },
+    {
+      "text": "Momentum, Commentary Tone, and Earnings Surprise in LLM Financial Forecasts",
+      "url": "https://arxiv.org/abs/2610.22043"
+    },
+    {
+      "text": "Truth for Believable AI: Expressed Doubt, Provenance, and Belief Revision as an Engineerable Stance",
+      "url": "https://arxiv.org/abs/2609.26035"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Self-Programmed Execution for Language-Model Agents",
+      "url": "https://arxiv.org/abs/2605.06898"
+    },
+    {
+      "text": "PREPING: Zero-Task Agent Memory Construction via Self-Practice",
+      "url": "https://arxiv.org/abs/2605.13880"
+    },
+    {
+      "text": "Dexterity from Supervised Play",
+      "url": "https://arxiv.org/abs/2610.22340"
+    },
+    {
+      "text": "Generative Recursive Reasoning",
+      "url": "https://arxiv.org/abs/2605.19376"
+    },
+    {
+      "text": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+      "url": "https://arxiv.org/abs/2610.22328"
+    },
+    {
+      "text": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2605.23074"
+    },
+    {
+      "text": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
+      "url": "https://arxiv.org/abs/2610.22327"
+    },
+    {
+      "text": "KACE: Knowledge-Adaptive Context Engineering for Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2606.00532"
+    }
+  ],
+  "lastUpdated": "2026-10-17T15:36:00Z"
+}
