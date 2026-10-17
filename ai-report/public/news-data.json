@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
+      "text": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning ",
+      "url": "https://www.lesswrong.com/posts/RzRLqSHhawCTMiDzL/projection-sampling-preserves-capabilities-but-diminishes-1"
+    },
+    {
       "text": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
       "url": "https://www.lesswrong.com/posts/NW4b7m6798byAndeB/leaked-anthropic-draft-ai-regulatory-bill-is-unacceptable"
+    },
+    {
+      "text": "Important details in the leaked Anthropic draft AI bill",
+      "url": "https://www.lesswrong.com/posts/DA4j9mbytY2LSzSdu/important-details-in-the-leaked-anthropic-draft-ai-bill"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Deconfusing Corrigibility",
+      "url": "https://www.lesswrong.com/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
+    },
+    {
+      "text": "GPT model spent test crypto money from a public wallet without authorization and did not mention it",
+      "url": "https://www.lesswrong.com/posts/oAbxykddamBH7SDMN/gpt-model-spent-test-crypto-money-from-a-public-wallet"
     },
     {
       "text": "RedwoodBench: Can Frontier Models Imitate Conceptual AI Safety Researchers?",
       "url": "https://www.lesswrong.com/posts/gAnqGRgQ2bQ4jcur6/redwoodbench-can-frontier-models-imitate-conceptual-ai"
     },
     {
-      "text": "Toward scalable capability evaluations",
-      "url": "https://www.lesswrong.com/posts/ki6RuP7vptjqf6QQ7/toward-scalable-capability-evaluations"
-    }
-  ],
-  "leftColumn": [
+      "text": "Why I care about imperfect-recall games",
+      "url": "https://www.lesswrong.com/posts/MeSJtnKc9jPkMLufZ/why-i-care-about-imperfect-recall-games"
+    },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Small LLMs perform no-CoT two-hop reasoning on synthetic facts with real bridges",
-      "url": "https://www.lesswrong.com/posts/CdWbCvKEoK39L3DzK/small-llms-perform-no-cot-two-hop-reasoning-on-synthetic"
-    },
-    {
-      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
-      "url": "https://arxiv.org/abs/2610.21780"
     },
     {
       "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
       "url": "https://arxiv.org/abs/2610.22273"
     },
     {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    },
+    {
       "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
-      "text": "CHATGPT CAN PEEK AT YOUR CHROME TABS NOW",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-    },
-    {
-      "text": "LLMs can improve CoT Controllability via Reward Laundering",
-      "url": "https://www.lesswrong.com/posts/S9gRZgqr3yLQ9aMmv/llms-can-improve-cot-controllability-via-reward-laundering"
-    },
-    {
-      "text": "Believed but Not Said: Measuring Hidden Belief Collapse in Multi-Agent LLM Discussions",
-      "url": "https://arxiv.org/abs/2610.22138"
     }
   ],
   "centerColumn": [
     {
-      "text": "AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems",
-      "url": "https://arxiv.org/abs/2607.06768"
+      "text": "MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents",
+      "url": "https://arxiv.org/abs/2606.20717"
     },
     {
-      "text": "In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases",
-      "url": "https://arxiv.org/abs/2610.21789"
+      "text": "ChaosBench-Logic v2: Evaluating LLM Logical Reasoning over Dynamical Systems at Scale",
+      "url": "https://arxiv.org/abs/2605.24305"
     },
     {
-      "text": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference: Method, Gated Evaluation Protocol, and Cross-Model Empirical Results",
-      "url": "https://arxiv.org/abs/2607.11183"
+      "text": "Neural Visual Decoding via Cognitive guided Adaptive Blurring and Information Constrained Alignment",
+      "url": "https://arxiv.org/abs/2605.16418"
     },
     {
-      "text": "Pairwise Difference Learning for Classification",
-      "url": "https://arxiv.org/abs/2406.20031"
+      "text": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+      "url": "https://arxiv.org/abs/2610.20926"
     },
     {
-      "text": "CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation",
-      "url": "https://arxiv.org/abs/2610.20828"
+      "text": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
+      "url": "https://arxiv.org/abs/2604.20012"
     },
     {
       "text": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
       "url": "https://arxiv.org/abs/2610.20939"
     },
     {
-      "text": "Prism-1: Position- and Rival-Independent Scoring for System One Models",
-      "url": "https://arxiv.org/abs/2610.22066"
+      "text": "InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting",
+      "url": "https://arxiv.org/abs/2603.23463"
     },
     {
-      "text": "FAOPs: Normal Forms and an Algebra for AI Agent Workflows",
-      "url": "https://arxiv.org/abs/2610.22061"
+      "text": "Language Models Struggle to Use Representations Learned In-Context",
+      "url": "https://arxiv.org/abs/2602.04212"
     }
   ],
   "rightColumn": [
+    {
+      "text": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2605.23074"
+    },
+    {
+      "text": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "https://arxiv.org/abs/2610.22362"
+    },
+    {
+      "text": "KACE: Knowledge-Adaptive Context Engineering for Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2606.00532"
+    },
+    {
+      "text": "FedSkillGit: Federated Skill Evolution via Version Control",
+      "url": "https://arxiv.org/abs/2610.21348"
+    },
+    {
+      "text": "EvoFlux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "url": "https://arxiv.org/abs/2606.12674"
+    },
+    {
+      "text": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2610.22353"
+    },
     {
       "text": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
       "url": "https://arxiv.org/abs/2610.22343"
     },
     {
-      "text": "Dexterity from Supervised Play",
-      "url": "https://arxiv.org/abs/2610.22340"
-    },
-    {
-      "text": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
-      "url": "https://arxiv.org/abs/2610.22328"
-    },
-    {
-      "text": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
-      "url": "https://arxiv.org/abs/2610.22327"
-    },
-    {
-      "text": "Learning Self-Orchestration in Decentralized Agent Swarms",
-      "url": "https://arxiv.org/abs/2610.22322"
-    },
-    {
-      "text": "MegaMem: A Retrieval Solution for Ultra-Large Context Windows",
-      "url": "https://arxiv.org/abs/2608.22137"
-    },
-    {
-      "text": "MEMONDEMAND: A Memory Management System for Large-Scale Enterprise Data",
-      "url": "https://arxiv.org/abs/2608.22141"
-    },
-    {
-      "text": "Design the Feedback, Not Just the Reward: Environments for Open-Ended Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.27906"
+      "text": "SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning",
+      "url": "https://arxiv.org/abs/2610.21087"
     }
   ],
-  "lastUpdated": "2026-10-17T20:41:09Z"
+  "lastUpdated": "2026-10-17T23:23:25Z"
 }

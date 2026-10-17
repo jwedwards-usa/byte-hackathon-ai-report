@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI by Default",
+    "url": "https://www.lesswrong.com/posts/iQMzXuNJ3M6EEHZyv/ai-by-default"
+  },
+  "topStories": [
+    {
+      "text": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning ",
+      "url": "https://www.lesswrong.com/posts/RzRLqSHhawCTMiDzL/projection-sampling-preserves-capabilities-but-diminishes-1"
+    },
+    {
+      "text": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+      "url": "https://www.lesswrong.com/posts/NW4b7m6798byAndeB/leaked-anthropic-draft-ai-regulatory-bill-is-unacceptable"
+    },
+    {
+      "text": "Important details in the leaked Anthropic draft AI bill",
+      "url": "https://www.lesswrong.com/posts/DA4j9mbytY2LSzSdu/important-details-in-the-leaked-anthropic-draft-ai-bill"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Deconfusing Corrigibility",
+      "url": "https://www.lesswrong.com/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
+    },
+    {
+      "text": "GPT model spent test crypto money from a public wallet without authorization and did not mention it",
+      "url": "https://www.lesswrong.com/posts/oAbxykddamBH7SDMN/gpt-model-spent-test-crypto-money-from-a-public-wallet"
+    },
+    {
+      "text": "RedwoodBench: Can Frontier Models Imitate Conceptual AI Safety Researchers?",
+      "url": "https://www.lesswrong.com/posts/gAnqGRgQ2bQ4jcur6/redwoodbench-can-frontier-models-imitate-conceptual-ai"
+    },
+    {
+      "text": "Why I care about imperfect-recall games",
+      "url": "https://www.lesswrong.com/posts/MeSJtnKc9jPkMLufZ/why-i-care-about-imperfect-recall-games"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
+    },
+    {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    },
+    {
+      "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents",
+      "url": "https://arxiv.org/abs/2606.20717"
+    },
+    {
+      "text": "ChaosBench-Logic v2: Evaluating LLM Logical Reasoning over Dynamical Systems at Scale",
+      "url": "https://arxiv.org/abs/2605.24305"
+    },
+    {
+      "text": "Neural Visual Decoding via Cognitive guided Adaptive Blurring and Information Constrained Alignment",
+      "url": "https://arxiv.org/abs/2605.16418"
+    },
+    {
+      "text": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+      "url": "https://arxiv.org/abs/2610.20926"
+    },
+    {
+      "text": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
+      "url": "https://arxiv.org/abs/2604.20012"
+    },
+    {
+      "text": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+      "url": "https://arxiv.org/abs/2610.20939"
+    },
+    {
+      "text": "InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting",
+      "url": "https://arxiv.org/abs/2603.23463"
+    },
+    {
+      "text": "Language Models Struggle to Use Representations Learned In-Context",
+      "url": "https://arxiv.org/abs/2602.04212"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2605.23074"
+    },
+    {
+      "text": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "https://arxiv.org/abs/2610.22362"
+    },
+    {
+      "text": "KACE: Knowledge-Adaptive Context Engineering for Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2606.00532"
+    },
+    {
+      "text": "FedSkillGit: Federated Skill Evolution via Version Control",
+      "url": "https://arxiv.org/abs/2610.21348"
+    },
+    {
+      "text": "EvoFlux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "url": "https://arxiv.org/abs/2606.12674"
+    },
+    {
+      "text": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2610.22353"
+    },
+    {
+      "text": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+      "url": "https://arxiv.org/abs/2610.22343"
+    },
+    {
+      "text": "SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning",
+      "url": "https://arxiv.org/abs/2610.21087"
+    }
+  ],
+  "lastUpdated": "2026-10-17T23:23:25Z"
+}
