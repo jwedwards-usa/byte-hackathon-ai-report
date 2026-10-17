@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+    "url": "https://arxiv.org/abs/2610.22273"
+  },
+  "topStories": [
+    {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    },
+    {
+      "text": "Reinforcement Learning-driven Diffusion Models: Language, Vision, and Beyond",
+      "url": "https://arxiv.org/abs/2610.21539"
+    },
+    {
+      "text": "RT-J: Large-Scale Pretraining of Relational Transformers for Context-Efficient Predictions",
+      "url": "https://arxiv.org/abs/2610.17867"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Decomposing Brain-LLM Alignment with Interpretable Semantic Representations",
+      "url": "https://arxiv.org/abs/2610.21508"
+    },
+    {
+      "text": "Where Do LLM Ensemble Gains Come From? Decomposing Candidate Value, Diversity, and Aggregation",
+      "url": "https://arxiv.org/abs/2610.18786"
+    },
+    {
+      "text": "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts",
+      "url": "https://arxiv.org/abs/2609.12286"
+    },
+    {
+      "text": "Rubric Judgments Lack Uncertainty: Conformal Weighting for LLM Evaluation",
+      "url": "https://arxiv.org/abs/2610.21214"
+    },
+    {
+      "text": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
+      "url": "https://arxiv.org/abs/2608.14610"
+    },
+    {
+      "text": "GraphACM: Graph-based Action Consistency Measurement for Uncertainty Quantification in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.22031"
+    },
+    {
+      "text": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+      "url": "https://arxiv.org/abs/2609.19705"
+    },
+    {
+      "text": "Training-Free Task Vectors for LLM Behavioral Control",
+      "url": "https://arxiv.org/abs/2609.09054"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs",
+      "url": "https://arxiv.org/abs/2603.16557"
+    },
+    {
+      "text": "Open-world AI: a Tale of Three Requirements",
+      "url": "https://arxiv.org/abs/2610.20782"
+    },
+    {
+      "text": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+      "url": "https://arxiv.org/abs/2610.20786"
+    },
+    {
+      "text": "Improving Environment-Agnostic Coding Agents: The Role of Scaffolding",
+      "url": "https://arxiv.org/abs/2610.22289"
+    },
+    {
+      "text": "Training-Free On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.22236"
+    },
+    {
+      "text": "Decentralized LLM Workflows via Sequential Auctions",
+      "url": "https://arxiv.org/abs/2610.22201"
+    },
+    {
+      "text": "Mosaic: Multi-Session Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.22174"
+    },
+    {
+      "text": "Specification Gaming and a Constrained Reinforcement Learning Mitigation in a Cleaning Gridworld",
+      "url": "https://arxiv.org/abs/2610.22152"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "FedSkillGit: Federated Skill Evolution via Version Control",
+      "url": "https://arxiv.org/abs/2610.21348"
+    },
+    {
+      "text": "Self-Programmed Execution for Language-Model Agents",
+      "url": "https://arxiv.org/abs/2605.06898"
+    },
+    {
+      "text": "PREPING: Zero-Task Agent Memory Construction via Self-Practice",
+      "url": "https://arxiv.org/abs/2605.13880"
+    },
+    {
+      "text": "Router Drift Control: Mitigating Off-Policy Degradation in Mixture-of-Experts Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.21682"
+    },
+    {
+      "text": "Generative Recursive Reasoning",
+      "url": "https://arxiv.org/abs/2605.19376"
+    },
+    {
+      "text": "Wrong Votes, Right Gradients: Why Majority-Vote Rewards Track Verifiable RL",
+      "url": "https://arxiv.org/abs/2610.20898"
+    },
+    {
+      "text": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2605.23074"
+    },
+    {
+      "text": "Recursive Reward Improvement via Adversarial Meta-Prompt Evolution",
+      "url": "https://arxiv.org/abs/2610.21040"
+    }
+  ],
+  "lastUpdated": "2026-10-17T04:01:32Z"
+}
