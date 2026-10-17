@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Alignment is Missing a Causal Account",
+    "url": "https://www.lesswrong.com/posts/CcfeNTuZYhtzjwx8y/alignment-is-missing-a-causal-account"
+  },
+  "topStories": [
+    {
+      "text": "Toward scalable capability evaluations",
+      "url": "https://www.lesswrong.com/posts/ki6RuP7vptjqf6QQ7/toward-scalable-capability-evaluations"
+    },
+    {
+      "text": "When should an AI assistant push back? Measuring warnings and unsolicited opinions on decisions you've already made",
+      "url": "https://www.lesswrong.com/posts/KEjY6JBbT5EPjvxBt/when-should-an-ai-assistant-push-back-measuring-warnings-and-1"
+    },
+    {
+      "text": "Uncertainty in the Verbalizable Workspace",
+      "url": "https://www.lesswrong.com/posts/hcpiLD8XjK7cqG6Lr/uncertainty-in-the-verbalizable-workspace-1"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "How far is ZKP from compute verification in high-stakes environments?",
+      "url": "https://www.lesswrong.com/posts/4nbLw7tQFW77A8fJe/how-far-is-zkp-from-compute-verification-in-high-stakes"
+    },
+    {
+      "text": "CarrotParsnipBench: A Lightweight Multi-Agent Deception and Detection Eval",
+      "url": "https://www.lesswrong.com/posts/yaf3wGNfjGaPkoewA/carrotparsnipbench-a-lightweight-multi-agent-deception-and"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273"
+    },
+    {
+      "text": "DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization",
+      "url": "https://arxiv.org/abs/2610.21780"
+    },
+    {
+      "text": "Is your AI yours?",
+      "url": "https://www.lesswrong.com/posts/vKsZp73q23z7EdQaL/is-your-ai-yours"
+    },
+    {
+      "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "text": "CHATGPT CAN PEEK AT YOUR CHROME TABS NOW",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Prism-1: Position- and Rival-Independent Scoring for System One Models",
+      "url": "https://arxiv.org/abs/2610.22066"
+    },
+    {
+      "text": "FAOPs: Normal Forms and an Algebra for AI Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.22061"
+    },
+    {
+      "text": "What Coding Agents Leave Unsaid: Measuring Task-State Gaps Between Execution and Reports",
+      "url": "https://arxiv.org/abs/2610.20003"
+    },
+    {
+      "text": "Momentum, Commentary Tone, and Earnings Surprise in LLM Financial Forecasts",
+      "url": "https://arxiv.org/abs/2610.22043"
+    },
+    {
+      "text": "Priming Base Models for Agentic Post-Training: An Open Midtraining Recipe",
+      "url": "https://arxiv.org/abs/2610.22019"
+    },
+    {
+      "text": "GraphBEAT: Graph-based Bucketized Event Aggregation Over Time for Early Risk Stratification of Gastrointestinal Cancers",
+      "url": "https://arxiv.org/abs/2610.22014"
+    },
+    {
+      "text": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference: Method, Gated Evaluation Protocol, and Cross-Model Empirical Results",
+      "url": "https://arxiv.org/abs/2607.11183"
+    },
+    {
+      "text": "Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations",
+      "url": "https://arxiv.org/abs/2609.38625"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "GraphCompliance: Structure-Aware Regulatory Compliance through Policy-Context Graph Alignment",
+      "url": "https://arxiv.org/abs/2510.26309"
+    },
+    {
+      "text": "Atomic Proximal Policy Optimization for Electric Robo-Taxi Dispatch and Charger Allocation",
+      "url": "https://arxiv.org/abs/2502.13392"
+    },
+    {
+      "text": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2610.22372"
+    },
+    {
+      "text": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "url": "https://arxiv.org/abs/2610.22364"
+    },
+    {
+      "text": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "https://arxiv.org/abs/2610.22362"
+    },
+    {
+      "text": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2610.22353"
+    },
+    {
+      "text": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "url": "https://arxiv.org/abs/2610.20669"
+    },
+    {
+      "text": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+      "url": "https://arxiv.org/abs/2610.22343"
+    }
+  ],
+  "lastUpdated": "2026-10-17T10:43:38Z"
+}
