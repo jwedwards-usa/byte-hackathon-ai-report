@@ -1,30 +1,30 @@
 {
   "mainHeadline": {
-    "text": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
-    "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1"
+    "text": "Quick Thoughts on Overhang Arguments",
+    "url": "https://www.lesswrong.com/posts/aJSdGMzgFRFBcBhGp/quick-thoughts-on-overhang-arguments"
   },
   "topStories": [
     {
-      "text": "\"Holy shit\" graphs and how to get more of them",
-      "url": "https://www.lesswrong.com/posts/GK9p6NHEk8bkZQxH4/holy-shit-graphs-and-how-to-get-more-of-them-1"
-    },
-    {
-      "text": "Preparing for a Cybersecurity Catastrophe",
-      "url": "https://www.lesswrong.com/posts/8S5wwiJawN9v2dbmu/preparing-for-a-cybersecurity-catastrophe"
+      "text": "\nWas the HuggingFace hacking incident scheming?",
+      "url": "https://www.lesswrong.com/posts/F2feAMiHGAQgHHutg/was-the-huggingface-hacking-incident-scheming"
     },
     {
       "text": "Spontaneous verbal evidence synthesis in LLMs",
       "url": "https://www.lesswrong.com/posts/ZWNruQZnrH4Yeusj5/spontaneous-verbal-evidence-synthesis-in-llms"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "leftColumn": [
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
+      "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1"
     },
     {
-      "text": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
-      "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and"
+      "text": "Preparing for a Cybersecurity Catastrophe",
+      "url": "https://www.lesswrong.com/posts/8S5wwiJawN9v2dbmu/preparing-for-a-cybersecurity-catastrophe"
     },
     {
       "text": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
@@ -32,15 +32,7 @@
     },
     {
       "text": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
-      "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
-    },
-    {
-      "text": "Deconfusing Corrigibility",
-      "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
-    },
-    {
-      "text": "The Lightcone Needs You To Plan a Vacation",
-      "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation"
+      "url": "https://www.lesswrong.com/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
     },
     {
       "text": "Chain of Thought For Humans",
@@ -49,6 +41,14 @@
     {
       "text": "Giving AI a “crystal clear” view of the materials world",
       "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
+    },
+    {
+      "text": "Deconfusing Corrigibility",
+      "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
+    },
+    {
+      "text": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861"
     }
   ],
   "centerColumn": [
@@ -57,8 +57,12 @@
       "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557"
     },
     {
-      "text": "Knowingly Wrong",
-      "url": "https://www.lesswrong.com/posts/qmnrZ3YFpSKfLQ59b/knowingly-wrong"
+      "text": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
+      "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and"
+    },
+    {
+      "text": "The Lightcone Needs You To Plan a Vacation",
+      "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation"
     },
     {
       "text": "The Most Important Political Dimension is Certainty",
@@ -67,10 +71,6 @@
     {
       "text": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-    },
-    {
-      "text": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "url": "https://simonwillison.net/2026/Oct/16/code-review/"
     },
     {
       "text": "A woman was arrested in Philly for blocking a delivery robot",
@@ -87,8 +87,8 @@
   ],
   "rightColumn": [
     {
-      "text": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/"
+      "text": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/"
     },
     {
       "text": "Inferring the Host: A Bayesian Look at the Monty Hall Problem",
@@ -99,16 +99,16 @@
       "url": "https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree/"
     },
     {
-      "text": "Inline rendering with document​.currentScript",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
-    },
-    {
       "text": "Meta removes language that may have allowed it to scrape news sites",
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
     },
     {
       "text": "web-edit 0.1a2",
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
+    },
+    {
+      "text": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
     },
     {
       "text": "META SHAKES UP THE FRONTIERS, OPEN AND CLOSED",
@@ -125,5 +125,5 @@
       "url": "https://towardsdatascience.com/the-number-your-quantization-gate-doesnt-have/"
     }
   ],
-  "lastUpdated": "2026-10-18T20:46:26Z"
+  "lastUpdated": "2026-10-18T23:15:17Z"
 }
