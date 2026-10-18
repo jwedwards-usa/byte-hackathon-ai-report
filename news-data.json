@@ -1,16 +1,16 @@
 {
   "mainHeadline": {
-    "text": "\"Holy shit\" graphs and how to get more of them",
-    "url": "https://www.lesswrong.com/posts/GK9p6NHEk8bkZQxH4/holy-shit-graphs-and-how-to-get-more-of-them-1"
+    "text": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
+    "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1"
   },
   "topStories": [
     {
-      "text": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+      "text": "\"Holy shit\" graphs and how to get more of them",
+      "url": "https://www.lesswrong.com/posts/GK9p6NHEk8bkZQxH4/holy-shit-graphs-and-how-to-get-more-of-them-1"
     },
     {
-      "text": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
-      "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
+      "text": "Preparing for a Cybersecurity Catastrophe",
+      "url": "https://www.lesswrong.com/posts/8S5wwiJawN9v2dbmu/preparing-for-a-cybersecurity-catastrophe"
     },
     {
       "text": "Spontaneous verbal evidence synthesis in LLMs",
@@ -23,16 +23,24 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "If God is real why is there so much suffering in the animal kingdom?",
-      "url": "https://www.lesswrong.com/posts/HohwgwEwfS6KR8PYp/if-god-is-real-why-is-there-so-much-suffering-in-the-animal"
+      "text": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
+      "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and"
     },
     {
-      "text": "Important details in the leaked Anthropic draft AI bill",
-      "url": "https://www.lesswrong.com/posts/DA4j9mbytY2LSzSdu/important-details-in-the-leaked-anthropic-draft-ai-bill"
+      "text": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+    },
+    {
+      "text": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
+      "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
     },
     {
       "text": "Deconfusing Corrigibility",
       "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
+    },
+    {
+      "text": "The Lightcone Needs You To Plan a Vacation",
+      "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation"
     },
     {
       "text": "Chain of Thought For Humans",
@@ -41,24 +49,16 @@
     {
       "text": "Giving AI a “crystal clear” view of the materials world",
       "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-    },
-    {
-      "text": "Knowingly Wrong",
-      "url": "https://www.lesswrong.com/posts/qmnrZ3YFpSKfLQ59b/knowingly-wrong"
-    },
-    {
-      "text": "Why I care about imperfect-recall games",
-      "url": "https://www.lesswrong.com/posts/MeSJtnKc9jPkMLufZ/why-i-care-about-imperfect-recall-games"
     }
   ],
   "centerColumn": [
     {
-      "text": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai"
+      "text": "France's Appetite for 'Magic Money' Has Turned into a Debt Bomb",
+      "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557"
     },
     {
-      "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+      "text": "Knowingly Wrong",
+      "url": "https://www.lesswrong.com/posts/qmnrZ3YFpSKfLQ59b/knowingly-wrong"
     },
     {
       "text": "The Most Important Political Dimension is Certainty",
@@ -73,12 +73,12 @@
       "url": "https://simonwillison.net/2026/Oct/16/code-review/"
     },
     {
-      "text": "Inferring the Host: A Bayesian Look at the Monty Hall Problem",
-      "url": "https://towardsdatascience.com/inferring-the-host-a-bayesian-look-at-the-monty-hall-problem/"
+      "text": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
     },
     {
-      "text": "Both Charts Are Right. So Why Do They Disagree?",
-      "url": "https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree/"
+      "text": "Hyper Optimizing Kimi K3 in vLLM",
+      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel"
     },
     {
       "text": "When EEG Models See the Same People in Training and Testing",
@@ -87,16 +87,16 @@
   ],
   "rightColumn": [
     {
-      "text": "Notes on Group Theory",
-      "url": "https://www.lesswrong.com/posts/qLgK2NkGRRTvpPDRP/notes-on-group-theory"
-    },
-    {
       "text": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/"
     },
     {
-      "text": "Fostering community amid Kendall Square’s innovation",
-      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016"
+      "text": "Inferring the Host: A Bayesian Look at the Monty Hall Problem",
+      "url": "https://towardsdatascience.com/inferring-the-host-a-bayesian-look-at-the-monty-hall-problem/"
+    },
+    {
+      "text": "Both Charts Are Right. So Why Do They Disagree?",
+      "url": "https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree/"
     },
     {
       "text": "Inline rendering with document​.currentScript",
@@ -125,5 +125,5 @@
       "url": "https://towardsdatascience.com/the-number-your-quantization-gate-doesnt-have/"
     }
   ],
-  "lastUpdated": "2026-10-18T15:57:37Z"
+  "lastUpdated": "2026-10-18T20:46:26Z"
 }
