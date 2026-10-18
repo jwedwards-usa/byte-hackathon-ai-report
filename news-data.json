@@ -1,42 +1,42 @@
 {
   "mainHeadline": {
-    "text": "Spontaneous verbal evidence synthesis in LLMs",
-    "url": "https://www.lesswrong.com/posts/ZWNruQZnrH4Yeusj5/spontaneous-verbal-evidence-synthesis-in-llms"
+    "text": "\"Holy shit\" graphs and how to get more of them",
+    "url": "https://www.lesswrong.com/posts/GK9p6NHEk8bkZQxH4/holy-shit-graphs-and-how-to-get-more-of-them-1"
   },
   "topStories": [
     {
-      "text": "AI by Default",
-      "url": "https://www.lesswrong.com/posts/iQMzXuNJ3M6EEHZyv/ai-by-default"
+      "text": "Spontaneous verbal evidence synthesis in LLMs",
+      "url": "https://www.lesswrong.com/posts/ZWNruQZnrH4Yeusj5/spontaneous-verbal-evidence-synthesis-in-llms"
     },
     {
-      "text": "\"Holy shit\" graphs and how to get more of them",
-      "url": "https://www.lesswrong.com/posts/GK9p6NHEk8bkZQxH4/holy-shit-graphs-and-how-to-get-more-of-them-1"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning ",
-      "url": "https://www.lesswrong.com/posts/RzRLqSHhawCTMiDzL/projection-sampling-preserves-capabilities-but-diminishes-1"
+      "text": "Chain of Thought For Humans",
+      "url": "https://www.lesswrong.com/posts/FZ6FPNCfqikNgbyef/chain-of-thought-for-humans"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Giving AI a “crystal clear” view of the materials world",
-      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-    },
     {
       "text": "Important details in the leaked Anthropic draft AI bill",
       "url": "https://www.lesswrong.com/posts/DA4j9mbytY2LSzSdu/important-details-in-the-leaked-anthropic-draft-ai-bill"
     },
     {
       "text": "Deconfusing Corrigibility",
-      "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
+      "url": "https://www.lesswrong.com/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
     },
     {
-      "text": "GPT model spent test crypto money from a public wallet without authorization and did not mention it",
-      "url": "https://www.lesswrong.com/posts/oAbxykddamBH7SDMN/gpt-model-spent-test-crypto-money-from-a-public-wallet"
+      "text": "The Most Important Political Dimension is Certainty",
+      "url": "https://www.lesswrong.com/posts/egp2cSXbQH4qc5rgR/the-most-important-political-dimension-is-certainty"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Giving AI a “crystal clear” view of the materials world",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
+    },
+    {
+      "text": "Knowingly Wrong",
+      "url": "https://www.lesswrong.com/posts/qmnrZ3YFpSKfLQ59b/knowingly-wrong"
     },
     {
       "text": "Why I care about imperfect-recall games",
@@ -53,24 +53,24 @@
   ],
   "centerColumn": [
     {
+      "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    },
+    {
+      "text": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+    },
+    {
+      "text": "Thinking Too Much is Bad for Society",
+      "url": "https://www.lesswrong.com/posts/bwfFwdmcpAqBgpK9P/thinking-too-much-is-bad-for-society"
+    },
+    {
       "text": "When EEG Models See the Same People in Training and Testing",
       "url": "https://towardsdatascience.com/when-eeg-models-see-the-same-people-in-training-and-testing/"
     },
     {
       "text": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
       "url": "https://simonwillison.net/2026/Oct/16/code-review/"
-    },
-    {
-      "text": "Poking at the concept of Kegan developmental levels",
-      "url": "https://www.lesswrong.com/posts/rpDixh35hjGmP4bCX/poking-at-the-concept-of-kegan-developmental-levels"
-    },
-    {
-      "text": "GLP-1 may slow biological aging",
-      "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"
-    },
-    {
-      "text": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/"
     },
     {
       "text": "Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It",
@@ -87,6 +87,10 @@
   ],
   "rightColumn": [
     {
+      "text": "Notes on Group Theory",
+      "url": "https://www.lesswrong.com/posts/qLgK2NkGRRTvpPDRP/notes-on-group-theory"
+    },
+    {
       "text": "Meta removes language that may have allowed it to scrape news sites",
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
     },
@@ -95,12 +99,12 @@
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
     },
     {
-      "text": "Fostering community amid Kendall Square’s innovation",
-      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016"
+      "text": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/"
     },
     {
-      "text": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
+      "text": "Fostering community amid Kendall Square’s innovation",
+      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016"
     },
     {
       "text": "Inline rendering with document​.currentScript",
@@ -119,11 +123,7 @@
     {
       "text": "The Number Your Quantization Gate Doesn't Have",
       "url": "https://towardsdatascience.com/the-number-your-quantization-gate-doesnt-have/"
-    },
-    {
-      "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
     }
   ],
-  "lastUpdated": "2026-10-18T04:02:40Z"
+  "lastUpdated": "2026-10-18T11:00:07Z"
 }
