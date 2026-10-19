@@ -1,129 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Quick Thoughts on Overhang Arguments",
-    "url": "https://www.lesswrong.com/posts/aJSdGMzgFRFBcBhGp/quick-thoughts-on-overhang-arguments"
+    "text": "Can LLMs predict the outcomes of machine learning experiments?",
+    "url": "https://arxiv.org/abs/2610.22599"
   },
   "topStories": [
     {
-      "text": "\nWas the HuggingFace hacking incident scheming?",
-      "url": "https://www.lesswrong.com/posts/F2feAMiHGAQgHHutg/was-the-huggingface-hacking-incident-scheming"
+      "text": "Data-Efficient Classifier Pretraining Through Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.23289"
     },
     {
-      "text": "Spontaneous verbal evidence synthesis in LLMs",
-      "url": "https://www.lesswrong.com/posts/ZWNruQZnrH4Yeusj5/spontaneous-verbal-evidence-synthesis-in-llms"
+      "text": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
+      "url": "https://arxiv.org/abs/2610.23726"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "How I got my non-tech friends to learn about AI safety",
+      "url": "https://www.lesswrong.com/posts/zdiD6ux29YHCTyPaw/how-i-got-my-non-tech-friends-to-learn-about-ai-safety"
     }
   ],
   "leftColumn": [
     {
-      "text": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
-      "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1"
+      "text": "The Case for Building AI Safety Tools",
+      "url": "https://www.lesswrong.com/posts/swRuRr5BbyuQiFpwh/the-case-for-building-ai-safety-tools"
     },
     {
-      "text": "Preparing for a Cybersecurity Catastrophe",
-      "url": "https://www.lesswrong.com/posts/8S5wwiJawN9v2dbmu/preparing-for-a-cybersecurity-catastrophe"
+      "text": "Examining AI Swarm Efficiency with the AI Futures Model",
+      "url": "https://www.lesswrong.com/posts/Gi4mzoupy2NqsoL7d/examining-ai-swarm-efficiency-with-the-ai-futures-model"
     },
     {
-      "text": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+      "text": "Speculating LLMs' Chinese Training Data Pollution from Their Tokens",
+      "url": "https://arxiv.org/abs/2508.17771"
     },
     {
-      "text": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
-      "url": "https://www.lesswrong.com/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic"
+      "text": "Board gender diversity and emissions performance: Insights from panel regressions, machine learning, and explainable AI",
+      "url": "https://arxiv.org/abs/2510.00244"
     },
     {
-      "text": "Chain of Thought For Humans",
-      "url": "https://www.lesswrong.com/posts/FZ6FPNCfqikNgbyef/chain-of-thought-for-humans"
+      "text": "DIFFLET: A Fast Inference Engine for Diffusion Transformer Models on AWS Trainium",
+      "url": "https://arxiv.org/abs/2610.23047"
     },
     {
-      "text": "Giving AI a “crystal clear” view of the materials world",
-      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
+      "text": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
+      "url": "https://arxiv.org/abs/2606.31002"
     },
     {
-      "text": "Deconfusing Corrigibility",
-      "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility"
+      "text": "FSPO: Policy-Consistent Risk and Pareto-Feasible Control for Budgeted LLM RL Post-Training",
+      "url": "https://arxiv.org/abs/2610.02828"
     },
     {
-      "text": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861"
+      "text": "Chance-Constrained Personalized LLM Routing with Online Preference Learning",
+      "url": "https://arxiv.org/abs/2610.22695"
     }
   ],
   "centerColumn": [
     {
-      "text": "France's Appetite for 'Magic Money' Has Turned into a Debt Bomb",
-      "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557"
+      "text": "Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs",
+      "url": "https://arxiv.org/abs/2610.23788"
     },
     {
-      "text": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
-      "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and"
+      "text": "Benchmarking Prompt Optimization of Large Language Models With Chess",
+      "url": "https://arxiv.org/abs/2610.00416"
     },
     {
-      "text": "The Lightcone Needs You To Plan a Vacation",
-      "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation"
+      "text": "In Human Memories. Technology, Creativity and Self-Determination: An Ethical Proposal",
+      "url": "https://arxiv.org/abs/2610.23651"
     },
     {
-      "text": "The Most Important Political Dimension is Certainty",
-      "url": "https://www.lesswrong.com/posts/egp2cSXbQH4qc5rgR/the-most-important-political-dimension-is-certainty"
+      "text": "Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning",
+      "url": "https://arxiv.org/abs/2306.02002"
     },
     {
-      "text": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+      "text": "When Does Uncertainty Measure RAG Hallucination Risk?",
+      "url": "https://arxiv.org/abs/2610.22615"
     },
     {
-      "text": "A woman was arrested in Philly for blocking a delivery robot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+      "text": "The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls",
+      "url": "https://arxiv.org/abs/2610.22841"
     },
     {
-      "text": "Hyper Optimizing Kimi K3 in vLLM",
-      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel"
+      "text": "GRIT: Out-of-Distribution Robustness from Finite and Noisy Invariant Pairs",
+      "url": "https://arxiv.org/abs/2505.24843"
     },
     {
-      "text": "When EEG Models See the Same People in Training and Testing",
-      "url": "https://towardsdatascience.com/when-eeg-models-see-the-same-people-in-training-and-testing/"
+      "text": "FormInv: A Measurement Protocol for Semantic Invariance in Mathematical Reasoning Benchmarks",
+      "url": "https://arxiv.org/abs/2605.29001"
     }
   ],
   "rightColumn": [
     {
-      "text": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/"
+      "text": "Distributed Performance Boosting through Neural Control for Plug-and-Play Networks",
+      "url": "https://arxiv.org/abs/2610.23292"
     },
     {
-      "text": "Inferring the Host: A Bayesian Look at the Monty Hall Problem",
-      "url": "https://towardsdatascience.com/inferring-the-host-a-bayesian-look-at-the-monty-hall-problem/"
+      "text": "Learning angles for quantum approximate optimization",
+      "url": "https://arxiv.org/abs/2610.23296"
     },
     {
-      "text": "Both Charts Are Right. So Why Do They Disagree?",
-      "url": "https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree/"
+      "text": "How the elastic axis folds the transonic flutter boundary: shock energy transfer and conformally calibrated active learning",
+      "url": "https://arxiv.org/abs/2610.23298"
     },
     {
-      "text": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+      "text": "Look, Reason, Draw a Region: Recursive Refinement for Spatial Context Prediction",
+      "url": "https://arxiv.org/abs/2610.23302"
     },
     {
-      "text": "web-edit 0.1a2",
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
+      "text": "Property Estimation in Geotechnical Databases Using Labeled Random Finite Sets",
+      "url": "https://arxiv.org/abs/2410.22659"
     },
     {
-      "text": "Inline rendering with document​.currentScript",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
+      "text": "Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems",
+      "url": "https://arxiv.org/abs/2610.23372"
     },
     {
-      "text": "META SHAKES UP THE FRONTIERS, OPEN AND CLOSED",
-      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-      "image": {
-        "src": "https://substack-post-media.s3.amazonaws.com/public/images/95f73e17-9e3c-49ea-8d4c-e0ae87c89257_3182x1790.png",
-        "alt": "Meta shakes up the frontiers, open and closed",
-        "width": 600,
-        "height": 400
-      }
+      "text": "Data-Driven Prediction of Optimal MPI Rank Placement and Node Count for Memory-Bound CFD on AMD EPYC Clusters",
+      "url": "https://arxiv.org/abs/2610.23383"
     },
     {
-      "text": "The Number Your Quantization Gate Doesn't Have",
-      "url": "https://towardsdatascience.com/the-number-your-quantization-gate-doesnt-have/"
+      "text": "Sentence-Level Topic Modeling with Lexical and Contextual Evidence",
+      "url": "https://arxiv.org/abs/2610.23388"
     }
   ],
-  "lastUpdated": "2026-10-18T23:15:17Z"
+  "lastUpdated": "2026-10-19T04:21:17Z"
 }
