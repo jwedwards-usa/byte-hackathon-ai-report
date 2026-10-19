@@ -1,27 +1,23 @@
 {
   "mainHeadline": {
-    "text": "How Researchers Lie to AIs",
-    "url": "https://www.lesswrong.com/posts/rgDSPa2hP4FW9if6E/how-researchers-lie-to-ais"
+    "text": "AI as a Normal Technology should be a vision",
+    "url": "https://www.lesswrong.com/posts/3eD7Bab5kArqkdrQs/ai-as-a-normal-technology-should-be-a-vision"
   },
   "topStories": [
     {
-      "text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      "text": "Gradient Routing Localizes and Removes Unintended Behaviors in RL",
+      "url": "https://www.lesswrong.com/posts/mKJEBiuuxHKuCoTB6/gradient-routing-localizes-and-removes-unintended-behaviors"
     },
     {
-      "text": "Examining AI Swarm Efficiency with the AI Futures Model",
-      "url": "https://www.lesswrong.com/posts/Gi4mzoupy2NqsoL7d/examining-ai-swarm-efficiency-with-the-ai-futures-model"
+      "text": "Suffering Risks Belong in AI Prospectuses",
+      "url": "https://www.lesswrong.com/posts/G9LTeKN8WePoMnATS/suffering-risks-belong-in-ai-prospectuses"
     },
     {
-      "text": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/"
+      "text": "Twitch Plays: AI Interpretability of Bonsai-8B",
+      "url": "https://www.lesswrong.com/posts/ozbbzsh49wvgfbCDp/twitch-plays-ai-interpretability-of-bonsai-8b"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Data-Efficient Classifier Pretraining Through Diffusion Models",
-      "url": "https://arxiv.org/abs/2610.23289"
-    },
     {
       "text": "Can LLMs predict the outcomes of machine learning experiments?",
       "url": "https://arxiv.org/abs/2610.22599"
@@ -31,93 +27,97 @@
       "url": "https://arxiv.org/abs/2610.23726"
     },
     {
-      "text": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-      "url": "https://github.com/IsuruMaduranga/harness-engineering-101"
+      "text": "Data-Efficient Classifier Pretraining Through Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.23289"
     },
     {
-      "text": "More Capable Models Write Better Probe Evasion Prompts",
-      "url": "https://www.lesswrong.com/posts/fX3FA4ensmsdcZfcD/more-capable-models-write-better-probe-evasion-prompts"
+      "text": "How is \"prosaic aligned AI\" supposed to work?",
+      "url": "https://www.lesswrong.com/posts/YxCS3snoMRGDhyrZk/how-is-prosaic-aligned-ai-supposed-to-work"
+    },
+    {
+      "text": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+    },
+    {
+      "text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Democrats think cracking down on AI could give them an edge",
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
-    },
-    {
-      "text": "Speculating LLMs' Chinese Training Data Pollution from Their Tokens",
-      "url": "https://arxiv.org/abs/2508.17771"
+      "text": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
     }
   ],
   "centerColumn": [
     {
-      "text": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
-      "url": "https://arxiv.org/abs/2610.00328"
+      "text": "CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising",
+      "url": "https://arxiv.org/abs/2607.28236"
     },
     {
-      "text": "FAER: Auditable Utility-Aligned Trajectory Replay for Language Model Post-Training",
-      "url": "https://arxiv.org/abs/2610.00385"
+      "text": "The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls",
+      "url": "https://arxiv.org/abs/2610.22841"
     },
     {
-      "text": "Paint Outside the Box: Synthesizing and Selecting Training Data for Visual Grounding",
-      "url": "https://arxiv.org/abs/2412.00684"
+      "text": "Energy Overhead in Sensor Nodes: Embedded Machine Learning and Data Offloading via Low Power Wide Area Networks",
+      "url": "https://arxiv.org/abs/2510.24829"
     },
     {
-      "text": "Adaptive Conditional Residual Sampling for Spectral Risk Optimisation under Decision-Dependent Uncertainty",
-      "url": "https://arxiv.org/abs/2603.12507"
+      "text": "Competence-Based Evaluation of Logical Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.22894"
     },
     {
-      "text": "Cooperation Without Adaptation: LLM Agents in a Collective-Risk Dilemma",
-      "url": "https://arxiv.org/abs/2610.22882"
+      "text": "GRIT: Out-of-Distribution Robustness from Finite and Noisy Invariant Pairs",
+      "url": "https://arxiv.org/abs/2505.24843"
     },
     {
-      "text": "Bridging the Language Gap in Scholarly Data II: Enhancing Gender Inference for Chinese Names",
-      "url": "https://arxiv.org/abs/2610.23734"
+      "text": "Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning",
+      "url": "https://arxiv.org/abs/2306.02002"
     },
     {
-      "text": "Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors",
-      "url": "https://arxiv.org/abs/2610.22832"
+      "text": "Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.23610"
     },
     {
-      "text": "SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets",
-      "url": "https://arxiv.org/abs/2610.19869"
+      "text": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+      "url": "https://arxiv.org/abs/2610.23847"
     }
   ],
   "rightColumn": [
     {
-      "text": "ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning",
-      "url": "https://arxiv.org/abs/2610.22883"
-    },
-    {
-      "text": "Spectral Limits of Polynomial Graph Filters on the Long-Range Ising Model Benchmark",
-      "url": "https://arxiv.org/abs/2610.22713"
-    },
-    {
-      "text": "Batched Contextual Reinforcement II: Does RLVR Need Long Rollout Windows?",
-      "url": "https://arxiv.org/abs/2610.22887"
-    },
-    {
-      "text": "Causal Edit Serialization",
-      "url": "https://arxiv.org/abs/2610.22820"
-    },
-    {
-      "text": "Adaptive conformal prediction on the Grassmannian",
-      "url": "https://arxiv.org/abs/2610.23508"
-    },
-    {
-      "text": "Interpreting SSL Representations for Spoof Detection: a WavLM Study",
-      "url": "https://arxiv.org/abs/2610.23526"
-    },
-    {
-      "text": "Causal Discovery beyond Conditional Independence: Identifiability, Algorithms, and Statistical Inference for Directed Acyclic and Cyclic Graphs",
-      "url": "https://arxiv.org/abs/2610.23543"
+      "text": "Look, Reason, Draw a Region: Recursive Refinement for Spatial Context Prediction",
+      "url": "https://arxiv.org/abs/2610.23302"
     },
     {
       "text": "Replay Pruning and Few-Bit Integer Inference for Hardware-Efficient Speed-Sign Recognition",
       "url": "https://arxiv.org/abs/2610.22811"
+    },
+    {
+      "text": "Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems",
+      "url": "https://arxiv.org/abs/2610.23372"
+    },
+    {
+      "text": "Data-Driven Prediction of Optimal MPI Rank Placement and Node Count for Memory-Bound CFD on AMD EPYC Clusters",
+      "url": "https://arxiv.org/abs/2610.23383"
+    },
+    {
+      "text": "Sentence-Level Topic Modeling with Lexical and Contextual Evidence",
+      "url": "https://arxiv.org/abs/2610.23388"
+    },
+    {
+      "text": "Unit-level aggregation breaks coverage in causal foundation models",
+      "url": "https://arxiv.org/abs/2610.22770"
+    },
+    {
+      "text": "Next Token or Vector? Learning How Far to Decode",
+      "url": "https://arxiv.org/abs/2610.22788"
+    },
+    {
+      "text": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.22467"
     }
   ],
-  "lastUpdated": "2026-10-19T12:52:52Z"
+  "lastUpdated": "2026-10-19T20:45:06Z"
 }
