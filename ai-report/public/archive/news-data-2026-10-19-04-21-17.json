@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Can LLMs predict the outcomes of machine learning experiments?",
+    "url": "https://arxiv.org/abs/2610.22599"
+  },
+  "topStories": [
+    {
+      "text": "Data-Efficient Classifier Pretraining Through Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.23289"
+    },
+    {
+      "text": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
+      "url": "https://arxiv.org/abs/2610.23726"
+    },
+    {
+      "text": "How I got my non-tech friends to learn about AI safety",
+      "url": "https://www.lesswrong.com/posts/zdiD6ux29YHCTyPaw/how-i-got-my-non-tech-friends-to-learn-about-ai-safety"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Case for Building AI Safety Tools",
+      "url": "https://www.lesswrong.com/posts/swRuRr5BbyuQiFpwh/the-case-for-building-ai-safety-tools"
+    },
+    {
+      "text": "Examining AI Swarm Efficiency with the AI Futures Model",
+      "url": "https://www.lesswrong.com/posts/Gi4mzoupy2NqsoL7d/examining-ai-swarm-efficiency-with-the-ai-futures-model"
+    },
+    {
+      "text": "Speculating LLMs' Chinese Training Data Pollution from Their Tokens",
+      "url": "https://arxiv.org/abs/2508.17771"
+    },
+    {
+      "text": "Board gender diversity and emissions performance: Insights from panel regressions, machine learning, and explainable AI",
+      "url": "https://arxiv.org/abs/2510.00244"
+    },
+    {
+      "text": "DIFFLET: A Fast Inference Engine for Diffusion Transformer Models on AWS Trainium",
+      "url": "https://arxiv.org/abs/2610.23047"
+    },
+    {
+      "text": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
+      "url": "https://arxiv.org/abs/2606.31002"
+    },
+    {
+      "text": "FSPO: Policy-Consistent Risk and Pareto-Feasible Control for Budgeted LLM RL Post-Training",
+      "url": "https://arxiv.org/abs/2610.02828"
+    },
+    {
+      "text": "Chance-Constrained Personalized LLM Routing with Online Preference Learning",
+      "url": "https://arxiv.org/abs/2610.22695"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs",
+      "url": "https://arxiv.org/abs/2610.23788"
+    },
+    {
+      "text": "Benchmarking Prompt Optimization of Large Language Models With Chess",
+      "url": "https://arxiv.org/abs/2610.00416"
+    },
+    {
+      "text": "In Human Memories. Technology, Creativity and Self-Determination: An Ethical Proposal",
+      "url": "https://arxiv.org/abs/2610.23651"
+    },
+    {
+      "text": "Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning",
+      "url": "https://arxiv.org/abs/2306.02002"
+    },
+    {
+      "text": "When Does Uncertainty Measure RAG Hallucination Risk?",
+      "url": "https://arxiv.org/abs/2610.22615"
+    },
+    {
+      "text": "The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls",
+      "url": "https://arxiv.org/abs/2610.22841"
+    },
+    {
+      "text": "GRIT: Out-of-Distribution Robustness from Finite and Noisy Invariant Pairs",
+      "url": "https://arxiv.org/abs/2505.24843"
+    },
+    {
+      "text": "FormInv: A Measurement Protocol for Semantic Invariance in Mathematical Reasoning Benchmarks",
+      "url": "https://arxiv.org/abs/2605.29001"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Distributed Performance Boosting through Neural Control for Plug-and-Play Networks",
+      "url": "https://arxiv.org/abs/2610.23292"
+    },
+    {
+      "text": "Learning angles for quantum approximate optimization",
+      "url": "https://arxiv.org/abs/2610.23296"
+    },
+    {
+      "text": "How the elastic axis folds the transonic flutter boundary: shock energy transfer and conformally calibrated active learning",
+      "url": "https://arxiv.org/abs/2610.23298"
+    },
+    {
+      "text": "Look, Reason, Draw a Region: Recursive Refinement for Spatial Context Prediction",
+      "url": "https://arxiv.org/abs/2610.23302"
+    },
+    {
+      "text": "Property Estimation in Geotechnical Databases Using Labeled Random Finite Sets",
+      "url": "https://arxiv.org/abs/2410.22659"
+    },
+    {
+      "text": "Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems",
+      "url": "https://arxiv.org/abs/2610.23372"
+    },
+    {
+      "text": "Data-Driven Prediction of Optimal MPI Rank Placement and Node Count for Memory-Bound CFD on AMD EPYC Clusters",
+      "url": "https://arxiv.org/abs/2610.23383"
+    },
+    {
+      "text": "Sentence-Level Topic Modeling with Lexical and Contextual Evidence",
+      "url": "https://arxiv.org/abs/2610.23388"
+    }
+  ],
+  "lastUpdated": "2026-10-19T04:21:17Z"
+}
