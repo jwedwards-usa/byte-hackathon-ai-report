@@ -1,9 +1,13 @@
 {
   "mainHeadline": {
-    "text": "1000 Years of AI Safety",
-    "url": "https://www.lesswrong.com/posts/F532cjfTZHMbJqkNA/1000-years-of-ai-safety"
+    "text": "A brief(ish) introduction to LM psychology",
+    "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
   },
   "topStories": [
+    {
+      "text": "Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)",
+      "url": "https://www.lesswrong.com/posts/eXiXGMpyBqvHQarTA/which-ai-economics-and-governance-research-most-needs"
+    },
     {
       "text": "Firewalls for the Mind Before We Need Them",
       "url": "https://www.lesswrong.com/posts/GpKSAz3LFjiG7QJHq/firewalls-for-the-mind-before-we-need-them"
@@ -11,113 +15,109 @@
     {
       "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
       "url": "https://arxiv.org/abs/2610.24823"
-    },
-    {
-      "text": "A Tourist Mathematician’s Apologia: Living in a Human-AGI World",
-      "url": "https://www.lesswrong.com/posts/qWBJxLpnx67YLyAme/a-tourist-mathematician-s-apologia-living-in-a-human-agi"
     }
   ],
   "leftColumn": [
     {
-      "text": "Human or AI? Baroque Music Quiz Results \u0026 Analysis",
-      "url": "https://www.lesswrong.com/posts/JTe7mvvsiGABtMywk/human-or-ai-baroque-music-quiz-results-and-analysis"
-    },
-    {
-      "text": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
-    },
-    {
-      "text": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
-    },
-    {
-      "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
-      "url": "https://arxiv.org/abs/2610.24917"
+      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
+      "url": "https://arxiv.org/abs/2604.10311"
     },
     {
       "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
       "url": "https://arxiv.org/abs/2610.24123"
     },
     {
+      "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
+      "url": "https://arxiv.org/abs/2610.24917"
+    },
+    {
       "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
       "url": "https://arxiv.org/abs/2604.27775"
     },
     {
-      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
-      "url": "https://arxiv.org/abs/2604.10311"
+      "text": "OPENAI ACQUIRES ORCHESTRA BIO",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "ACS Infra: free access to large base models for LLM psychology research",
+      "url": "https://www.lesswrong.com/posts/yzaKWxsJzJjyExSAP/acs-infra-free-access-to-large-base-models-for-llm"
+    },
+    {
+      "text": "Agent Action Steering",
+      "url": "https://www.lesswrong.com/posts/foyyX4y9eGYYfELoH/agent-action-steering"
     }
   ],
   "centerColumn": [
     {
-      "text": "BanglaBBQ: A Bias Benchmark for Question Answering in the Bangladeshi Context",
-      "url": "https://arxiv.org/abs/2610.24764"
+      "text": "Minimum-Cost Robust Evidence Certificates for Horn Reasoning under Correlated Source Failures",
+      "url": "https://arxiv.org/abs/2610.25865"
     },
     {
-      "text": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.23928"
+      "text": "MASIF: Implicit Failures for Process Observability in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.25852"
     },
     {
-      "text": "Maestro: Agentic Formal Proof Development by Coordination",
-      "url": "https://arxiv.org/abs/2610.25920"
+      "text": "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation",
+      "url": "https://arxiv.org/abs/2610.25810"
     },
     {
-      "text": "Open-sci-ref-0.02: open reference baselines for reproducible language model and dataset comparison",
-      "url": "https://arxiv.org/abs/2509.09009"
+      "text": "A Cue's Hidden Price: Auditing Seller Influence on AI Shoppers",
+      "url": "https://arxiv.org/abs/2610.25843"
     },
     {
-      "text": "Do Knowledge and Reasoning Oriented Benchmarks Induce Stable Representation Signatures in LLMs?",
-      "url": "https://arxiv.org/abs/2610.24029"
+      "text": "Can LLM User-Proxies Stand In for Humans in Reliance Measurement? Replicating Rel-A.I. with Simulated Users",
+      "url": "https://arxiv.org/abs/2610.25788"
     },
     {
-      "text": "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding",
-      "url": "https://arxiv.org/abs/2610.23935"
+      "text": "Fine-Grained Units, Flat Decisions: Hierarchical Micro-Expert Pruning for Mixture-of-Experts Models",
+      "url": "https://arxiv.org/abs/2610.25717"
     },
     {
-      "text": "Beyond Prediction: A Component-Level Study of Concept Recovery in In-Context Learning",
-      "url": "https://arxiv.org/abs/2610.23936"
+      "text": "PFedQFT: Personalized Federated Quantum-Inspired Fine-Tuning for Medical Large Language Models",
+      "url": "https://arxiv.org/abs/2610.25712"
     },
     {
-      "text": "Dynamic gain neuromodulation attenuates stability gaps during continual joint training",
-      "url": "https://arxiv.org/abs/2507.14056"
+      "text": "Mechanism-Aligned Observability for Training Instability of Large Language Models",
+      "url": "https://arxiv.org/abs/2606.28116"
     }
   ],
   "rightColumn": [
     {
-      "text": "Smooth Flow Matching for Synthesizing Functional Data",
-      "url": "https://arxiv.org/abs/2508.13831"
+      "text": "Out-of-Distribution Detection in Continual Learning",
+      "url": "https://arxiv.org/abs/2610.25901"
     },
     {
-      "text": "How Well Do Vision-Language Models Understand Movies?",
-      "url": "https://arxiv.org/abs/2506.06275"
+      "text": "Large-Scale Biomedical RAG: Corpus Scaling, Document Representation, and Efficiency Trade-offs",
+      "url": "https://arxiv.org/abs/2610.26339"
     },
     {
-      "text": "To Trust Or Not To Trust Your Vision-Language Model's Prediction",
-      "url": "https://arxiv.org/abs/2505.23745"
+      "text": "Asynchronous On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.25880"
     },
     {
-      "text": "Generative Flows for Potential Outcomes and Counterfactuals",
-      "url": "https://arxiv.org/abs/2505.16051"
+      "text": "Index SLM Technical Report",
+      "url": "https://arxiv.org/abs/2607.09885"
     },
     {
-      "text": "Enhanced Masked Diffusion Unlearning",
-      "url": "https://arxiv.org/abs/2610.25447"
+      "text": "Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features",
+      "url": "https://arxiv.org/abs/2603.03096"
     },
     {
-      "text": "Security and Privacy Taxonomy Generation from Mobile App Reviews",
-      "url": "https://arxiv.org/abs/2608.09049"
+      "text": "One Head Away from Language Confusion: Single Attention Heads Across Model Families",
+      "url": "https://arxiv.org/abs/2610.25026"
     },
     {
-      "text": "ToolOPD: Credit-Aware On-Policy Distillation for Tool-Use Agents",
-      "url": "https://arxiv.org/abs/2610.25693"
+      "text": "GLOSS-MT: Controllable Low-Resource Machine Translation with an Editable Dictionary",
+      "url": "https://arxiv.org/abs/2610.24730"
     },
     {
-      "text": "Mitigating Data Reconstruction Attacks in Federated Learning: Conditions, Bounds, and Theoretical Guarantees",
-      "url": "https://arxiv.org/abs/2407.16735"
+      "text": "End-to-End Context Compression at Scale",
+      "url": "https://arxiv.org/abs/2606.09659"
     }
   ],
-  "lastUpdated": "2026-10-20T14:32:56Z"
+  "lastUpdated": "2026-10-20T19:28:22Z"
 }
