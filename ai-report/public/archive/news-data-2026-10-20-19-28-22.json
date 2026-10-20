@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "A brief(ish) introduction to LM psychology",
+    "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
+  },
+  "topStories": [
+    {
+      "text": "Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)",
+      "url": "https://www.lesswrong.com/posts/eXiXGMpyBqvHQarTA/which-ai-economics-and-governance-research-most-needs"
+    },
+    {
+      "text": "Firewalls for the Mind Before We Need Them",
+      "url": "https://www.lesswrong.com/posts/GpKSAz3LFjiG7QJHq/firewalls-for-the-mind-before-we-need-them"
+    },
+    {
+      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.24823"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
+      "url": "https://arxiv.org/abs/2604.10311"
+    },
+    {
+      "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
+      "url": "https://arxiv.org/abs/2610.24123"
+    },
+    {
+      "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
+      "url": "https://arxiv.org/abs/2610.24917"
+    },
+    {
+      "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
+      "url": "https://arxiv.org/abs/2604.27775"
+    },
+    {
+      "text": "OPENAI ACQUIRES ORCHESTRA BIO",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "ACS Infra: free access to large base models for LLM psychology research",
+      "url": "https://www.lesswrong.com/posts/yzaKWxsJzJjyExSAP/acs-infra-free-access-to-large-base-models-for-llm"
+    },
+    {
+      "text": "Agent Action Steering",
+      "url": "https://www.lesswrong.com/posts/foyyX4y9eGYYfELoH/agent-action-steering"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Minimum-Cost Robust Evidence Certificates for Horn Reasoning under Correlated Source Failures",
+      "url": "https://arxiv.org/abs/2610.25865"
+    },
+    {
+      "text": "MASIF: Implicit Failures for Process Observability in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.25852"
+    },
+    {
+      "text": "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation",
+      "url": "https://arxiv.org/abs/2610.25810"
+    },
+    {
+      "text": "A Cue's Hidden Price: Auditing Seller Influence on AI Shoppers",
+      "url": "https://arxiv.org/abs/2610.25843"
+    },
+    {
+      "text": "Can LLM User-Proxies Stand In for Humans in Reliance Measurement? Replicating Rel-A.I. with Simulated Users",
+      "url": "https://arxiv.org/abs/2610.25788"
+    },
+    {
+      "text": "Fine-Grained Units, Flat Decisions: Hierarchical Micro-Expert Pruning for Mixture-of-Experts Models",
+      "url": "https://arxiv.org/abs/2610.25717"
+    },
+    {
+      "text": "PFedQFT: Personalized Federated Quantum-Inspired Fine-Tuning for Medical Large Language Models",
+      "url": "https://arxiv.org/abs/2610.25712"
+    },
+    {
+      "text": "Mechanism-Aligned Observability for Training Instability of Large Language Models",
+      "url": "https://arxiv.org/abs/2606.28116"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Out-of-Distribution Detection in Continual Learning",
+      "url": "https://arxiv.org/abs/2610.25901"
+    },
+    {
+      "text": "Large-Scale Biomedical RAG: Corpus Scaling, Document Representation, and Efficiency Trade-offs",
+      "url": "https://arxiv.org/abs/2610.26339"
+    },
+    {
+      "text": "Asynchronous On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.25880"
+    },
+    {
+      "text": "Index SLM Technical Report",
+      "url": "https://arxiv.org/abs/2607.09885"
+    },
+    {
+      "text": "Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features",
+      "url": "https://arxiv.org/abs/2603.03096"
+    },
+    {
+      "text": "One Head Away from Language Confusion: Single Attention Heads Across Model Families",
+      "url": "https://arxiv.org/abs/2610.25026"
+    },
+    {
+      "text": "GLOSS-MT: Controllable Low-Resource Machine Translation with an Editable Dictionary",
+      "url": "https://arxiv.org/abs/2610.24730"
+    },
+    {
+      "text": "End-to-End Context Compression at Scale",
+      "url": "https://arxiv.org/abs/2606.09659"
+    }
+  ],
+  "lastUpdated": "2026-10-20T19:28:22Z"
+}
