@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "1000 Years of AI Safety",
+    "url": "https://www.lesswrong.com/posts/F532cjfTZHMbJqkNA/1000-years-of-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.24823"
+    },
+    {
+      "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
+      "url": "https://arxiv.org/abs/2610.24123"
+    },
+    {
+      "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
+      "url": "https://arxiv.org/abs/2604.27775"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
+      "url": "https://arxiv.org/abs/2604.10311"
+    },
+    {
+      "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
+      "url": "https://arxiv.org/abs/2610.24917"
+    },
+    {
+      "text": "Honeyed Words, Hidden Daggers: Benchmarking and Training LLMs to See Through Mock Politeness",
+      "url": "https://arxiv.org/abs/2610.26059"
+    },
+    {
+      "text": "RF-GPT: Teaching AI to See the Wireless World",
+      "url": "https://arxiv.org/abs/2602.14833"
+    },
+    {
+      "text": "Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment",
+      "url": "https://arxiv.org/abs/2610.08670"
+    },
+    {
+      "text": "Multimodal-Conditioned Latent Diffusion Models for Spatiotemporal Brain MRI Forecasting",
+      "url": "https://arxiv.org/abs/2610.25481"
+    },
+    {
+      "text": "Logit Averaging During Training Sets a New State of the Art for Non-Invasive Speech BCI",
+      "url": "https://arxiv.org/abs/2610.26347"
+    },
+    {
+      "text": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
+      "url": "https://arxiv.org/abs/2610.23941"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Honeypots for AI Agent Insider Threats",
+      "url": "https://arxiv.org/abs/2610.26664"
+    },
+    {
+      "text": "StebBench: Diagnosing Real-World Procedural Understanding in AI Agents",
+      "url": "https://arxiv.org/abs/2610.26679"
+    },
+    {
+      "text": "LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences",
+      "url": "https://arxiv.org/abs/2610.26787"
+    },
+    {
+      "text": "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation",
+      "url": "https://arxiv.org/abs/2610.25810"
+    },
+    {
+      "text": "AI estimation of partition functions with the PULSE method for the thermodynamic properties of disordered compounds",
+      "url": "https://arxiv.org/abs/2605.28594"
+    },
+    {
+      "text": "Exact Risk Certificates for Pairwise-Judged Reranking",
+      "url": "https://arxiv.org/abs/2610.24347"
+    },
+    {
+      "text": "What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes",
+      "url": "https://arxiv.org/abs/2610.24343"
+    },
+    {
+      "text": "Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained ASVs",
+      "url": "https://arxiv.org/abs/2610.23873"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
+      "url": "https://arxiv.org/abs/2610.25078"
+    },
+    {
+      "text": "Conformal Prediction-Enabled Sequence-level Policy Optimization for Reasoning Language Models",
+      "url": "https://arxiv.org/abs/2610.25092"
+    },
+    {
+      "text": "Completion-Aware Cross-Fidelity Offline-to-Online Reinforcement Learning for Multi-Line Bus Holding",
+      "url": "https://arxiv.org/abs/2609.39868"
+    },
+    {
+      "text": "Polynomial Learning of Positive ReLU Networks under Gaussian Inputs",
+      "url": "https://arxiv.org/abs/2610.25116"
+    },
+    {
+      "text": "FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation",
+      "url": "https://arxiv.org/abs/2609.36670"
+    },
+    {
+      "text": "Hyper Algorithm Design Agent: Evolving Learnable Optimizer from Zero",
+      "url": "https://arxiv.org/abs/2609.35328"
+    },
+    {
+      "text": "DoAtlas-2: A Foundation for Self-Evolving Causal Biomedical Discovery",
+      "url": "https://arxiv.org/abs/2609.35107"
+    },
+    {
+      "text": "FHKAN: Fractional Hermite Kolmogorov-Arnold Networks for Data-Driven and Physics-Informed Learning",
+      "url": "https://arxiv.org/abs/2610.25148"
+    }
+  ],
+  "lastUpdated": "2026-10-20T08:41:12Z"
+}
