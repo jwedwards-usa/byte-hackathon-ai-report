@@ -5,8 +5,34 @@
   },
   "topStories": [
     {
+      "text": "Firewalls for the Mind Before We Need Them",
+      "url": "https://www.lesswrong.com/posts/GpKSAz3LFjiG7QJHq/firewalls-for-the-mind-before-we-need-them"
+    },
+    {
       "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
       "url": "https://arxiv.org/abs/2610.24823"
+    },
+    {
+      "text": "A Tourist Mathematician’s Apologia: Living in a Human-AGI World",
+      "url": "https://www.lesswrong.com/posts/qWBJxLpnx67YLyAme/a-tourist-mathematician-s-apologia-living-in-a-human-agi"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Human or AI? Baroque Music Quiz Results \u0026 Analysis",
+      "url": "https://www.lesswrong.com/posts/JTe7mvvsiGABtMywk/human-or-ai-baroque-music-quiz-results-and-analysis"
+    },
+    {
+      "text": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
+    },
+    {
+      "text": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+    },
+    {
+      "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
+      "url": "https://arxiv.org/abs/2610.24917"
     },
     {
       "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
@@ -15,109 +41,83 @@
     {
       "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
       "url": "https://arxiv.org/abs/2604.27775"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "Gypscie: A Cross-Platform AI Artifact Management System",
       "url": "https://arxiv.org/abs/2604.10311"
     },
     {
-      "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
-      "url": "https://arxiv.org/abs/2610.24917"
-    },
-    {
-      "text": "Honeyed Words, Hidden Daggers: Benchmarking and Training LLMs to See Through Mock Politeness",
-      "url": "https://arxiv.org/abs/2610.26059"
-    },
-    {
-      "text": "RF-GPT: Teaching AI to See the Wireless World",
-      "url": "https://arxiv.org/abs/2602.14833"
-    },
-    {
-      "text": "Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment",
-      "url": "https://arxiv.org/abs/2610.08670"
-    },
-    {
-      "text": "Multimodal-Conditioned Latent Diffusion Models for Spatiotemporal Brain MRI Forecasting",
-      "url": "https://arxiv.org/abs/2610.25481"
-    },
-    {
-      "text": "Logit Averaging During Training Sets a New State of the Art for Non-Invasive Speech BCI",
-      "url": "https://arxiv.org/abs/2610.26347"
-    },
-    {
-      "text": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
-      "url": "https://arxiv.org/abs/2610.23941"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "centerColumn": [
     {
-      "text": "Honeypots for AI Agent Insider Threats",
-      "url": "https://arxiv.org/abs/2610.26664"
+      "text": "BanglaBBQ: A Bias Benchmark for Question Answering in the Bangladeshi Context",
+      "url": "https://arxiv.org/abs/2610.24764"
     },
     {
-      "text": "StebBench: Diagnosing Real-World Procedural Understanding in AI Agents",
-      "url": "https://arxiv.org/abs/2610.26679"
+      "text": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.23928"
     },
     {
-      "text": "LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences",
-      "url": "https://arxiv.org/abs/2610.26787"
+      "text": "Maestro: Agentic Formal Proof Development by Coordination",
+      "url": "https://arxiv.org/abs/2610.25920"
     },
     {
-      "text": "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation",
-      "url": "https://arxiv.org/abs/2610.25810"
+      "text": "Open-sci-ref-0.02: open reference baselines for reproducible language model and dataset comparison",
+      "url": "https://arxiv.org/abs/2509.09009"
     },
     {
-      "text": "AI estimation of partition functions with the PULSE method for the thermodynamic properties of disordered compounds",
-      "url": "https://arxiv.org/abs/2605.28594"
+      "text": "Do Knowledge and Reasoning Oriented Benchmarks Induce Stable Representation Signatures in LLMs?",
+      "url": "https://arxiv.org/abs/2610.24029"
     },
     {
-      "text": "Exact Risk Certificates for Pairwise-Judged Reranking",
-      "url": "https://arxiv.org/abs/2610.24347"
+      "text": "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.23935"
     },
     {
-      "text": "What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes",
-      "url": "https://arxiv.org/abs/2610.24343"
+      "text": "Beyond Prediction: A Component-Level Study of Concept Recovery in In-Context Learning",
+      "url": "https://arxiv.org/abs/2610.23936"
     },
     {
-      "text": "Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained ASVs",
-      "url": "https://arxiv.org/abs/2610.23873"
+      "text": "Dynamic gain neuromodulation attenuates stability gaps during continual joint training",
+      "url": "https://arxiv.org/abs/2507.14056"
     }
   ],
   "rightColumn": [
     {
-      "text": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
-      "url": "https://arxiv.org/abs/2610.25078"
+      "text": "Smooth Flow Matching for Synthesizing Functional Data",
+      "url": "https://arxiv.org/abs/2508.13831"
     },
     {
-      "text": "Conformal Prediction-Enabled Sequence-level Policy Optimization for Reasoning Language Models",
-      "url": "https://arxiv.org/abs/2610.25092"
+      "text": "How Well Do Vision-Language Models Understand Movies?",
+      "url": "https://arxiv.org/abs/2506.06275"
     },
     {
-      "text": "Completion-Aware Cross-Fidelity Offline-to-Online Reinforcement Learning for Multi-Line Bus Holding",
-      "url": "https://arxiv.org/abs/2609.39868"
+      "text": "To Trust Or Not To Trust Your Vision-Language Model's Prediction",
+      "url": "https://arxiv.org/abs/2505.23745"
     },
     {
-      "text": "Polynomial Learning of Positive ReLU Networks under Gaussian Inputs",
-      "url": "https://arxiv.org/abs/2610.25116"
+      "text": "Generative Flows for Potential Outcomes and Counterfactuals",
+      "url": "https://arxiv.org/abs/2505.16051"
     },
     {
-      "text": "FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation",
-      "url": "https://arxiv.org/abs/2609.36670"
+      "text": "Enhanced Masked Diffusion Unlearning",
+      "url": "https://arxiv.org/abs/2610.25447"
     },
     {
-      "text": "Hyper Algorithm Design Agent: Evolving Learnable Optimizer from Zero",
-      "url": "https://arxiv.org/abs/2609.35328"
+      "text": "Security and Privacy Taxonomy Generation from Mobile App Reviews",
+      "url": "https://arxiv.org/abs/2608.09049"
     },
     {
-      "text": "DoAtlas-2: A Foundation for Self-Evolving Causal Biomedical Discovery",
-      "url": "https://arxiv.org/abs/2609.35107"
+      "text": "ToolOPD: Credit-Aware On-Policy Distillation for Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2610.25693"
     },
     {
-      "text": "FHKAN: Fractional Hermite Kolmogorov-Arnold Networks for Data-Driven and Physics-Informed Learning",
-      "url": "https://arxiv.org/abs/2610.25148"
+      "text": "Mitigating Data Reconstruction Attacks in Federated Learning: Conditions, Bounds, and Theoretical Guarantees",
+      "url": "https://arxiv.org/abs/2407.16735"
     }
   ],
-  "lastUpdated": "2026-10-20T08:41:12Z"
+  "lastUpdated": "2026-10-20T14:32:56Z"
 }
