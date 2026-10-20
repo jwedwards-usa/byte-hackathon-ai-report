@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI as a Normal Technology should be a vision",
+    "url": "https://www.lesswrong.com/posts/3eD7Bab5kArqkdrQs/ai-as-a-normal-technology-should-be-a-vision"
+  },
+  "topStories": [
+    {
+      "text": "A Video by Adam Conover and the “A.I. Distraction Narrative”",
+      "url": "https://www.lesswrong.com/posts/9RRqT2EdysASmdRmt/a-video-by-adam-conover-and-the-a-i-distraction-narrative"
+    },
+    {
+      "text": "GLM-5.1 Has ~Astra Level CoT Control",
+      "url": "https://www.lesswrong.com/posts/q3pckKRxRXWBthbKb/glm-5-1-has-astra-level-cot-control"
+    },
+    {
+      "text": "Gradient Routing Localizes and Removes Unintended Behaviors in RL",
+      "url": "https://www.lesswrong.com/posts/mKJEBiuuxHKuCoTB6/gradient-routing-localizes-and-removes-unintended-behaviors"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Data-Efficient Classifier Pretraining Through Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.23289"
+    },
+    {
+      "text": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
+      "url": "https://arxiv.org/abs/2610.23726"
+    },
+    {
+      "text": "Can LLMs predict the outcomes of machine learning experiments?",
+      "url": "https://arxiv.org/abs/2610.22599"
+    },
+    {
+      "text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "My obituary for programming",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+    },
+    {
+      "text": "Human vs AI in Go in 2026: Lessons for superintelligence?",
+      "url": "https://www.lesswrong.com/posts/FZmEpvcdbgnRLmAKg/human-vs-ai-in-go-in-2026-lessons-for-superintelligence"
+    },
+    {
+      "text": "Speculating LLMs' Chinese Training Data Pollution from Their Tokens",
+      "url": "https://arxiv.org/abs/2508.17771"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Language Models Learn to Improve Language Models",
+      "url": "https://arxiv.org/abs/2610.23344"
+    },
+    {
+      "text": "ECG-SDI: Single-lead Electrocardiogram Enables Continuous Sleep Depth Index Profiling and Scalable Digital Biomarkers for Sleep Health",
+      "url": "https://arxiv.org/abs/2610.23727"
+    },
+    {
+      "text": "When Magnitude Suffices: Reconstructing Time-Domain-Gated Microwave Signals Without Phase on a Thoracic Phantom",
+      "url": "https://arxiv.org/abs/2610.23608"
+    },
+    {
+      "text": "From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability",
+      "url": "https://arxiv.org/abs/2610.23760"
+    },
+    {
+      "text": "In Human Memories. Technology, Creativity and Self-Determination: An Ethical Proposal",
+      "url": "https://arxiv.org/abs/2610.23651"
+    },
+    {
+      "text": "Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs",
+      "url": "https://arxiv.org/abs/2610.23788"
+    },
+    {
+      "text": "BMuon: Budgeting Muon's Spectral Geometry for Structured Compressibility",
+      "url": "https://arxiv.org/abs/2610.23571"
+    },
+    {
+      "text": "The Statistical Fairness-Accuracy Frontier",
+      "url": "https://arxiv.org/abs/2508.17622"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Grounded Credit Assignment in Reinforcement Learning for Multi-Turn Search Agents",
+      "url": "https://arxiv.org/abs/2610.23148"
+    },
+    {
+      "text": "Thunder-DeID+: Boundary-Aware Korean De-identification from Court Judgments to Broader Sensitive Documents",
+      "url": "https://arxiv.org/abs/2610.22733"
+    },
+    {
+      "text": "How Well Do Prior-Data Fitted Networks Amortize Bayesian Inference?",
+      "url": "https://arxiv.org/abs/2610.13764"
+    },
+    {
+      "text": "Where's the Indirect Evidence? Investigating Grammatical Generalization with Influence Functions",
+      "url": "https://arxiv.org/abs/2610.22919"
+    },
+    {
+      "text": "Learning Personalized Memory Gating from Delayed One-Sided Feedback",
+      "url": "https://arxiv.org/abs/2610.23812"
+    },
+    {
+      "text": "ROUTEAUDIT: Interaction-Aware Identification for Budgeted Multi-Verifier Routing",
+      "url": "https://arxiv.org/abs/2610.02808"
+    },
+    {
+      "text": "Watermarkability: Measuring and Improving Language-Model Compatibility with Logit-Based Watermarks",
+      "url": "https://arxiv.org/abs/2610.22810"
+    },
+    {
+      "text": "Causal Edit Serialization",
+      "url": "https://arxiv.org/abs/2610.22820"
+    }
+  ],
+  "lastUpdated": "2026-10-20T00:30:32Z"
+}
