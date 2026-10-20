@@ -5,38 +5,30 @@
   },
   "topStories": [
     {
+      "text": "A Video by Adam Conover and the “A.I. Distraction Narrative”",
+      "url": "https://www.lesswrong.com/posts/9RRqT2EdysASmdRmt/a-video-by-adam-conover-and-the-a-i-distraction-narrative"
+    },
+    {
+      "text": "GLM-5.1 Has ~Astra Level CoT Control",
+      "url": "https://www.lesswrong.com/posts/q3pckKRxRXWBthbKb/glm-5-1-has-astra-level-cot-control"
+    },
+    {
       "text": "Gradient Routing Localizes and Removes Unintended Behaviors in RL",
       "url": "https://www.lesswrong.com/posts/mKJEBiuuxHKuCoTB6/gradient-routing-localizes-and-removes-unintended-behaviors"
-    },
-    {
-      "text": "Suffering Risks Belong in AI Prospectuses",
-      "url": "https://www.lesswrong.com/posts/G9LTeKN8WePoMnATS/suffering-risks-belong-in-ai-prospectuses"
-    },
-    {
-      "text": "Twitch Plays: AI Interpretability of Bonsai-8B",
-      "url": "https://www.lesswrong.com/posts/ozbbzsh49wvgfbCDp/twitch-plays-ai-interpretability-of-bonsai-8b"
     }
   ],
   "leftColumn": [
     {
-      "text": "Can LLMs predict the outcomes of machine learning experiments?",
-      "url": "https://arxiv.org/abs/2610.22599"
+      "text": "Data-Efficient Classifier Pretraining Through Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.23289"
     },
     {
       "text": "RedDarwin: Evolving Jailbreak Skills against Frontier LLMs",
       "url": "https://arxiv.org/abs/2610.23726"
     },
     {
-      "text": "Data-Efficient Classifier Pretraining Through Diffusion Models",
-      "url": "https://arxiv.org/abs/2610.23289"
-    },
-    {
-      "text": "How is \"prosaic aligned AI\" supposed to work?",
-      "url": "https://www.lesswrong.com/posts/YxCS3snoMRGDhyrZk/how-is-prosaic-aligned-ai-supposed-to-work"
-    },
-    {
-      "text": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+      "text": "Can LLMs predict the outcomes of machine learning experiments?",
+      "url": "https://arxiv.org/abs/2610.22599"
     },
     {
       "text": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
@@ -47,77 +39,85 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+      "text": "My obituary for programming",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+    },
+    {
+      "text": "Human vs AI in Go in 2026: Lessons for superintelligence?",
+      "url": "https://www.lesswrong.com/posts/FZmEpvcdbgnRLmAKg/human-vs-ai-in-go-in-2026-lessons-for-superintelligence"
+    },
+    {
+      "text": "Speculating LLMs' Chinese Training Data Pollution from Their Tokens",
+      "url": "https://arxiv.org/abs/2508.17771"
     }
   ],
   "centerColumn": [
     {
-      "text": "CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising",
-      "url": "https://arxiv.org/abs/2607.28236"
+      "text": "Language Models Learn to Improve Language Models",
+      "url": "https://arxiv.org/abs/2610.23344"
     },
     {
-      "text": "The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls",
-      "url": "https://arxiv.org/abs/2610.22841"
+      "text": "ECG-SDI: Single-lead Electrocardiogram Enables Continuous Sleep Depth Index Profiling and Scalable Digital Biomarkers for Sleep Health",
+      "url": "https://arxiv.org/abs/2610.23727"
     },
     {
-      "text": "Energy Overhead in Sensor Nodes: Embedded Machine Learning and Data Offloading via Low Power Wide Area Networks",
-      "url": "https://arxiv.org/abs/2510.24829"
+      "text": "When Magnitude Suffices: Reconstructing Time-Domain-Gated Microwave Signals Without Phase on a Thoracic Phantom",
+      "url": "https://arxiv.org/abs/2610.23608"
     },
     {
-      "text": "Competence-Based Evaluation of Logical Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2610.22894"
+      "text": "From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability",
+      "url": "https://arxiv.org/abs/2610.23760"
     },
     {
-      "text": "GRIT: Out-of-Distribution Robustness from Finite and Noisy Invariant Pairs",
-      "url": "https://arxiv.org/abs/2505.24843"
+      "text": "In Human Memories. Technology, Creativity and Self-Determination: An Ethical Proposal",
+      "url": "https://arxiv.org/abs/2610.23651"
     },
     {
-      "text": "Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning",
-      "url": "https://arxiv.org/abs/2306.02002"
+      "text": "Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs",
+      "url": "https://arxiv.org/abs/2610.23788"
     },
     {
-      "text": "Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.23610"
+      "text": "BMuon: Budgeting Muon's Spectral Geometry for Structured Compressibility",
+      "url": "https://arxiv.org/abs/2610.23571"
     },
     {
-      "text": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-      "url": "https://arxiv.org/abs/2610.23847"
+      "text": "The Statistical Fairness-Accuracy Frontier",
+      "url": "https://arxiv.org/abs/2508.17622"
     }
   ],
   "rightColumn": [
     {
-      "text": "Look, Reason, Draw a Region: Recursive Refinement for Spatial Context Prediction",
-      "url": "https://arxiv.org/abs/2610.23302"
+      "text": "Grounded Credit Assignment in Reinforcement Learning for Multi-Turn Search Agents",
+      "url": "https://arxiv.org/abs/2610.23148"
     },
     {
-      "text": "Replay Pruning and Few-Bit Integer Inference for Hardware-Efficient Speed-Sign Recognition",
-      "url": "https://arxiv.org/abs/2610.22811"
+      "text": "Thunder-DeID+: Boundary-Aware Korean De-identification from Court Judgments to Broader Sensitive Documents",
+      "url": "https://arxiv.org/abs/2610.22733"
     },
     {
-      "text": "Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems",
-      "url": "https://arxiv.org/abs/2610.23372"
+      "text": "How Well Do Prior-Data Fitted Networks Amortize Bayesian Inference?",
+      "url": "https://arxiv.org/abs/2610.13764"
     },
     {
-      "text": "Data-Driven Prediction of Optimal MPI Rank Placement and Node Count for Memory-Bound CFD on AMD EPYC Clusters",
-      "url": "https://arxiv.org/abs/2610.23383"
+      "text": "Where's the Indirect Evidence? Investigating Grammatical Generalization with Influence Functions",
+      "url": "https://arxiv.org/abs/2610.22919"
     },
     {
-      "text": "Sentence-Level Topic Modeling with Lexical and Contextual Evidence",
-      "url": "https://arxiv.org/abs/2610.23388"
+      "text": "Learning Personalized Memory Gating from Delayed One-Sided Feedback",
+      "url": "https://arxiv.org/abs/2610.23812"
     },
     {
-      "text": "Unit-level aggregation breaks coverage in causal foundation models",
-      "url": "https://arxiv.org/abs/2610.22770"
+      "text": "ROUTEAUDIT: Interaction-Aware Identification for Budgeted Multi-Verifier Routing",
+      "url": "https://arxiv.org/abs/2610.02808"
     },
     {
-      "text": "Next Token or Vector? Learning How Far to Decode",
-      "url": "https://arxiv.org/abs/2610.22788"
+      "text": "Watermarkability: Measuring and Improving Language-Model Compatibility with Logit-Based Watermarks",
+      "url": "https://arxiv.org/abs/2610.22810"
     },
     {
-      "text": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.22467"
+      "text": "Causal Edit Serialization",
+      "url": "https://arxiv.org/abs/2610.22820"
     }
   ],
-  "lastUpdated": "2026-10-19T20:45:06Z"
+  "lastUpdated": "2026-10-20T00:30:32Z"
 }
