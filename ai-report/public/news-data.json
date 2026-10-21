@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
-    "url": "https://arxiv.org/abs/2610.24823"
+    "text": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+    "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
   },
   "topStories": [
     {
-      "text": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
-      "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
-    },
-    {
-      "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
-      "url": "https://arxiv.org/abs/2604.27775"
+      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.24823"
     },
     {
       "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
       "url": "https://arxiv.org/abs/2610.24123"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Inferring continuous cognitive traits from limited neuroimaging data using pairwise convolutional neural networks",
-      "url": "https://arxiv.org/abs/2610.27668"
     },
     {
       "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
       "url": "https://arxiv.org/abs/2610.24917"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
+      "url": "https://arxiv.org/abs/2604.27775"
     },
     {
       "text": "Stronger artificial intelligence breakthroughs hasten their own exhaustion",
       "url": "https://arxiv.org/abs/2610.27296"
     },
     {
-      "text": "A brief(ish) introduction to LM psychology",
-      "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
+      "text": "Inferring continuous cognitive traits from limited neuroimaging data using pairwise convolutional neural networks",
+      "url": "https://arxiv.org/abs/2610.27668"
+    },
+    {
+      "text": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
       "text": "Dinners for AI Safety",
       "url": "https://www.lesswrong.com/posts/rLtHDaLYHpNAvdSeL/dinners-for-ai-safety"
     },
     {
-      "text": "Accelerated Drift of Scientific Prose in the LLM Era: Evidence from an Interrupted Time-Series Analysis",
-      "url": "https://arxiv.org/abs/2610.26008"
+      "text": "Sleep Stage Classification across Heterogeneous EEG/EOG Channels with Multi-Channel Differential Transformer",
+      "url": "https://arxiv.org/abs/2508.15215"
     },
     {
-      "text": "RAFT: Redundancy-Aware Input Filtering for Temporal Graph Neural Network Training",
-      "url": "https://arxiv.org/abs/2610.24875"
-    },
-    {
-      "text": "Ben-Misandry: A Bengali Dataset and Late-Fusion Transformer Framework for Detecting Anti-Male Gender Hate",
-      "url": "https://arxiv.org/abs/2610.24474"
+      "text": "MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers",
+      "url": "https://arxiv.org/abs/2610.25431"
     }
   ],
   "centerColumn": [
     {
-      "text": "Persistent Representational Misalignment Induces Vision-Language Model Failures",
-      "url": "https://arxiv.org/abs/2610.25252"
+      "text": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2610.24051"
     },
     {
-      "text": "Federated Learning for Malware Image Classification under Data Heterogeneity",
-      "url": "https://arxiv.org/abs/2610.25264"
+      "text": "What Do RTL Repair Benchmarks Actually Measure?",
+      "url": "https://arxiv.org/abs/2610.28595"
     },
     {
-      "text": "Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2604.18473"
+      "text": "Evolving Agent Interfaces",
+      "url": "https://arxiv.org/abs/2610.28601"
     },
     {
-      "text": "VLA-Retain: Benchmarking Cross-Dimension Effects of Vision Tuning in VLAs",
-      "url": "https://arxiv.org/abs/2610.27698"
+      "text": "Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims",
+      "url": "https://arxiv.org/abs/2606.02493"
     },
     {
-      "text": "Claims of emergence in AI should be grounded in information decomposition",
-      "url": "https://arxiv.org/abs/2610.28479"
+      "text": "Exact Risk Certificates for Pairwise-Judged Reranking",
+      "url": "https://arxiv.org/abs/2610.24347"
     },
     {
-      "text": "On the Role of Batch Size in Stochastic Conditional Gradient Methods",
-      "url": "https://arxiv.org/abs/2603.21191"
+      "text": "What Remains Without Test Labels? Re-evaluating a Graph-Level Anomaly Detection Benchmark",
+      "url": "https://arxiv.org/abs/2610.24045"
     },
     {
-      "text": "Proof-Carrying Contracts: Commitments AI Agents Cannot Break",
-      "url": "https://arxiv.org/abs/2610.28484"
+      "text": "Do Knowledge and Reasoning Oriented Benchmarks Induce Stable Representation Signatures in LLMs?",
+      "url": "https://arxiv.org/abs/2610.24029"
     },
     {
-      "text": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
-      "url": "https://arxiv.org/abs/2610.26828"
+      "text": "Fine-Tuning Small Language Models for Reliable VASP INCAR Generation",
+      "url": "https://arxiv.org/abs/2608.05387"
     }
   ],
   "rightColumn": [
     {
-      "text": "Token-Set Choice Confounds POPE: A Systematic Audit of Yes/No Extraction in VLM Hallucination Evaluation",
-      "url": "https://arxiv.org/abs/2610.25964"
+      "text": "Dynamical Kernel Attention: Estimating the Present from a Record of the Past",
+      "url": "https://arxiv.org/abs/2610.24026"
     },
     {
-      "text": "Out-of-Distribution Detection in Continual Learning",
-      "url": "https://arxiv.org/abs/2610.25901"
+      "text": "Graph-to-Table Interfaces Control Relational Generalisation",
+      "url": "https://arxiv.org/abs/2610.25993"
     },
     {
-      "text": "ER-EDF: A Psychology-Grounded Emotion Regulation Framework for Speech Empathetic Dialogue Generation in Large Audio-Language Models",
-      "url": "https://arxiv.org/abs/2609.15089"
+      "text": "TWIN-MoE: Two-stage Intra-Expert Imputation Network for Incomplete Multimodal Learning",
+      "url": "https://arxiv.org/abs/2610.24014"
     },
     {
-      "text": "Unified Agentic Video Editing Across Levels of Complexity and Creativity",
-      "url": "https://arxiv.org/abs/2609.12769"
+      "text": "Scenario Generalization and Sector Transfer in Real Surface Irrigation Surrogate Modelling with Tabular Models",
+      "url": "https://arxiv.org/abs/2610.26005"
     },
     {
-      "text": "UtilityBench: Measuring Language Model Utility When Errors Have Different Costs",
-      "url": "https://arxiv.org/abs/2610.25924"
+      "text": "Disentangling Depression from Cognitive Decline in Elderly Speech Using Concurrent Clinical Assessments",
+      "url": "https://arxiv.org/abs/2610.26890"
     },
     {
-      "text": "Differential Functionalism: Jacobians Shape the Structure of Phenomenal Experience",
-      "url": "https://arxiv.org/abs/2609.09306"
+      "text": "VEILED-SH: Vulnerability Expression through Indirect Language Evaluation Dataset (Self-Harm)",
+      "url": "https://arxiv.org/abs/2610.26190"
     },
     {
-      "text": "The KV-Surgeon: Compensation-Aware Offline KV-Cache Compaction",
-      "url": "https://arxiv.org/abs/2610.25933"
+      "text": "PW-Pruning: Phase-Aware Expert Selection for Speech-Centric Omni-Modal Models",
+      "url": "https://arxiv.org/abs/2610.26891"
     },
     {
-      "text": "GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories",
-      "url": "https://arxiv.org/abs/2610.25970"
+      "text": "Progressive Subset Selection and Cascaded Consistency for Unsupervised Vision-Language Model Adaptation",
+      "url": "https://arxiv.org/abs/2610.27515"
     }
   ],
-  "lastUpdated": "2026-10-21T04:21:46Z"
+  "lastUpdated": "2026-10-21T11:46:58Z"
 }
