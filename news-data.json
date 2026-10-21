@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
-    "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
+    "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
+    "url": "https://arxiv.org/abs/2610.24823"
   },
   "topStories": [
     {
-      "text": "A brief(ish) introduction to LM psychology",
-      "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
+      "text": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+      "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
     },
     {
-      "text": "Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)",
-      "url": "https://www.lesswrong.com/posts/eXiXGMpyBqvHQarTA/which-ai-economics-and-governance-research-most-needs"
-    },
-    {
-      "text": "How I discovered an Exoplanet \u0026 the science apocalypse",
-      "url": "https://www.lesswrong.com/posts/kdybMpcFJ5iwCDJsd/how-i-discovered-an-exoplanet-and-the-science-apocalypse"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
-    },
-    {
-      "text": "Why do fictional jailbreaks work?",
-      "url": "https://www.lesswrong.com/posts/MttHvYu8SeKogg7xE/why-do-fictional-jailbreaks-work"
-    },
-    {
-      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
-      "url": "https://arxiv.org/abs/2610.24823"
-    },
-    {
-      "text": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+      "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
+      "url": "https://arxiv.org/abs/2604.27775"
     },
     {
       "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
       "url": "https://arxiv.org/abs/2610.24123"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Inferring continuous cognitive traits from limited neuroimaging data using pairwise convolutional neural networks",
+      "url": "https://arxiv.org/abs/2610.27668"
     },
     {
       "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
       "url": "https://arxiv.org/abs/2610.24917"
     },
     {
-      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
-      "url": "https://arxiv.org/abs/2604.10311"
+      "text": "Stronger artificial intelligence breakthroughs hasten their own exhaustion",
+      "url": "https://arxiv.org/abs/2610.27296"
     },
     {
-      "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
-      "url": "https://arxiv.org/abs/2604.27775"
+      "text": "A brief(ish) introduction to LM psychology",
+      "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
+    },
+    {
+      "text": "Dinners for AI Safety",
+      "url": "https://www.lesswrong.com/posts/rLtHDaLYHpNAvdSeL/dinners-for-ai-safety"
+    },
+    {
+      "text": "Accelerated Drift of Scientific Prose in the LLM Era: Evidence from an Interrupted Time-Series Analysis",
+      "url": "https://arxiv.org/abs/2610.26008"
+    },
+    {
+      "text": "RAFT: Redundancy-Aware Input Filtering for Temporal Graph Neural Network Training",
+      "url": "https://arxiv.org/abs/2610.24875"
+    },
+    {
+      "text": "Ben-Misandry: A Bengali Dataset and Late-Fusion Transformer Framework for Detecting Anti-Male Gender Hate",
+      "url": "https://arxiv.org/abs/2610.24474"
     }
   ],
   "centerColumn": [
     {
-      "text": "Honeypots for AI Agent Insider Threats",
-      "url": "https://arxiv.org/abs/2610.26664"
+      "text": "Persistent Representational Misalignment Induces Vision-Language Model Failures",
+      "url": "https://arxiv.org/abs/2610.25252"
     },
     {
-      "text": "StebBench: Diagnosing Real-World Procedural Understanding in AI Agents",
-      "url": "https://arxiv.org/abs/2610.26679"
+      "text": "Federated Learning for Malware Image Classification under Data Heterogeneity",
+      "url": "https://arxiv.org/abs/2610.25264"
     },
     {
-      "text": "Divergence based Ranked Preference Alignment for LLMs",
-      "url": "https://arxiv.org/abs/2610.25588"
+      "text": "Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2604.18473"
     },
     {
-      "text": "LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences",
-      "url": "https://arxiv.org/abs/2610.26787"
+      "text": "VLA-Retain: Benchmarking Cross-Dimension Effects of Vision Tuning in VLAs",
+      "url": "https://arxiv.org/abs/2610.27698"
+    },
+    {
+      "text": "Claims of emergence in AI should be grounded in information decomposition",
+      "url": "https://arxiv.org/abs/2610.28479"
+    },
+    {
+      "text": "On the Role of Batch Size in Stochastic Conditional Gradient Methods",
+      "url": "https://arxiv.org/abs/2603.21191"
+    },
+    {
+      "text": "Proof-Carrying Contracts: Commitments AI Agents Cannot Break",
+      "url": "https://arxiv.org/abs/2610.28484"
     },
     {
       "text": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
       "url": "https://arxiv.org/abs/2610.26828"
-    },
-    {
-      "text": "What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes",
-      "url": "https://arxiv.org/abs/2610.24343"
-    },
-    {
-      "text": "Evidence Before Sampling: Interpretable Implicit Negative Candidate Discovery for Recommendation",
-      "url": "https://arxiv.org/abs/2610.07708"
-    },
-    {
-      "text": "Toward Automated Detection of Documentation Inconsistencies in Electronic Health Records",
-      "url": "https://arxiv.org/abs/2607.22954"
     }
   ],
   "rightColumn": [
     {
-      "text": "The Optimal Sample Complexity of Pointwise Replicable Agnostic Learning",
-      "url": "https://arxiv.org/abs/2610.25062"
+      "text": "Token-Set Choice Confounds POPE: A Systematic Audit of Yes/No Extraction in VLM Hallucination Evaluation",
+      "url": "https://arxiv.org/abs/2610.25964"
     },
     {
-      "text": "Diagnosing Faults in Reinforcement Learning Simulators with Canonical Polynomial Invariants",
-      "url": "https://arxiv.org/abs/2609.13194"
+      "text": "Out-of-Distribution Detection in Continual Learning",
+      "url": "https://arxiv.org/abs/2610.25901"
     },
     {
-      "text": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
-      "url": "https://arxiv.org/abs/2610.25078"
+      "text": "ER-EDF: A Psychology-Grounded Emotion Regulation Framework for Speech Empathetic Dialogue Generation in Large Audio-Language Models",
+      "url": "https://arxiv.org/abs/2609.15089"
     },
     {
-      "text": "Conformal Prediction-Enabled Sequence-level Policy Optimization for Reasoning Language Models",
-      "url": "https://arxiv.org/abs/2610.25092"
+      "text": "Unified Agentic Video Editing Across Levels of Complexity and Creativity",
+      "url": "https://arxiv.org/abs/2609.12769"
     },
     {
-      "text": "SQuIREL: A Context-Relative Framework for Measuring Entity Richness in Wikidata",
-      "url": "https://arxiv.org/abs/2610.24709"
+      "text": "UtilityBench: Measuring Language Model Utility When Errors Have Different Costs",
+      "url": "https://arxiv.org/abs/2610.25924"
     },
     {
-      "text": "Polynomial Learning of Positive ReLU Networks under Gaussian Inputs",
-      "url": "https://arxiv.org/abs/2610.25116"
+      "text": "Differential Functionalism: Jacobians Shape the Structure of Phenomenal Experience",
+      "url": "https://arxiv.org/abs/2609.09306"
     },
     {
-      "text": "Hybrid Topic-Semantic Labeling and Graph Embeddings for Unsupervised Legal Document Clustering",
-      "url": "https://arxiv.org/abs/2509.00990"
+      "text": "The KV-Surgeon: Compensation-Aware Offline KV-Cache Compaction",
+      "url": "https://arxiv.org/abs/2610.25933"
     },
     {
-      "text": "CrossTL: Hub-Based Translation of GPU Programs and the Preservation of Source Rules",
-      "url": "https://arxiv.org/abs/2508.21256"
+      "text": "GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories",
+      "url": "https://arxiv.org/abs/2610.25970"
     }
   ],
-  "lastUpdated": "2026-10-21T00:01:39Z"
+  "lastUpdated": "2026-10-21T04:21:46Z"
 }
