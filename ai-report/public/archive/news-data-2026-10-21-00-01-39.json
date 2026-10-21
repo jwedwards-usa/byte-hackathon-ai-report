@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+    "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
+  },
+  "topStories": [
+    {
+      "text": "A brief(ish) introduction to LM psychology",
+      "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
+    },
+    {
+      "text": "Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)",
+      "url": "https://www.lesswrong.com/posts/eXiXGMpyBqvHQarTA/which-ai-economics-and-governance-research-most-needs"
+    },
+    {
+      "text": "How I discovered an Exoplanet \u0026 the science apocalypse",
+      "url": "https://www.lesswrong.com/posts/kdybMpcFJ5iwCDJsd/how-i-discovered-an-exoplanet-and-the-science-apocalypse"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
+    },
+    {
+      "text": "Why do fictional jailbreaks work?",
+      "url": "https://www.lesswrong.com/posts/MttHvYu8SeKogg7xE/why-do-fictional-jailbreaks-work"
+    },
+    {
+      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.24823"
+    },
+    {
+      "text": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+    },
+    {
+      "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
+      "url": "https://arxiv.org/abs/2610.24123"
+    },
+    {
+      "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
+      "url": "https://arxiv.org/abs/2610.24917"
+    },
+    {
+      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
+      "url": "https://arxiv.org/abs/2604.10311"
+    },
+    {
+      "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
+      "url": "https://arxiv.org/abs/2604.27775"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Honeypots for AI Agent Insider Threats",
+      "url": "https://arxiv.org/abs/2610.26664"
+    },
+    {
+      "text": "StebBench: Diagnosing Real-World Procedural Understanding in AI Agents",
+      "url": "https://arxiv.org/abs/2610.26679"
+    },
+    {
+      "text": "Divergence based Ranked Preference Alignment for LLMs",
+      "url": "https://arxiv.org/abs/2610.25588"
+    },
+    {
+      "text": "LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences",
+      "url": "https://arxiv.org/abs/2610.26787"
+    },
+    {
+      "text": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+      "url": "https://arxiv.org/abs/2610.26828"
+    },
+    {
+      "text": "What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes",
+      "url": "https://arxiv.org/abs/2610.24343"
+    },
+    {
+      "text": "Evidence Before Sampling: Interpretable Implicit Negative Candidate Discovery for Recommendation",
+      "url": "https://arxiv.org/abs/2610.07708"
+    },
+    {
+      "text": "Toward Automated Detection of Documentation Inconsistencies in Electronic Health Records",
+      "url": "https://arxiv.org/abs/2607.22954"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "The Optimal Sample Complexity of Pointwise Replicable Agnostic Learning",
+      "url": "https://arxiv.org/abs/2610.25062"
+    },
+    {
+      "text": "Diagnosing Faults in Reinforcement Learning Simulators with Canonical Polynomial Invariants",
+      "url": "https://arxiv.org/abs/2609.13194"
+    },
+    {
+      "text": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
+      "url": "https://arxiv.org/abs/2610.25078"
+    },
+    {
+      "text": "Conformal Prediction-Enabled Sequence-level Policy Optimization for Reasoning Language Models",
+      "url": "https://arxiv.org/abs/2610.25092"
+    },
+    {
+      "text": "SQuIREL: A Context-Relative Framework for Measuring Entity Richness in Wikidata",
+      "url": "https://arxiv.org/abs/2610.24709"
+    },
+    {
+      "text": "Polynomial Learning of Positive ReLU Networks under Gaussian Inputs",
+      "url": "https://arxiv.org/abs/2610.25116"
+    },
+    {
+      "text": "Hybrid Topic-Semantic Labeling and Graph Embeddings for Unsupervised Legal Document Clustering",
+      "url": "https://arxiv.org/abs/2509.00990"
+    },
+    {
+      "text": "CrossTL: Hub-Based Translation of GPU Programs and the Preservation of Source Rules",
+      "url": "https://arxiv.org/abs/2508.21256"
+    }
+  ],
+  "lastUpdated": "2026-10-21T00:01:39Z"
+}

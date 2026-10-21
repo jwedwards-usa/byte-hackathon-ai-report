@@ -1,26 +1,38 @@
 {
   "mainHeadline": {
-    "text": "A brief(ish) introduction to LM psychology",
-    "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
+    "text": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+    "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
   },
   "topStories": [
+    {
+      "text": "A brief(ish) introduction to LM psychology",
+      "url": "https://www.lesswrong.com/posts/EW8oncpXdanfjssZ3/a-brief-ish-introduction-to-lm-psychology"
+    },
     {
       "text": "Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)",
       "url": "https://www.lesswrong.com/posts/eXiXGMpyBqvHQarTA/which-ai-economics-and-governance-research-most-needs"
     },
     {
-      "text": "Firewalls for the Mind Before We Need Them",
-      "url": "https://www.lesswrong.com/posts/GpKSAz3LFjiG7QJHq/firewalls-for-the-mind-before-we-need-them"
-    },
-    {
-      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
-      "url": "https://arxiv.org/abs/2610.24823"
+      "text": "How I discovered an Exoplanet \u0026 the science apocalypse",
+      "url": "https://www.lesswrong.com/posts/kdybMpcFJ5iwCDJsd/how-i-discovered-an-exoplanet-and-the-science-apocalypse"
     }
   ],
   "leftColumn": [
     {
-      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
-      "url": "https://arxiv.org/abs/2604.10311"
+      "text": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
+    },
+    {
+      "text": "Why do fictional jailbreaks work?",
+      "url": "https://www.lesswrong.com/posts/MttHvYu8SeKogg7xE/why-do-fictional-jailbreaks-work"
+    },
+    {
+      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.24823"
+    },
+    {
+      "text": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
     },
     {
       "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
@@ -31,93 +43,81 @@
       "url": "https://arxiv.org/abs/2610.24917"
     },
     {
+      "text": "Gypscie: A Cross-Platform AI Artifact Management System",
+      "url": "https://arxiv.org/abs/2604.10311"
+    },
+    {
       "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
       "url": "https://arxiv.org/abs/2604.27775"
-    },
-    {
-      "text": "OPENAI ACQUIRES ORCHESTRA BIO",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
-    },
-    {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "ACS Infra: free access to large base models for LLM psychology research",
-      "url": "https://www.lesswrong.com/posts/yzaKWxsJzJjyExSAP/acs-infra-free-access-to-large-base-models-for-llm"
-    },
-    {
-      "text": "Agent Action Steering",
-      "url": "https://www.lesswrong.com/posts/foyyX4y9eGYYfELoH/agent-action-steering"
     }
   ],
   "centerColumn": [
     {
-      "text": "Minimum-Cost Robust Evidence Certificates for Horn Reasoning under Correlated Source Failures",
-      "url": "https://arxiv.org/abs/2610.25865"
+      "text": "Honeypots for AI Agent Insider Threats",
+      "url": "https://arxiv.org/abs/2610.26664"
     },
     {
-      "text": "MASIF: Implicit Failures for Process Observability in Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2610.25852"
+      "text": "StebBench: Diagnosing Real-World Procedural Understanding in AI Agents",
+      "url": "https://arxiv.org/abs/2610.26679"
     },
     {
-      "text": "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation",
-      "url": "https://arxiv.org/abs/2610.25810"
+      "text": "Divergence based Ranked Preference Alignment for LLMs",
+      "url": "https://arxiv.org/abs/2610.25588"
     },
     {
-      "text": "A Cue's Hidden Price: Auditing Seller Influence on AI Shoppers",
-      "url": "https://arxiv.org/abs/2610.25843"
+      "text": "LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences",
+      "url": "https://arxiv.org/abs/2610.26787"
     },
     {
-      "text": "Can LLM User-Proxies Stand In for Humans in Reliance Measurement? Replicating Rel-A.I. with Simulated Users",
-      "url": "https://arxiv.org/abs/2610.25788"
+      "text": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+      "url": "https://arxiv.org/abs/2610.26828"
     },
     {
-      "text": "Fine-Grained Units, Flat Decisions: Hierarchical Micro-Expert Pruning for Mixture-of-Experts Models",
-      "url": "https://arxiv.org/abs/2610.25717"
+      "text": "What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes",
+      "url": "https://arxiv.org/abs/2610.24343"
     },
     {
-      "text": "PFedQFT: Personalized Federated Quantum-Inspired Fine-Tuning for Medical Large Language Models",
-      "url": "https://arxiv.org/abs/2610.25712"
+      "text": "Evidence Before Sampling: Interpretable Implicit Negative Candidate Discovery for Recommendation",
+      "url": "https://arxiv.org/abs/2610.07708"
     },
     {
-      "text": "Mechanism-Aligned Observability for Training Instability of Large Language Models",
-      "url": "https://arxiv.org/abs/2606.28116"
+      "text": "Toward Automated Detection of Documentation Inconsistencies in Electronic Health Records",
+      "url": "https://arxiv.org/abs/2607.22954"
     }
   ],
   "rightColumn": [
     {
-      "text": "Out-of-Distribution Detection in Continual Learning",
-      "url": "https://arxiv.org/abs/2610.25901"
+      "text": "The Optimal Sample Complexity of Pointwise Replicable Agnostic Learning",
+      "url": "https://arxiv.org/abs/2610.25062"
     },
     {
-      "text": "Large-Scale Biomedical RAG: Corpus Scaling, Document Representation, and Efficiency Trade-offs",
-      "url": "https://arxiv.org/abs/2610.26339"
+      "text": "Diagnosing Faults in Reinforcement Learning Simulators with Canonical Polynomial Invariants",
+      "url": "https://arxiv.org/abs/2609.13194"
     },
     {
-      "text": "Asynchronous On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.25880"
+      "text": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
+      "url": "https://arxiv.org/abs/2610.25078"
     },
     {
-      "text": "Index SLM Technical Report",
-      "url": "https://arxiv.org/abs/2607.09885"
+      "text": "Conformal Prediction-Enabled Sequence-level Policy Optimization for Reasoning Language Models",
+      "url": "https://arxiv.org/abs/2610.25092"
     },
     {
-      "text": "Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features",
-      "url": "https://arxiv.org/abs/2603.03096"
+      "text": "SQuIREL: A Context-Relative Framework for Measuring Entity Richness in Wikidata",
+      "url": "https://arxiv.org/abs/2610.24709"
     },
     {
-      "text": "One Head Away from Language Confusion: Single Attention Heads Across Model Families",
-      "url": "https://arxiv.org/abs/2610.25026"
+      "text": "Polynomial Learning of Positive ReLU Networks under Gaussian Inputs",
+      "url": "https://arxiv.org/abs/2610.25116"
     },
     {
-      "text": "GLOSS-MT: Controllable Low-Resource Machine Translation with an Editable Dictionary",
-      "url": "https://arxiv.org/abs/2610.24730"
+      "text": "Hybrid Topic-Semantic Labeling and Graph Embeddings for Unsupervised Legal Document Clustering",
+      "url": "https://arxiv.org/abs/2509.00990"
     },
     {
-      "text": "End-to-End Context Compression at Scale",
-      "url": "https://arxiv.org/abs/2606.09659"
+      "text": "CrossTL: Hub-Based Translation of GPU Programs and the Preservation of Source Rules",
+      "url": "https://arxiv.org/abs/2508.21256"
     }
   ],
-  "lastUpdated": "2026-10-20T19:28:22Z"
+  "lastUpdated": "2026-10-21T00:01:39Z"
 }
