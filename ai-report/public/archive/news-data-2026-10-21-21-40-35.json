@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "On Idealized Agency",
+    "url": "https://www.lesswrong.com/posts/L43XDWr5BgSYtKA7L/on-idealized-agency"
+  },
+  "topStories": [
+    {
+      "text": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+    },
+    {
+      "text": "Autonomous researchers will strain peer review, funding, and oversight",
+      "url": "https://www.lesswrong.com/posts/WgroAK7N3jAfBBpct/autonomous-researchers-will-strain-peer-review-funding-and"
+    },
+    {
+      "text": "A general approach for alignment generalization and a Stupid New Technique that beat everything",
+      "url": "https://www.lesswrong.com/posts/7jRjrSNTXu5fgYsDJ/a-general-approach-for-alignment-generalization-and-a-stupid"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "text": "HOW AT\u0026T IS RETHINKING IN-HOUSE LEGAL WORK WITH OPENAI",
+      "url": "https://openai.com/index/att-legal"
+    },
+    {
+      "text": "AM-Bench: A theoretically-grounded benchmark for agentic misalignment",
+      "url": "https://www.lesswrong.com/posts/JamFW6CSyrHuWW8FB/am-bench-a-theoretically-grounded-benchmark-for-agentic"
+    },
+    {
+      "text": "OPENAI MODELS ARE COMING TO GOOGLE CLOUD",
+      "url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
+      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
+      "url": "https://arxiv.org/abs/2610.24823"
+    },
+    {
+      "text": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images"
+    },
+    {
+      "text": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+    },
+    {
+      "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
+      "url": "https://arxiv.org/abs/2610.24123"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Claims of emergence in AI should be grounded in information decomposition",
+      "url": "https://arxiv.org/abs/2610.28479"
+    },
+    {
+      "text": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "url": "https://arxiv.org/abs/2610.26860"
+    },
+    {
+      "text": "Propensity Straight-Through Gradients for Discrete Stochastic Systems",
+      "url": "https://arxiv.org/abs/2608.25631"
+    },
+    {
+      "text": "Persistent Representational Misalignment Induces Vision-Language Model Failures",
+      "url": "https://arxiv.org/abs/2610.25252"
+    },
+    {
+      "text": "Beyond 4 bits: Data-Centric Post-training Quantization and Recovery",
+      "url": "https://arxiv.org/abs/2610.28537"
+    },
+    {
+      "text": "Emergent Sparsity: How Many Effective Variables Survive Coarse-Graining in AlphaEarth Embeddings?",
+      "url": "https://arxiv.org/abs/2610.25258"
+    },
+    {
+      "text": "Federated Learning for Malware Image Classification under Data Heterogeneity",
+      "url": "https://arxiv.org/abs/2610.25264"
+    },
+    {
+      "text": "Uncertainty-Gated SHAP-Dirichlet Refinement for MRI-Based Depression Classification",
+      "url": "https://arxiv.org/abs/2610.25635"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Adaptive Decoding Methods for Token-Efficient Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.25860"
+    },
+    {
+      "text": "Pack and Extract: An Effective Graph-Based Approach for Feature Selection",
+      "url": "https://arxiv.org/abs/2610.23938"
+    },
+    {
+      "text": "DeltaTrace: Efficient Signed Attribution for Reasoning Language Models",
+      "url": "https://arxiv.org/abs/2610.25877"
+    },
+    {
+      "text": "Asynchronous On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.25880"
+    },
+    {
+      "text": "Iterate Until Retrieved: Factual Nugget Optimization for Discoverable Continual Corrections in Agentic RAG",
+      "url": "https://arxiv.org/abs/2605.25641"
+    },
+    {
+      "text": "Out-of-Distribution Detection in Continual Learning",
+      "url": "https://arxiv.org/abs/2610.25901"
+    },
+    {
+      "text": "REM: What to Store, When to Recall, What to Forget in Experience Memory for Coding Agents",
+      "url": "https://arxiv.org/abs/2610.27377"
+    },
+    {
+      "text": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
+      "url": "https://arxiv.org/abs/2605.16839"
+    }
+  ],
+  "lastUpdated": "2026-10-21T21:40:35Z"
+}
