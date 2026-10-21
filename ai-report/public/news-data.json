@@ -1,23 +1,43 @@
 {
   "mainHeadline": {
-    "text": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
-    "url": "https://www.lesswrong.com/posts/qxAroimgs4BvBHz2i/anthropic-does-not-understand-why-its-draft-bill-was"
+    "text": "Why I’m becoming a professor in AI safety in Beijing",
+    "url": "https://www.lesswrong.com/posts/qGS3SJ9TSKdSSycRz/why-i-m-becoming-a-professor-in-ai-safety-in-beijing"
   },
   "topStories": [
+    {
+      "text": "OPENAI MODELS ARE COMING TO GOOGLE CLOUD",
+      "url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
+      "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "text": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
+    },
     {
       "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
       "url": "https://arxiv.org/abs/2610.24823"
     },
     {
-      "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
-      "url": "https://arxiv.org/abs/2610.24123"
+      "text": "Inferring continuous cognitive traits from limited neuroimaging data using pairwise convolutional neural networks",
+      "url": "https://arxiv.org/abs/2610.27668"
     },
     {
       "text": "How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation",
       "url": "https://arxiv.org/abs/2610.24917"
-    }
-  ],
-  "leftColumn": [
+    },
+    {
+      "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
+      "url": "https://arxiv.org/abs/2610.24123"
+    },
     {
       "text": "Data-Efficient Indentation Size Effect Mitigation in Steels Using Machine Learning and a Physics-Constrained Neural Network",
       "url": "https://arxiv.org/abs/2604.27775"
@@ -27,97 +47,77 @@
       "url": "https://arxiv.org/abs/2610.27296"
     },
     {
-      "text": "Inferring continuous cognitive traits from limited neuroimaging data using pairwise convolutional neural networks",
-      "url": "https://arxiv.org/abs/2610.27668"
-    },
-    {
       "text": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
-    },
-    {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Dinners for AI Safety",
-      "url": "https://www.lesswrong.com/posts/rLtHDaLYHpNAvdSeL/dinners-for-ai-safety"
-    },
-    {
-      "text": "Sleep Stage Classification across Heterogeneous EEG/EOG Channels with Multi-Channel Differential Transformer",
-      "url": "https://arxiv.org/abs/2508.15215"
-    },
-    {
-      "text": "MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers",
-      "url": "https://arxiv.org/abs/2610.25431"
     }
   ],
   "centerColumn": [
     {
-      "text": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2610.24051"
+      "text": "Location, Location, Generation: Where You Ask Matters for Generative Engine Optimization",
+      "url": "https://arxiv.org/abs/2610.24081"
     },
     {
-      "text": "What Do RTL Repair Benchmarks Actually Measure?",
-      "url": "https://arxiv.org/abs/2610.28595"
+      "text": "Interpretability of AI weather models via intermediate decoding",
+      "url": "https://arxiv.org/abs/2610.24110"
     },
     {
-      "text": "Evolving Agent Interfaces",
-      "url": "https://arxiv.org/abs/2610.28601"
+      "text": "Rewards for Budget-Aware Multi-Turn Agents That Adapt to Arbitrary Test-Time Constraints",
+      "url": "https://arxiv.org/abs/2610.28409"
     },
     {
-      "text": "Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims",
-      "url": "https://arxiv.org/abs/2606.02493"
-    },
-    {
-      "text": "Exact Risk Certificates for Pairwise-Judged Reranking",
-      "url": "https://arxiv.org/abs/2610.24347"
-    },
-    {
-      "text": "What Remains Without Test Labels? Re-evaluating a Graph-Level Anomaly Detection Benchmark",
-      "url": "https://arxiv.org/abs/2610.24045"
-    },
-    {
-      "text": "Do Knowledge and Reasoning Oriented Benchmarks Induce Stable Representation Signatures in LLMs?",
-      "url": "https://arxiv.org/abs/2610.24029"
+      "text": "lepidoptera: A Domain-Agnostic Engine for Causal Simulation with Mixed Variable Types, Vine Copula Dependence, and Individual-Level Counterfactual Propagation",
+      "url": "https://arxiv.org/abs/2610.24147"
     },
     {
       "text": "Fine-Tuning Small Language Models for Reliable VASP INCAR Generation",
       "url": "https://arxiv.org/abs/2608.05387"
+    },
+    {
+      "text": "Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery",
+      "url": "https://arxiv.org/abs/2610.24806"
+    },
+    {
+      "text": "Measuring Consensus in AI Agent Networks",
+      "url": "https://arxiv.org/abs/2610.24833"
+    },
+    {
+      "text": "Training-Free Prompt Selection for Efficient Reinforcement Learning With Partial Rollouts",
+      "url": "https://arxiv.org/abs/2610.24229"
     }
   ],
   "rightColumn": [
     {
-      "text": "Dynamical Kernel Attention: Estimating the Present from a Record of the Past",
-      "url": "https://arxiv.org/abs/2610.24026"
+      "text": "Jacobian Descent for Multi-Objective Optimization",
+      "url": "https://arxiv.org/abs/2406.16232"
     },
     {
-      "text": "Graph-to-Table Interfaces Control Relational Generalisation",
-      "url": "https://arxiv.org/abs/2610.25993"
+      "text": "Typhoon: Gradient-Based Task-Specific Masking for Masked Language Models",
+      "url": "https://arxiv.org/abs/2303.15619"
     },
     {
-      "text": "TWIN-MoE: Two-stage Intra-Expert Imputation Network for Incomplete Multimodal Learning",
-      "url": "https://arxiv.org/abs/2610.24014"
+      "text": "When Opposite Premises Translate Identically: A Source-Conditioned Diagnostic for Multilingual Commonsense Items",
+      "url": "https://arxiv.org/abs/2610.24428"
     },
     {
-      "text": "Scenario Generalization and Sector Transfer in Real Surface Irrigation Surrogate Modelling with Tabular Models",
-      "url": "https://arxiv.org/abs/2610.26005"
+      "text": "Learning from a Bandit Learner",
+      "url": "https://arxiv.org/abs/2610.26103"
     },
     {
-      "text": "Disentangling Depression from Cognitive Decline in Elderly Speech Using Concurrent Clinical Assessments",
-      "url": "https://arxiv.org/abs/2610.26890"
+      "text": "Taskonomy: Disentangling Task Transfer Learning",
+      "url": "https://arxiv.org/abs/1804.08328"
     },
     {
-      "text": "VEILED-SH: Vulnerability Expression through Indirect Language Evaluation Dataset (Self-Harm)",
-      "url": "https://arxiv.org/abs/2610.26190"
+      "text": "Revision-Based Learning from Interactive Experience and Feedback",
+      "url": "https://arxiv.org/abs/2610.26636"
     },
     {
-      "text": "PW-Pruning: Phase-Aware Expert Selection for Speech-Centric Omni-Modal Models",
-      "url": "https://arxiv.org/abs/2610.26891"
+      "text": "Variance-Aware Non-Stationary Bandits:All-Budget Regret Bounds and Adaptation Costs",
+      "url": "https://arxiv.org/abs/2610.26116"
     },
     {
-      "text": "Progressive Subset Selection and Cascaded Consistency for Unsupervised Vision-Language Model Adaptation",
-      "url": "https://arxiv.org/abs/2610.27515"
+      "text": "Optimal Multi-Kernel Combination for Online Multi-Label Classification",
+      "url": "https://arxiv.org/abs/2610.26123"
     }
   ],
-  "lastUpdated": "2026-10-21T11:46:58Z"
+  "lastUpdated": "2026-10-21T17:09:54Z"
 }
