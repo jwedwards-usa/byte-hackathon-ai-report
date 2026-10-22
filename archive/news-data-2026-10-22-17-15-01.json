@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #191: The Hackening Begins",
+    "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins"
+  },
+  "topStories": [
+    {
+      "text": "UBER BRINGS CHATGPT WORK TO ALL EMPLOYEES WITH OPENAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+    },
+    {
+      "text": "OPENAI, ANTHROPIC, AND NVIDIA HAD RECORD LOBBYING QUARTERS",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+    },
+    {
+      "text": "Greater good arguments in AI safety",
+      "url": "https://www.lesswrong.com/posts/WRvxRHMCmc3Qt4axz/greater-good-arguments-in-ai-safety"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Alignment Journal: Our Approach and Related Projects",
+      "url": "https://www.lesswrong.com/posts/xGucXHQ3NLkHZL3Cg/the-alignment-journal-our-approach-and-related-projects"
+    },
+    {
+      "text": "The Relief Paradox: How We Let AI 'Undermine Our Autonomy'",
+      "url": "https://www.lesswrong.com/posts/go52qCd8EzyeANMsX/the-relief-paradox-how-we-let-ai-undermine-our-autonomy"
+    },
+    {
+      "text": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+    },
+    {
+      "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "text": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+      "url": "https://arxiv.org/abs/2610.28810"
+    },
+    {
+      "text": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+      "url": "https://arxiv.org/abs/2610.28826"
+    },
+    {
+      "text": "WHAT FDE MEANS AT OPENAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means"
+    },
+    {
+      "text": "Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors",
+      "url": "https://arxiv.org/abs/2505.23323"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs",
+      "url": "https://arxiv.org/abs/2610.28658"
+    },
+    {
+      "text": "Beyond source attribution: Address authorship and comparability decisions in an LLM-built scholarly knowledge graph",
+      "url": "https://arxiv.org/abs/2610.28663"
+    },
+    {
+      "text": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+      "url": "https://arxiv.org/abs/2606.08168"
+    },
+    {
+      "text": "The Stepwise Informativeness Assumption: When Do Entropy Dynamics Track Reasoning Correctness in LLMs?",
+      "url": "https://arxiv.org/abs/2604.06192"
+    },
+    {
+      "text": "S^3martCirc: Self-supervised Smart Circuit Discovery",
+      "url": "https://arxiv.org/abs/2609.00755"
+    },
+    {
+      "text": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.28679"
+    },
+    {
+      "text": "Learning Altruistic Collaboration in Heterogeneous Multi-Team Systems",
+      "url": "https://arxiv.org/abs/2605.21723"
+    },
+    {
+      "text": "GLUScope: A Tool for Analyzing GLU Neurons in Transformer Language Models",
+      "url": "https://arxiv.org/abs/2602.23826"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Towards Realistic Models of Change: A Causal Perspective on Decision-Making and Dynamical Systems",
+      "url": "https://arxiv.org/abs/2610.28803"
+    },
+    {
+      "text": "Local and Sparse Kernel Operator Learning for Incompressible Flows: An Operator Lagrange Formulation",
+      "url": "https://arxiv.org/abs/2610.29009"
+    },
+    {
+      "text": "Dissimilarity-Based Markov Decision Processes for Stabilizing State Distributions",
+      "url": "https://arxiv.org/abs/2610.29024"
+    },
+    {
+      "text": "Better Policies, Worse Verifier Audits",
+      "url": "https://arxiv.org/abs/2610.29029"
+    },
+    {
+      "text": "Gate Initialisation versus Recurrent Dropout and Zoneout in Learning Long Dependencies: A Controlled Study of LSTM and GRU Networks on Synthetic Tasks",
+      "url": "https://arxiv.org/abs/2610.29034"
+    },
+    {
+      "text": "ART-MPG: Autoregressive R/T Manifold Path Guiding",
+      "url": "https://arxiv.org/abs/2610.29049"
+    },
+    {
+      "text": "Dynamics of Hidden Learning Structure",
+      "url": "https://arxiv.org/abs/2610.29054"
+    },
+    {
+      "text": "Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection",
+      "url": "https://arxiv.org/abs/2610.29063"
+    }
+  ],
+  "lastUpdated": "2026-10-22T17:15:01Z"
+}
