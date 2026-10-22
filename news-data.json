@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "On Idealized Agency",
-    "url": "https://www.lesswrong.com/posts/L43XDWr5BgSYtKA7L/on-idealized-agency"
+    "text": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+    "url": "https://arxiv.org/abs/2610.28810"
   },
   "topStories": [
     {
-      "text": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+      "text": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+      "url": "https://arxiv.org/abs/2610.28826"
     },
     {
-      "text": "Autonomous researchers will strain peer review, funding, and oversight",
-      "url": "https://www.lesswrong.com/posts/WgroAK7N3jAfBBpct/autonomous-researchers-will-strain-peer-review-funding-and"
+      "text": "Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors",
+      "url": "https://arxiv.org/abs/2505.23323"
     },
     {
-      "text": "A general approach for alignment generalization and a Stupid New Technique that beat everything",
-      "url": "https://www.lesswrong.com/posts/7jRjrSNTXu5fgYsDJ/a-general-approach-for-alignment-generalization-and-a-stupid"
+      "text": "A Mechanistic Study of Automated Failure Attribution in LLM-based Agentic Systems",
+      "url": "https://arxiv.org/abs/2610.28811"
     }
   ],
   "leftColumn": [
+    {
+      "text": "Transformers as Generic Deep Neural Networks: Exact Compilation, the Cost of Removing Activation-Activation Products, and Multi-Agent Attention Clustering",
+      "url": "https://arxiv.org/abs/2610.28958"
+    },
+    {
+      "text": "Correlated Failures of AI Approval Monitors",
+      "url": "https://arxiv.org/abs/2610.29178"
+    },
+    {
+      "text": "LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines",
+      "url": "https://arxiv.org/abs/2610.29409"
+    },
     {
       "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
       "url": "https://openai.com/index/building-chatgpt-ad-stack"
     },
     {
-      "text": "HOW AT\u0026T IS RETHINKING IN-HOUSE LEGAL WORK WITH OPENAI",
-      "url": "https://openai.com/index/att-legal"
+      "text": "Unintended Side Effects of Value Training in LLMs",
+      "url": "https://arxiv.org/abs/2610.29922"
     },
     {
-      "text": "AM-Bench: A theoretically-grounded benchmark for agentic misalignment",
-      "url": "https://www.lesswrong.com/posts/JamFW6CSyrHuWW8FB/am-bench-a-theoretically-grounded-benchmark-for-agentic"
+      "text": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
+      "url": "https://arxiv.org/abs/2610.30051"
     },
     {
-      "text": "OPENAI MODELS ARE COMING TO GOOGLE CLOUD",
-      "url": "https://openai.com/index/openai-models-google-cloud"
+      "text": "TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors",
+      "url": "https://arxiv.org/abs/2610.29985"
     },
     {
-      "text": "PAIR-AWARE OPTIMIZATION: COORDINATING EXPLORATION AND REFINEMENT FOR JAILBREAKING LLM AGENTS",
-      "url": "https://arxiv.org/abs/2610.24823"
-    },
-    {
-      "text": "How does Fable 5.1 hide messages in images?",
-      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images"
-    },
-    {
-      "text": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-    },
-    {
-      "text": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
-      "url": "https://arxiv.org/abs/2610.24123"
+      "text": "Adaptive Entangled Neurons in the Brain and Natural Intelligence Simulations for Artificial General Intelligence",
+      "url": "https://arxiv.org/abs/2609.09226"
     }
   ],
   "centerColumn": [
     {
-      "text": "Claims of emergence in AI should be grounded in information decomposition",
-      "url": "https://arxiv.org/abs/2610.28479"
+      "text": "Stochastic Pruning of the DPO Computation Graph: 1.4x Faster Training and Lower Peak Memory",
+      "url": "https://arxiv.org/abs/2610.29538"
     },
     {
-      "text": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-      "url": "https://arxiv.org/abs/2610.26860"
+      "text": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
+      "url": "https://arxiv.org/abs/2610.29342"
     },
     {
-      "text": "Propensity Straight-Through Gradients for Discrete Stochastic Systems",
-      "url": "https://arxiv.org/abs/2608.25631"
+      "text": "Alignment via Training Against Probes Without Losing Monitorability",
+      "url": "https://arxiv.org/abs/2609.38645"
     },
     {
-      "text": "Persistent Representational Misalignment Induces Vision-Language Model Failures",
-      "url": "https://arxiv.org/abs/2610.25252"
+      "text": "How Far Can Foundation Models Be Distilled for Efficient Jet Tagging?",
+      "url": "https://arxiv.org/abs/2610.29439"
     },
     {
-      "text": "Beyond 4 bits: Data-Centric Post-training Quantization and Recovery",
-      "url": "https://arxiv.org/abs/2610.28537"
+      "text": "Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations",
+      "url": "https://arxiv.org/abs/2609.38625"
     },
     {
-      "text": "Emergent Sparsity: How Many Effective Variables Survive Coarse-Graining in AlphaEarth Embeddings?",
-      "url": "https://arxiv.org/abs/2610.25258"
+      "text": "Asymmetry Tunneling Beyond Adaptive Equivariance Relaxation",
+      "url": "https://arxiv.org/abs/2610.29473"
     },
     {
-      "text": "Federated Learning for Malware Image Classification under Data Heterogeneity",
-      "url": "https://arxiv.org/abs/2610.25264"
+      "text": "Inverse RL Helps Align AI by Imitating Humans",
+      "url": "https://arxiv.org/abs/2607.24900"
     },
     {
-      "text": "Uncertainty-Gated SHAP-Dirichlet Refinement for MRI-Based Depression Classification",
-      "url": "https://arxiv.org/abs/2610.25635"
+      "text": "Shortcut-Resistant CAM Distillation for Long-Tailed Recognition",
+      "url": "https://arxiv.org/abs/2610.29508"
     }
   ],
   "rightColumn": [
     {
-      "text": "Adaptive Decoding Methods for Token-Efficient Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.25860"
+      "text": "RubricOpt: Self-Revision of Semantic Rubrics for Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.29491"
     },
     {
-      "text": "Pack and Extract: An Effective Graph-Based Approach for Feature Selection",
-      "url": "https://arxiv.org/abs/2610.23938"
+      "text": "An Exact 93-Move Solution to a Nonlocal Crystal-Exchange Puzzle",
+      "url": "https://arxiv.org/abs/2610.29493"
     },
     {
-      "text": "DeltaTrace: Efficient Signed Attribution for Reasoning Language Models",
-      "url": "https://arxiv.org/abs/2610.25877"
+      "text": "Dynamics of Hidden Learning Structure",
+      "url": "https://arxiv.org/abs/2610.29054"
     },
     {
-      "text": "Asynchronous On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.25880"
+      "text": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.05737"
     },
     {
-      "text": "Iterate Until Retrieved: Factual Nugget Optimization for Discoverable Continual Corrections in Agentic RAG",
-      "url": "https://arxiv.org/abs/2605.25641"
+      "text": "Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection",
+      "url": "https://arxiv.org/abs/2610.29063"
     },
     {
-      "text": "Out-of-Distribution Detection in Continual Learning",
-      "url": "https://arxiv.org/abs/2610.25901"
+      "text": "Theorem prover Arend",
+      "url": "https://arxiv.org/abs/2610.27264"
     },
     {
-      "text": "REM: What to Store, When to Recall, What to Forget in Experience Memory for Coding Agents",
-      "url": "https://arxiv.org/abs/2610.27377"
+      "text": "The Sample Complexity of Multiple Change Point Identification under Bandit Feedback",
+      "url": "https://arxiv.org/abs/2605.13252"
     },
     {
-      "text": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
-      "url": "https://arxiv.org/abs/2605.16839"
+      "text": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+      "url": "https://arxiv.org/abs/2610.24061"
     }
   ],
-  "lastUpdated": "2026-10-21T21:40:35Z"
+  "lastUpdated": "2026-10-22T04:32:48Z"
 }

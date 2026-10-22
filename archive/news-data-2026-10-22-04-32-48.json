@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+    "url": "https://arxiv.org/abs/2610.28810"
+  },
+  "topStories": [
+    {
+      "text": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+      "url": "https://arxiv.org/abs/2610.28826"
+    },
+    {
+      "text": "Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors",
+      "url": "https://arxiv.org/abs/2505.23323"
+    },
+    {
+      "text": "A Mechanistic Study of Automated Failure Attribution in LLM-based Agentic Systems",
+      "url": "https://arxiv.org/abs/2610.28811"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Transformers as Generic Deep Neural Networks: Exact Compilation, the Cost of Removing Activation-Activation Products, and Multi-Agent Attention Clustering",
+      "url": "https://arxiv.org/abs/2610.28958"
+    },
+    {
+      "text": "Correlated Failures of AI Approval Monitors",
+      "url": "https://arxiv.org/abs/2610.29178"
+    },
+    {
+      "text": "LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines",
+      "url": "https://arxiv.org/abs/2610.29409"
+    },
+    {
+      "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "text": "Unintended Side Effects of Value Training in LLMs",
+      "url": "https://arxiv.org/abs/2610.29922"
+    },
+    {
+      "text": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
+      "url": "https://arxiv.org/abs/2610.30051"
+    },
+    {
+      "text": "TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors",
+      "url": "https://arxiv.org/abs/2610.29985"
+    },
+    {
+      "text": "Adaptive Entangled Neurons in the Brain and Natural Intelligence Simulations for Artificial General Intelligence",
+      "url": "https://arxiv.org/abs/2609.09226"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Stochastic Pruning of the DPO Computation Graph: 1.4x Faster Training and Lower Peak Memory",
+      "url": "https://arxiv.org/abs/2610.29538"
+    },
+    {
+      "text": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
+      "url": "https://arxiv.org/abs/2610.29342"
+    },
+    {
+      "text": "Alignment via Training Against Probes Without Losing Monitorability",
+      "url": "https://arxiv.org/abs/2609.38645"
+    },
+    {
+      "text": "How Far Can Foundation Models Be Distilled for Efficient Jet Tagging?",
+      "url": "https://arxiv.org/abs/2610.29439"
+    },
+    {
+      "text": "Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations",
+      "url": "https://arxiv.org/abs/2609.38625"
+    },
+    {
+      "text": "Asymmetry Tunneling Beyond Adaptive Equivariance Relaxation",
+      "url": "https://arxiv.org/abs/2610.29473"
+    },
+    {
+      "text": "Inverse RL Helps Align AI by Imitating Humans",
+      "url": "https://arxiv.org/abs/2607.24900"
+    },
+    {
+      "text": "Shortcut-Resistant CAM Distillation for Long-Tailed Recognition",
+      "url": "https://arxiv.org/abs/2610.29508"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "RubricOpt: Self-Revision of Semantic Rubrics for Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.29491"
+    },
+    {
+      "text": "An Exact 93-Move Solution to a Nonlocal Crystal-Exchange Puzzle",
+      "url": "https://arxiv.org/abs/2610.29493"
+    },
+    {
+      "text": "Dynamics of Hidden Learning Structure",
+      "url": "https://arxiv.org/abs/2610.29054"
+    },
+    {
+      "text": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.05737"
+    },
+    {
+      "text": "Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection",
+      "url": "https://arxiv.org/abs/2610.29063"
+    },
+    {
+      "text": "Theorem prover Arend",
+      "url": "https://arxiv.org/abs/2610.27264"
+    },
+    {
+      "text": "The Sample Complexity of Multiple Change Point Identification under Bandit Feedback",
+      "url": "https://arxiv.org/abs/2605.13252"
+    },
+    {
+      "text": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+      "url": "https://arxiv.org/abs/2610.24061"
+    }
+  ],
+  "lastUpdated": "2026-10-22T04:32:48Z"
+}
