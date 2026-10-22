@@ -1,9 +1,13 @@
 {
   "mainHeadline": {
-    "text": "AI #191: The Hackening Begins",
-    "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins"
+    "text": "How could the US and China verifiably slow AI?",
+    "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai"
   },
   "topStories": [
+    {
+      "text": "AI #191: The Hackening Begins",
+      "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins"
+    },
     {
       "text": "UBER BRINGS CHATGPT WORK TO ALL EMPLOYEES WITH OPENAI",
       "url": "https://openai.com/index/uber-chatgpt-work-rollout"
@@ -11,28 +15,32 @@
     {
       "text": "OPENAI, ANTHROPIC, AND NVIDIA HAD RECORD LOBBYING QUARTERS",
       "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
-    },
-    {
-      "text": "Greater good arguments in AI safety",
-      "url": "https://www.lesswrong.com/posts/WRvxRHMCmc3Qt4axz/greater-good-arguments-in-ai-safety"
     }
   ],
   "leftColumn": [
     {
-      "text": "The Alignment Journal: Our Approach and Related Projects",
-      "url": "https://www.lesswrong.com/posts/xGucXHQ3NLkHZL3Cg/the-alignment-journal-our-approach-and-related-projects"
-    },
-    {
-      "text": "The Relief Paradox: How We Let AI 'Undermine Our Autonomy'",
-      "url": "https://www.lesswrong.com/posts/go52qCd8EzyeANMsX/the-relief-paradox-how-we-let-ai-undermine-our-autonomy"
-    },
-    {
-      "text": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
-    },
-    {
       "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
       "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "text": "The full context of the AI agent quote at the end of AI Gone Wild on Netflix",
+      "url": "https://www.lesswrong.com/posts/DjT6CqbNiWNFuHBXw/the-full-context-of-the-ai-agent-quote-at-the-end-of-ai-gone"
+    },
+    {
+      "text": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+    },
+    {
+      "text": "OpenAI Says Its Coding Agents Weakened Safety Monitoring, and One Denied It",
+      "url": "https://dailyai.com/2026/10/openai-says-its-coding-agents-weakened-safety-monitoring-and-one-denied-it/"
+    },
+    {
+      "text": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+    },
+    {
+      "text": "Opening up Attention: A QK Transcoder  Dashboard for Feature Pairs",
+      "url": "https://www.lesswrong.com/posts/nYSuQ8YD3QNCPc6vY/opening-up-attention-a-qk-transcoder-dashboard-for-feature-3"
     },
     {
       "text": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
@@ -41,83 +49,75 @@
     {
       "text": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
       "url": "https://arxiv.org/abs/2610.28826"
-    },
-    {
-      "text": "WHAT FDE MEANS AT OPENAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means"
-    },
-    {
-      "text": "Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors",
-      "url": "https://arxiv.org/abs/2505.23323"
     }
   ],
   "centerColumn": [
     {
-      "text": "CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs",
-      "url": "https://arxiv.org/abs/2610.28658"
+      "text": "Nominate-then-Adjudicate: LLM-Assisted One-Pass and Per-Instance MIP Solver Tuning",
+      "url": "https://arxiv.org/abs/2610.29391"
     },
     {
-      "text": "Beyond source attribution: Address authorship and comparability decisions in an LLM-built scholarly knowledge graph",
-      "url": "https://arxiv.org/abs/2610.28663"
+      "text": "Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures",
+      "url": "https://arxiv.org/abs/2610.28887"
     },
     {
-      "text": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
-      "url": "https://arxiv.org/abs/2606.08168"
+      "text": "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination",
+      "url": "https://arxiv.org/abs/2610.29934"
     },
     {
-      "text": "The Stepwise Informativeness Assumption: When Do Entropy Dynamics Track Reasoning Correctness in LLMs?",
-      "url": "https://arxiv.org/abs/2604.06192"
+      "text": "UserSWE: Evaluating Coding Agents in Multi-Turn Conversations with Dynamic Users",
+      "url": "https://arxiv.org/abs/2610.29822"
     },
     {
-      "text": "S^3martCirc: Self-supervised Smart Circuit Discovery",
-      "url": "https://arxiv.org/abs/2609.00755"
+      "text": "COMET: A coordinated multi-layer runtime monitoring framework for human-supervised AI-enabled safety systems",
+      "url": "https://arxiv.org/abs/2610.29816"
     },
     {
-      "text": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
-      "url": "https://arxiv.org/abs/2610.28679"
+      "text": "CTBench: Evaluating Troubleshooting Capabilities of AI Agents in Realistic Telecom Network Operations",
+      "url": "https://arxiv.org/abs/2608.12002"
     },
     {
-      "text": "Learning Altruistic Collaboration in Heterogeneous Multi-Team Systems",
-      "url": "https://arxiv.org/abs/2605.21723"
+      "text": "From Association to Decision Value: Testing Paired Instruction Dependence for VLA Corpus Selection",
+      "url": "https://arxiv.org/abs/2610.29646"
     },
     {
-      "text": "GLUScope: A Tool for Analyzing GLU Neurons in Transformer Language Models",
-      "url": "https://arxiv.org/abs/2602.23826"
+      "text": "How Far Can Foundation Models Be Distilled for Efficient Jet Tagging?",
+      "url": "https://arxiv.org/abs/2610.29439"
     }
   ],
   "rightColumn": [
     {
-      "text": "Towards Realistic Models of Change: A Causal Perspective on Decision-Making and Dynamical Systems",
-      "url": "https://arxiv.org/abs/2610.28803"
+      "text": "LaVGuard: Selective Decoding for Contextual Value Drift",
+      "url": "https://arxiv.org/abs/2610.29135"
     },
     {
-      "text": "Local and Sparse Kernel Operator Learning for Incompressible Flows: An Operator Lagrange Formulation",
-      "url": "https://arxiv.org/abs/2610.29009"
+      "text": "Block Diffusion for Longitudinal EHR: Accuracy, Efficiency, and Representation Trade-offs",
+      "url": "https://arxiv.org/abs/2610.29533"
     },
     {
-      "text": "Dissimilarity-Based Markov Decision Processes for Stabilizing State Distributions",
-      "url": "https://arxiv.org/abs/2610.29024"
+      "text": "TeachBack: Learning to Teach via Bidirectional Preference Optimization for On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.29167"
     },
     {
-      "text": "Better Policies, Worse Verifier Audits",
-      "url": "https://arxiv.org/abs/2610.29029"
+      "text": "When Multiple Choices Are Correct: Asymmetric Probability Allocation in Jev and Other Decision Models",
+      "url": "https://arxiv.org/abs/2610.29217"
     },
     {
-      "text": "Gate Initialisation versus Recurrent Dropout and Zoneout in Learning Long Dependencies: A Controlled Study of LSTM and GRU Networks on Synthetic Tasks",
-      "url": "https://arxiv.org/abs/2610.29034"
+      "text": "Phase Transitions in Learning Driven by Extremal Data",
+      "url": "https://arxiv.org/abs/2610.29531"
     },
     {
-      "text": "ART-MPG: Autoregressive R/T Manifold Path Guiding",
-      "url": "https://arxiv.org/abs/2610.29049"
+      "text": "GoiBERT: Compact Vietnamese Language Models via Two-Stage Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2610.30067"
     },
     {
-      "text": "Dynamics of Hidden Learning Structure",
-      "url": "https://arxiv.org/abs/2610.29054"
+      "text": "Multi-level Encoder with Global Topic for Task-oriented Dialogue Summarization",
+      "url": "https://arxiv.org/abs/2610.29097"
     },
     {
-      "text": "Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection",
-      "url": "https://arxiv.org/abs/2610.29063"
+      "text": "Is Refusal Direction Universal across Low-Resourced Languages?",
+      "url": "https://arxiv.org/abs/2610.28897"
     }
   ],
-  "lastUpdated": "2026-10-22T17:15:01Z"
+  "lastUpdated": "2026-10-22T21:41:13Z"
 }
