@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+  },
+  "topStories": [
+    {
+      "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "text": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+      "url": "https://arxiv.org/abs/2610.28810"
+    },
+    {
+      "text": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+      "url": "https://arxiv.org/abs/2610.28826"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OPENAI MODELS ARE COMING TO GOOGLE CLOUD",
+      "url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
+      "text": "Could On-Policy Self-Distillation Revolutionize Post-Training?",
+      "url": "https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/"
+    },
+    {
+      "text": "Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors",
+      "url": "https://arxiv.org/abs/2505.23323"
+    },
+    {
+      "text": "HOW AT\u0026T IS RETHINKING IN-HOUSE LEGAL WORK WITH OPENAI",
+      "url": "https://openai.com/index/att-legal"
+    },
+    {
+      "text": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+    },
+    {
+      "text": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "DiaLong: Benchmarking Reminiscence in Long-Context Dialogues",
+      "url": "https://arxiv.org/abs/2610.25463"
+    },
+    {
+      "text": "WEAVE: Weaving Real-World Code Evolution into Dependency-Structured Tasks for Benchmarking and Training Code Agents",
+      "url": "https://arxiv.org/abs/2610.22039"
+    },
+    {
+      "text": "Just Respect the Semantics: Image-Token Compression via Pre-LLM Semantic Variable-Resolution Tokenization and In-LLM Relevance Pruning",
+      "url": "https://arxiv.org/abs/2610.18690"
+    },
+    {
+      "text": "BrainPro: Process-conditioned Pretraining with Topographic Retrieval for Large EEG Models",
+      "url": "https://arxiv.org/abs/2509.22050"
+    },
+    {
+      "text": "ChronoSynth: Constraint-Aware Question Synthesis over Temporal Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2610.29339"
+    },
+    {
+      "text": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+      "url": "https://arxiv.org/abs/2610.20926"
+    },
+    {
+      "text": "TopoMap: A Feature-based Discriminator of the Topographical Regions in the Test Input Space",
+      "url": "https://arxiv.org/abs/2509.03242"
+    },
+    {
+      "text": "HumanCentric-Scenes-AI: A Human-Curated Multimodal Dataset of AI-Generated Human-Centric Scenes Across Surveillance, Occupational Portraits, AI-Edited Images, and Short-Form Video",
+      "url": "https://arxiv.org/abs/2610.29045"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Progressive Permutation Alignment with Temperature-Controlled Spectral Sharpening",
+      "url": "https://arxiv.org/abs/2610.29396"
+    },
+    {
+      "text": "The Predictive--Optimization Gap in GuanDan Self-Play",
+      "url": "https://arxiv.org/abs/2610.29411"
+    },
+    {
+      "text": "Alternative Strategies for Active Learning with Bayesian Bradley Terry Model",
+      "url": "https://arxiv.org/abs/2610.29416"
+    },
+    {
+      "text": "Generalization Bounds via Vector-Valued $L_p$ Correlation $V_\\alpha$",
+      "url": "https://arxiv.org/abs/2610.29425"
+    },
+    {
+      "text": "Auditing Conformal Prediction for Language Models Under Inference-Time Model Shift",
+      "url": "https://arxiv.org/abs/2610.28937"
+    },
+    {
+      "text": "The Data Differentiator Framework (DDF): Quantifying Marginal Data Value with Information-Theoretic and Game-Theoretic Measures in an Agentic Evaluation Pipeline (SDSAE)",
+      "url": "https://arxiv.org/abs/2610.28933"
+    },
+    {
+      "text": "Query Feedback and Teaching for Stable and Certifiable Language Generation",
+      "url": "https://arxiv.org/abs/2610.28918"
+    },
+    {
+      "text": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.29458"
+    }
+  ],
+  "lastUpdated": "2026-10-22T11:40:38Z"
+}
