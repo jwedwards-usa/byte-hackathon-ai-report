@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The Hackening",
+    "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1"
+  },
+  "topStories": [
+    {
+      "text": "Instrumental convergence is incoherent",
+      "url": "https://www.lesswrong.com/posts/oxZfMvQS9NxcNTozL/instrumental-convergence-is-incoherent"
+    },
+    {
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "text": "Highlights from Garrison Lovely's \"Obsolete\"",
+      "url": "https://www.lesswrong.com/posts/osoJLzXycDhjm3tqv/highlights-from-garrison-lovely-s-obsolete"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
+      "url": "https://arxiv.org/abs/2610.30822"
+    },
+    {
+      "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "text": "UBER BRINGS CHATGPT WORK TO ALL EMPLOYEES WITH OPENAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+    },
+    {
+      "text": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
+    {
+      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
+    },
+    {
+      "text": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+    },
+    {
+      "text": "On the Behavioral Traits of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.32776"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Is spectral predictability enough? Testing {\\Omega}-matching for synthetic pretraining under distribution shift",
+      "url": "https://arxiv.org/abs/2610.30802"
+    },
+    {
+      "text": "FairFRESH: A Neuro-Symbolic Framework for Fair and Explainable Household Food Recommendation",
+      "url": "https://arxiv.org/abs/2610.31506"
+    },
+    {
+      "text": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
+      "url": "https://arxiv.org/abs/2610.31553"
+    },
+    {
+      "text": "When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs",
+      "url": "https://arxiv.org/abs/2608.11403"
+    },
+    {
+      "text": "Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training",
+      "url": "https://arxiv.org/abs/2610.30792"
+    },
+    {
+      "text": "Shift-aware score transport for privacy auditing without retraining",
+      "url": "https://arxiv.org/abs/2610.31549"
+    },
+    {
+      "text": "Fine-Grained Analysis of Catastrophic Forgetting in Continual Learning via Algorithmic Stability",
+      "url": "https://arxiv.org/abs/2610.31551"
+    },
+    {
+      "text": "AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems",
+      "url": "https://arxiv.org/abs/2607.06768"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
+      "url": "https://arxiv.org/abs/2610.30989"
+    },
+    {
+      "text": "GoiBERT: Compact Vietnamese Language Models via Two-Stage Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2610.30067"
+    },
+    {
+      "text": "Ground-Truth-First Benchmarking of Reinforcement Learning via Converse Optimality: From Smooth, Fully Observed Systems to Non-Smooth or Partially Observed Tasks",
+      "url": "https://arxiv.org/abs/2610.30954"
+    },
+    {
+      "text": "Evaluating Artificial Wisdom (AW): A Trajectory-Based Framework for Context-Sensitive Decision Regulation",
+      "url": "https://arxiv.org/abs/2610.31012"
+    },
+    {
+      "text": "Doubly Robust Distributionally Robust Offline Contextual Pricing",
+      "url": "https://arxiv.org/abs/2610.30957"
+    },
+    {
+      "text": "EEG-Captioner: Grounding EEG-to-Language Generation in Fundamental Signal Properties",
+      "url": "https://arxiv.org/abs/2610.30995"
+    },
+    {
+      "text": "RiskCueBench: Benchmarking Anticipatory Reasoning from Early Risk Cues in Video-Language Models",
+      "url": "https://arxiv.org/abs/2601.03369"
+    },
+    {
+      "text": "Conflict-Aware Logit Adapters for Utility-Preserving Anti-Distillation",
+      "url": "https://arxiv.org/abs/2610.31046"
+    }
+  ],
+  "lastUpdated": "2026-10-23T21:31:44Z"
+}
