@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Instrumental convergence is incoherent",
+    "url": "https://www.lesswrong.com/posts/oxZfMvQS9NxcNTozL/instrumental-convergence-is-incoherent"
+  },
+  "topStories": [
+    {
+      "text": "Highlights from Garrison Lovely's \"Obsolete\"",
+      "url": "https://www.lesswrong.com/posts/osoJLzXycDhjm3tqv/highlights-from-garrison-lovely-s-obsolete"
+    },
+    {
+      "text": "How could the US and China verifiably slow AI?",
+      "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai"
+    },
+    {
+      "text": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
+      "url": "https://arxiv.org/abs/2610.30822"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "text": "UBER BRINGS CHATGPT WORK TO ALL EMPLOYEES WITH OPENAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+    },
+    {
+      "text": "OPENAI, ANTHROPIC, AND NVIDIA HAD RECORD LOBBYING QUARTERS",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+    },
+    {
+      "text": "On the Behavioral Traits of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.32776"
+    },
+    {
+      "text": "OPENAI MODELS ARE COMING TO GOOGLE CLOUD",
+      "url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Your Six AI Models Are Really Two: The Math of Correlated Mistakes",
+      "url": "https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/"
+    },
+    {
+      "text": "DetoxAI: a Python Toolkit for Debiasing Deep Learning Models in Computer Vision",
+      "url": "https://arxiv.org/abs/2505.05492"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook",
+      "url": "https://arxiv.org/abs/2610.30628"
+    },
+    {
+      "text": "A Reality Check of Inference-Time Context Augmentation Methods",
+      "url": "https://arxiv.org/abs/2610.30983"
+    },
+    {
+      "text": "Visual Grounding First, Multimodal In-context Learning Follows",
+      "url": "https://arxiv.org/abs/2610.30592"
+    },
+    {
+      "text": "QuaNAS: Uncertainty-Aware Reuse of Earlier Searches for Query-Efficient Neural Architecture Search",
+      "url": "https://arxiv.org/abs/2610.31251"
+    },
+    {
+      "text": "On the Token Collapse Phenomenon in Textual Graph Soft Prompting",
+      "url": "https://arxiv.org/abs/2610.31572"
+    },
+    {
+      "text": "Improving Environment-Agnostic Agents: The Role of Scaffolding",
+      "url": "https://arxiv.org/abs/2610.22289"
+    },
+    {
+      "text": "DISC: Domain-Integrated Similarity Cost for Time-Series Dataset",
+      "url": "https://arxiv.org/abs/2610.31288"
+    },
+    {
+      "text": "Lifetime-valid decisions by continually evolving AI analysts",
+      "url": "https://arxiv.org/abs/2610.30562"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AcoustiPrint: Physics-Guided Neural Design of Manufacturable Acoustic Structures",
+      "url": "https://arxiv.org/abs/2610.30411"
+    },
+    {
+      "text": "Memory-Augmented Online Test-Time Adaptation for EEG Motor Imagery via Perturbation Consistency and Confidence Calibration",
+      "url": "https://arxiv.org/abs/2610.30422"
+    },
+    {
+      "text": "Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.31202"
+    },
+    {
+      "text": "Stability Analysis of Signed Graphs under Structural Perturbations",
+      "url": "https://arxiv.org/abs/2610.30444"
+    },
+    {
+      "text": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
+      "url": "https://arxiv.org/abs/2610.31158"
+    },
+    {
+      "text": "Short-to-Long: Detached Features for Long-Horizon Value Learning",
+      "url": "https://arxiv.org/abs/2610.30461"
+    },
+    {
+      "text": "Through a PRISM, Clearly: Step-Sequence Reasoning for Mistake Recognition in Procedural Videos",
+      "url": "https://arxiv.org/abs/2610.31117"
+    },
+    {
+      "text": "Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy",
+      "url": "https://arxiv.org/abs/2610.30474"
+    }
+  ],
+  "lastUpdated": "2026-10-23T11:30:19Z"
+}
