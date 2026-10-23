@@ -1,7 +1,7 @@
 {
   "mainHeadline": {
-    "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    "text": "The Hackening",
+    "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1"
   },
   "topStories": [
     {
@@ -9,15 +9,19 @@
       "url": "https://www.lesswrong.com/posts/oxZfMvQS9NxcNTozL/instrumental-convergence-is-incoherent"
     },
     {
-      "text": "Highlights from Garrison Lovely's \"Obsolete\"",
-      "url": "https://www.lesswrong.com/posts/osoJLzXycDhjm3tqv/highlights-from-garrison-lovely-s-obsolete"
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
     },
     {
-      "text": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
-      "url": "https://arxiv.org/abs/2610.30822"
+      "text": "Highlights from Garrison Lovely's \"Obsolete\"",
+      "url": "https://www.lesswrong.com/posts/osoJLzXycDhjm3tqv/highlights-from-garrison-lovely-s-obsolete"
     }
   ],
   "leftColumn": [
+    {
+      "text": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
+      "url": "https://arxiv.org/abs/2610.30822"
+    },
     {
       "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
@@ -27,12 +31,16 @@
       "url": "https://openai.com/index/uber-chatgpt-work-rollout"
     },
     {
-      "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
-      "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
+      "text": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
     },
     {
-      "text": "SWEDISH GOVERNMENT OFFICES TO BAN CHATGPT AND CLAUDE",
-      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"
+      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
+    },
+    {
+      "text": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
     },
     {
       "text": "On the Behavioral Traits of LLM Agents",
@@ -41,83 +49,75 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
-    },
-    {
-      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
-      "url": "https://arxiv.org/abs/2602.12018"
     }
   ],
   "centerColumn": [
     {
-      "text": "Efficient Adjoint Matching for Fine-tuning Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.11480"
+      "text": "Is spectral predictability enough? Testing {\\Omega}-matching for synthetic pretraining under distribution shift",
+      "url": "https://arxiv.org/abs/2610.30802"
     },
     {
-      "text": "Beyond Recall Saturation: Scaling Hard-Negative Reranker Training for Industrial Legal Retrieval",
-      "url": "https://arxiv.org/abs/2610.24478"
+      "text": "FairFRESH: A Neuro-Symbolic Framework for Fair and Explainable Household Food Recommendation",
+      "url": "https://arxiv.org/abs/2610.31506"
     },
     {
-      "text": "Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook",
-      "url": "https://arxiv.org/abs/2610.30628"
+      "text": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
+      "url": "https://arxiv.org/abs/2610.31553"
     },
     {
-      "text": "CoarseSoundNet: Building a reliable model for ecological soundscape analysis",
-      "url": "https://arxiv.org/abs/2605.21143"
+      "text": "When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs",
+      "url": "https://arxiv.org/abs/2608.11403"
     },
     {
-      "text": "Is the Judge Its Twin? Post-training makes a model's writing more predictable but barely moves its taste, as a judge, toward predictable writing",
-      "url": "https://arxiv.org/abs/2609.32196"
+      "text": "Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training",
+      "url": "https://arxiv.org/abs/2610.30792"
     },
     {
-      "text": "DConstrain: Compiling Context-Parameterized Transitions for Diffusion Language Model Constrained Decoding",
-      "url": "https://arxiv.org/abs/2610.30920"
+      "text": "Shift-aware score transport for privacy auditing without retraining",
+      "url": "https://arxiv.org/abs/2610.31549"
     },
     {
-      "text": "Measuring Pretraining Contamination in Public Medical Vision-Language Benchmarks",
-      "url": "https://arxiv.org/abs/2606.10066"
+      "text": "Fine-Grained Analysis of Catastrophic Forgetting in Continual Learning via Algorithmic Stability",
+      "url": "https://arxiv.org/abs/2610.31551"
     },
     {
-      "text": "Detecting AI Training in Datacentre Power",
-      "url": "https://arxiv.org/abs/2610.30182"
+      "text": "AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems",
+      "url": "https://arxiv.org/abs/2607.06768"
     }
   ],
   "rightColumn": [
     {
-      "text": "VEILED-SH: Vulnerability Expression through Indirect Language Evaluation Dataset (Self-Harm)",
-      "url": "https://arxiv.org/abs/2610.26190"
-    },
-    {
-      "text": "TwinStore: A Synthetic Consumer Platform Using Vision--Language Models",
-      "url": "https://arxiv.org/abs/2610.30909"
-    },
-    {
-      "text": "Operator Packages, Proposer Strength, and Construction-Family Plateaus in Office-Scale Verified Search",
-      "url": "https://arxiv.org/abs/2609.29636"
-    },
-    {
-      "text": "Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation",
-      "url": "https://arxiv.org/abs/2608.28886"
-    },
-    {
-      "text": "How Depth Growth and Looping Shape In-Context Learning in Language Models",
-      "url": "https://arxiv.org/abs/2610.31421"
-    },
-    {
-      "text": "Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals",
-      "url": "https://arxiv.org/abs/2610.30953"
-    },
-    {
-      "text": "Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series Foundation Model",
-      "url": "https://arxiv.org/abs/2610.30971"
-    },
-    {
       "text": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
       "url": "https://arxiv.org/abs/2610.30989"
+    },
+    {
+      "text": "GoiBERT: Compact Vietnamese Language Models via Two-Stage Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2610.30067"
+    },
+    {
+      "text": "Ground-Truth-First Benchmarking of Reinforcement Learning via Converse Optimality: From Smooth, Fully Observed Systems to Non-Smooth or Partially Observed Tasks",
+      "url": "https://arxiv.org/abs/2610.30954"
+    },
+    {
+      "text": "Evaluating Artificial Wisdom (AW): A Trajectory-Based Framework for Context-Sensitive Decision Regulation",
+      "url": "https://arxiv.org/abs/2610.31012"
+    },
+    {
+      "text": "Doubly Robust Distributionally Robust Offline Contextual Pricing",
+      "url": "https://arxiv.org/abs/2610.30957"
+    },
+    {
+      "text": "EEG-Captioner: Grounding EEG-to-Language Generation in Fundamental Signal Properties",
+      "url": "https://arxiv.org/abs/2610.30995"
+    },
+    {
+      "text": "RiskCueBench: Benchmarking Anticipatory Reasoning from Early Risk Cues in Video-Language Models",
+      "url": "https://arxiv.org/abs/2601.03369"
+    },
+    {
+      "text": "Conflict-Aware Logit Adapters for Utility-Preserving Anti-Distillation",
+      "url": "https://arxiv.org/abs/2610.31046"
     }
   ],
-  "lastUpdated": "2026-10-23T17:11:18Z"
+  "lastUpdated": "2026-10-23T21:31:44Z"
 }
