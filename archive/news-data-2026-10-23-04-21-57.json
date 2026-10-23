@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #191: The Hackening Begins",
+    "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins"
+  },
+  "topStories": [
+    {
+      "text": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
+      "url": "https://arxiv.org/abs/2610.30822"
+    },
+    {
+      "text": "Highlights from Garrison Lovely's \"Obsolete\"",
+      "url": "https://www.lesswrong.com/posts/osoJLzXycDhjm3tqv/highlights-from-garrison-lovely-s-obsolete"
+    },
+    {
+      "text": "On the Behavioral Traits of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.32776"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "How could the US and China verifiably slow AI?",
+      "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai"
+    },
+    {
+      "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2610.30418"
+    },
+    {
+      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
+      "url": "https://arxiv.org/abs/2610.30385"
+    },
+    {
+      "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+      "url": "https://arxiv.org/abs/2610.30344"
+    },
+    {
+      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
+      "url": "https://arxiv.org/abs/2602.12018"
+    },
+    {
+      "text": "Training Small Language Models for Transferable Tool Selection",
+      "url": "https://arxiv.org/abs/2610.31483"
+    },
+    {
+      "text": "DetoxAI: a Python Toolkit for Debiasing Deep Learning Models in Computer Vision",
+      "url": "https://arxiv.org/abs/2505.05492"
+    },
+    {
+      "text": "A Transformer-based Approach for Real-time Multi-agent Path Planning with Varying Initial/Final Conditions",
+      "url": "https://arxiv.org/abs/2610.30388"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "XALIGN: A Human-centric Visual Analytics Approach to Understanding AI Explanations",
+      "url": "https://arxiv.org/abs/2610.31015"
+    },
+    {
+      "text": "Detecting AI Training in Datacentre Power",
+      "url": "https://arxiv.org/abs/2610.30182"
+    },
+    {
+      "text": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
+      "url": "https://arxiv.org/abs/2610.31553"
+    },
+    {
+      "text": "FairFRESH: A Neuro-Symbolic Framework for Fair and Explainable Household Food Recommendation",
+      "url": "https://arxiv.org/abs/2610.31506"
+    },
+    {
+      "text": "Is the Judge Its Twin? Post-training makes a model's writing more predictable but barely moves its taste, as a judge, toward predictable writing",
+      "url": "https://arxiv.org/abs/2609.32196"
+    },
+    {
+      "text": "Trion-1: Unifying Language, Protein Sequence, and Structure with Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.31215"
+    },
+    {
+      "text": "Can AI Co-Design Structures? An AI Agent for Early-Stage Structural Design",
+      "url": "https://arxiv.org/abs/2610.31113"
+    },
+    {
+      "text": "Solving Flood-It Puzzles: A Comparison of Tailored A* Search with Declarative Solver Approaches",
+      "url": "https://arxiv.org/abs/2610.31100"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "The Bayesian Learning Rule Beyond KL Geometry",
+      "url": "https://arxiv.org/abs/2610.31308"
+    },
+    {
+      "text": "Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals",
+      "url": "https://arxiv.org/abs/2610.30953"
+    },
+    {
+      "text": "Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series Foundation Model",
+      "url": "https://arxiv.org/abs/2610.30971"
+    },
+    {
+      "text": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
+      "url": "https://arxiv.org/abs/2610.30989"
+    },
+    {
+      "text": "How to Backdoor Image Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2504.21323"
+    },
+    {
+      "text": "xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs",
+      "url": "https://arxiv.org/abs/2610.30815"
+    },
+    {
+      "text": "Evaluating Artificial Wisdom (AW): A Trajectory-Based Framework for Context-Sensitive Decision Regulation",
+      "url": "https://arxiv.org/abs/2610.31012"
+    },
+    {
+      "text": "Parallelizable Probabilistic Latent Reasoning for Diverse Reasoning Trajectories",
+      "url": "https://arxiv.org/abs/2610.29385"
+    }
+  ],
+  "lastUpdated": "2026-10-23T04:21:57Z"
+}
