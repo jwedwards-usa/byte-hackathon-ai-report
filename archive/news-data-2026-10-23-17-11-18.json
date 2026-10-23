@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+  },
+  "topStories": [
+    {
+      "text": "Instrumental convergence is incoherent",
+      "url": "https://www.lesswrong.com/posts/oxZfMvQS9NxcNTozL/instrumental-convergence-is-incoherent"
+    },
+    {
+      "text": "Highlights from Garrison Lovely's \"Obsolete\"",
+      "url": "https://www.lesswrong.com/posts/osoJLzXycDhjm3tqv/highlights-from-garrison-lovely-s-obsolete"
+    },
+    {
+      "text": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
+      "url": "https://arxiv.org/abs/2610.30822"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "text": "UBER BRINGS CHATGPT WORK TO ALL EMPLOYEES WITH OPENAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+    },
+    {
+      "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
+      "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
+    },
+    {
+      "text": "SWEDISH GOVERNMENT OFFICES TO BAN CHATGPT AND CLAUDE",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"
+    },
+    {
+      "text": "On the Behavioral Traits of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.32776"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+    },
+    {
+      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
+      "url": "https://arxiv.org/abs/2602.12018"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Efficient Adjoint Matching for Fine-tuning Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.11480"
+    },
+    {
+      "text": "Beyond Recall Saturation: Scaling Hard-Negative Reranker Training for Industrial Legal Retrieval",
+      "url": "https://arxiv.org/abs/2610.24478"
+    },
+    {
+      "text": "Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook",
+      "url": "https://arxiv.org/abs/2610.30628"
+    },
+    {
+      "text": "CoarseSoundNet: Building a reliable model for ecological soundscape analysis",
+      "url": "https://arxiv.org/abs/2605.21143"
+    },
+    {
+      "text": "Is the Judge Its Twin? Post-training makes a model's writing more predictable but barely moves its taste, as a judge, toward predictable writing",
+      "url": "https://arxiv.org/abs/2609.32196"
+    },
+    {
+      "text": "DConstrain: Compiling Context-Parameterized Transitions for Diffusion Language Model Constrained Decoding",
+      "url": "https://arxiv.org/abs/2610.30920"
+    },
+    {
+      "text": "Measuring Pretraining Contamination in Public Medical Vision-Language Benchmarks",
+      "url": "https://arxiv.org/abs/2606.10066"
+    },
+    {
+      "text": "Detecting AI Training in Datacentre Power",
+      "url": "https://arxiv.org/abs/2610.30182"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "VEILED-SH: Vulnerability Expression through Indirect Language Evaluation Dataset (Self-Harm)",
+      "url": "https://arxiv.org/abs/2610.26190"
+    },
+    {
+      "text": "TwinStore: A Synthetic Consumer Platform Using Vision--Language Models",
+      "url": "https://arxiv.org/abs/2610.30909"
+    },
+    {
+      "text": "Operator Packages, Proposer Strength, and Construction-Family Plateaus in Office-Scale Verified Search",
+      "url": "https://arxiv.org/abs/2609.29636"
+    },
+    {
+      "text": "Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation",
+      "url": "https://arxiv.org/abs/2608.28886"
+    },
+    {
+      "text": "How Depth Growth and Looping Shape In-Context Learning in Language Models",
+      "url": "https://arxiv.org/abs/2610.31421"
+    },
+    {
+      "text": "Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals",
+      "url": "https://arxiv.org/abs/2610.30953"
+    },
+    {
+      "text": "Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series Foundation Model",
+      "url": "https://arxiv.org/abs/2610.30971"
+    },
+    {
+      "text": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
+      "url": "https://arxiv.org/abs/2610.30989"
+    }
+  ],
+  "lastUpdated": "2026-10-23T17:11:18Z"
+}
