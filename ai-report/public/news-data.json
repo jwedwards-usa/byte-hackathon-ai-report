@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
       "text": "On the Behavioral Traits of LLM Agents",
       "url": "https://arxiv.org/abs/2609.32776"
-    },
-    {
-      "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
-      "url": "https://arxiv.org/abs/2610.30344"
-    },
-    {
-      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
-      "url": "https://arxiv.org/abs/2610.30385"
     }
   ],
   "leftColumn": [
     {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
       "text": "Artificial intelligence is creating a new global linguistic hierarchy",
       "url": "https://arxiv.org/abs/2602.12018"
+    },
+    {
+      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
+      "url": "https://arxiv.org/abs/2610.30385"
     },
     {
       "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
       "url": "https://arxiv.org/abs/2610.30418"
     },
     {
+      "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+      "url": "https://arxiv.org/abs/2610.30344"
+    },
+    {
       "text": "Societal Impacts Research on AI (SIRA)",
       "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
     },
     {
-      "text": "MENTOR: A Metacognition-Driven Self-Evolution Framework for Uncovering and Mitigating Implicit Domain Risks in LLMs",
-      "url": "https://arxiv.org/abs/2511.07107"
+      "text": "Simulated Control Evaluations",
+      "url": "https://www.lesswrong.com/posts/uXiqyoKwpfjWfQXk5/simulated-control-evaluations"
     },
     {
-      "text": "Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots",
-      "url": "https://arxiv.org/abs/2509.16444"
-    },
-    {
-      "text": "SIM-UT: A User Simulation based Evaluation Framework for Medical Triage Chatbots",
-      "url": "https://arxiv.org/abs/2610.30412"
-    },
-    {
-      "text": "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization",
-      "url": "https://arxiv.org/abs/2610.30742"
-    },
-    {
-      "text": "The AGI Chronicles",
-      "url": "https://www.lesswrong.com/posts/x2ZAgjs7XoHvJ4YpN/the-agi-chronicles"
+      "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
+      "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
     }
   ],
   "centerColumn": [
     {
-      "text": "IndoNutriQA: An Indonesian Clinical Nutrition Question Answering Benchmark",
-      "url": "https://arxiv.org/abs/2610.31256"
+      "text": "Beyond Recall Saturation: Scaling Hard-Negative Reranker Training for Industrial Legal Retrieval",
+      "url": "https://arxiv.org/abs/2610.24478"
     },
     {
-      "text": "Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models",
-      "url": "https://arxiv.org/abs/2610.30435"
+      "text": "RIFT: KV Cache Compression for Draft Models with Complementary Compressibility Training",
+      "url": "https://arxiv.org/abs/2610.31098"
     },
     {
-      "text": "What the Specification Did Not Say: Specification-Oracle Gaps in Test-Graded Coding-Agent Benchmarks",
-      "url": "https://arxiv.org/abs/2610.30635"
+      "text": "Hierarchical Fine-Grained Cross-Modal Alignment via Dynamic Granularity Discovery and Optimal Transport",
+      "url": "https://arxiv.org/abs/2610.30912"
     },
     {
-      "text": "Climbing the Ladder: Automating Data Pipelines and Reproducing Baselines in Low-Resource Settings",
-      "url": "https://arxiv.org/abs/2610.30374"
+      "text": "When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs",
+      "url": "https://arxiv.org/abs/2608.11403"
     },
     {
-      "text": "Spectral Smoothing and Spiking Perturbations Reconfigure Capability Profiles and Selective Task Performance in Large Language Models",
-      "url": "https://arxiv.org/abs/2610.30676"
+      "text": "Is the Judge Its Twin? Post-training makes a model's writing more predictable but barely moves its taste, as a judge, toward predictable writing",
+      "url": "https://arxiv.org/abs/2609.32196"
     },
     {
-      "text": "SyRA-CS: Synthetic-to-Real Adaptation for Code-Switched ASR with Meta-Learning",
-      "url": "https://arxiv.org/abs/2610.31415"
+      "text": "A Reality Check of Inference-Time Context Augmentation Methods",
+      "url": "https://arxiv.org/abs/2610.30983"
     },
     {
-      "text": "Towards User Simulators That Stay On Task And Still Sound Natural",
-      "url": "https://arxiv.org/abs/2610.31512"
+      "text": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
+      "url": "https://arxiv.org/abs/2610.29342"
     },
     {
-      "text": "An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks",
-      "url": "https://arxiv.org/abs/2610.31529"
+      "text": "Latent Bridges for Multi-Table Question Answering",
+      "url": "https://arxiv.org/abs/2606.28916"
     }
   ],
   "rightColumn": [
     {
-      "text": "Harm Is Behavioural, Moderation Is Lexical: How Language and Culture Decide Whom Automated Safety Systems Protect and Whom They Silence",
-      "url": "https://arxiv.org/abs/2610.31047"
+      "text": "Pathways of Visual Information Flow in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2607.03358"
     },
     {
-      "text": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
-      "url": "https://arxiv.org/abs/2610.30989"
+      "text": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
+      "url": "https://arxiv.org/abs/2610.28673"
     },
     {
-      "text": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
-      "url": "https://arxiv.org/abs/2610.31019"
+      "text": "Sharp Degree Bounds for Putinar Certificates in Terms of the Positivity Margin via Analytic Sums of Squares",
+      "url": "https://arxiv.org/abs/2610.26976"
     },
     {
-      "text": "Through a PRISM, Clearly: Step-Sequence Reasoning for Mistake Recognition in Procedural Videos",
-      "url": "https://arxiv.org/abs/2610.31117"
+      "text": "VEILED-SH: Vulnerability Expression through Indirect Language Evaluation Dataset (Self-Harm)",
+      "url": "https://arxiv.org/abs/2610.26190"
     },
     {
-      "text": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
-      "url": "https://arxiv.org/abs/2610.31158"
+      "text": "Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents",
+      "url": "https://arxiv.org/abs/2610.31107"
     },
     {
-      "text": "Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models",
-      "url": "https://arxiv.org/abs/2610.31202"
+      "text": "Operator Packages, Proposer Strength, and Construction-Family Plateaus in Office-Scale Verified Search",
+      "url": "https://arxiv.org/abs/2609.29636"
     },
     {
-      "text": "The Value of Memory in Language Agents",
-      "url": "https://arxiv.org/abs/2610.31303"
+      "text": "Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation",
+      "url": "https://arxiv.org/abs/2608.28886"
     },
     {
-      "text": "Mostly Reading: What Open-Book Scores Measure in Document-Level LoRA Adapters",
-      "url": "https://arxiv.org/abs/2610.31017"
+      "text": "Pluralistic Alignment in Large Language Models: Objectives, Human References, and Preference Representations",
+      "url": "https://arxiv.org/abs/2610.24471"
     }
   ],
-  "lastUpdated": "2026-10-24T04:11:54Z"
+  "lastUpdated": "2026-10-24T10:57:55Z"
 }
