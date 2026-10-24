@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Testing Gemini’s Ability to Hold a Human Persona",
+    "url": "https://www.lesswrong.com/posts/u5skMKr9pP5btaHze/testing-gemini-s-ability-to-hold-a-human-persona"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "text": "On the Behavioral Traits of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.32776"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "How to Add Guardrails to a Local LLM Agent",
+      "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
+    },
+    {
+      "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+      "url": "https://arxiv.org/abs/2610.30344"
+    },
+    {
+      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
+      "url": "https://arxiv.org/abs/2602.12018"
+    },
+    {
+      "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2610.30418"
+    },
+    {
+      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
+      "url": "https://arxiv.org/abs/2610.30385"
+    },
+    {
+      "text": "Societal Impacts Research on AI (SIRA)",
+      "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
+    },
+    {
+      "text": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language",
+      "url": "https://arxiv.org/abs/2610.31397"
+    },
+    {
+      "text": "Beyond Recall Saturation: Scaling Hard-Negative Reranker Training for Industrial Legal Retrieval",
+      "url": "https://arxiv.org/abs/2610.24478"
+    },
+    {
+      "text": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
+      "url": "https://arxiv.org/abs/2610.30158"
+    },
+    {
+      "text": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
+      "url": "https://arxiv.org/abs/2610.29342"
+    },
+    {
+      "text": "RIFT: KV Cache Compression for Draft Models with Complementary Compressibility Training",
+      "url": "https://arxiv.org/abs/2610.31098"
+    },
+    {
+      "text": "Latent Bridges for Multi-Table Question Answering",
+      "url": "https://arxiv.org/abs/2606.28916"
+    },
+    {
+      "text": "Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models",
+      "url": "https://arxiv.org/abs/2610.31407"
+    },
+    {
+      "text": "OACap: Caption-Guided Active Observation for Detailed Video Captioning",
+      "url": "https://arxiv.org/abs/2610.29327"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "url": "https://arxiv.org/abs/2610.31667"
+    },
+    {
+      "text": "Measuring the Verifier's Floor: How Much Apparent Rare-Word Text-to-Speech Error Is ASR Error?",
+      "url": "https://arxiv.org/abs/2610.31470"
+    },
+    {
+      "text": "How Different, or Different How? Stance Granularity in Viewpoint Selection for Dialog Systems that Engage Users with Alternative Views",
+      "url": "https://arxiv.org/abs/2610.31459"
+    },
+    {
+      "text": "Synthetic-to-Real Code-Switched ASR: A Spontaneous Nepali-English Podcast Benchmark",
+      "url": "https://arxiv.org/abs/2610.30860"
+    },
+    {
+      "text": "MoVoC: Morphology-Aware Subword Construction for Geez Script Languages Corrected version",
+      "url": "https://arxiv.org/abs/2509.08812"
+    },
+    {
+      "text": "TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2610.30841"
+    },
+    {
+      "text": "Where meanings converge and diverge: Revisiting linguistic relativity across 81 languages",
+      "url": "https://arxiv.org/abs/2610.30778"
+    },
+    {
+      "text": "Multi-Token Prediction and Alternative Tokenization Improve Learning Latent Multi-Hop Graph Search at Scale",
+      "url": "https://arxiv.org/abs/2610.31439"
+    }
+  ],
+  "lastUpdated": "2026-10-24T20:43:09Z"
+}

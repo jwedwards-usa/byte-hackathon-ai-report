@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
-      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
       "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
-      "text": "How to Add Guardrails to a Local LLM Agent",
-      "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
-    }
-  ],
-  "leftColumn": [
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
     {
       "text": "On the Behavioral Traits of LLM Agents",
       "url": "https://arxiv.org/abs/2609.32776"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
-      "url": "https://arxiv.org/abs/2610.30385"
-    },
-    {
-      "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
-      "url": "https://arxiv.org/abs/2610.30418"
-    },
-    {
-      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
-      "url": "https://arxiv.org/abs/2602.12018"
+      "text": "How to Add Guardrails to a Local LLM Agent",
+      "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
     },
     {
       "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
       "url": "https://arxiv.org/abs/2610.30344"
     },
     {
+      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
+      "url": "https://arxiv.org/abs/2602.12018"
+    },
+    {
+      "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2610.30418"
+    },
+    {
+      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
+      "url": "https://arxiv.org/abs/2610.30385"
+    },
+    {
       "text": "Societal Impacts Research on AI (SIRA)",
       "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
     },
     {
-      "text": "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization",
-      "url": "https://arxiv.org/abs/2610.30742"
+      "text": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
     }
   ],
   "centerColumn": [
-    {
-      "text": "ShIOEnv: A Command Evaluation Environment for Grammar-Constrained Synthesis and Execution Behavior Modeling",
-      "url": "https://arxiv.org/abs/2505.18374"
-    },
     {
       "text": "Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language",
       "url": "https://arxiv.org/abs/2610.31397"
     },
     {
-      "text": "Investigating Multi-Cultural Value Selection Biases in LLMs",
-      "url": "https://arxiv.org/abs/2610.31199"
+      "text": "Beyond Recall Saturation: Scaling Hard-Negative Reranker Training for Industrial Legal Retrieval",
+      "url": "https://arxiv.org/abs/2610.24478"
+    },
+    {
+      "text": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
+      "url": "https://arxiv.org/abs/2610.30158"
+    },
+    {
+      "text": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
+      "url": "https://arxiv.org/abs/2610.29342"
+    },
+    {
+      "text": "RIFT: KV Cache Compression for Draft Models with Complementary Compressibility Training",
+      "url": "https://arxiv.org/abs/2610.31098"
+    },
+    {
+      "text": "Latent Bridges for Multi-Table Question Answering",
+      "url": "https://arxiv.org/abs/2606.28916"
     },
     {
       "text": "Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models",
       "url": "https://arxiv.org/abs/2610.31407"
     },
     {
-      "text": "Memories That Outlive Their Reasons: Dependency-Tethered Memory for Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2610.25123"
-    },
-    {
-      "text": "Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting",
-      "url": "https://arxiv.org/abs/2610.29784"
-    },
-    {
-      "text": "How Firm Are AI Models' Ethical Boundaries? A Pay-Stub Editing Test of 15 Models",
-      "url": "https://arxiv.org/abs/2610.30751"
-    },
-    {
-      "text": "RIFT: KV Cache Compression for Draft Models with Complementary Compressibility Training",
-      "url": "https://arxiv.org/abs/2610.31098"
+      "text": "OACap: Caption-Guided Active Observation for Detailed Video Captioning",
+      "url": "https://arxiv.org/abs/2610.29327"
     }
   ],
   "rightColumn": [
     {
-      "text": "A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English",
-      "url": "https://arxiv.org/abs/2603.24549"
+      "text": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "url": "https://arxiv.org/abs/2610.31667"
     },
     {
-      "text": "Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents",
-      "url": "https://arxiv.org/abs/2610.31107"
+      "text": "Measuring the Verifier's Floor: How Much Apparent Rare-Word Text-to-Speech Error Is ASR Error?",
+      "url": "https://arxiv.org/abs/2610.31470"
     },
     {
-      "text": "Harm Is Behavioural, Moderation Is Lexical: How Language and Culture Decide Whom Automated Safety Systems Protect and Whom They Silence",
-      "url": "https://arxiv.org/abs/2610.31047"
+      "text": "How Different, or Different How? Stance Granularity in Viewpoint Selection for Dialog Systems that Engage Users with Alternative Views",
+      "url": "https://arxiv.org/abs/2610.31459"
     },
     {
-      "text": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
-      "url": "https://arxiv.org/abs/2610.31019"
+      "text": "Synthetic-to-Real Code-Switched ASR: A Spontaneous Nepali-English Podcast Benchmark",
+      "url": "https://arxiv.org/abs/2610.30860"
     },
     {
-      "text": "Mostly Reading: What Open-Book Scores Measure in Document-Level LoRA Adapters",
-      "url": "https://arxiv.org/abs/2610.31017"
+      "text": "MoVoC: Morphology-Aware Subword Construction for Geez Script Languages Corrected version",
+      "url": "https://arxiv.org/abs/2509.08812"
     },
     {
-      "text": "Padding to k: A Minimum Count in the Schema Makes Open-Weight Models Pad Their Extraction Lists",
-      "url": "https://arxiv.org/abs/2610.30997"
+      "text": "TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2610.30841"
     },
     {
-      "text": "Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation",
-      "url": "https://arxiv.org/abs/2608.28886"
+      "text": "Where meanings converge and diverge: Revisiting linguistic relativity across 81 languages",
+      "url": "https://arxiv.org/abs/2610.30778"
     },
     {
-      "text": "Operator Packages, Proposer Strength, and Construction-Family Plateaus in Office-Scale Verified Search",
-      "url": "https://arxiv.org/abs/2609.29636"
+      "text": "Multi-Token Prediction and Alternative Tokenization Improve Learning Latent Multi-Hop Graph Search at Scale",
+      "url": "https://arxiv.org/abs/2610.31439"
     }
   ],
-  "lastUpdated": "2026-10-24T15:53:02Z"
+  "lastUpdated": "2026-10-24T20:43:09Z"
 }
