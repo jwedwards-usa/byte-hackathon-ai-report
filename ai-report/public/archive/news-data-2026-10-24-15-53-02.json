@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Testing Gemini’s Ability to Hold a Human Persona",
+    "url": "https://www.lesswrong.com/posts/u5skMKr9pP5btaHze/testing-gemini-s-ability-to-hold-a-human-persona"
+  },
+  "topStories": [
+    {
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "text": "How to Add Guardrails to a Local LLM Agent",
+      "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "On the Behavioral Traits of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.32776"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
+      "url": "https://arxiv.org/abs/2610.30385"
+    },
+    {
+      "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2610.30418"
+    },
+    {
+      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
+      "url": "https://arxiv.org/abs/2602.12018"
+    },
+    {
+      "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+      "url": "https://arxiv.org/abs/2610.30344"
+    },
+    {
+      "text": "Societal Impacts Research on AI (SIRA)",
+      "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
+    },
+    {
+      "text": "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization",
+      "url": "https://arxiv.org/abs/2610.30742"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "ShIOEnv: A Command Evaluation Environment for Grammar-Constrained Synthesis and Execution Behavior Modeling",
+      "url": "https://arxiv.org/abs/2505.18374"
+    },
+    {
+      "text": "Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language",
+      "url": "https://arxiv.org/abs/2610.31397"
+    },
+    {
+      "text": "Investigating Multi-Cultural Value Selection Biases in LLMs",
+      "url": "https://arxiv.org/abs/2610.31199"
+    },
+    {
+      "text": "Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models",
+      "url": "https://arxiv.org/abs/2610.31407"
+    },
+    {
+      "text": "Memories That Outlive Their Reasons: Dependency-Tethered Memory for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2610.25123"
+    },
+    {
+      "text": "Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting",
+      "url": "https://arxiv.org/abs/2610.29784"
+    },
+    {
+      "text": "How Firm Are AI Models' Ethical Boundaries? A Pay-Stub Editing Test of 15 Models",
+      "url": "https://arxiv.org/abs/2610.30751"
+    },
+    {
+      "text": "RIFT: KV Cache Compression for Draft Models with Complementary Compressibility Training",
+      "url": "https://arxiv.org/abs/2610.31098"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English",
+      "url": "https://arxiv.org/abs/2603.24549"
+    },
+    {
+      "text": "Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents",
+      "url": "https://arxiv.org/abs/2610.31107"
+    },
+    {
+      "text": "Harm Is Behavioural, Moderation Is Lexical: How Language and Culture Decide Whom Automated Safety Systems Protect and Whom They Silence",
+      "url": "https://arxiv.org/abs/2610.31047"
+    },
+    {
+      "text": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
+      "url": "https://arxiv.org/abs/2610.31019"
+    },
+    {
+      "text": "Mostly Reading: What Open-Book Scores Measure in Document-Level LoRA Adapters",
+      "url": "https://arxiv.org/abs/2610.31017"
+    },
+    {
+      "text": "Padding to k: A Minimum Count in the Schema Makes Open-Weight Models Pad Their Extraction Lists",
+      "url": "https://arxiv.org/abs/2610.30997"
+    },
+    {
+      "text": "Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation",
+      "url": "https://arxiv.org/abs/2608.28886"
+    },
+    {
+      "text": "Operator Packages, Proposer Strength, and Construction-Family Plateaus in Office-Scale Verified Search",
+      "url": "https://arxiv.org/abs/2609.29636"
+    }
+  ],
+  "lastUpdated": "2026-10-24T15:53:02Z"
+}
