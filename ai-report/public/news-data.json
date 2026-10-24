@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "The Hackening",
-    "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1"
+    "text": "Testing Gemini’s Ability to Hold a Human Persona",
+    "url": "https://www.lesswrong.com/posts/u5skMKr9pP5btaHze/testing-gemini-s-ability-to-hold-a-human-persona"
   },
   "topStories": [
-    {
-      "text": "Instrumental convergence is incoherent",
-      "url": "https://www.lesswrong.com/posts/oxZfMvQS9NxcNTozL/instrumental-convergence-is-incoherent"
-    },
-    {
-      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
-      "text": "Highlights from Garrison Lovely's \"Obsolete\"",
-      "url": "https://www.lesswrong.com/posts/osoJLzXycDhjm3tqv/highlights-from-garrison-lovely-s-obsolete"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
-      "url": "https://arxiv.org/abs/2610.30822"
-    },
-    {
-      "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-    },
-    {
-      "text": "UBER BRINGS CHATGPT WORK TO ALL EMPLOYEES WITH OPENAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-    },
-    {
-      "text": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
-    },
-    {
-      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
-      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
-    },
-    {
-      "text": "Introducing Kimi K3.1 Pro",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-    },
     {
       "text": "On the Behavioral Traits of LLM Agents",
       "url": "https://arxiv.org/abs/2609.32776"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+      "url": "https://arxiv.org/abs/2610.30344"
+    },
+    {
+      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
+      "url": "https://arxiv.org/abs/2610.30385"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
+      "url": "https://arxiv.org/abs/2602.12018"
+    },
+    {
+      "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2610.30418"
+    },
+    {
+      "text": "Societal Impacts Research on AI (SIRA)",
+      "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
+    },
+    {
+      "text": "MENTOR: A Metacognition-Driven Self-Evolution Framework for Uncovering and Mitigating Implicit Domain Risks in LLMs",
+      "url": "https://arxiv.org/abs/2511.07107"
+    },
+    {
+      "text": "Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots",
+      "url": "https://arxiv.org/abs/2509.16444"
+    },
+    {
+      "text": "SIM-UT: A User Simulation based Evaluation Framework for Medical Triage Chatbots",
+      "url": "https://arxiv.org/abs/2610.30412"
+    },
+    {
+      "text": "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization",
+      "url": "https://arxiv.org/abs/2610.30742"
+    },
+    {
+      "text": "The AGI Chronicles",
+      "url": "https://www.lesswrong.com/posts/x2ZAgjs7XoHvJ4YpN/the-agi-chronicles"
     }
   ],
   "centerColumn": [
     {
-      "text": "Is spectral predictability enough? Testing {\\Omega}-matching for synthetic pretraining under distribution shift",
-      "url": "https://arxiv.org/abs/2610.30802"
+      "text": "IndoNutriQA: An Indonesian Clinical Nutrition Question Answering Benchmark",
+      "url": "https://arxiv.org/abs/2610.31256"
     },
     {
-      "text": "FairFRESH: A Neuro-Symbolic Framework for Fair and Explainable Household Food Recommendation",
-      "url": "https://arxiv.org/abs/2610.31506"
+      "text": "Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models",
+      "url": "https://arxiv.org/abs/2610.30435"
     },
     {
-      "text": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
-      "url": "https://arxiv.org/abs/2610.31553"
+      "text": "What the Specification Did Not Say: Specification-Oracle Gaps in Test-Graded Coding-Agent Benchmarks",
+      "url": "https://arxiv.org/abs/2610.30635"
     },
     {
-      "text": "When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs",
-      "url": "https://arxiv.org/abs/2608.11403"
+      "text": "Climbing the Ladder: Automating Data Pipelines and Reproducing Baselines in Low-Resource Settings",
+      "url": "https://arxiv.org/abs/2610.30374"
     },
     {
-      "text": "Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training",
-      "url": "https://arxiv.org/abs/2610.30792"
+      "text": "Spectral Smoothing and Spiking Perturbations Reconfigure Capability Profiles and Selective Task Performance in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.30676"
     },
     {
-      "text": "Shift-aware score transport for privacy auditing without retraining",
-      "url": "https://arxiv.org/abs/2610.31549"
+      "text": "SyRA-CS: Synthetic-to-Real Adaptation for Code-Switched ASR with Meta-Learning",
+      "url": "https://arxiv.org/abs/2610.31415"
     },
     {
-      "text": "Fine-Grained Analysis of Catastrophic Forgetting in Continual Learning via Algorithmic Stability",
-      "url": "https://arxiv.org/abs/2610.31551"
+      "text": "Towards User Simulators That Stay On Task And Still Sound Natural",
+      "url": "https://arxiv.org/abs/2610.31512"
     },
     {
-      "text": "AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems",
-      "url": "https://arxiv.org/abs/2607.06768"
+      "text": "An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks",
+      "url": "https://arxiv.org/abs/2610.31529"
     }
   ],
   "rightColumn": [
+    {
+      "text": "Harm Is Behavioural, Moderation Is Lexical: How Language and Culture Decide Whom Automated Safety Systems Protect and Whom They Silence",
+      "url": "https://arxiv.org/abs/2610.31047"
+    },
     {
       "text": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
       "url": "https://arxiv.org/abs/2610.30989"
     },
     {
-      "text": "GoiBERT: Compact Vietnamese Language Models via Two-Stage Knowledge Distillation",
-      "url": "https://arxiv.org/abs/2610.30067"
+      "text": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
+      "url": "https://arxiv.org/abs/2610.31019"
     },
     {
-      "text": "Ground-Truth-First Benchmarking of Reinforcement Learning via Converse Optimality: From Smooth, Fully Observed Systems to Non-Smooth or Partially Observed Tasks",
-      "url": "https://arxiv.org/abs/2610.30954"
+      "text": "Through a PRISM, Clearly: Step-Sequence Reasoning for Mistake Recognition in Procedural Videos",
+      "url": "https://arxiv.org/abs/2610.31117"
     },
     {
-      "text": "Evaluating Artificial Wisdom (AW): A Trajectory-Based Framework for Context-Sensitive Decision Regulation",
-      "url": "https://arxiv.org/abs/2610.31012"
+      "text": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
+      "url": "https://arxiv.org/abs/2610.31158"
     },
     {
-      "text": "Doubly Robust Distributionally Robust Offline Contextual Pricing",
-      "url": "https://arxiv.org/abs/2610.30957"
+      "text": "Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.31202"
     },
     {
-      "text": "EEG-Captioner: Grounding EEG-to-Language Generation in Fundamental Signal Properties",
-      "url": "https://arxiv.org/abs/2610.30995"
+      "text": "The Value of Memory in Language Agents",
+      "url": "https://arxiv.org/abs/2610.31303"
     },
     {
-      "text": "RiskCueBench: Benchmarking Anticipatory Reasoning from Early Risk Cues in Video-Language Models",
-      "url": "https://arxiv.org/abs/2601.03369"
-    },
-    {
-      "text": "Conflict-Aware Logit Adapters for Utility-Preserving Anti-Distillation",
-      "url": "https://arxiv.org/abs/2610.31046"
+      "text": "Mostly Reading: What Open-Book Scores Measure in Document-Level LoRA Adapters",
+      "url": "https://arxiv.org/abs/2610.31017"
     }
   ],
-  "lastUpdated": "2026-10-23T21:31:44Z"
+  "lastUpdated": "2026-10-24T04:11:54Z"
 }
