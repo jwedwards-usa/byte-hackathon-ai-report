@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Setting the Scene (Public v1; October 25)",
+    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+  },
+  "topStories": [
+    {
+      "text": "Is GPT 2XL already clean?",
+      "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
+    },
+    {
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "How to Add Guardrails to a Local LLM Agent",
+      "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
+    },
+    {
+      "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
+      "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
+    },
+    {
+      "text": "Mech Interp is a La Croix of Actual Safety Research",
+      "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
+    },
+    {
+      "text": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
+    {
+      "text": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+    },
+    {
+      "text": "Shadow Computation Threatens CoT Monitorability",
+      "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability"
+    },
+    {
+      "text": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    },
+    {
+      "text": "Relevance Realization as Human Comparative Advantage",
+      "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+    },
+    {
+      "text": "Epistemic mapping 101: what to ask in order to understand how others think",
+      "url": "https://www.lesswrong.com/posts/pYLdLCdu4Xh73LiWv/epistemic-mapping-101-what-to-ask-in-order-to-understand-how"
+    },
+    {
+      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
+    },
+    {
+      "text": "An Attempt at Top-down Interpretability",
+      "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability"
+    },
+    {
+      "text": "Reinforcing the value of human understanding at MIT",
+      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023"
+    },
+    {
+      "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+    },
+    {
+      "text": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+    },
+    {
+      "text": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+    },
+    {
+      "text": "Free Speech Is The Wrong Problem\n",
+      "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem"
+    },
+    {
+      "text": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
+    },
+    {
+      "text": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
+    },
+    {
+      "text": "Python 3.15 Has a New Profiler",
+      "url": "https://towardsdatascience.com/python-315-has-a-new-profiler/"
+    },
+    {
+      "text": "Slower Animated Diagrams",
+      "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
+    },
+    {
+      "text": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
+      "url": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"
+    },
+    {
+      "text": "The iPhone Duo should have been an iPad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
+    }
+  ],
+  "lastUpdated": "2026-10-25T11:19:55Z"
+}
