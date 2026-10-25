@@ -1,34 +1,34 @@
 {
   "mainHeadline": {
-    "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    "text": "Setting the Scene (Public v1; October 25)",
+    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
   },
   "topStories": [
     {
+      "text": "Is GPT 2XL already clean?",
+      "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
+    },
+    {
+      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "How to Add Guardrails to a Local LLM Agent",
       "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
     },
     {
-      "text": "Shadow Computation Threatens CoT Monitorability",
-      "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability"
-    }
-  ],
-  "leftColumn": [
-    {
       "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
       "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
     },
     {
-      "text": "Relevance Realization as Human Comparative Advantage",
-      "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
-    },
-    {
-      "text": "Control monitors need alignment assessments too",
-      "url": "https://www.lesswrong.com/posts/2wbW2WY3bP9Jzn4R5/control-monitors-need-alignment-assessments-too"
+      "text": "Mech Interp is a La Croix of Actual Safety Research",
+      "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
     },
     {
       "text": "OpenAI now trains its frontier AI models with no internet access",
@@ -39,26 +39,30 @@
       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
     },
     {
-      "text": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+      "text": "Shadow Computation Threatens CoT Monitorability",
+      "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability"
     },
     {
       "text": "Pennsylvania will require labels on AI-generated ads",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
     },
     {
-      "text": "LM self-models are built from indirect sources",
-      "url": "https://www.lesswrong.com/posts/sEfY7bRjQYsu2A8ux/lm-self-models-are-built-from-indirect-sources"
+      "text": "Relevance Realization as Human Comparative Advantage",
+      "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
     }
   ],
   "centerColumn": [
     {
-      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
-      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
+      "text": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
     },
     {
-      "text": "AI Helped Find PHP2Shell, and the Disclosure Plan Still Broke Down",
-      "url": "https://dailyai.com/2026/10/ai-helped-find-php2shell-and-the-disclosure-plan-still-broke-down/"
+      "text": "Epistemic mapping 101: what to ask in order to understand how others think",
+      "url": "https://www.lesswrong.com/posts/pYLdLCdu4Xh73LiWv/epistemic-mapping-101-what-to-ask-in-order-to-understand-how"
+    },
+    {
+      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
     },
     {
       "text": "An Attempt at Top-down Interpretability",
@@ -79,20 +83,16 @@
     {
       "text": "Meta delays new business terms after publisher pushback on AI scraping",
       "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-    },
-    {
-      "text": "The Download: testing six tech promises and biotech’s blind spots",
-      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
     }
   ],
   "rightColumn": [
     {
-      "text": "Slower Animated Diagrams",
-      "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
+      "text": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
     },
     {
-      "text": "Fermi Poker",
-      "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker"
+      "text": "Free Speech Is The Wrong Problem\n",
+      "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem"
     },
     {
       "text": "battledrones v14: Compass Rose, a four player map",
@@ -103,21 +103,21 @@
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
     },
     {
-      "text": "In the biotech world, you can’t see everything",
-      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
-    },
-    {
       "text": "Python 3.15 Has a New Profiler",
       "url": "https://towardsdatascience.com/python-315-has-a-new-profiler/"
+    },
+    {
+      "text": "Slower Animated Diagrams",
+      "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
     },
     {
       "text": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
       "url": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"
     },
     {
-      "text": "Hugging Face’s Carbon-X Lets Researchers Chat With DNA",
-      "url": "https://dailyai.com/2026/10/hugging-faces-carbon-x-lets-researchers-chat-with-dna/"
+      "text": "The iPhone Duo should have been an iPad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
     }
   ],
-  "lastUpdated": "2026-10-25T04:16:41Z"
+  "lastUpdated": "2026-10-25T11:19:55Z"
 }
