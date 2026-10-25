@@ -1,0 +1,111 @@
+{
+  "mainHeadline": {
+    "text": "Different eval awareness may track different graders",
+    "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/"
+    },
+    {
+      "text": "San Francisco State University in Twilight",
+      "url": "https://www.lesswrong.com/posts/Y3G26fHXYM3SKYEHh/san-francisco-state-university-in-twilight"
+    },
+    {
+      "text": "Setting the Scene (Public v1; October 25)",
+      "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The AI buildout is the largest bet in the history of capitalism.",
+      "url": "https://www.lesswrong.com/posts/qjsdvaaPC624Eropw/the-ai-buildout-is-the-largest-bet-in-the-history-of"
+    },
+    {
+      "text": "From overeliciting to undereliciting LLM propensities in just a few months",
+      "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in"
+    },
+    {
+      "text": "Is GPT 2XL already clean?",
+      "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Tracing Subliminal Learning Through Pretraining",
+      "url": "https://www.lesswrong.com/posts/53XwjN2gAKzjKCp5s/tracing-subliminal-learning-through-pretraining"
+    },
+    {
+      "text": "How to Add Guardrails to a Local LLM Agent",
+      "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
+    },
+    {
+      "text": "Personal Experience Does Not A Study of China Make",
+      "url": "https://www.lesswrong.com/posts/rgwJjfKHGmArnqZsv/personal-experience-does-not-a-study-of-china-make"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/"
+    },
+    {
+      "text": "GOOGLE’S AI SEARCH CHANGES UPENDED ONLINE PUBLISHING",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+    },
+    {
+      "text": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+      "url": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/"
+    },
+    {
+      "text": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+    },
+    {
+      "text": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+    },
+    {
+      "text": "Mech Interp is a La Croix of Actual Safety Research",
+      "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
+    },
+    {
+      "text": "Relevance Realization as Human Comparative Advantage",
+      "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    },
+    {
+      "text": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer"
+    },
+    {
+      "text": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2"
+    },
+    {
+      "text": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+    },
+    {
+      "text": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
+    },
+    {
+      "text": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber"
+    },
+    {
+      "text": "Python 3.15 Has a New Profiler",
+      "url": "https://towardsdatascience.com/python-315-has-a-new-profiler/"
+    }
+  ],
+  "lastUpdated": "2026-10-25T23:28:53Z"
+}
