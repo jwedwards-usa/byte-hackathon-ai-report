@@ -1,13 +1,23 @@
 {
   "mainHeadline": {
-    "text": "Setting the Scene (Public v1; October 25)",
-    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+    "text": "Different eval awareness may track different graders",
+    "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders"
   },
   "topStories": [
     {
-      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+      "text": "San Francisco State University in Twilight",
+      "url": "https://www.lesswrong.com/posts/Y3G26fHXYM3SKYEHh/san-francisco-state-university-in-twilight"
     },
+    {
+      "text": "Setting the Scene (Public v1; October 25)",
+      "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+    },
+    {
+      "text": "From overeliciting to undereliciting LLM propensities in just a few months",
+      "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Is GPT 2XL already clean?",
       "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
@@ -15,20 +25,36 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Imagine an AI future where being banned means you are now economically useless",
-      "url": "https://twitter.com/boneGPT/status/2114035719853265264"
     },
     {
-      "text": "GOOGLE’S AI SEARCH CHANGES UPENDED ONLINE PUBLISHING",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+      "text": "Personal Experience Not A Study of China Does Make",
+      "url": "https://www.lesswrong.com/posts/rgwJjfKHGmArnqZsv/personal-experience-not-a-study-of-china-does-make"
+    },
+    {
+      "text": "Tracing Subliminal Learning Through Pretraining",
+      "url": "https://www.lesswrong.com/posts/53XwjN2gAKzjKCp5s/tracing-subliminal-learning-through-pretraining"
     },
     {
       "text": "How to Add Guardrails to a Local LLM Agent",
       "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
+    },
+    {
+      "text": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
+    {
+      "text": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer"
+    },
+    {
+      "text": "GOOGLE’S AI SEARCH CHANGES UPENDED ONLINE PUBLISHING",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
     },
     {
       "text": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
@@ -43,31 +69,15 @@
       "url": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/"
     },
     {
-      "text": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
-    },
-    {
-      "text": "Introducing Kimi K3.1 Pro",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-    }
-  ],
-  "centerColumn": [
-    {
-      "text": "Shadow Computation Threatens CoT Monitorability",
-      "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability"
-    },
-    {
-      "text": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
-    },
-    {
       "text": "Mech Interp is a La Croix of Actual Safety Research",
       "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
     },
     {
       "text": "Relevance Realization as Human Comparative Advantage",
       "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
-    },
+    }
+  ],
+  "rightColumn": [
     {
       "text": "Control monitors need alignment assessments too",
       "url": "https://www.lesswrong.com/posts/2wbW2WY3bP9Jzn4R5/control-monitors-need-alignment-assessments-too"
@@ -77,34 +87,16 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
     },
     {
-      "text": "Epistemic mapping 101: what to ask in order to understand how others think",
-      "url": "https://www.lesswrong.com/posts/pYLdLCdu4Xh73LiWv/epistemic-mapping-101-what-to-ask-in-order-to-understand-how"
+      "text": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
     },
     {
       "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
       "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
-    }
-  ],
-  "rightColumn": [
-    {
-      "text": "An Attempt at Top-down Interpretability",
-      "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability"
     },
     {
-      "text": "Reinforcing the value of human understanding at MIT",
-      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023"
-    },
-    {
-      "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
-    },
-    {
-      "text": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
-    },
-    {
-      "text": "Free Speech Is The Wrong Problem\n",
-      "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem"
+      "text": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2"
     },
     {
       "text": "battledrones v14: Compass Rose, a four player map",
@@ -115,9 +107,9 @@
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
     },
     {
-      "text": "Slower Animated Diagrams",
-      "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
+      "text": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber"
     }
   ],
-  "lastUpdated": "2026-10-25T16:09:12Z"
+  "lastUpdated": "2026-10-25T20:55:37Z"
 }
