@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+  },
+  "topStories": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "How to Add Guardrails to a Local LLM Agent",
+      "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
+    },
+    {
+      "text": "Shadow Computation Threatens CoT Monitorability",
+      "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
+      "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
+    },
+    {
+      "text": "Relevance Realization as Human Comparative Advantage",
+      "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
+    },
+    {
+      "text": "Control monitors need alignment assessments too",
+      "url": "https://www.lesswrong.com/posts/2wbW2WY3bP9Jzn4R5/control-monitors-need-alignment-assessments-too"
+    },
+    {
+      "text": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
+    {
+      "text": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+    },
+    {
+      "text": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+    },
+    {
+      "text": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    },
+    {
+      "text": "LM self-models are built from indirect sources",
+      "url": "https://www.lesswrong.com/posts/sEfY7bRjQYsu2A8ux/lm-self-models-are-built-from-indirect-sources"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
+    },
+    {
+      "text": "AI Helped Find PHP2Shell, and the Disclosure Plan Still Broke Down",
+      "url": "https://dailyai.com/2026/10/ai-helped-find-php2shell-and-the-disclosure-plan-still-broke-down/"
+    },
+    {
+      "text": "An Attempt at Top-down Interpretability",
+      "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability"
+    },
+    {
+      "text": "Reinforcing the value of human understanding at MIT",
+      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023"
+    },
+    {
+      "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+    },
+    {
+      "text": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+    },
+    {
+      "text": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+    },
+    {
+      "text": "The Download: testing six tech promises and biotech’s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Slower Animated Diagrams",
+      "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
+    },
+    {
+      "text": "Fermi Poker",
+      "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker"
+    },
+    {
+      "text": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
+    },
+    {
+      "text": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
+    },
+    {
+      "text": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
+    },
+    {
+      "text": "Python 3.15 Has a New Profiler",
+      "url": "https://towardsdatascience.com/python-315-has-a-new-profiler/"
+    },
+    {
+      "text": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
+      "url": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"
+    },
+    {
+      "text": "Hugging Face’s Carbon-X Lets Researchers Chat With DNA",
+      "url": "https://dailyai.com/2026/10/hugging-faces-carbon-x-lets-researchers-chat-with-dna/"
+    }
+  ],
+  "lastUpdated": "2026-10-25T04:16:41Z"
+}

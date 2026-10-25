@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
   },
   "topStories": [
     {
-      "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
-      "text": "On the Behavioral Traits of LLM Agents",
-      "url": "https://arxiv.org/abs/2609.32776"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "How to Add Guardrails to a Local LLM Agent",
       "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
     },
     {
-      "text": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
-      "url": "https://arxiv.org/abs/2610.30344"
+      "text": "Shadow Computation Threatens CoT Monitorability",
+      "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
+      "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
     },
     {
-      "text": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
-      "url": "https://arxiv.org/abs/2610.30418"
+      "text": "Relevance Realization as Human Comparative Advantage",
+      "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
     },
     {
-      "text": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
-      "url": "https://arxiv.org/abs/2610.30385"
+      "text": "Control monitors need alignment assessments too",
+      "url": "https://www.lesswrong.com/posts/2wbW2WY3bP9Jzn4R5/control-monitors-need-alignment-assessments-too"
     },
     {
-      "text": "Artificial intelligence is creating a new global linguistic hierarchy",
-      "url": "https://arxiv.org/abs/2602.12018"
+      "text": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
     },
     {
-      "text": "Societal Impacts Research on AI (SIRA)",
-      "url": "https://www.lesswrong.com/posts/MgD6mDeGzydo7Xgnb/societal-impacts-research-on-ai-sira"
+      "text": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+    },
+    {
+      "text": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
     },
     {
       "text": "Pennsylvania will require labels on AI-generated ads",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
     },
     {
-      "text": "Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots",
-      "url": "https://arxiv.org/abs/2509.16444"
+      "text": "LM self-models are built from indirect sources",
+      "url": "https://www.lesswrong.com/posts/sEfY7bRjQYsu2A8ux/lm-self-models-are-built-from-indirect-sources"
     }
   ],
   "centerColumn": [
     {
-      "text": "Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language",
-      "url": "https://arxiv.org/abs/2610.31397"
+      "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
     },
     {
-      "text": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
-      "url": "https://arxiv.org/abs/2610.30158"
+      "text": "AI Helped Find PHP2Shell, and the Disclosure Plan Still Broke Down",
+      "url": "https://dailyai.com/2026/10/ai-helped-find-php2shell-and-the-disclosure-plan-still-broke-down/"
     },
     {
-      "text": "How Firm Are AI Models' Ethical Boundaries? A Pay-Stub Editing Test of 15 Models",
-      "url": "https://arxiv.org/abs/2610.30751"
+      "text": "An Attempt at Top-down Interpretability",
+      "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability"
     },
     {
-      "text": "Is the Judge Its Twin? Post-training makes a model's writing more predictable but barely moves its taste, as a judge, toward predictable writing",
-      "url": "https://arxiv.org/abs/2609.32196"
+      "text": "Reinforcing the value of human understanding at MIT",
+      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023"
     },
     {
-      "text": "Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models",
-      "url": "https://arxiv.org/abs/2610.31407"
+      "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
     },
     {
-      "text": "A Reality Check of Inference-Time Context Augmentation Methods",
-      "url": "https://arxiv.org/abs/2610.30983"
+      "text": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
     },
     {
-      "text": "When More Metadata Misleads: Probing Field-Level Grounding in LLM-Generated Museum Descriptions",
-      "url": "https://arxiv.org/abs/2610.31193"
+      "text": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
     },
     {
-      "text": "Investigating Multi-Cultural Value Selection Biases in LLMs",
-      "url": "https://arxiv.org/abs/2610.31199"
+      "text": "The Download: testing six tech promises and biotech’s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
     }
   ],
   "rightColumn": [
     {
-      "text": "MoVoC: Morphology-Aware Subword Construction for Geez Script Languages Corrected version",
-      "url": "https://arxiv.org/abs/2509.08812"
+      "text": "Slower Animated Diagrams",
+      "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
     },
     {
-      "text": "Multi-Token Prediction and Alternative Tokenization Improve Learning Latent Multi-Hop Graph Search at Scale",
-      "url": "https://arxiv.org/abs/2610.31439"
+      "text": "Fermi Poker",
+      "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker"
     },
     {
-      "text": "A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions",
-      "url": "https://arxiv.org/abs/2610.31385"
+      "text": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
     },
     {
-      "text": "The Value of Memory in Language Agents",
-      "url": "https://arxiv.org/abs/2610.31303"
+      "text": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
     },
     {
-      "text": "Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models",
-      "url": "https://arxiv.org/abs/2610.31202"
+      "text": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
     },
     {
-      "text": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
-      "url": "https://arxiv.org/abs/2610.31158"
+      "text": "Python 3.15 Has a New Profiler",
+      "url": "https://towardsdatascience.com/python-315-has-a-new-profiler/"
     },
     {
-      "text": "Through a PRISM, Clearly: Step-Sequence Reasoning for Mistake Recognition in Procedural Videos",
-      "url": "https://arxiv.org/abs/2610.31117"
+      "text": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
+      "url": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"
     },
     {
-      "text": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
-      "url": "https://arxiv.org/abs/2610.30989"
+      "text": "Hugging Face’s Carbon-X Lets Researchers Chat With DNA",
+      "url": "https://dailyai.com/2026/10/hugging-faces-carbon-x-lets-researchers-chat-with-dna/"
     }
   ],
-  "lastUpdated": "2026-10-24T23:21:43Z"
+  "lastUpdated": "2026-10-25T04:16:41Z"
 }
