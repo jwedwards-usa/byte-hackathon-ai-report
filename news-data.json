@@ -5,12 +5,12 @@
   },
   "topStories": [
     {
-      "text": "Is GPT 2XL already clean?",
-      "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
-    },
-    {
       "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "text": "Is GPT 2XL already clean?",
+      "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean"
     },
     {
       "text": "Sample Blog Post",
@@ -19,16 +19,28 @@
   ],
   "leftColumn": [
     {
+      "text": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264"
+    },
+    {
+      "text": "GOOGLE’S AI SEARCH CHANGES UPENDED ONLINE PUBLISHING",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+    },
+    {
       "text": "How to Add Guardrails to a Local LLM Agent",
       "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"
     },
     {
-      "text": "Anthropic Says Claude Proved 123 Open-Source Libraries Can’t Crash",
-      "url": "https://dailyai.com/2026/10/anthropic-says-claude-proved-123-open-source-libraries-cant-crash/"
+      "text": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+      "url": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/"
     },
     {
-      "text": "Mech Interp is a La Croix of Actual Safety Research",
-      "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
+      "text": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+    },
+    {
+      "text": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/"
     },
     {
       "text": "OpenAI now trains its frontier AI models with no internet access",
@@ -37,7 +49,9 @@
     {
       "text": "Introducing Kimi K3.1 Pro",
       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-    },
+    }
+  ],
+  "centerColumn": [
     {
       "text": "Shadow Computation Threatens CoT Monitorability",
       "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability"
@@ -47,11 +61,17 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
     },
     {
+      "text": "Mech Interp is a La Croix of Actual Safety Research",
+      "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research"
+    },
+    {
       "text": "Relevance Realization as Human Comparative Advantage",
       "url": "https://www.lesswrong.com/posts/ybhJbJK3XTXNwyBy5/relevance-realization-as-human-comparative-advantage"
-    }
-  ],
-  "centerColumn": [
+    },
+    {
+      "text": "Control monitors need alignment assessments too",
+      "url": "https://www.lesswrong.com/posts/2wbW2WY3bP9Jzn4R5/control-monitors-need-alignment-assessments-too"
+    },
     {
       "text": "Blue Planet III is keeping the rough edges in the age of AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
@@ -63,7 +83,9 @@
     {
       "text": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
       "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023"
-    },
+    }
+  ],
+  "rightColumn": [
     {
       "text": "An Attempt at Top-down Interpretability",
       "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability"
@@ -81,16 +103,6 @@
       "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
     },
     {
-      "text": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-    }
-  ],
-  "rightColumn": [
-    {
-      "text": "Retro gaming is being overrun with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
-    },
-    {
       "text": "Free Speech Is The Wrong Problem\n",
       "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem"
     },
@@ -103,21 +115,9 @@
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
     },
     {
-      "text": "Python 3.15 Has a New Profiler",
-      "url": "https://towardsdatascience.com/python-315-has-a-new-profiler/"
-    },
-    {
       "text": "Slower Animated Diagrams",
       "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams"
-    },
-    {
-      "text": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
-      "url": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"
-    },
-    {
-      "text": "The iPhone Duo should have been an iPad",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
     }
   ],
-  "lastUpdated": "2026-10-25T11:19:55Z"
+  "lastUpdated": "2026-10-25T16:09:12Z"
 }
