@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+    "url": "https://arxiv.org/abs/2511.15188"
+  },
+  "topStories": [
+    {
+      "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
+      "url": "https://arxiv.org/abs/2610.31937"
+    },
+    {
+      "text": "Training an MoE LLM in MXFP4: How We Closed the Gap to BF16",
+      "url": "https://arxiv.org/abs/2610.32229"
+    },
+    {
+      "text": "Quantum-aware Transformer model for state classification",
+      "url": "https://arxiv.org/abs/2502.21055"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Astro2Method: Benchmarking LLMs on Machine Learning Method Selection in Astronomy",
+      "url": "https://arxiv.org/abs/2610.30282"
+    },
+    {
+      "text": "Neural networks become centroid classifiers when trained on heavily corrupted inputs",
+      "url": "https://arxiv.org/abs/2606.11319"
+    },
+    {
+      "text": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control",
+      "url": "https://arxiv.org/abs/2610.32914"
+    },
+    {
+      "text": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+      "url": "https://arxiv.org/abs/2610.32955"
+    },
+    {
+      "text": "Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead",
+      "url": "https://arxiv.org/abs/2610.32215"
+    },
+    {
+      "text": "Anthropic are the Good Guys",
+      "url": "https://www.lesswrong.com/posts/zj8Pk3kJujk5LoqhK/anthropic-are-the-good-guys"
+    },
+    {
+      "text": "Some Memories of Early Anthropic",
+      "url": "https://www.lesswrong.com/posts/9PiLfo6iQbbDWFHv7/some-memories-of-early-anthropic"
+    },
+    {
+      "text": "Different eval awareness may track different graders",
+      "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "AusClinBench: a deterministically scored benchmark of large language models against current Australian clinical policy",
+      "url": "https://arxiv.org/abs/2610.31993"
+    },
+    {
+      "text": "VLMShield: Efficient and Robust Defense of Vision-Language Models against Malicious Prompts",
+      "url": "https://arxiv.org/abs/2604.06502"
+    },
+    {
+      "text": "Can AI Agents Help Robotic Engineers? Lessons from Two Focus Days in Industry",
+      "url": "https://arxiv.org/abs/2610.32636"
+    },
+    {
+      "text": "BAARC: Uncertainty-Driven Adaptive Partial Spectral Measurement to Full Reconstruction for Material Classification",
+      "url": "https://arxiv.org/abs/2610.32505"
+    },
+    {
+      "text": "Feature-Space Smoothing: Certified Robustness of Deep Representations",
+      "url": "https://arxiv.org/abs/2601.16200"
+    },
+    {
+      "text": "Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications",
+      "url": "https://arxiv.org/abs/2610.32725"
+    },
+    {
+      "text": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.32770"
+    },
+    {
+      "text": "The Language of Instruction: Genre and Generative AI",
+      "url": "https://arxiv.org/abs/2610.32982"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Attention-space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs",
+      "url": "https://arxiv.org/abs/2601.13707"
+    },
+    {
+      "text": "PEAR: Adaptive Advantage Reshaping for Perception and Exploration in Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.32216"
+    },
+    {
+      "text": "RxnExBench: Benchmarking Vision-Language Models for Structured Chemical Reaction Extraction from Scientific Literature",
+      "url": "https://arxiv.org/abs/2610.32221"
+    },
+    {
+      "text": "Beyond Local Accuracy: Benchmarking the Rollout Reliability of PDE Foundation Models",
+      "url": "https://arxiv.org/abs/2610.31935"
+    },
+    {
+      "text": "Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading",
+      "url": "https://arxiv.org/abs/2610.32237"
+    },
+    {
+      "text": "Combinatorial Characterizations of the Learnability of Conditional Distributions",
+      "url": "https://arxiv.org/abs/2610.31890"
+    },
+    {
+      "text": "Minimum Description Length Unsupervisedly Separates Law-Grade from Statistical-Grade Knowledge in a Self-Improving Science Agent - and Reveals 86% of Its Own Discoveries Are Statistical",
+      "url": "https://arxiv.org/abs/2610.32245"
+    },
+    {
+      "text": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+      "url": "https://arxiv.org/abs/2610.32253"
+    }
+  ],
+  "lastUpdated": "2026-10-26T04:21:55Z"
+}
