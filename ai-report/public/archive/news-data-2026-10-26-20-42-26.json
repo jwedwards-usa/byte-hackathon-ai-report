@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Gemini 4 Argon: The Model and Safety Cards",
+    "url": "https://www.lesswrong.com/posts/EeT8MEqgpuPtpdmJE/gemini-4-argon-the-model-and-safety-cards"
+  },
+  "topStories": [
+    {
+      "text": "The Ability of Frontier Models to Control Robots is Rapidly Improving",
+      "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s books, Meta’s hat and a cheaper Terra",
+      "url": "https://dailyai.com/2026/10/dai60-anthropics-books-metas-hat-and-a-cheaper-terra/"
+    },
+    {
+      "text": "A basic case for differentially accelerating conceptual reasoning capabilities",
+      "url": "https://www.lesswrong.com/posts/eimAN67tiNsrrtnbK/a-basic-case-for-differentially-accelerating-conceptual"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "CHATGPT’S EXPANDING WORLD OF WORK",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "text": "Anthropic’s Claude Slipped Past Georgia’s Paywall to Get Vote Counts",
+      "url": "https://dailyai.com/2026/10/anthropics-claude-slipped-past-georgias-paywall-to-get-vote-counts/"
+    },
+    {
+      "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
+      "url": "https://arxiv.org/abs/2610.31937"
+    },
+    {
+      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188"
+    },
+    {
+      "text": "Small Groups of Correlated Researchers",
+      "url": "https://www.lesswrong.com/posts/kvr2mYT3ZmyiAEq6z/small-groups-of-correlated-researchers"
+    },
+    {
+      "text": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+    },
+    {
+      "text": "Five weird details from Anthropic’s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
+    },
+    {
+      "text": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "MS-TTRL: BREAKING THE FREQUENCY CONFLICT IN MULTIPLE-SOLUTION TEST-TIME REINFORCEMENT LEARNING",
+      "url": "https://arxiv.org/abs/2610.32234"
+    },
+    {
+      "text": "NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.32881"
+    },
+    {
+      "text": "Closing the Modality Gap via Simplex-Constrained Representations",
+      "url": "https://arxiv.org/abs/2610.32890"
+    },
+    {
+      "text": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+      "url": "https://arxiv.org/abs/2610.32919"
+    },
+    {
+      "text": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
+      "url": "https://arxiv.org/abs/2610.32438"
+    },
+    {
+      "text": "Sharpness-aware Orthogonalized Momentum Algorithms",
+      "url": "https://arxiv.org/abs/2610.32465"
+    },
+    {
+      "text": "BAARC: Uncertainty-Driven Adaptive Partial Spectral Measurement to Full Reconstruction for Material Classification",
+      "url": "https://arxiv.org/abs/2610.32505"
+    },
+    {
+      "text": "The Language of Instruction: Genre and Generative AI",
+      "url": "https://arxiv.org/abs/2610.32982"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "When to Stop Penalizing Actions? Martingale GRPO for VLA Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.32431"
+    },
+    {
+      "text": "Compatible Likelihoods for Flow Matching on Manifolds",
+      "url": "https://arxiv.org/abs/2610.31981"
+    },
+    {
+      "text": "REDAR: Reinforcement-Driven Adaptive Regularisation for Class Incremental Learning",
+      "url": "https://arxiv.org/abs/2610.31991"
+    },
+    {
+      "text": "Prediction-Powered Data Fusion for Treatment Effect Estimation",
+      "url": "https://arxiv.org/abs/2610.12332"
+    },
+    {
+      "text": "ArtifactArena: Evaluating Models by What They Build in the Physical World",
+      "url": "https://arxiv.org/abs/2610.06511"
+    },
+    {
+      "text": "Controlled Evaluation of EEG Foundation Models: Random Initialisation, Band-Power and Validation-Selected Probes",
+      "url": "https://arxiv.org/abs/2610.32067"
+    },
+    {
+      "text": "DBCM: Dual-Branch Calibration Module for Test-Time Adaptation in Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2610.32071"
+    },
+    {
+      "text": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+      "url": "https://arxiv.org/abs/2610.32253"
+    }
+  ],
+  "lastUpdated": "2026-10-26T20:42:26Z"
+}

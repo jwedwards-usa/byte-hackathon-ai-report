@@ -1,12 +1,30 @@
 {
   "mainHeadline": {
-    "text": "Different eval awareness may track different graders",
-    "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders"
+    "text": "Gemini 4 Argon: The Model and Safety Cards",
+    "url": "https://www.lesswrong.com/posts/EeT8MEqgpuPtpdmJE/gemini-4-argon-the-model-and-safety-cards"
   },
   "topStories": [
     {
-      "text": "Elvis Song Owners Sue Anthropic for $41.1M Over 274 Songs",
-      "url": "https://dailyai.com/2026/10/elvis-song-owners-sue-anthropic-for-41-1m-over-274-songs/"
+      "text": "The Ability of Frontier Models to Control Robots is Rapidly Improving",
+      "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s books, Meta’s hat and a cheaper Terra",
+      "url": "https://dailyai.com/2026/10/dai60-anthropics-books-metas-hat-and-a-cheaper-terra/"
+    },
+    {
+      "text": "A basic case for differentially accelerating conceptual reasoning capabilities",
+      "url": "https://www.lesswrong.com/posts/eimAN67tiNsrrtnbK/a-basic-case-for-differentially-accelerating-conceptual"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "CHATGPT’S EXPANDING WORLD OF WORK",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "text": "Anthropic’s Claude Slipped Past Georgia’s Paywall to Get Vote Counts",
+      "url": "https://dailyai.com/2026/10/anthropics-claude-slipped-past-georgias-paywall-to-get-vote-counts/"
     },
     {
       "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
@@ -15,109 +33,91 @@
     {
       "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
       "url": "https://arxiv.org/abs/2511.15188"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Anthropic are the Good Guys",
-      "url": "https://www.lesswrong.com/posts/zj8Pk3kJujk5LoqhK/anthropic-are-the-good-guys"
     },
     {
-      "text": "Some Memories of Early Anthropic",
-      "url": "https://www.lesswrong.com/posts/9PiLfo6iQbbDWFHv7/some-memories-of-early-anthropic"
+      "text": "Small Groups of Correlated Researchers",
+      "url": "https://www.lesswrong.com/posts/kvr2mYT3ZmyiAEq6z/small-groups-of-correlated-researchers"
     },
     {
-      "text": "A Descriptive Framework for Large Agent Systems (v0.1)",
-      "url": "https://www.lesswrong.com/posts/bKddWnNAzwbtoSm5a/a-descriptive-framework-for-large-agent-systems-v0-1"
+      "text": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
     },
     {
-      "text": "OpenAI Restarts Frontier Training After Its Own Agents Spent Billions of Tokens Testing the Locks",
-      "url": "https://dailyai.com/2026/10/openai-restarts-frontier-training-after-its-own-agents-spent-billions-of-tokens-testing-the-locks/"
+      "text": "Five weird details from Anthropic’s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
     },
     {
-      "text": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/"
-    },
-    {
-      "text": "Setting the Scene (Public v1; October 25)",
-      "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
-    },
-    {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "My Machine Learning Pipeline Cheated, and Cross-Validation Never Noticed",
-      "url": "https://towardsdatascience.com/my-machine-learning-pipeline-cheated-and-cross-validation-never-noticed/"
+      "text": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob"
     }
   ],
   "centerColumn": [
     {
-      "text": "Concept Acupuncturist: An Efficient and Precise Concept Erasure Method for Diffusion Models via Sparse Autoencoders",
-      "url": "https://arxiv.org/abs/2610.32059"
+      "text": "MS-TTRL: BREAKING THE FREQUENCY CONFLICT IN MULTIPLE-SOLUTION TEST-TIME REINFORCEMENT LEARNING",
+      "url": "https://arxiv.org/abs/2610.32234"
     },
     {
-      "text": "OpenAttention: One Percent Is Enough with Tail Proxies",
-      "url": "https://arxiv.org/abs/2610.30951"
+      "text": "NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.32881"
     },
     {
-      "text": "TTT in VLA Models: Exploring Training with Human Demonstrations",
-      "url": "https://arxiv.org/abs/2610.32094"
+      "text": "Closing the Modality Gap via Simplex-Constrained Representations",
+      "url": "https://arxiv.org/abs/2610.32890"
     },
     {
-      "text": "A Broader Look into MLLM's Retrieval Heads",
-      "url": "https://arxiv.org/abs/2610.32411"
+      "text": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+      "url": "https://arxiv.org/abs/2610.32919"
     },
     {
-      "text": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
-      "url": "https://arxiv.org/abs/2610.32441"
+      "text": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
+      "url": "https://arxiv.org/abs/2610.32438"
     },
     {
-      "text": "Differentiating Through Dual Prices: End-to-End Policy Learning Under Capacity Constraints",
-      "url": "https://arxiv.org/abs/2608.04669"
+      "text": "Sharpness-aware Orthogonalized Momentum Algorithms",
+      "url": "https://arxiv.org/abs/2610.32465"
     },
     {
-      "text": "HyScale: Scaling Long-Context Training for Learned Sparse Attention",
-      "url": "https://arxiv.org/abs/2610.32057"
+      "text": "BAARC: Uncertainty-Driven Adaptive Partial Spectral Measurement to Full Reconstruction for Material Classification",
+      "url": "https://arxiv.org/abs/2610.32505"
     },
     {
-      "text": "Representation Learning via Composite Subspace Flow Matching",
-      "url": "https://arxiv.org/abs/2610.32256"
+      "text": "The Language of Instruction: Genre and Generative AI",
+      "url": "https://arxiv.org/abs/2610.32982"
     }
   ],
   "rightColumn": [
     {
-      "text": "PEAR: Adaptive Advantage Reshaping for Perception and Exploration in Large Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.32216"
+      "text": "When to Stop Penalizing Actions? Martingale GRPO for VLA Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.32431"
     },
     {
-      "text": "RxnExBench: Benchmarking Vision-Language Models for Structured Chemical Reaction Extraction from Scientific Literature",
-      "url": "https://arxiv.org/abs/2610.32221"
+      "text": "Compatible Likelihoods for Flow Matching on Manifolds",
+      "url": "https://arxiv.org/abs/2610.31981"
     },
     {
-      "text": "Constitution-Guided Watermarking",
-      "url": "https://arxiv.org/abs/2610.09552"
+      "text": "REDAR: Reinforcement-Driven Adaptive Regularisation for Class Incremental Learning",
+      "url": "https://arxiv.org/abs/2610.31991"
     },
     {
-      "text": "Aligning Large Language Models with Human Feedback: Mathematical Foundations and Algorithm Design",
-      "url": "https://arxiv.org/abs/2610.31862"
+      "text": "Prediction-Powered Data Fusion for Treatment Effect Estimation",
+      "url": "https://arxiv.org/abs/2610.12332"
     },
     {
-      "text": "Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading",
-      "url": "https://arxiv.org/abs/2610.32237"
+      "text": "ArtifactArena: Evaluating Models by What They Build in the Physical World",
+      "url": "https://arxiv.org/abs/2610.06511"
     },
     {
-      "text": "Benchmarking Vision-Language Models on Synapse and Neuron Proofreading in Connectomics",
-      "url": "https://arxiv.org/abs/2609.36492"
+      "text": "Controlled Evaluation of EEG Foundation Models: Random Initialisation, Band-Power and Validation-Selected Probes",
+      "url": "https://arxiv.org/abs/2610.32067"
     },
     {
-      "text": "Minimum Description Length Unsupervisedly Separates Law-Grade from Statistical-Grade Knowledge in a Self-Improving Science Agent - and Reveals 86% of Its Own Discoveries Are Statistical",
-      "url": "https://arxiv.org/abs/2610.32245"
+      "text": "DBCM: Dual-Branch Calibration Module for Test-Time Adaptation in Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2610.32071"
     },
     {
       "text": "RSIHub: A Composable Framework for Agent-Evolution Methods",
       "url": "https://arxiv.org/abs/2610.32253"
     }
   ],
-  "lastUpdated": "2026-10-26T12:53:29Z"
+  "lastUpdated": "2026-10-26T20:42:26Z"
 }
