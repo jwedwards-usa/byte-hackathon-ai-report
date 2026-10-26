@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Different eval awareness may track different graders",
+    "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders"
+  },
+  "topStories": [
+    {
+      "text": "Elvis Song Owners Sue Anthropic for $41.1M Over 274 Songs",
+      "url": "https://dailyai.com/2026/10/elvis-song-owners-sue-anthropic-for-41-1m-over-274-songs/"
+    },
+    {
+      "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
+      "url": "https://arxiv.org/abs/2610.31937"
+    },
+    {
+      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Anthropic are the Good Guys",
+      "url": "https://www.lesswrong.com/posts/zj8Pk3kJujk5LoqhK/anthropic-are-the-good-guys"
+    },
+    {
+      "text": "Some Memories of Early Anthropic",
+      "url": "https://www.lesswrong.com/posts/9PiLfo6iQbbDWFHv7/some-memories-of-early-anthropic"
+    },
+    {
+      "text": "A Descriptive Framework for Large Agent Systems (v0.1)",
+      "url": "https://www.lesswrong.com/posts/bKddWnNAzwbtoSm5a/a-descriptive-framework-for-large-agent-systems-v0-1"
+    },
+    {
+      "text": "OpenAI Restarts Frontier Training After Its Own Agents Spent Billions of Tokens Testing the Locks",
+      "url": "https://dailyai.com/2026/10/openai-restarts-frontier-training-after-its-own-agents-spent-billions-of-tokens-testing-the-locks/"
+    },
+    {
+      "text": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/"
+    },
+    {
+      "text": "Setting the Scene (Public v1; October 25)",
+      "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "My Machine Learning Pipeline Cheated, and Cross-Validation Never Noticed",
+      "url": "https://towardsdatascience.com/my-machine-learning-pipeline-cheated-and-cross-validation-never-noticed/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Concept Acupuncturist: An Efficient and Precise Concept Erasure Method for Diffusion Models via Sparse Autoencoders",
+      "url": "https://arxiv.org/abs/2610.32059"
+    },
+    {
+      "text": "OpenAttention: One Percent Is Enough with Tail Proxies",
+      "url": "https://arxiv.org/abs/2610.30951"
+    },
+    {
+      "text": "TTT in VLA Models: Exploring Training with Human Demonstrations",
+      "url": "https://arxiv.org/abs/2610.32094"
+    },
+    {
+      "text": "A Broader Look into MLLM's Retrieval Heads",
+      "url": "https://arxiv.org/abs/2610.32411"
+    },
+    {
+      "text": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
+      "url": "https://arxiv.org/abs/2610.32441"
+    },
+    {
+      "text": "Differentiating Through Dual Prices: End-to-End Policy Learning Under Capacity Constraints",
+      "url": "https://arxiv.org/abs/2608.04669"
+    },
+    {
+      "text": "HyScale: Scaling Long-Context Training for Learned Sparse Attention",
+      "url": "https://arxiv.org/abs/2610.32057"
+    },
+    {
+      "text": "Representation Learning via Composite Subspace Flow Matching",
+      "url": "https://arxiv.org/abs/2610.32256"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "PEAR: Adaptive Advantage Reshaping for Perception and Exploration in Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.32216"
+    },
+    {
+      "text": "RxnExBench: Benchmarking Vision-Language Models for Structured Chemical Reaction Extraction from Scientific Literature",
+      "url": "https://arxiv.org/abs/2610.32221"
+    },
+    {
+      "text": "Constitution-Guided Watermarking",
+      "url": "https://arxiv.org/abs/2610.09552"
+    },
+    {
+      "text": "Aligning Large Language Models with Human Feedback: Mathematical Foundations and Algorithm Design",
+      "url": "https://arxiv.org/abs/2610.31862"
+    },
+    {
+      "text": "Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading",
+      "url": "https://arxiv.org/abs/2610.32237"
+    },
+    {
+      "text": "Benchmarking Vision-Language Models on Synapse and Neuron Proofreading in Connectomics",
+      "url": "https://arxiv.org/abs/2609.36492"
+    },
+    {
+      "text": "Minimum Description Length Unsupervisedly Separates Law-Grade from Statistical-Grade Knowledge in a Self-Improving Science Agent - and Reveals 86% of Its Own Discoveries Are Statistical",
+      "url": "https://arxiv.org/abs/2610.32245"
+    },
+    {
+      "text": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+      "url": "https://arxiv.org/abs/2610.32253"
+    }
+  ],
+  "lastUpdated": "2026-10-26T12:53:29Z"
+}
