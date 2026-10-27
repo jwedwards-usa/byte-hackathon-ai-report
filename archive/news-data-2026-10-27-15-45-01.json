@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Anthropic Versus Anthropic",
+    "url": "https://www.lesswrong.com/posts/ZSrX8gucWsKahsitk/anthropic-versus-anthropic"
+  },
+  "topStories": [
+    {
+      "text": "FTC Demands Anthropic Executives Testify in AI Safety Probe",
+      "url": "https://dailyai.com/2026/10/ftc-demands-anthropic-executives-testify-in-ai-safety-probe/"
+    },
+    {
+      "text": "OpenAI and Anthropic Say AI Broke the Same Computer Science Rule",
+      "url": "https://dailyai.com/2026/10/openai-and-anthropic-say-ai-broke-the-same-computer-science-rule/"
+    },
+    {
+      "text": "Quantity has a quality of its own",
+      "url": "https://www.lesswrong.com/posts/drt7CEAtERECKiYpn/quantity-has-a-quality-of-its-own"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Transformer to GPT-5: Advancements, Limitations, and Future Directions in Large Language Model Design",
+      "url": "https://arxiv.org/abs/2610.34281"
+    },
+    {
+      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188"
+    },
+    {
+      "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
+      "url": "https://arxiv.org/abs/2610.31937"
+    },
+    {
+      "text": "Large Language Models: A Plain-Language Overview for Engineers",
+      "url": "https://arxiv.org/abs/2610.34585"
+    },
+    {
+      "text": "CHATGPT’S EXPANDING WORLD OF WORK",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "text": "AI agents trade off patient safety for a grade in hospital scenarios",
+      "url": "https://www.lesswrong.com/posts/bgPxxnuQhdTxiLeNs/ai-agents-trade-off-patient-safety-for-a-grade-in-hospital"
+    },
+    {
+      "text": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+    },
+    {
+      "text": "The Straight and Narrow: Do LLMs Possess an Internal Moral Path?",
+      "url": "https://arxiv.org/abs/2601.10307"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+      "url": "https://arxiv.org/abs/2610.32919"
+    },
+    {
+      "text": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+      "url": "https://arxiv.org/abs/2610.32921"
+    },
+    {
+      "text": "Rewriting Scaling Laws for Synthetic Data with Compute and Data Constraints",
+      "url": "https://arxiv.org/abs/2610.31867"
+    },
+    {
+      "text": "AgentGUI: An Interface for Observing and Steering Long-Running AI Agents",
+      "url": "https://arxiv.org/abs/2607.26300"
+    },
+    {
+      "text": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "url": "https://arxiv.org/abs/2610.31846"
+    },
+    {
+      "text": "PriFT: Guiding Supervised Fine-Tuning with Pretrained Priors",
+      "url": "https://arxiv.org/abs/2606.09396"
+    },
+    {
+      "text": "Propasafe-Hybrid: A Text-Based Hybrid Propaganda Detection Tool",
+      "url": "https://arxiv.org/abs/2610.33464"
+    },
+    {
+      "text": "SteerVTE: Seamless Video Text Editing with Style and Glyph Control",
+      "url": "https://arxiv.org/abs/2606.23254"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Expert L2 English Speech Evaluation on a Gaming PC: Accuracy, Fluency, and Prosody with XLS-R, XEUS, and PhoneticXeus",
+      "url": "https://arxiv.org/abs/2610.26406"
+    },
+    {
+      "text": "RoboCode: Learning Reusable Action Primitives for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2610.32225"
+    },
+    {
+      "text": "Dual-Slot: From Serial Loops to Parallel Slots in Language Models",
+      "url": "https://arxiv.org/abs/2610.25086"
+    },
+    {
+      "text": "Neural Disjunctive Normal Forms for Learning Exact Rank Filters",
+      "url": "https://arxiv.org/abs/2610.32203"
+    },
+    {
+      "text": "P2N: Reusing Deep Representations for Greater Effective Depth",
+      "url": "https://arxiv.org/abs/2610.25076"
+    },
+    {
+      "text": "Depth-Dependent Safety Geometry in Vision-Language Models: Layer-Wise Localization and Bidirectional Refusal Control",
+      "url": "https://arxiv.org/abs/2610.32182"
+    },
+    {
+      "text": "When Does Better Acceptance Pay? A Controlled Study of Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.24993"
+    },
+    {
+      "text": "Strictly Replicable Realizable Learning: Unknown Marginals, Finite-Class Interpolation, and the Cost of Shared Randomness",
+      "url": "https://arxiv.org/abs/2610.26944"
+    }
+  ],
+  "lastUpdated": "2026-10-27T15:45:01Z"
+}
