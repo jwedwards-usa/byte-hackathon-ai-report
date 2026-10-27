@@ -1,12 +1,30 @@
 {
   "mainHeadline": {
-    "text": "[Transcript] Kevin Roose does a science communication and AGI sociology in Vox interview",
-    "url": "https://www.lesswrong.com/posts/WnJaYKuMnJP5SGzEy/transcript-kevin-roose-does-a-science-communication-and-agi"
+    "text": "Anthropic Versus Anthropic",
+    "url": "https://www.lesswrong.com/posts/ZSrX8gucWsKahsitk/anthropic-versus-anthropic"
   },
   "topStories": [
     {
+      "text": "FTC Demands Anthropic Executives Testify in AI Safety Probe",
+      "url": "https://dailyai.com/2026/10/ftc-demands-anthropic-executives-testify-in-ai-safety-probe/"
+    },
+    {
+      "text": "OpenAI and Anthropic Say AI Broke the Same Computer Science Rule",
+      "url": "https://dailyai.com/2026/10/openai-and-anthropic-say-ai-broke-the-same-computer-science-rule/"
+    },
+    {
+      "text": "Quantity has a quality of its own",
+      "url": "https://www.lesswrong.com/posts/drt7CEAtERECKiYpn/quantity-has-a-quality-of-its-own"
+    }
+  ],
+  "leftColumn": [
+    {
       "text": "Transformer to GPT-5: Advancements, Limitations, and Future Directions in Large Language Model Design",
       "url": "https://arxiv.org/abs/2610.34281"
+    },
+    {
+      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188"
     },
     {
       "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
@@ -15,109 +33,91 @@
     {
       "text": "Large Language Models: A Plain-Language Overview for Engineers",
       "url": "https://arxiv.org/abs/2610.34585"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
-      "url": "https://arxiv.org/abs/2511.15188"
-    },
-    {
-      "text": "The Straight and Narrow: Do LLMs Possess an Internal Moral Path?",
-      "url": "https://arxiv.org/abs/2601.10307"
     },
     {
       "text": "CHATGPT’S EXPANDING WORLD OF WORK",
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
     },
     {
-      "text": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
-      "url": "https://arxiv.org/abs/2610.32955"
+      "text": "AI agents trade off patient safety for a grade in hospital scenarios",
+      "url": "https://www.lesswrong.com/posts/bgPxxnuQhdTxiLeNs/ai-agents-trade-off-patient-safety-for-a-grade-in-hospital"
     },
     {
-      "text": "WHY GEOMETRIC CONTINUITY EMERGES IN DEEP NEURAL NETWORKS: RESIDUAL CONNECTIONS AND ROTATIONAL SYMMETRY BREAKING",
-      "url": "https://arxiv.org/abs/2605.04971"
+      "text": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
     },
     {
-      "text": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
-      "url": "https://arxiv.org/abs/2610.35685"
-    },
-    {
-      "text": "Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs",
-      "url": "https://arxiv.org/abs/2610.33949"
-    },
-    {
-      "text": "Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead",
-      "url": "https://arxiv.org/abs/2610.32215"
+      "text": "The Straight and Narrow: Do LLMs Possess an Internal Moral Path?",
+      "url": "https://arxiv.org/abs/2601.10307"
     }
   ],
   "centerColumn": [
     {
-      "text": "Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis",
-      "url": "https://arxiv.org/abs/2610.32308"
+      "text": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+      "url": "https://arxiv.org/abs/2610.32919"
     },
     {
-      "text": "From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision",
-      "url": "https://arxiv.org/abs/2610.33001"
+      "text": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+      "url": "https://arxiv.org/abs/2610.32921"
     },
     {
-      "text": "Natural Jammers: When Non-Robust Features Become Antagonistic",
-      "url": "https://arxiv.org/abs/2610.34785"
+      "text": "Rewriting Scaling Laws for Synthetic Data with Compute and Data Constraints",
+      "url": "https://arxiv.org/abs/2610.31867"
     },
     {
-      "text": "POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories",
-      "url": "https://arxiv.org/abs/2610.32448"
+      "text": "AgentGUI: An Interface for Observing and Steering Long-Running AI Agents",
+      "url": "https://arxiv.org/abs/2607.26300"
     },
     {
-      "text": "Linear-Time Context Compression with State-Space Encoding",
-      "url": "https://arxiv.org/abs/2610.33006"
+      "text": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "url": "https://arxiv.org/abs/2610.31846"
     },
     {
-      "text": "CauProphet: Teaching Agents to Develop Causal Cognition like Humans",
-      "url": "https://arxiv.org/abs/2610.32477"
+      "text": "PriFT: Guiding Supervised Fine-Tuning with Pretrained Priors",
+      "url": "https://arxiv.org/abs/2606.09396"
     },
     {
-      "text": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.34491"
+      "text": "Propasafe-Hybrid: A Text-Based Hybrid Propaganda Detection Tool",
+      "url": "https://arxiv.org/abs/2610.33464"
     },
     {
-      "text": "KnitTrans: Coordinated Trajectory Transfer for Effective and Efficient LLM Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.32389"
+      "text": "SteerVTE: Seamless Video Text Editing with Style and Glyph Control",
+      "url": "https://arxiv.org/abs/2606.23254"
     }
   ],
   "rightColumn": [
     {
-      "text": "A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot",
-      "url": "https://arxiv.org/abs/2609.29528"
+      "text": "Expert L2 English Speech Evaluation on a Gaming PC: Accuracy, Fluency, and Prosody with XLS-R, XEUS, and PhoneticXeus",
+      "url": "https://arxiv.org/abs/2610.26406"
     },
     {
-      "text": "JevAdvBench: A Benchmark and Black-Box Attacks for Reinforcement Learning for Calibrated Decisions Models",
-      "url": "https://arxiv.org/abs/2609.31142"
+      "text": "RoboCode: Learning Reusable Action Primitives for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2610.32225"
     },
     {
-      "text": "5W1H+Which: Context-Valid Semantic Indexing with Progressive Ontology Binding",
-      "url": "https://arxiv.org/abs/2609.35184"
+      "text": "Dual-Slot: From Serial Loops to Parallel Slots in Language Models",
+      "url": "https://arxiv.org/abs/2610.25086"
     },
     {
-      "text": "Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching",
-      "url": "https://arxiv.org/abs/2605.06474"
+      "text": "Neural Disjunctive Normal Forms for Learning Exact Rank Filters",
+      "url": "https://arxiv.org/abs/2610.32203"
     },
     {
-      "text": "SearchJev: A Calibrated System-1 Model for Search Agents",
-      "url": "https://arxiv.org/abs/2610.05107"
+      "text": "P2N: Reusing Deep Representations for Greater Effective Depth",
+      "url": "https://arxiv.org/abs/2610.25076"
     },
     {
-      "text": "Multi-Agent Retrieval-Augmented Causality Assessment (MARCA) of Individual Case Safety Reports in Pharmacovigilance",
-      "url": "https://arxiv.org/abs/2610.33279"
+      "text": "Depth-Dependent Safety Geometry in Vision-Language Models: Layer-Wise Localization and Bidirectional Refusal Control",
+      "url": "https://arxiv.org/abs/2610.32182"
     },
     {
-      "text": "MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios",
-      "url": "https://arxiv.org/abs/2603.09983"
+      "text": "When Does Better Acceptance Pay? A Controlled Study of Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.24993"
     },
     {
-      "text": "Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification",
-      "url": "https://arxiv.org/abs/2605.00326"
+      "text": "Strictly Replicable Realizable Learning: Unknown Marginals, Finite-Class Interpolation, and the Cost of Shared Randomness",
+      "url": "https://arxiv.org/abs/2610.26944"
     }
   ],
-  "lastUpdated": "2026-10-27T09:08:45Z"
+  "lastUpdated": "2026-10-27T15:45:01Z"
 }
