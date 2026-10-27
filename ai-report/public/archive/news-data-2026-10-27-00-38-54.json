@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "[Transcript] Kevin Roose does a science communication and AGI sociology in Vox interview",
+    "url": "https://www.lesswrong.com/posts/WnJaYKuMnJP5SGzEy/transcript-kevin-roose-does-a-science-communication-and-agi"
+  },
+  "topStories": [
+    {
+      "text": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
+    },
+    {
+      "text": "CHATGPT’S EXPANDING WORLD OF WORK",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "text": "Are Persona Features Coherent?",
+      "url": "https://www.lesswrong.com/posts/W2ACsq8XJ3FmDwNL2/are-persona-features-coherent"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The Ability of Frontier Models to Control Robots is Rapidly Improving",
+      "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
+    },
+    {
+      "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
+      "url": "https://arxiv.org/abs/2610.31937"
+    },
+    {
+      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188"
+    },
+    {
+      "text": "Remote embalming and shipment for brain or whole body preservation with Sparks",
+      "url": "https://www.lesswrong.com/posts/MzPDS4ZNqcLcrFeio/remote-embalming-and-shipment-for-brain-or-whole-body"
+    },
+    {
+      "text": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+    },
+    {
+      "text": "Anthropic is burning gas to feed the AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+    },
+    {
+      "text": "Small Groups of Correlated Researchers",
+      "url": "https://www.lesswrong.com/posts/kvr2mYT3ZmyiAEq6z/small-groups-of-correlated-researchers"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s books, Meta’s hat and a cheaper Terra",
+      "url": "https://dailyai.com/2026/10/dai60-anthropics-books-metas-hat-and-a-cheaper-terra/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.32770"
+    },
+    {
+      "text": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+      "url": "https://arxiv.org/abs/2610.32866"
+    },
+    {
+      "text": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
+      "url": "https://arxiv.org/abs/2610.32438"
+    },
+    {
+      "text": "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy",
+      "url": "https://arxiv.org/abs/2610.31954"
+    },
+    {
+      "text": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
+      "url": "https://arxiv.org/abs/2610.32441"
+    },
+    {
+      "text": "Sharpness-aware Orthogonalized Momentum Algorithms",
+      "url": "https://arxiv.org/abs/2610.32465"
+    },
+    {
+      "text": "VLMShield: Efficient and Robust Defense of Vision-Language Models against Malicious Prompts",
+      "url": "https://arxiv.org/abs/2604.06502"
+    },
+    {
+      "text": "Do Language Models Trust Their Own Justifications? A Study on Functional Consistency",
+      "url": "https://arxiv.org/abs/2610.32665"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Driving Video Retrieval for Complex Queries with Structured Grounding",
+      "url": "https://arxiv.org/abs/2606.09109"
+    },
+    {
+      "text": "Characterize Then Distill: Mechanistic Reasoning in Large Output Spaces",
+      "url": "https://arxiv.org/abs/2606.06840"
+    },
+    {
+      "text": "Instance-dependent Stochastic Lipschitz bandit",
+      "url": "https://arxiv.org/abs/2605.29748"
+    },
+    {
+      "text": "Causal Representation Learning for Generalisable Recommendation",
+      "url": "https://arxiv.org/abs/2605.27043"
+    },
+    {
+      "text": "Watermarking Should Be Treated as a Monitoring Primitive",
+      "url": "https://arxiv.org/abs/2605.13095"
+    },
+    {
+      "text": "PEAR: Adaptive Advantage Reshaping for Perception and Exploration in Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.32216"
+    },
+    {
+      "text": "RxnExBench: Benchmarking Vision-Language Models for Structured Chemical Reaction Extraction from Scientific Literature",
+      "url": "https://arxiv.org/abs/2610.32221"
+    },
+    {
+      "text": "On the Complexity of Best-Arm Identification in Non-Stationary Linear Bandits",
+      "url": "https://arxiv.org/abs/2603.10346"
+    }
+  ],
+  "lastUpdated": "2026-10-27T00:38:54Z"
+}
