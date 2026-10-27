@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
-      "text": "GPT-6.1 Terra",
-      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
-    },
-    {
-      "text": "CHATGPT’S EXPANDING WORLD OF WORK",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
-    },
-    {
-      "text": "Are Persona Features Coherent?",
-      "url": "https://www.lesswrong.com/posts/W2ACsq8XJ3FmDwNL2/are-persona-features-coherent"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "The Ability of Frontier Models to Control Robots is Rapidly Improving",
-      "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
+      "text": "Transformer to GPT-5: Advancements, Limitations, and Future Directions in Large Language Model Design",
+      "url": "https://arxiv.org/abs/2610.34281"
     },
     {
       "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
       "url": "https://arxiv.org/abs/2610.31937"
     },
     {
+      "text": "Large Language Models: A Plain-Language Overview for Engineers",
+      "url": "https://arxiv.org/abs/2610.34585"
+    }
+  ],
+  "leftColumn": [
+    {
       "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
       "url": "https://arxiv.org/abs/2511.15188"
     },
     {
-      "text": "Remote embalming and shipment for brain or whole body preservation with Sparks",
-      "url": "https://www.lesswrong.com/posts/MzPDS4ZNqcLcrFeio/remote-embalming-and-shipment-for-brain-or-whole-body"
+      "text": "The Straight and Narrow: Do LLMs Possess an Internal Moral Path?",
+      "url": "https://arxiv.org/abs/2601.10307"
     },
     {
-      "text": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+      "text": "CHATGPT’S EXPANDING WORLD OF WORK",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
     },
     {
-      "text": "Anthropic is burning gas to feed the AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+      "text": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+      "url": "https://arxiv.org/abs/2610.32955"
     },
     {
-      "text": "Small Groups of Correlated Researchers",
-      "url": "https://www.lesswrong.com/posts/kvr2mYT3ZmyiAEq6z/small-groups-of-correlated-researchers"
+      "text": "WHY GEOMETRIC CONTINUITY EMERGES IN DEEP NEURAL NETWORKS: RESIDUAL CONNECTIONS AND ROTATIONAL SYMMETRY BREAKING",
+      "url": "https://arxiv.org/abs/2605.04971"
     },
     {
-      "text": "DailyAI Briefing: Anthropic’s books, Meta’s hat and a cheaper Terra",
-      "url": "https://dailyai.com/2026/10/dai60-anthropics-books-metas-hat-and-a-cheaper-terra/"
+      "text": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
+      "url": "https://arxiv.org/abs/2610.35685"
+    },
+    {
+      "text": "Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs",
+      "url": "https://arxiv.org/abs/2610.33949"
+    },
+    {
+      "text": "Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead",
+      "url": "https://arxiv.org/abs/2610.32215"
     }
   ],
   "centerColumn": [
     {
-      "text": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
-      "url": "https://arxiv.org/abs/2610.32770"
+      "text": "Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis",
+      "url": "https://arxiv.org/abs/2610.32308"
     },
     {
-      "text": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
-      "url": "https://arxiv.org/abs/2610.32866"
+      "text": "From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision",
+      "url": "https://arxiv.org/abs/2610.33001"
     },
     {
-      "text": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
-      "url": "https://arxiv.org/abs/2610.32438"
+      "text": "Natural Jammers: When Non-Robust Features Become Antagonistic",
+      "url": "https://arxiv.org/abs/2610.34785"
     },
     {
-      "text": "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy",
-      "url": "https://arxiv.org/abs/2610.31954"
+      "text": "POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories",
+      "url": "https://arxiv.org/abs/2610.32448"
     },
     {
-      "text": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
-      "url": "https://arxiv.org/abs/2610.32441"
+      "text": "Linear-Time Context Compression with State-Space Encoding",
+      "url": "https://arxiv.org/abs/2610.33006"
     },
     {
-      "text": "Sharpness-aware Orthogonalized Momentum Algorithms",
-      "url": "https://arxiv.org/abs/2610.32465"
+      "text": "CauProphet: Teaching Agents to Develop Causal Cognition like Humans",
+      "url": "https://arxiv.org/abs/2610.32477"
     },
     {
-      "text": "VLMShield: Efficient and Robust Defense of Vision-Language Models against Malicious Prompts",
-      "url": "https://arxiv.org/abs/2604.06502"
+      "text": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.34491"
     },
     {
-      "text": "Do Language Models Trust Their Own Justifications? A Study on Functional Consistency",
-      "url": "https://arxiv.org/abs/2610.32665"
+      "text": "KnitTrans: Coordinated Trajectory Transfer for Effective and Efficient LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.32389"
     }
   ],
   "rightColumn": [
     {
-      "text": "Driving Video Retrieval for Complex Queries with Structured Grounding",
-      "url": "https://arxiv.org/abs/2606.09109"
+      "text": "A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot",
+      "url": "https://arxiv.org/abs/2609.29528"
     },
     {
-      "text": "Characterize Then Distill: Mechanistic Reasoning in Large Output Spaces",
-      "url": "https://arxiv.org/abs/2606.06840"
+      "text": "JevAdvBench: A Benchmark and Black-Box Attacks for Reinforcement Learning for Calibrated Decisions Models",
+      "url": "https://arxiv.org/abs/2609.31142"
     },
     {
-      "text": "Instance-dependent Stochastic Lipschitz bandit",
-      "url": "https://arxiv.org/abs/2605.29748"
+      "text": "5W1H+Which: Context-Valid Semantic Indexing with Progressive Ontology Binding",
+      "url": "https://arxiv.org/abs/2609.35184"
     },
     {
-      "text": "Causal Representation Learning for Generalisable Recommendation",
-      "url": "https://arxiv.org/abs/2605.27043"
+      "text": "Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching",
+      "url": "https://arxiv.org/abs/2605.06474"
     },
     {
-      "text": "Watermarking Should Be Treated as a Monitoring Primitive",
-      "url": "https://arxiv.org/abs/2605.13095"
+      "text": "SearchJev: A Calibrated System-1 Model for Search Agents",
+      "url": "https://arxiv.org/abs/2610.05107"
     },
     {
-      "text": "PEAR: Adaptive Advantage Reshaping for Perception and Exploration in Large Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.32216"
+      "text": "Multi-Agent Retrieval-Augmented Causality Assessment (MARCA) of Individual Case Safety Reports in Pharmacovigilance",
+      "url": "https://arxiv.org/abs/2610.33279"
     },
     {
-      "text": "RxnExBench: Benchmarking Vision-Language Models for Structured Chemical Reaction Extraction from Scientific Literature",
-      "url": "https://arxiv.org/abs/2610.32221"
+      "text": "MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios",
+      "url": "https://arxiv.org/abs/2603.09983"
     },
     {
-      "text": "On the Complexity of Best-Arm Identification in Non-Stationary Linear Bandits",
-      "url": "https://arxiv.org/abs/2603.10346"
+      "text": "Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification",
+      "url": "https://arxiv.org/abs/2605.00326"
     }
   ],
-  "lastUpdated": "2026-10-27T00:38:54Z"
+  "lastUpdated": "2026-10-27T09:08:45Z"
 }
