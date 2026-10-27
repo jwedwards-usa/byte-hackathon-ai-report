@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "[Transcript] Kevin Roose does a science communication and AGI sociology in Vox interview",
+    "url": "https://www.lesswrong.com/posts/WnJaYKuMnJP5SGzEy/transcript-kevin-roose-does-a-science-communication-and-agi"
+  },
+  "topStories": [
+    {
+      "text": "Transformer to GPT-5: Advancements, Limitations, and Future Directions in Large Language Model Design",
+      "url": "https://arxiv.org/abs/2610.34281"
+    },
+    {
+      "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
+      "url": "https://arxiv.org/abs/2610.31937"
+    },
+    {
+      "text": "Large Language Models: A Plain-Language Overview for Engineers",
+      "url": "https://arxiv.org/abs/2610.34585"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188"
+    },
+    {
+      "text": "The Straight and Narrow: Do LLMs Possess an Internal Moral Path?",
+      "url": "https://arxiv.org/abs/2601.10307"
+    },
+    {
+      "text": "CHATGPT’S EXPANDING WORLD OF WORK",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "text": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+      "url": "https://arxiv.org/abs/2610.32955"
+    },
+    {
+      "text": "WHY GEOMETRIC CONTINUITY EMERGES IN DEEP NEURAL NETWORKS: RESIDUAL CONNECTIONS AND ROTATIONAL SYMMETRY BREAKING",
+      "url": "https://arxiv.org/abs/2605.04971"
+    },
+    {
+      "text": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
+      "url": "https://arxiv.org/abs/2610.35685"
+    },
+    {
+      "text": "Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs",
+      "url": "https://arxiv.org/abs/2610.33949"
+    },
+    {
+      "text": "Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead",
+      "url": "https://arxiv.org/abs/2610.32215"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis",
+      "url": "https://arxiv.org/abs/2610.32308"
+    },
+    {
+      "text": "From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision",
+      "url": "https://arxiv.org/abs/2610.33001"
+    },
+    {
+      "text": "Natural Jammers: When Non-Robust Features Become Antagonistic",
+      "url": "https://arxiv.org/abs/2610.34785"
+    },
+    {
+      "text": "POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories",
+      "url": "https://arxiv.org/abs/2610.32448"
+    },
+    {
+      "text": "Linear-Time Context Compression with State-Space Encoding",
+      "url": "https://arxiv.org/abs/2610.33006"
+    },
+    {
+      "text": "CauProphet: Teaching Agents to Develop Causal Cognition like Humans",
+      "url": "https://arxiv.org/abs/2610.32477"
+    },
+    {
+      "text": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.34491"
+    },
+    {
+      "text": "KnitTrans: Coordinated Trajectory Transfer for Effective and Efficient LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.32389"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot",
+      "url": "https://arxiv.org/abs/2609.29528"
+    },
+    {
+      "text": "JevAdvBench: A Benchmark and Black-Box Attacks for Reinforcement Learning for Calibrated Decisions Models",
+      "url": "https://arxiv.org/abs/2609.31142"
+    },
+    {
+      "text": "5W1H+Which: Context-Valid Semantic Indexing with Progressive Ontology Binding",
+      "url": "https://arxiv.org/abs/2609.35184"
+    },
+    {
+      "text": "Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching",
+      "url": "https://arxiv.org/abs/2605.06474"
+    },
+    {
+      "text": "SearchJev: A Calibrated System-1 Model for Search Agents",
+      "url": "https://arxiv.org/abs/2610.05107"
+    },
+    {
+      "text": "Multi-Agent Retrieval-Augmented Causality Assessment (MARCA) of Individual Case Safety Reports in Pharmacovigilance",
+      "url": "https://arxiv.org/abs/2610.33279"
+    },
+    {
+      "text": "MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios",
+      "url": "https://arxiv.org/abs/2603.09983"
+    },
+    {
+      "text": "Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification",
+      "url": "https://arxiv.org/abs/2605.00326"
+    }
+  ],
+  "lastUpdated": "2026-10-27T09:08:45Z"
+}
