@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+  },
+  "topStories": [
+    {
+      "text": "How to find a philanthropic advisor who cares about cost-effectiveness",
+      "url": "https://www.lesswrong.com/posts/HMcwm4zRx9faeFfBX/how-to-find-a-philanthropic-advisor-who-cares-about-cost"
+    },
+    {
+      "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+    },
+    {
+      "text": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
+      "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "AI speeds up 3rd party safety researchers by ~1.6x (via self-reports)",
+      "url": "https://www.lesswrong.com/posts/ea9fGFKxJhh2bF9rp/ai-speeds-up-3rd-party-safety-researchers-by-1-6x-via-self"
+    },
+    {
+      "text": "FTC Demands Anthropic Executives Testify in AI Safety Probe",
+      "url": "https://dailyai.com/2026/10/ftc-demands-anthropic-executives-testify-in-ai-safety-probe/"
+    },
+    {
+      "text": "Transformer to GPT-5: Advancements, Limitations, and Future Directions in Large Language Model Design",
+      "url": "https://arxiv.org/abs/2610.34281"
+    },
+    {
+      "text": "DailyAI Briefing: AI breaks a computing rule, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-ai-breaks-a-computing-rule-plus-4-more/"
+    },
+    {
+      "text": "OpenAI and Anthropic Say AI Broke the Same Computer Science Rule",
+      "url": "https://dailyai.com/2026/10/openai-and-anthropic-say-ai-broke-the-same-computer-science-rule/"
+    },
+    {
+      "text": "BrainRotViT: Transformer-ResNet Hybrid for Explainable Modeling of Brain Aging from 3D sMRI",
+      "url": "https://arxiv.org/abs/2511.15188"
+    },
+    {
+      "text": "$M^3$: A MULTI-LLM SYSTEM FOR MULTI-TURN JAILBREAKING AS A MARKOV DECISION PROCESS",
+      "url": "https://arxiv.org/abs/2610.31937"
+    },
+    {
+      "text": "Large Language Models: A Plain-Language Overview for Engineers",
+      "url": "https://arxiv.org/abs/2610.34585"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Does the Outfit Change the Price? Context Halo in Vision-Language Model Valuation of an Identical Low-Cost Necklace",
+      "url": "https://arxiv.org/abs/2610.34591"
+    },
+    {
+      "text": "Momentum in large-batch training: Polyak enlarges the critical batch size, Nesterov improves data efficiency",
+      "url": "https://arxiv.org/abs/2609.02728"
+    },
+    {
+      "text": "Train4Merge: RL or SFT---Which Yields Better Teachers for OPD-Based Model Merging?",
+      "url": "https://arxiv.org/abs/2609.32303"
+    },
+    {
+      "text": "Entity Matching using Decision Models",
+      "url": "https://arxiv.org/abs/2610.34626"
+    },
+    {
+      "text": "LADDER: Diagnosing Domain-Level Self-Assessment Under Noisy Feedback",
+      "url": "https://arxiv.org/abs/2610.34737"
+    },
+    {
+      "text": "REACT: Representational Early Analysis and Control of Chain-of-Thought Trajectories",
+      "url": "https://arxiv.org/abs/2610.32113"
+    },
+    {
+      "text": "RubriX: A Fast, Fine-Tunable Non-Autoregressive Rubric Judge",
+      "url": "https://arxiv.org/abs/2610.34875"
+    },
+    {
+      "text": "NumTrace: Auditing the Number Provenance of Financial Analyst Agents",
+      "url": "https://arxiv.org/abs/2610.34887"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video",
+      "url": "https://arxiv.org/abs/2607.01202"
+    },
+    {
+      "text": "Parametric Session States Recover Retrieval Intent without Replaying History",
+      "url": "https://arxiv.org/abs/2610.33047"
+    },
+    {
+      "text": "Continuous Audio Thinking for Large Audio Language Models",
+      "url": "https://arxiv.org/abs/2606.18273"
+    },
+    {
+      "text": "Each Insufficient in Its Own Way: Calibrating Language Models Across Varying Evidence States",
+      "url": "https://arxiv.org/abs/2610.33237"
+    },
+    {
+      "text": "Recurrent Self-Improvement: Dynamic Cross-Loop On-Policy Distillation for Looped Language Models",
+      "url": "https://arxiv.org/abs/2610.10623"
+    },
+    {
+      "text": "Revisiting Temporal Regularization for Smooth Control in Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.07910"
+    },
+    {
+      "text": "Multi-Agent Retrieval-Augmented Causality Assessment (MARCA) of Individual Case Safety Reports in Pharmacovigilance",
+      "url": "https://arxiv.org/abs/2610.33279"
+    },
+    {
+      "text": "The Emergence and Sparsification of a Syntactic Circuit",
+      "url": "https://arxiv.org/abs/2610.33299"
+    }
+  ],
+  "lastUpdated": "2026-10-27T22:20:23Z"
+}
