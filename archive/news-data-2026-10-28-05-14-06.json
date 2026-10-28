@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+  },
+  "topStories": [
+    {
+      "text": "GPT Models Write Their Own Constitution",
+      "url": "https://www.lesswrong.com/posts/ftEMXHAN4BdDBZjoY/gpt-models-write-their-own-constitution-1"
+    },
+    {
+      "text": "March Against AI Extinction",
+      "url": "https://www.lesswrong.com/events/X4aX4CdGh4AzGds3i/march-against-ai-extinction"
+    },
+    {
+      "text": "FTC Demands Anthropic Executives Testify in AI Safety Probe",
+      "url": "https://dailyai.com/2026/10/ftc-demands-anthropic-executives-testify-in-ai-safety-probe/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Safety is marketing for Anthropic, not sacrifice",
+      "url": "https://www.lesswrong.com/posts/KwpiBanKfkrDFHfhn/safety-is-marketing-for-anthropic-not-sacrifice"
+    },
+    {
+      "text": "Does LLM Pre-Training Typically Occur at the Edge of Stability?",
+      "url": "https://arxiv.org/abs/2610.36778"
+    },
+    {
+      "text": "Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging",
+      "url": "https://arxiv.org/abs/2610.37026"
+    },
+    {
+      "text": "Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training",
+      "url": "https://arxiv.org/abs/2605.07063"
+    },
+    {
+      "text": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
+      "url": "https://arxiv.org/abs/2509.12443"
+    },
+    {
+      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+      "url": "https://arxiv.org/abs/2610.37369"
+    },
+    {
+      "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+    },
+    {
+      "text": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
+      "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "INTERPRETABLE META-POLICIES FOR NEURAL DECISION MAKING",
+      "url": "https://arxiv.org/abs/2610.37451"
+    },
+    {
+      "text": "SFE-O: An Ontology for Knowledge-Grounded AI in Supercritical CO$_2$ Biomass Extraction and Fractionation",
+      "url": "https://arxiv.org/abs/2610.37123"
+    },
+    {
+      "text": "Correctness Conditioning as Selection in Chain-of-Thought Faithfulness Evaluation",
+      "url": "https://arxiv.org/abs/2610.37070"
+    },
+    {
+      "text": "AI-Assisted Discovery of CNOT Decompositions for Quantum Permutations on Constrained Topologies",
+      "url": "https://arxiv.org/abs/2610.37045"
+    },
+    {
+      "text": "Guided-RLVR: Guided Exploration in Reinforcement Learning with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2610.37041"
+    },
+    {
+      "text": "ConformalMOS: Uncertainty-Aware MOS Prediction with Conformal Intervals and Ordinal Modeling",
+      "url": "https://arxiv.org/abs/2610.36126"
+    },
+    {
+      "text": "Noise Steering: Exploiting Wake Steering and Acoustic Directivity for Noise-Constrained Wind Farm Control via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.36888"
+    },
+    {
+      "text": "Pneuma: A Large-Scale Real-World Time Series Benchmark for Commercial Aircraft Predictive Maintenance",
+      "url": "https://arxiv.org/abs/2610.37563"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Data-driven Discovery of Lie Symmetries and First Integrals with Latent ODEs",
+      "url": "https://arxiv.org/abs/2610.35967"
+    },
+    {
+      "text": "Doubly Robust Deep Kernel Tests for Structured Outcomes",
+      "url": "https://arxiv.org/abs/2610.37227"
+    },
+    {
+      "text": "A Graph-informed Kriging model for sample-efficient Bayesian optimization of wind farm layouts",
+      "url": "https://arxiv.org/abs/2610.35975"
+    },
+    {
+      "text": "When Does Test-Time Physical Diagnosis Pay?",
+      "url": "https://arxiv.org/abs/2609.22299"
+    },
+    {
+      "text": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
+      "url": "https://arxiv.org/abs/2610.35895"
+    },
+    {
+      "text": "An Input Skip Can Reparameterize a VAE Without Improving the Generator",
+      "url": "https://arxiv.org/abs/2610.37456"
+    },
+    {
+      "text": "CRISP: Co-designing Pruning and Scheduling for Efficient MoE Inference on Edge Servers",
+      "url": "https://arxiv.org/abs/2610.37442"
+    },
+    {
+      "text": "LiveSearch: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents",
+      "url": "https://arxiv.org/abs/2610.37166"
+    }
+  ],
+  "lastUpdated": "2026-10-28T05:14:06Z"
+}
