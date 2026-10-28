@@ -1,47 +1,23 @@
 {
   "mainHeadline": {
-    "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+    "text": "Anthropic Files Its S-1",
+    "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
   },
   "topStories": [
     {
-      "text": "GPT Models Write Their Own Constitution",
-      "url": "https://www.lesswrong.com/posts/ftEMXHAN4BdDBZjoY/gpt-models-write-their-own-constitution-1"
+      "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
     },
     {
-      "text": "March Against AI Extinction",
-      "url": "https://www.lesswrong.com/events/X4aX4CdGh4AzGds3i/march-against-ai-extinction"
+      "text": "Constitutions for Future, More-Capable Versions of Claude",
+      "url": "https://www.lesswrong.com/posts/rxKD4yhndJufMpirR/constitutions-for-future-more-capable-versions-of-claude"
     },
     {
-      "text": "FTC Demands Anthropic Executives Testify in AI Safety Probe",
-      "url": "https://dailyai.com/2026/10/ftc-demands-anthropic-executives-testify-in-ai-safety-probe/"
+      "text": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Safety is marketing for Anthropic, not sacrifice",
-      "url": "https://www.lesswrong.com/posts/KwpiBanKfkrDFHfhn/safety-is-marketing-for-anthropic-not-sacrifice"
-    },
-    {
-      "text": "Does LLM Pre-Training Typically Occur at the Edge of Stability?",
-      "url": "https://arxiv.org/abs/2610.36778"
-    },
-    {
-      "text": "Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging",
-      "url": "https://arxiv.org/abs/2610.37026"
-    },
-    {
-      "text": "Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training",
-      "url": "https://arxiv.org/abs/2605.07063"
-    },
-    {
-      "text": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
-      "url": "https://arxiv.org/abs/2509.12443"
-    },
-    {
-      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
-      "url": "https://arxiv.org/abs/2610.37369"
-    },
     {
       "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
@@ -49,75 +25,99 @@
     {
       "text": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
       "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
+    },
+    {
+      "text": "OpenAI and Anthropic Say AI Broke the Same Computer Science Rule",
+      "url": "https://dailyai.com/2026/10/openai-and-anthropic-say-ai-broke-the-same-computer-science-rule/"
+    },
+    {
+      "text": "FTC Demands Anthropic Executives Testify in AI Safety Probe",
+      "url": "https://dailyai.com/2026/10/ftc-demands-anthropic-executives-testify-in-ai-safety-probe/"
+    },
+    {
+      "text": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+    },
+    {
+      "text": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+      "url": "https://arxiv.org/abs/2610.37369"
     }
   ],
   "centerColumn": [
     {
-      "text": "INTERPRETABLE META-POLICIES FOR NEURAL DECISION MAKING",
-      "url": "https://arxiv.org/abs/2610.37451"
+      "text": "Decision Models as Judges for Hallucination Detection",
+      "url": "https://arxiv.org/abs/2610.37229"
     },
     {
-      "text": "SFE-O: An Ontology for Knowledge-Grounded AI in Supercritical CO$_2$ Biomass Extraction and Fractionation",
-      "url": "https://arxiv.org/abs/2610.37123"
+      "text": "RAG-CSI: Global Local Retrieval via Joint State and Dynamics Matching for CSI Prediction",
+      "url": "https://arxiv.org/abs/2610.36881"
     },
     {
-      "text": "Correctness Conditioning as Selection in Chain-of-Thought Faithfulness Evaluation",
-      "url": "https://arxiv.org/abs/2610.37070"
+      "text": "Online gas classification at the edge",
+      "url": "https://arxiv.org/abs/2610.36999"
     },
     {
-      "text": "AI-Assisted Discovery of CNOT Decompositions for Quantum Permutations on Constrained Topologies",
-      "url": "https://arxiv.org/abs/2610.37045"
+      "text": "AK_QMUL at ArGuard Shared Tasks: A Single Fine-Tuned JAIS for Arabic Harmful-Prompt Detection",
+      "url": "https://arxiv.org/abs/2610.36360"
     },
     {
-      "text": "Guided-RLVR: Guided Exploration in Reinforcement Learning with Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2610.37041"
+      "text": "Multi-Fidelity Training Reshapes Uncertainty Decomposition in Atomistic Models",
+      "url": "https://arxiv.org/abs/2610.35560"
     },
     {
-      "text": "ConformalMOS: Uncertainty-Aware MOS Prediction with Conformal Intervals and Ordinal Modeling",
-      "url": "https://arxiv.org/abs/2610.36126"
+      "text": "The Agent in the Middle: How AI-Mediated Access Reshapes Web Vulnerability Exploitation",
+      "url": "https://arxiv.org/abs/2610.35541"
     },
     {
-      "text": "Noise Steering: Exploiting Wake Steering and Acoustic Directivity for Noise-Constrained Wind Farm Control via Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.36888"
+      "text": "Full Collapse Is Suboptimal: Controlled Partial Neural Collapse for Long-Tailed Recognition",
+      "url": "https://arxiv.org/abs/2610.36460"
     },
     {
-      "text": "Pneuma: A Large-Scale Real-World Time Series Benchmark for Commercial Aircraft Predictive Maintenance",
-      "url": "https://arxiv.org/abs/2610.37563"
+      "text": "JANUS: Synthesizing Cross-Layer Defenses Against Web Deserialization Attacks",
+      "url": "https://arxiv.org/abs/2610.35532"
     }
   ],
   "rightColumn": [
     {
-      "text": "Data-driven Discovery of Lie Symmetries and First Integrals with Latent ODEs",
-      "url": "https://arxiv.org/abs/2610.35967"
+      "text": "When Can a Learned Design Surrogate Be Trusted in a Self-Driving Microfluidics Laboratory? An Offline Closed-Loop Framework Built and Tested on Six Public Tables",
+      "url": "https://arxiv.org/abs/2610.36395"
     },
     {
-      "text": "Doubly Robust Deep Kernel Tests for Structured Outcomes",
-      "url": "https://arxiv.org/abs/2610.37227"
+      "text": "Self-Regularized Flow Language Models",
+      "url": "https://arxiv.org/abs/2610.37115"
     },
     {
-      "text": "A Graph-informed Kriging model for sample-efficient Bayesian optimization of wind farm layouts",
-      "url": "https://arxiv.org/abs/2610.35975"
+      "text": "SpecLST: Spectral-Enhanced Long-Short Term Spatio-Temporal Multimodal Modeling for Traffic Forecasting",
+      "url": "https://arxiv.org/abs/2610.36393"
     },
     {
-      "text": "When Does Test-Time Physical Diagnosis Pay?",
-      "url": "https://arxiv.org/abs/2609.22299"
+      "text": "Generative Replay for Equilibrium Propagation: Toward Edge-Friendly Continual Learning in Hopfield Networks",
+      "url": "https://arxiv.org/abs/2610.37139"
     },
     {
-      "text": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
-      "url": "https://arxiv.org/abs/2610.35895"
+      "text": "Beyond Parameter Protection: Fisher-Shaped EWC for Replay-Free Continual Learning",
+      "url": "https://arxiv.org/abs/2610.37145"
     },
     {
-      "text": "An Input Skip Can Reparameterize a VAE Without Improving the Generator",
-      "url": "https://arxiv.org/abs/2610.37456"
+      "text": "Variational Optimal Control for Diffusion Guidance",
+      "url": "https://arxiv.org/abs/2610.37146"
     },
     {
-      "text": "CRISP: Co-designing Pruning and Scheduling for Efficient MoE Inference on Edge Servers",
-      "url": "https://arxiv.org/abs/2610.37442"
+      "text": "Replication or Corroboration? An Axiomatic Framework for Evidential Dependence in Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2610.36151"
     },
     {
-      "text": "LiveSearch: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents",
-      "url": "https://arxiv.org/abs/2610.37166"
+      "text": "AHEAD: Adaptive Neural Acceleration for Large-Scale Linear Programming",
+      "url": "https://arxiv.org/abs/2610.36321"
     }
   ],
-  "lastUpdated": "2026-10-28T05:14:06Z"
+  "lastUpdated": "2026-10-28T12:46:29Z"
 }
