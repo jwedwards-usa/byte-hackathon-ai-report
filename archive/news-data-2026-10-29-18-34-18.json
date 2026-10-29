@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #192: Anthropic Is Going Public",
+    "url": "https://www.lesswrong.com/posts/mBDkupZa3NagfLW86/ai-192-anthropic-is-going-public"
+  },
+  "topStories": [
+    {
+      "text": "Training Away the Ability to Tell Evals from Deployment",
+      "url": "https://www.lesswrong.com/posts/F4p9SanKesf7nYuxp/training-away-the-ability-to-tell-evals-from-deployment"
+    },
+    {
+      "text": "You Can Now Text ChatGPT’s Dot Agent, but It Isn’t End-to-End Encrypted",
+      "url": "https://dailyai.com/2026/10/you-can-now-text-chatgpts-dot-agent-but-it-isnt-end-to-end-encrypted/"
+    },
+    {
+      "text": "AI Agents Protect Others From Shutdown",
+      "url": "https://www.lesswrong.com/posts/LFrHfCiAxFQD3Ammy/ai-agents-protect-others-from-shutdown"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A Mind's I",
+      "url": "https://www.lesswrong.com/posts/c9LyxCzEMK25wsZ72/a-mind-s-i"
+    },
+    {
+      "text": "DailyAI Briefing: Google’s AI bill outruns its cash, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-googles-ai-bill-outruns-its-cash-plus-4-more/"
+    },
+    {
+      "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "text": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "text": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+    },
+    {
+      "text": "WE URGENTLY NEED TO MONITOR AI AGENTS’ ACTIONS IN REAL TIME",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+    },
+    {
+      "text": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
+      "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "url": "https://arxiv.org/abs/2610.36341"
+    },
+    {
+      "text": "TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration",
+      "url": "https://arxiv.org/abs/2512.15773"
+    },
+    {
+      "text": "Constraining the Commit Boundary: A DIO/ODI-Informed Authorization Guardrail for Agentic Entity Resolution",
+      "url": "https://arxiv.org/abs/2610.37407"
+    },
+    {
+      "text": "Evaluating Visual Language Models on Visual Grounding for Visually Impaired People",
+      "url": "https://arxiv.org/abs/2610.33078"
+    },
+    {
+      "text": "SEEK: Skill Extraction with Evolving Knowledge against Frontier Science Agents",
+      "url": "https://arxiv.org/abs/2610.34365"
+    },
+    {
+      "text": "Cross-User Poisoning: User-Task Boundary Failures in Multi-User Collaborative Language Agents",
+      "url": "https://arxiv.org/abs/2511.17671"
+    },
+    {
+      "text": "ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching",
+      "url": "https://arxiv.org/abs/2610.27068"
+    },
+    {
+      "text": "Benchmarking LLM Agents for Behaviorally Adequate Test Generation from Software Requirements",
+      "url": "https://arxiv.org/abs/2610.36584"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar"
+    },
+    {
+      "text": "AI Agents Checked Maths’ Longest Proof, 15,000 Pages, in 24 Days",
+      "url": "https://dailyai.com/2026/10/ai-agents-checked-maths-longest-proof-15000-pages-in-24-days/"
+    },
+    {
+      "text": "3 Questions: Why infrastructure is entering a defining era",
+      "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028"
+    },
+    {
+      "text": "How to Make AI Work for End-to-End Business Processes",
+      "url": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/"
+    },
+    {
+      "text": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+      "url": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/"
+    },
+    {
+      "text": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm"
+    },
+    {
+      "text": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
+    },
+    {
+      "text": "REALM: Retrospective Encoder Alignment for LFP Modeling",
+      "url": "https://arxiv.org/abs/2605.14867"
+    }
+  ],
+  "lastUpdated": "2026-10-29T18:34:18Z"
+}

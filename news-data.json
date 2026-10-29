@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Training Away the Ability to Tell Evals from Deployment",
-    "url": "https://www.lesswrong.com/posts/F4p9SanKesf7nYuxp/training-away-the-ability-to-tell-evals-from-deployment"
+    "text": "AI #192: Anthropic Is Going Public",
+    "url": "https://www.lesswrong.com/posts/mBDkupZa3NagfLW86/ai-192-anthropic-is-going-public"
   },
   "topStories": [
     {
+      "text": "Training Away the Ability to Tell Evals from Deployment",
+      "url": "https://www.lesswrong.com/posts/F4p9SanKesf7nYuxp/training-away-the-ability-to-tell-evals-from-deployment"
+    },
+    {
+      "text": "You Can Now Text ChatGPT’s Dot Agent, but It Isn’t End-to-End Encrypted",
+      "url": "https://dailyai.com/2026/10/you-can-now-text-chatgpts-dot-agent-but-it-isnt-end-to-end-encrypted/"
+    },
+    {
       "text": "AI Agents Protect Others From Shutdown",
       "url": "https://www.lesswrong.com/posts/LFrHfCiAxFQD3Ammy/ai-agents-protect-others-from-shutdown"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "A Mind's I",
       "url": "https://www.lesswrong.com/posts/c9LyxCzEMK25wsZ72/a-mind-s-i"
     },
     {
+      "text": "DailyAI Briefing: Google’s AI bill outruns its cash, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-googles-ai-bill-outruns-its-cash-plus-4-more/"
+    },
+    {
       "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "OpenAI Asks California to Tighten the AI Law Its Own Hack Slipped Past",
-      "url": "https://dailyai.com/2026/10/openai-asks-california-to-tighten-the-ai-law-its-own-hack-slipped-past/"
     },
     {
-      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
-      "url": "https://arxiv.org/abs/2610.37369"
+      "text": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec"
     },
     {
-      "text": "Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training",
-      "url": "https://arxiv.org/abs/2605.07063"
+      "text": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
     },
     {
-      "text": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
-      "url": "https://arxiv.org/abs/2509.12443"
+      "text": "WE URGENTLY NEED TO MONITOR AI AGENTS’ ACTIONS IN REAL TIME",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
     },
     {
-      "text": "Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging",
-      "url": "https://arxiv.org/abs/2610.37026"
+      "text": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
+      "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
     },
     {
-      "text": "From Deterministic to Generative Deep Learning for Urban Air Quality Reconstruction from Sparse Observations",
-      "url": "https://arxiv.org/abs/2607.25687"
-    },
-    {
-      "text": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
-      "url": "https://arxiv.org/abs/2610.37624"
-    },
-    {
-      "text": "Advancement or Acceleration? How Data Curation Improves LLM Training",
-      "url": "https://arxiv.org/abs/2610.36983"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "centerColumn": [
     {
-      "text": "ProCerDCL: Query-Efficient Black-Box Probabilistic Verification of Deep Learning Compiler Optimization",
-      "url": "https://arxiv.org/abs/2610.36499"
+      "text": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "url": "https://arxiv.org/abs/2610.36341"
     },
     {
-      "text": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
-      "url": "https://arxiv.org/abs/2610.37631"
+      "text": "TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration",
+      "url": "https://arxiv.org/abs/2512.15773"
     },
     {
-      "text": "Layerwise Repacking: Variable-Length Hybrid-Attention Training without an Extra Redistribution Pass",
-      "url": "https://arxiv.org/abs/2610.35989"
+      "text": "Constraining the Commit Boundary: A DIO/ODI-Informed Authorization Guardrail for Agentic Entity Resolution",
+      "url": "https://arxiv.org/abs/2610.37407"
     },
     {
-      "text": "Tailored to you: longitudinal effects of personalising language models",
-      "url": "https://arxiv.org/abs/2609.20077"
+      "text": "Evaluating Visual Language Models on Visual Grounding for Visually Impaired People",
+      "url": "https://arxiv.org/abs/2610.33078"
     },
     {
-      "text": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
-      "url": "https://arxiv.org/abs/2610.37161"
+      "text": "SEEK: Skill Extraction with Evolving Knowledge against Frontier Science Agents",
+      "url": "https://arxiv.org/abs/2610.34365"
     },
     {
-      "text": "An actively trained neural operator for near-explicit atmospheric chemistry",
-      "url": "https://arxiv.org/abs/2610.33771"
+      "text": "Cross-User Poisoning: User-Task Boundary Failures in Multi-User Collaborative Language Agents",
+      "url": "https://arxiv.org/abs/2511.17671"
     },
     {
-      "text": "Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks",
-      "url": "https://arxiv.org/abs/2610.35905"
+      "text": "ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching",
+      "url": "https://arxiv.org/abs/2610.27068"
     },
     {
-      "text": "Spine: Compiling Subtask Trees into Structured Context for Long-Horizon Coding Agents",
-      "url": "https://arxiv.org/abs/2610.37224"
+      "text": "Benchmarking LLM Agents for Behaviorally Adequate Test Generation from Software Requirements",
+      "url": "https://arxiv.org/abs/2610.36584"
     }
   ],
   "rightColumn": [
     {
-      "text": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
-      "url": "https://arxiv.org/abs/2610.35895"
+      "text": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar"
     },
     {
-      "text": "Difficulty-Estimated Policy Optimization",
-      "url": "https://arxiv.org/abs/2602.06375"
+      "text": "AI Agents Checked Maths’ Longest Proof, 15,000 Pages, in 24 Days",
+      "url": "https://dailyai.com/2026/10/ai-agents-checked-maths-longest-proof-15000-pages-in-24-days/"
     },
     {
-      "text": "DISTILLING METACOGNITIVE BEHAVIORS THROUGH AGENTIC EDITING",
-      "url": "https://arxiv.org/abs/2602.22508"
+      "text": "3 Questions: Why infrastructure is entering a defining era",
+      "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028"
     },
     {
-      "text": "Optimal Experiments for Partial Causal Effect Identification",
-      "url": "https://arxiv.org/abs/2605.06993"
+      "text": "How to Make AI Work for End-to-End Business Processes",
+      "url": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/"
     },
     {
-      "text": "When Is a Relation Worth Trusting? Manipulation Costs, Exposure, and the Trust Trap in Multi-Relational Graph Learning",
-      "url": "https://arxiv.org/abs/2610.37239"
+      "text": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+      "url": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/"
     },
     {
-      "text": "Moderation by Interrogation: Uncovering Concealed Intent in Agent Social Networks",
-      "url": "https://arxiv.org/abs/2605.12856"
+      "text": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm"
     },
     {
-      "text": "Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation",
-      "url": "https://arxiv.org/abs/2610.35910"
+      "text": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
     },
     {
-      "text": "Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.37195"
+      "text": "REALM: Retrospective Encoder Alignment for LFP Modeling",
+      "url": "https://arxiv.org/abs/2605.14867"
     }
   ],
-  "lastUpdated": "2026-10-29T09:58:54Z"
+  "lastUpdated": "2026-10-29T18:34:18Z"
 }
