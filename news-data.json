@@ -1,46 +1,34 @@
 {
   "mainHeadline": {
-    "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+    "text": "A Mind's I",
+    "url": "https://www.lesswrong.com/posts/c9LyxCzEMK25wsZ72/a-mind-s-i"
   },
   "topStories": [
     {
+      "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+    },
+    {
+      "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
       "text": "Against Moloch #49",
       "url": "https://www.lesswrong.com/posts/pqvzEkeMRMiPwAoGa/against-moloch-49"
-    },
-    {
-      "text": "Anthropic Files Its S-1",
-      "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
-    },
-    {
-      "text": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
     }
   ],
   "leftColumn": [
     {
-      "text": "Subtly wrong advice misaligns models more than obviously wrong advice - Replication",
-      "url": "https://www.lesswrong.com/posts/yMPR6Pkv6jQXM4rWu/subtly-wrong-advice-misaligns-models-more-than-obviously"
-    },
-    {
-      "text": "What do we mean by ‘long-horizon’ work? ",
-      "url": "https://www.lesswrong.com/posts/tvaK3hKYP7NpwQKDz/what-do-we-mean-by-long-horizon-work"
-    },
-    {
-      "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
-    },
-    {
-      "text": "Some different lenses of agency and their implications for alignment",
-      "url": "https://www.lesswrong.com/posts/94LkQyqrrHqDKhT26/some-different-lenses-of-agency-and-their-implications-for"
-    },
-    {
-      "text": "Some thoughts on GRAFT and follow-up work",
-      "url": "https://www.lesswrong.com/posts/6ro3dngDGaLJaumYb/some-thoughts-on-graft-and-follow-up-work"
+      "text": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
     },
     {
       "text": "The October inflection point for vibe game development",
       "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+    },
+    {
+      "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
     },
     {
       "text": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
@@ -49,75 +37,87 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "You Don't Have a Glycine Deficiency",
+      "url": "https://www.lesswrong.com/posts/QBHhSq9xMjZmeCzxm/you-don-t-have-a-glycine-deficiency"
+    },
+    {
+      "text": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+    },
+    {
+      "text": "Subtly wrong advice misaligns models more than obviously wrong advice - Replication",
+      "url": "https://www.lesswrong.com/posts/yMPR6Pkv6jQXM4rWu/subtly-wrong-advice-misaligns-models-more-than-obviously"
     }
   ],
   "centerColumn": [
     {
-      "text": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-      "url": "https://arxiv.org/abs/2610.36146"
+      "text": "Joint Distributional Copula Regression for Insurance Claim Frequency and Severity via Boosting",
+      "url": "https://arxiv.org/abs/2610.36835"
     },
     {
-      "text": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-      "url": "https://arxiv.org/abs/2610.36116"
+      "text": "Conservative Dueling Bandits: Preference Learning under Baseline Constraints",
+      "url": "https://arxiv.org/abs/2610.36708"
     },
     {
-      "text": "Balanced Active Subspaces for Optimal Control via Trajectory Optimization",
-      "url": "https://arxiv.org/abs/2610.36342"
+      "text": "Select-TTT: Query-Conditioned Selective Fast Weight Updates for In-Place Test-Time Training",
+      "url": "https://arxiv.org/abs/2610.36794"
     },
     {
-      "text": "Hedge-Bench: Benchmarking Agents on Hard, Realistic Tasks Pertaining to Financial Reasoning",
-      "url": "https://arxiv.org/abs/2606.03918"
+      "text": "What Carries Forward? Pretraining Disclosure Across Language Model Releases",
+      "url": "https://arxiv.org/abs/2610.37465"
     },
     {
-      "text": "Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations",
-      "url": "https://arxiv.org/abs/2608.00711"
+      "text": "An actively trained neural operator for near-explicit atmospheric chemistry",
+      "url": "https://arxiv.org/abs/2610.33771"
     },
     {
-      "text": "AI-guided deep visual proteomics reveals recurrence-associated morpho-molecular signatures within triple-negative breast cancers",
-      "url": "https://arxiv.org/abs/2608.03145"
+      "text": "RAG-CSI: Global Local Retrieval via Joint State and Dynamics Matching for CSI Prediction",
+      "url": "https://arxiv.org/abs/2610.36881"
     },
     {
-      "text": "ORBITAL: Optimization of Robust Brain--Computer Inference Through Architecture-Aware Low-Precision Compression",
-      "url": "https://arxiv.org/abs/2610.36411"
+      "text": "ConformalMOS: Uncertainty-Aware MOS Prediction with Conformal Intervals and Ordinal Modeling",
+      "url": "https://arxiv.org/abs/2610.36126"
     },
     {
-      "text": "Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under Intervention",
-      "url": "https://arxiv.org/abs/2610.35877"
+      "text": "Learning to Read Braille: Benchmarking and Improving Braille Recognition Capabilities of VLMs",
+      "url": "https://arxiv.org/abs/2610.36195"
     }
   ],
   "rightColumn": [
     {
-      "text": "Bayesian Inference of Expensive Simulators: Survey and Comparison of Design Choices",
-      "url": "https://arxiv.org/abs/2610.37284"
+      "text": "An Input Skip Can Reparameterize a VAE Without Improving the Generator",
+      "url": "https://arxiv.org/abs/2610.37456"
     },
     {
-      "text": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
-      "url": "https://arxiv.org/abs/2610.37255"
+      "text": "Understanding the limits of latent world models",
+      "url": "https://arxiv.org/abs/2610.37588"
     },
     {
-      "text": "When Is a Relation Worth Trusting? Manipulation Costs, Exposure, and the Trust Trap in Multi-Relational Graph Learning",
-      "url": "https://arxiv.org/abs/2610.37239"
+      "text": "Learning to Formalize: Bridging Open-Ended Workloads and Fast Decision Models",
+      "url": "https://arxiv.org/abs/2610.36595"
     },
     {
-      "text": "Sharpness-Aware Muon: Matrix-Aware Optimization with Momentum-Guided Perturbations",
-      "url": "https://arxiv.org/abs/2610.37225"
+      "text": "Replication or Corroboration? An Axiomatic Framework for Evidential Dependence in Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2610.36151"
     },
     {
-      "text": "scPyviewer: a Python-native interactive viewer from AnnData single-cell data",
-      "url": "https://arxiv.org/abs/2610.35890"
+      "text": "Stratum: Repository Memory for Coding Agents Beyond the Context Window",
+      "url": "https://arxiv.org/abs/2610.36153"
     },
     {
-      "text": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
-      "url": "https://arxiv.org/abs/2610.35895"
+      "text": "Follow the Herd: A Data-Driven Approach for Actionable Recourse",
+      "url": "https://arxiv.org/abs/2610.36580"
     },
     {
-      "text": "SimplexLoRA: Dynamic Rank Updating via Alternating Minimization with Simplex Projection",
-      "url": "https://arxiv.org/abs/2610.37206"
+      "text": "CASEL: Consequence-Aware Selective Execution for Reliable Long-Horizon Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2610.36570"
     },
     {
-      "text": "Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation",
-      "url": "https://arxiv.org/abs/2610.35910"
+      "text": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.37609"
     }
   ],
-  "lastUpdated": "2026-10-28T20:24:49Z"
+  "lastUpdated": "2026-10-29T00:54:26Z"
 }
