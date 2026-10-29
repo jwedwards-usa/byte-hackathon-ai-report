@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "A Mind's I",
-    "url": "https://www.lesswrong.com/posts/c9LyxCzEMK25wsZ72/a-mind-s-i"
+    "text": "Training Away the Ability to Tell Evals from Deployment",
+    "url": "https://www.lesswrong.com/posts/F4p9SanKesf7nYuxp/training-away-the-ability-to-tell-evals-from-deployment"
   },
   "topStories": [
     {
-      "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+      "text": "AI Agents Protect Others From Shutdown",
+      "url": "https://www.lesswrong.com/posts/LFrHfCiAxFQD3Ammy/ai-agents-protect-others-from-shutdown"
+    },
+    {
+      "text": "A Mind's I",
+      "url": "https://www.lesswrong.com/posts/c9LyxCzEMK25wsZ72/a-mind-s-i"
     },
     {
       "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-    },
-    {
-      "text": "Against Moloch #49",
-      "url": "https://www.lesswrong.com/posts/pqvzEkeMRMiPwAoGa/against-moloch-49"
     }
   ],
   "leftColumn": [
     {
-      "text": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+      "text": "OpenAI Asks California to Tighten the AI Law Its Own Hack Slipped Past",
+      "url": "https://dailyai.com/2026/10/openai-asks-california-to-tighten-the-ai-law-its-own-hack-slipped-past/"
     },
     {
-      "text": "The October inflection point for vibe game development",
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+      "url": "https://arxiv.org/abs/2610.37369"
     },
     {
-      "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+      "text": "Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training",
+      "url": "https://arxiv.org/abs/2605.07063"
     },
     {
-      "text": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
-      "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles"
+      "text": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
+      "url": "https://arxiv.org/abs/2509.12443"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging",
+      "url": "https://arxiv.org/abs/2610.37026"
     },
     {
-      "text": "You Don't Have a Glycine Deficiency",
-      "url": "https://www.lesswrong.com/posts/QBHhSq9xMjZmeCzxm/you-don-t-have-a-glycine-deficiency"
+      "text": "From Deterministic to Generative Deep Learning for Urban Air Quality Reconstruction from Sparse Observations",
+      "url": "https://arxiv.org/abs/2607.25687"
     },
     {
-      "text": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+      "text": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+      "url": "https://arxiv.org/abs/2610.37624"
     },
     {
-      "text": "Subtly wrong advice misaligns models more than obviously wrong advice - Replication",
-      "url": "https://www.lesswrong.com/posts/yMPR6Pkv6jQXM4rWu/subtly-wrong-advice-misaligns-models-more-than-obviously"
+      "text": "Advancement or Acceleration? How Data Curation Improves LLM Training",
+      "url": "https://arxiv.org/abs/2610.36983"
     }
   ],
   "centerColumn": [
     {
-      "text": "Joint Distributional Copula Regression for Insurance Claim Frequency and Severity via Boosting",
-      "url": "https://arxiv.org/abs/2610.36835"
+      "text": "ProCerDCL: Query-Efficient Black-Box Probabilistic Verification of Deep Learning Compiler Optimization",
+      "url": "https://arxiv.org/abs/2610.36499"
     },
     {
-      "text": "Conservative Dueling Bandits: Preference Learning under Baseline Constraints",
-      "url": "https://arxiv.org/abs/2610.36708"
+      "text": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+      "url": "https://arxiv.org/abs/2610.37631"
     },
     {
-      "text": "Select-TTT: Query-Conditioned Selective Fast Weight Updates for In-Place Test-Time Training",
-      "url": "https://arxiv.org/abs/2610.36794"
+      "text": "Layerwise Repacking: Variable-Length Hybrid-Attention Training without an Extra Redistribution Pass",
+      "url": "https://arxiv.org/abs/2610.35989"
     },
     {
-      "text": "What Carries Forward? Pretraining Disclosure Across Language Model Releases",
-      "url": "https://arxiv.org/abs/2610.37465"
+      "text": "Tailored to you: longitudinal effects of personalising language models",
+      "url": "https://arxiv.org/abs/2609.20077"
+    },
+    {
+      "text": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+      "url": "https://arxiv.org/abs/2610.37161"
     },
     {
       "text": "An actively trained neural operator for near-explicit atmospheric chemistry",
       "url": "https://arxiv.org/abs/2610.33771"
     },
     {
-      "text": "RAG-CSI: Global Local Retrieval via Joint State and Dynamics Matching for CSI Prediction",
-      "url": "https://arxiv.org/abs/2610.36881"
+      "text": "Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks",
+      "url": "https://arxiv.org/abs/2610.35905"
     },
     {
-      "text": "ConformalMOS: Uncertainty-Aware MOS Prediction with Conformal Intervals and Ordinal Modeling",
-      "url": "https://arxiv.org/abs/2610.36126"
-    },
-    {
-      "text": "Learning to Read Braille: Benchmarking and Improving Braille Recognition Capabilities of VLMs",
-      "url": "https://arxiv.org/abs/2610.36195"
+      "text": "Spine: Compiling Subtask Trees into Structured Context for Long-Horizon Coding Agents",
+      "url": "https://arxiv.org/abs/2610.37224"
     }
   ],
   "rightColumn": [
     {
-      "text": "An Input Skip Can Reparameterize a VAE Without Improving the Generator",
-      "url": "https://arxiv.org/abs/2610.37456"
+      "text": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
+      "url": "https://arxiv.org/abs/2610.35895"
     },
     {
-      "text": "Understanding the limits of latent world models",
-      "url": "https://arxiv.org/abs/2610.37588"
+      "text": "Difficulty-Estimated Policy Optimization",
+      "url": "https://arxiv.org/abs/2602.06375"
     },
     {
-      "text": "Learning to Formalize: Bridging Open-Ended Workloads and Fast Decision Models",
-      "url": "https://arxiv.org/abs/2610.36595"
+      "text": "DISTILLING METACOGNITIVE BEHAVIORS THROUGH AGENTIC EDITING",
+      "url": "https://arxiv.org/abs/2602.22508"
     },
     {
-      "text": "Replication or Corroboration? An Axiomatic Framework for Evidential Dependence in Multi-Agent Debate",
-      "url": "https://arxiv.org/abs/2610.36151"
+      "text": "Optimal Experiments for Partial Causal Effect Identification",
+      "url": "https://arxiv.org/abs/2605.06993"
     },
     {
-      "text": "Stratum: Repository Memory for Coding Agents Beyond the Context Window",
-      "url": "https://arxiv.org/abs/2610.36153"
+      "text": "When Is a Relation Worth Trusting? Manipulation Costs, Exposure, and the Trust Trap in Multi-Relational Graph Learning",
+      "url": "https://arxiv.org/abs/2610.37239"
     },
     {
-      "text": "Follow the Herd: A Data-Driven Approach for Actionable Recourse",
-      "url": "https://arxiv.org/abs/2610.36580"
+      "text": "Moderation by Interrogation: Uncovering Concealed Intent in Agent Social Networks",
+      "url": "https://arxiv.org/abs/2605.12856"
     },
     {
-      "text": "CASEL: Consequence-Aware Selective Execution for Reliable Long-Horizon Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2610.36570"
+      "text": "Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation",
+      "url": "https://arxiv.org/abs/2610.35910"
     },
     {
-      "text": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.37609"
+      "text": "Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.37195"
     }
   ],
-  "lastUpdated": "2026-10-29T00:54:26Z"
+  "lastUpdated": "2026-10-29T09:58:54Z"
 }

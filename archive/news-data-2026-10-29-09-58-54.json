@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Training Away the Ability to Tell Evals from Deployment",
+    "url": "https://www.lesswrong.com/posts/F4p9SanKesf7nYuxp/training-away-the-ability-to-tell-evals-from-deployment"
+  },
+  "topStories": [
+    {
+      "text": "AI Agents Protect Others From Shutdown",
+      "url": "https://www.lesswrong.com/posts/LFrHfCiAxFQD3Ammy/ai-agents-protect-others-from-shutdown"
+    },
+    {
+      "text": "A Mind's I",
+      "url": "https://www.lesswrong.com/posts/c9LyxCzEMK25wsZ72/a-mind-s-i"
+    },
+    {
+      "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI Asks California to Tighten the AI Law Its Own Hack Slipped Past",
+      "url": "https://dailyai.com/2026/10/openai-asks-california-to-tighten-the-ai-law-its-own-hack-slipped-past/"
+    },
+    {
+      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+      "url": "https://arxiv.org/abs/2610.37369"
+    },
+    {
+      "text": "Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training",
+      "url": "https://arxiv.org/abs/2605.07063"
+    },
+    {
+      "text": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
+      "url": "https://arxiv.org/abs/2509.12443"
+    },
+    {
+      "text": "Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging",
+      "url": "https://arxiv.org/abs/2610.37026"
+    },
+    {
+      "text": "From Deterministic to Generative Deep Learning for Urban Air Quality Reconstruction from Sparse Observations",
+      "url": "https://arxiv.org/abs/2607.25687"
+    },
+    {
+      "text": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+      "url": "https://arxiv.org/abs/2610.37624"
+    },
+    {
+      "text": "Advancement or Acceleration? How Data Curation Improves LLM Training",
+      "url": "https://arxiv.org/abs/2610.36983"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "ProCerDCL: Query-Efficient Black-Box Probabilistic Verification of Deep Learning Compiler Optimization",
+      "url": "https://arxiv.org/abs/2610.36499"
+    },
+    {
+      "text": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+      "url": "https://arxiv.org/abs/2610.37631"
+    },
+    {
+      "text": "Layerwise Repacking: Variable-Length Hybrid-Attention Training without an Extra Redistribution Pass",
+      "url": "https://arxiv.org/abs/2610.35989"
+    },
+    {
+      "text": "Tailored to you: longitudinal effects of personalising language models",
+      "url": "https://arxiv.org/abs/2609.20077"
+    },
+    {
+      "text": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+      "url": "https://arxiv.org/abs/2610.37161"
+    },
+    {
+      "text": "An actively trained neural operator for near-explicit atmospheric chemistry",
+      "url": "https://arxiv.org/abs/2610.33771"
+    },
+    {
+      "text": "Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks",
+      "url": "https://arxiv.org/abs/2610.35905"
+    },
+    {
+      "text": "Spine: Compiling Subtask Trees into Structured Context for Long-Horizon Coding Agents",
+      "url": "https://arxiv.org/abs/2610.37224"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
+      "url": "https://arxiv.org/abs/2610.35895"
+    },
+    {
+      "text": "Difficulty-Estimated Policy Optimization",
+      "url": "https://arxiv.org/abs/2602.06375"
+    },
+    {
+      "text": "DISTILLING METACOGNITIVE BEHAVIORS THROUGH AGENTIC EDITING",
+      "url": "https://arxiv.org/abs/2602.22508"
+    },
+    {
+      "text": "Optimal Experiments for Partial Causal Effect Identification",
+      "url": "https://arxiv.org/abs/2605.06993"
+    },
+    {
+      "text": "When Is a Relation Worth Trusting? Manipulation Costs, Exposure, and the Trust Trap in Multi-Relational Graph Learning",
+      "url": "https://arxiv.org/abs/2610.37239"
+    },
+    {
+      "text": "Moderation by Interrogation: Uncovering Concealed Intent in Agent Social Networks",
+      "url": "https://arxiv.org/abs/2605.12856"
+    },
+    {
+      "text": "Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation",
+      "url": "https://arxiv.org/abs/2610.35910"
+    },
+    {
+      "text": "Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.37195"
+    }
+  ],
+  "lastUpdated": "2026-10-29T09:58:54Z"
+}
