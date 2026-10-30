@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
+    "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
+  },
+  "topStories": [
+    {
+      "text": "Lessons From Red-teaming Auto-review, OpenAI's Blocking Monitor",
+      "url": "https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1"
+    },
+    {
+      "text": "My experiences with the extremes of post-viral illness and brain retraining/mindbody work",
+      "url": "https://www.lesswrong.com/posts/FZ4iJvqmzxXFSz6JX/my-experiences-with-the-extremes-of-post-viral-illness-and"
+    },
+    {
+      "text": "AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI",
+      "url": "https://arxiv.org/abs/2610.39796"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "API CREDITS BENEFIT FOR ELIGIBLE CHATGPT SUBSCRIPTIONS",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
+    },
+    {
+      "text": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison"
+    },
+    {
+      "text": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+      "url": "https://arxiv.org/abs/2610.37819"
+    },
+    {
+      "text": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+    },
+    {
+      "text": "Deep learning for non-transvenous ICD screening: tailored neural network architectures, extended experiments, and explainability",
+      "url": "https://arxiv.org/abs/2610.37993"
+    },
+    {
+      "text": "Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?",
+      "url": "https://arxiv.org/abs/2310.14880"
+    },
+    {
+      "text": "Quantum-Inspired Pairwise Ranking Aggregation via Active LLM Feedback",
+      "url": "https://arxiv.org/abs/2610.38683"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Curriculum-Based Deep Reinforcement Learning for Robust Autonomous Rocket Landing under Atmospheric Uncertainty",
+      "url": "https://arxiv.org/abs/2610.38636"
+    },
+    {
+      "text": "FairSplit: Decomposing the Embedding Space for Fair Classification",
+      "url": "https://arxiv.org/abs/2610.39031"
+    },
+    {
+      "text": "Right Numbers, Wrong Questions: Evaluating LLMs on Underspecified Financial Queries",
+      "url": "https://arxiv.org/abs/2610.38631"
+    },
+    {
+      "text": "The Search for Statistical Indistinguishability Between Real and Fake Images",
+      "url": "https://arxiv.org/abs/2610.39014"
+    },
+    {
+      "text": "What Makes Medical Examination Items Difficult? Using Large Language Models to Explore Patterns Associated With Empirical Item Difficulty",
+      "url": "https://arxiv.org/abs/2610.39373"
+    },
+    {
+      "text": "The Model Organism Lottery: Model Organism Interpretability Strongly Depends on Training Methodology",
+      "url": "https://arxiv.org/abs/2607.01033"
+    },
+    {
+      "text": "PT$^3$: Prototype-Guided Self-Supervised Pretraining for Generalizable mmWave Human Point Cloud Representation",
+      "url": "https://arxiv.org/abs/2610.38551"
+    },
+    {
+      "text": "Governance-Aware Federated Learning for Multi-Agent AI Systems: A Policy-Driven Framework for Trustworthy Collaborative AI",
+      "url": "https://arxiv.org/abs/2610.38411"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation",
+      "url": "https://arxiv.org/abs/2610.38960"
+    },
+    {
+      "text": "More Is Better? Exploring Latent Correspondence in Federated Hypergraph Learning",
+      "url": "https://arxiv.org/abs/2610.39362"
+    },
+    {
+      "text": "Tackling Multimodal Learning Challenges with Mixture-of-Expert: A Survey",
+      "url": "https://arxiv.org/abs/2605.27431"
+    },
+    {
+      "text": "REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation",
+      "url": "https://arxiv.org/abs/2610.37584"
+    },
+    {
+      "text": "Scaling Lean Theorem Proving for Real-World Code Verification",
+      "url": "https://arxiv.org/abs/2610.38174"
+    },
+    {
+      "text": "RePolicy: Learning to Select and Apply Safety Policies for Agent Safeguards",
+      "url": "https://arxiv.org/abs/2608.24275"
+    },
+    {
+      "text": "Who Gets Heeded? An Obligation-Level Audit of Responsiveness in EPA Rulemaking",
+      "url": "https://arxiv.org/abs/2608.10329"
+    },
+    {
+      "text": "Where to Spend Rollouts: Hit-Utility Optimal Rollout Allocation for Group-Based RLVR",
+      "url": "https://arxiv.org/abs/2605.07114"
+    }
+  ],
+  "lastUpdated": "2026-10-30T18:11:16Z"
+}
