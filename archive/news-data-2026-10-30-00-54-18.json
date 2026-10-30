@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "API CREDITS BENEFIT FOR ELIGIBLE CHATGPT SUBSCRIPTIONS",
+    "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
+  },
+  "topStories": [
+    {
+      "text": "[Paper] Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+      "url": "https://www.lesswrong.com/posts/vDj9HZnBpBECLzshv/paper-propensities-please-exposing-alignment-faking-llms"
+    },
+    {
+      "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "text": "WHAT IS OPENAI'S MISSION ADVISORY COUNCIL?",
+      "url": "https://www.lesswrong.com/posts/KxbeqePFBooJteoeC/what-is-openai-s-mission-advisory-council-1"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "J-Lens can't detect what a subliminal learning teacher is transmitting (in 7B-32B models)",
+      "url": "https://www.lesswrong.com/posts/LnnZHgdsLBZpgBDvW/j-lens-can-t-detect-what-a-subliminal-learning-teacher-is"
+    },
+    {
+      "text": "You Can Now Text ChatGPT’s Dot Agent, but It Isn’t End-to-End Encrypted",
+      "url": "https://dailyai.com/2026/10/you-can-now-text-chatgpts-dot-agent-but-it-isnt-end-to-end-encrypted/"
+    },
+    {
+      "text": "WE URGENTLY NEED TO MONITOR AI AGENTS’ ACTIONS IN REAL TIME",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Formalising Newcomblike Problems",
+      "url": "https://www.lesswrong.com/posts/ziFazSwhnWzW78oew/formalising-newcomblike-problems"
+    },
+    {
+      "text": "OpenAI Asks California to Tighten the AI Law Its Own Hack Slipped Past",
+      "url": "https://dailyai.com/2026/10/openai-asks-california-to-tighten-the-ai-law-its-own-hack-slipped-past/"
+    },
+    {
+      "text": "Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training",
+      "url": "https://arxiv.org/abs/2605.07063"
+    },
+    {
+      "text": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
+      "url": "https://arxiv.org/abs/2509.12443"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Cross-User Poisoning: User-Task Boundary Failures in Multi-User Collaborative Language Agents",
+      "url": "https://arxiv.org/abs/2511.17671"
+    },
+    {
+      "text": "Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks",
+      "url": "https://arxiv.org/abs/2610.35905"
+    },
+    {
+      "text": "Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations",
+      "url": "https://arxiv.org/abs/2608.00711"
+    },
+    {
+      "text": "Who Knows What - and What Does It Support? Perspective-Bounded Evidence Calibration for Multimodal Theory of Mind",
+      "url": "https://arxiv.org/abs/2610.36824"
+    },
+    {
+      "text": "Hedge-Bench: Benchmarking Agents on Hard, Realistic Tasks Pertaining to Financial Reasoning",
+      "url": "https://arxiv.org/abs/2606.03918"
+    },
+    {
+      "text": "Who Convinced Whom? Tracing How LLMs Change Their Minds in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.35930"
+    },
+    {
+      "text": "Edge-AI-Driven Learning-to-Rank for Decentralized Task Allocation in Circular Smart Manufacturing",
+      "url": "https://arxiv.org/abs/2605.16433"
+    },
+    {
+      "text": "A Quantitative Approach to Asch Conformity in Frontier Large Language Models",
+      "url": "https://arxiv.org/abs/2610.36668"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm"
+    },
+    {
+      "text": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/"
+    },
+    {
+      "text": "Learning Quality-Controllable Robot Policies with Iterative Hindsight Relabeling",
+      "url": "https://arxiv.org/abs/2610.37393"
+    },
+    {
+      "text": "Crop Yield Prediction Using Regression Models: A Comparative Evaluation of Model Performance",
+      "url": "https://arxiv.org/abs/2610.37022"
+    },
+    {
+      "text": "DISTILLING METACOGNITIVE BEHAVIORS THROUGH AGENTIC EDITING",
+      "url": "https://arxiv.org/abs/2602.22508"
+    },
+    {
+      "text": "Optimal Experiments for Partial Causal Effect Identification",
+      "url": "https://arxiv.org/abs/2605.06993"
+    },
+    {
+      "text": "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing",
+      "url": "https://arxiv.org/abs/2610.35954"
+    },
+    {
+      "text": "Moderation by Interrogation: Uncovering Concealed Intent in Agent Social Networks",
+      "url": "https://arxiv.org/abs/2605.12856"
+    }
+  ],
+  "lastUpdated": "2026-10-30T00:54:18Z"
+}
