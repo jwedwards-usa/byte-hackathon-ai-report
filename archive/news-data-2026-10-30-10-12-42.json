@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "My experiences with the extremes of post-viral illness and brain retraining/mindbody work",
+    "url": "https://www.lesswrong.com/posts/FZ4iJvqmzxXFSz6JX/my-experiences-with-the-extremes-of-post-viral-illness-and"
+  },
+  "topStories": [
+    {
+      "text": "AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI",
+      "url": "https://arxiv.org/abs/2610.39796"
+    },
+    {
+      "text": "API CREDITS BENEFIT FOR ELIGIBLE CHATGPT SUBSCRIPTIONS",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
+    },
+    {
+      "text": "Old talks, 2000 - 2020 period. ",
+      "url": "https://www.lesswrong.com/posts/ZYHTrgkJyaZYyAXdw/old-talks-2000-2020-period"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "LLM self-decompilation to turn weights into conventional code",
+      "url": "https://www.lesswrong.com/posts/rCKyNDpF9inujMLff/llm-self-decompilation-to-turn-weights-into-conventional"
+    },
+    {
+      "text": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+      "url": "https://arxiv.org/abs/2610.37819"
+    },
+    {
+      "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "text": "Deep learning for non-transvenous ICD screening: tailored neural network architectures, extended experiments, and explainability",
+      "url": "https://arxiv.org/abs/2610.37993"
+    },
+    {
+      "text": "Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?",
+      "url": "https://arxiv.org/abs/2310.14880"
+    },
+    {
+      "text": "Quantum-Inspired Pairwise Ranking Aggregation via Active LLM Feedback",
+      "url": "https://arxiv.org/abs/2610.38683"
+    },
+    {
+      "text": "[Paper] Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+      "url": "https://www.lesswrong.com/posts/vDj9HZnBpBECLzshv/paper-propensities-please-exposing-alignment-faking-llms"
+    },
+    {
+      "text": "You Can Now Text ChatGPT’s Dot Agent, but It Isn’t End-to-End Encrypted",
+      "url": "https://dailyai.com/2026/10/you-can-now-text-chatgpts-dot-agent-but-it-isnt-end-to-end-encrypted/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland",
+      "url": "https://arxiv.org/abs/2605.16163"
+    },
+    {
+      "text": "Representation and Reference Selection in Training-Free Synthetic Image Attribution",
+      "url": "https://arxiv.org/abs/2607.12052"
+    },
+    {
+      "text": "Similar Scores, Opposite Failures: Human Correction as an Instrument for Video Caption Evaluation",
+      "url": "https://arxiv.org/abs/2610.38511"
+    },
+    {
+      "text": "Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects",
+      "url": "https://arxiv.org/abs/2608.30076"
+    },
+    {
+      "text": "Verification-Aware Training for Speculative Decoding",
+      "url": "https://arxiv.org/abs/2608.30135"
+    },
+    {
+      "text": "GUITestScape: Towards Open-set Evaluation on Exploratory GUI Testing",
+      "url": "https://arxiv.org/abs/2605.29532"
+    },
+    {
+      "text": "AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling",
+      "url": "https://arxiv.org/abs/2605.29488"
+    },
+    {
+      "text": "Last-Iterate Convergence for Constrained MDPs: From Dual Descent to Primal-Dual",
+      "url": "https://arxiv.org/abs/2610.39524"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals",
+      "url": "https://arxiv.org/abs/2609.37993"
+    },
+    {
+      "text": "Adversarial Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.38732"
+    },
+    {
+      "text": "Alpha-TCM: A Nine-Layer Framework for TCM-Guided Multimodal Inference and Structured-Prior Auditing",
+      "url": "https://arxiv.org/abs/2610.38754"
+    },
+    {
+      "text": "Evaluating and Benchmarking the System One Model Jev",
+      "url": "https://arxiv.org/abs/2609.37647"
+    },
+    {
+      "text": "Auditable Hierarchical Inference with Multimodal Evidence and Bayesian Active Inquiry",
+      "url": "https://arxiv.org/abs/2610.38774"
+    },
+    {
+      "text": "Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation",
+      "url": "https://arxiv.org/abs/2610.38960"
+    },
+    {
+      "text": "Loss is Not Behavior: A Unified Output-Space Analysis of Gradient-Based Machine Unlearning",
+      "url": "https://arxiv.org/abs/2610.38784"
+    },
+    {
+      "text": "Timbre: Reliability-aware harmonic consensus for label-free multimodal test-time rexinforcement learning",
+      "url": "https://arxiv.org/abs/2610.39439"
+    }
+  ],
+  "lastUpdated": "2026-10-30T10:12:42Z"
+}
