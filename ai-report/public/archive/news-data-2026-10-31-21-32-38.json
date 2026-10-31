@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Against SURA",
+    "url": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"
+  },
+  "topStories": [
+    {
+      "text": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
+      "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
+    },
+    {
+      "text": "Regulate the Deployment, Not Just the Model",
+      "url": "https://www.lesswrong.com/posts/woCAtAxfTkNzEPkLq/regulate-the-deployment-not-just-the-model"
+    },
+    {
+      "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
+      "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
+    },
+    {
+      "text": "API CREDITS BENEFIT FOR ELIGIBLE CHATGPT SUBSCRIPTIONS",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
+    },
+    {
+      "text": "Dialogue with Davidad about Emergent Wisdom in Language Models",
+      "url": "https://www.lesswrong.com/posts/DpfvWSaGtujM6rL8R/dialogue-with-davidad-about-emergent-wisdom-in-language"
+    },
+    {
+      "text": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+      "url": "https://arxiv.org/abs/2610.37819"
+    },
+    {
+      "text": "Generalized belief states in transformers",
+      "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Implicit Reasoning in Transformers: Bridging the Compositionality Gap in GPT-2-like Models",
+      "url": "https://arxiv.org/abs/2610.39016"
+    },
+    {
+      "text": "NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment",
+      "url": "https://arxiv.org/abs/2609.11234"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Grounded and Faithful P\u0026ID Reasoning: Constraining Vision-Language Models with Recovered Evidence Graphs",
+      "url": "https://arxiv.org/abs/2609.05880"
+    },
+    {
+      "text": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+      "url": "https://arxiv.org/abs/2610.37875"
+    },
+    {
+      "text": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
+      "url": "https://arxiv.org/abs/2610.37896"
+    },
+    {
+      "text": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720"
+    },
+    {
+      "text": "Training language models in simulation for psychiatric intake",
+      "url": "https://arxiv.org/abs/2610.40476"
+    },
+    {
+      "text": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2610.40409"
+    },
+    {
+      "text": "Locating Sycophancy Across Training Stages in Open Language Models",
+      "url": "https://arxiv.org/abs/2610.37788"
+    },
+    {
+      "text": "Reaction precedents extend retrosynthetic prediction beyond training coverage",
+      "url": "https://arxiv.org/abs/2610.40249"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Echo: Scaling Visual Reinforcement Learning with Off-policy Experience",
+      "url": "https://arxiv.org/abs/2610.37865"
+    },
+    {
+      "text": "When More Planning Hurts: Learned Planners for World Models",
+      "url": "https://arxiv.org/abs/2610.37891"
+    },
+    {
+      "text": "Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report",
+      "url": "https://arxiv.org/abs/2511.16417"
+    },
+    {
+      "text": "One Confidence Threshold, Unequal Coverage: Language Gaps in Typed Decision Interfaces and How Translating Inputs Reduces Them",
+      "url": "https://arxiv.org/abs/2610.37688"
+    },
+    {
+      "text": "Dual-Evolving Reinforcement Learning for Automated Reward Design",
+      "url": "https://arxiv.org/abs/2512.13399"
+    },
+    {
+      "text": "MetaRefine: Score Refinement with Multi-Level Features for Image Assessment",
+      "url": "https://arxiv.org/abs/2610.40487"
+    },
+    {
+      "text": "Where Planning Changes the Outcome of Orbital Games",
+      "url": "https://arxiv.org/abs/2610.37686"
+    },
+    {
+      "text": "Supervised Fine-Tuning for Reasoning Large Language Models: A Survey",
+      "url": "https://arxiv.org/abs/2610.37681"
+    }
+  ],
+  "lastUpdated": "2026-10-31T21:32:38Z"
+}
