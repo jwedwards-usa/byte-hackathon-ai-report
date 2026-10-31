@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Dialogue with Davidad about Emergent Wisdom in Language Models",
+    "url": "https://www.lesswrong.com/posts/DpfvWSaGtujM6rL8R/dialogue-with-davidad-about-emergent-wisdom-in-language"
+  },
+  "topStories": [
+    {
+      "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
+      "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
+    },
+    {
+      "text": "API CREDITS BENEFIT FOR ELIGIBLE CHATGPT SUBSCRIPTIONS",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
+    },
+    {
+      "text": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+      "url": "https://arxiv.org/abs/2610.37819"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Persona Geology: Underlying Structure in Character Training Adapters",
+      "url": "https://www.lesswrong.com/posts/iErBZ5fomL4tyyHy6/persona-geology-underlying-structure-in-character-training"
+    },
+    {
+      "text": "Generalized belief states in transformers",
+      "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+      "url": "https://arxiv.org/abs/2610.37369"
+    },
+    {
+      "text": "When Context Changes: Understanding Update Failures in LLMs",
+      "url": "https://arxiv.org/abs/2609.38866"
+    },
+    {
+      "text": "NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment",
+      "url": "https://arxiv.org/abs/2609.11234"
+    },
+    {
+      "text": "Post-Training Large Language Models with LLMON",
+      "url": "https://arxiv.org/abs/2610.38120"
+    },
+    {
+      "text": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
+      "url": "https://arxiv.org/abs/2610.38175"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "What Actually Matters? A Paired Evaluation of Inference Settings for $\\pi_{0.5}$ on BEHAVIOR-1K",
+      "url": "https://arxiv.org/abs/2610.37917"
+    },
+    {
+      "text": "Curriculum-Based Deep Reinforcement Learning for Robust Autonomous Rocket Landing under Atmospheric Uncertainty",
+      "url": "https://arxiv.org/abs/2610.38636"
+    },
+    {
+      "text": "Right Numbers, Wrong Questions: Evaluating LLMs on Underspecified Financial Queries",
+      "url": "https://arxiv.org/abs/2610.38631"
+    },
+    {
+      "text": "Statistical Detection of Positional Bias in LLM-Based Recommender Systems: Methodologies and Empirical Evidence",
+      "url": "https://arxiv.org/abs/2610.37962"
+    },
+    {
+      "text": "Breadcrumbing Search Agents: Per-Turn Scheming Over Long-Horizon Trajectories",
+      "url": "https://arxiv.org/abs/2608.04565"
+    },
+    {
+      "text": "Prompts to Proxies: Emulating Human Preferences via a Compact LLM Ensemble",
+      "url": "https://arxiv.org/abs/2509.11311"
+    },
+    {
+      "text": "From extreme weather to agricultural consequences with agentic AI",
+      "url": "https://arxiv.org/abs/2610.40641"
+    },
+    {
+      "text": "Wiring Beats Blending: Structure-Aware Compensation for Transformer Downscaling",
+      "url": "https://arxiv.org/abs/2608.02829"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Dual-Evolving Reinforcement Learning for Automated Reward Design",
+      "url": "https://arxiv.org/abs/2512.13399"
+    },
+    {
+      "text": "Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report",
+      "url": "https://arxiv.org/abs/2511.16417"
+    },
+    {
+      "text": "Rethinking Neural Thickets Without Weight Perturbations",
+      "url": "https://arxiv.org/abs/2610.40649"
+    },
+    {
+      "text": "Hedge-Bench: Can Agents Reason Their Way to Better Predictions?",
+      "url": "https://arxiv.org/abs/2606.03918"
+    },
+    {
+      "text": "Probing Spatial State Representations in Visual Foundation Models",
+      "url": "https://arxiv.org/abs/2610.40636"
+    },
+    {
+      "text": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+      "url": "https://arxiv.org/abs/2610.40611"
+    },
+    {
+      "text": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+      "url": "https://arxiv.org/abs/2610.40565"
+    },
+    {
+      "text": "DiG-bench: Discovery in Games",
+      "url": "https://arxiv.org/abs/2608.12593"
+    }
+  ],
+  "lastUpdated": "2026-10-31T17:18:58Z"
+}
