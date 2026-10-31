@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
+    "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
+  },
+  "topStories": [
+    {
+      "text": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+      "url": "https://arxiv.org/abs/2610.37819"
+    },
+    {
+      "text": "API CREDITS BENEFIT FOR ELIGIBLE CHATGPT SUBSCRIPTIONS",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
+    },
+    {
+      "text": "Post-Training Large Language Models with LLMON",
+      "url": "https://arxiv.org/abs/2610.38120"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
+      "url": "https://arxiv.org/abs/2610.38175"
+    },
+    {
+      "text": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+      "url": "https://arxiv.org/abs/2610.37369"
+    },
+    {
+      "text": "When Context Changes: Understanding Update Failures in LLMs",
+      "url": "https://arxiv.org/abs/2609.38866"
+    },
+    {
+      "text": "NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment",
+      "url": "https://arxiv.org/abs/2609.11234"
+    },
+    {
+      "text": "Implicit Reasoning in Transformers: Bridging the Compositionality Gap in GPT-2-like Models",
+      "url": "https://arxiv.org/abs/2610.39016"
+    },
+    {
+      "text": "LLM-PowerTrace: A Dataset of Time-Resolved GPU Power Traces for AI Compute",
+      "url": "https://arxiv.org/abs/2610.38315"
+    },
+    {
+      "text": "Reviewing my 2017 AI Risk Project",
+      "url": "https://www.lesswrong.com/posts/s4z629mkjFtQCY654/reviewing-my-2017-ai-risk-project"
+    },
+    {
+      "text": "Persona Geology: Underlying Structure in Character Training Adapters",
+      "url": "https://www.lesswrong.com/posts/iErBZ5fomL4tyyHy6/persona-geology-underlying-structure-in-character-training"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The Hitchhiker's Guide to System 1 Models: Fast Decision-Making Beyond LLMS",
+      "url": "https://arxiv.org/abs/2610.33775"
+    },
+    {
+      "text": "CRAFT: Causal Responsibility and Failure Tracing in Medical Vision Language Models",
+      "url": "https://arxiv.org/abs/2609.38810"
+    },
+    {
+      "text": "Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support",
+      "url": "https://arxiv.org/abs/2610.40327"
+    },
+    {
+      "text": "CoToan: Executable Rules and a Representation Contract for Reproducible Game AI Evaluation",
+      "url": "https://arxiv.org/abs/2610.39353"
+    },
+    {
+      "text": "Noise Steering: Exploiting Wake Steering and Acoustic Directivity for Noise-Constrained Wind Farm Control via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.36888"
+    },
+    {
+      "text": "Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents",
+      "url": "https://arxiv.org/abs/2610.39251"
+    },
+    {
+      "text": "FARE: Factor-Aware Retrieval with Error-Guided Fusion for Retail Forecasting",
+      "url": "https://arxiv.org/abs/2610.40160"
+    },
+    {
+      "text": "Representation and Reference Selection in Training-Free Synthetic Image Attribution",
+      "url": "https://arxiv.org/abs/2607.12052"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Learned Terminal Costs for Short-Horizon Model Predictive Control of Autonomous Trucks in Interactive Highway Traffic",
+      "url": "https://arxiv.org/abs/2610.40257"
+    },
+    {
+      "text": "Agentic University: Collaborative Agents for Personalized Learning",
+      "url": "https://arxiv.org/abs/2610.40492"
+    },
+    {
+      "text": "FIRME: Registry-Anchored Memory Graphs for Evolving, Heterogeneous Investor Knowledge",
+      "url": "https://arxiv.org/abs/2610.40482"
+    },
+    {
+      "text": "Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success",
+      "url": "https://arxiv.org/abs/2610.40444"
+    },
+    {
+      "text": "Understanding axial attention in TSFMs through single location regression",
+      "url": "https://arxiv.org/abs/2610.40188"
+    },
+    {
+      "text": "Geometry Matters in Packed 3D Attention",
+      "url": "https://arxiv.org/abs/2610.38694"
+    },
+    {
+      "text": "Distributional Reward Calibration and Budget-Neutral Credit Assignment for Multimodal RLVR",
+      "url": "https://arxiv.org/abs/2610.40250"
+    },
+    {
+      "text": "EventSeeColor: Learning to Reconstruct Color from Monochrome Events",
+      "url": "https://arxiv.org/abs/2610.40166"
+    }
+  ],
+  "lastUpdated": "2026-10-31T05:08:23Z"
+}
