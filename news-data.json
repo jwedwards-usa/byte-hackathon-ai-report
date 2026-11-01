@@ -1,50 +1,50 @@
 {
   "mainHeadline": {
-    "text": "Against SURA",
-    "url": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"
+    "text": "Misalignment traps lie in wait",
+    "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
   },
   "topStories": [
     {
-      "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
-      "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
-    },
-    {
-      "text": "Regulate the Deployment, Not Just the Model",
-      "url": "https://www.lesswrong.com/posts/woCAtAxfTkNzEPkLq/regulate-the-deployment-not-just-the-model"
-    },
-    {
       "text": "Explaining “AI might obliterate you” to senior policymakers in India",
-      "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
-    }
-  ],
-  "leftColumn": [
+      "url": "https://www.lesswrong.com/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
+    },
     {
-      "text": "Monitor Evasion Depends on What RL Finds and What Monitors Miss",
-      "url": "https://www.lesswrong.com/posts/moDKmh4GerCjfB5mM/monitor-evasion-depends-on-what-rl-finds-and-what-monitors"
+      "text": "DailyAI Briefing: An AI agent operates on a mouse, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-an-ai-agent-operates-on-a-mouse-plus-4-more/"
     },
     {
       "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
       "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
-    },
-    {
-      "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
-      "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Generalized belief states in transformers",
-      "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
+      "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
     },
     {
-      "text": "A Neural Network Learned to Read Digits From Pure Noise",
-      "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/"
+      "text": "Free-Floating Social Patterns",
+      "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
+    },
+    {
+      "text": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+    },
+    {
+      "text": "Organic",
+      "url": "https://www.lesswrong.com/posts/9uhcexcfYuWvu2cDq/organic"
+    },
+    {
+      "text": "Monitor Evasion Depends on What RL Finds and What Monitors Miss",
+      "url": "https://www.lesswrong.com/posts/moDKmh4GerCjfB5mM/monitor-evasion-depends-on-what-rl-finds-and-what-monitors"
     },
     {
       "text": "datasette-llm 0.1a9",
@@ -53,8 +53,24 @@
   ],
   "centerColumn": [
     {
-      "text": "DailyAI Briefing: Amazon burns $42.4bn on AI, plus 4 more",
-      "url": "https://dailyai.com/2026/10/dailyai-briefing-amazon-burns-42-4bn-on-ai-plus-4-more/"
+      "text": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    },
+    {
+      "text": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030"
+    },
+    {
+      "text": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+    },
+    {
+      "text": "Fix the Image, Not the Prompt",
+      "url": "https://towardsdatascience.com/fix-the-image-not-the-prompt/"
+    },
+    {
+      "text": "A Neural Network Learned to Read Digits From Pure Noise",
+      "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/"
     },
     {
       "text": "Refelting My Keyboard",
@@ -67,6 +83,16 @@
     {
       "text": "Conclusions of my DIY Inkhaven",
       "url": "https://www.lesswrong.com/posts/579yLaP6YfL9ZRtdN/conclusions-of-my-diy-inkhaven"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
+    },
+    {
+      "text": "Accidentally Misleading People Should Be Embarrassing; Or, Higher Innocence",
+      "url": "https://www.lesswrong.com/posts/XpBwFsRhkQRQJN2pt/accidentally-misleading-people-should-be-embarrassing-or"
     },
     {
       "text": "I BUILT AN AI TAMAGOTCHI BEFORE META COULD",
@@ -81,43 +107,17 @@
       "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"
     },
     {
-      "text": "DO THE MATH: HOW WE TOOK OVER CHATGPT ACCOUNTS",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
-    }
-  ],
-  "rightColumn": [
-    {
       "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
       "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
     },
     {
-      "text": "Google’s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
-    },
-    {
-      "text": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
-    },
-    {
-      "text": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
-    },
-    {
-      "text": "Amazon Burned $42.4 Billion of Cash in a Year as It Built for AI",
-      "url": "https://dailyai.com/2026/10/amazon-burned-42-4-billion-of-cash-in-a-year-as-it-built-for-ai/"
+      "text": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
     },
     {
       "text": "dbreunig/nesformer",
       "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
-    },
-    {
-      "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
-    },
-    {
-      "text": "APPLE INTELLIGENCE IS FINALLY COMING TO CHINA WITH IOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
     }
   ],
-  "lastUpdated": "2026-11-01T13:14:18Z"
+  "lastUpdated": "2026-11-01T19:46:02Z"
 }
