@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Misalignment traps lie in wait",
+    "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
+  },
+  "topStories": [
+    {
+      "text": "Explaining “AI might obliterate you” to senior policymakers in India",
+      "url": "https://www.lesswrong.com/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
+    },
+    {
+      "text": "DailyAI Briefing: An AI agent operates on a mouse, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-an-ai-agent-operates-on-a-mouse-plus-4-more/"
+    },
+    {
+      "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
+      "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
+    },
+    {
+      "text": "Free-Floating Social Patterns",
+      "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
+    },
+    {
+      "text": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+    },
+    {
+      "text": "Organic",
+      "url": "https://www.lesswrong.com/posts/9uhcexcfYuWvu2cDq/organic"
+    },
+    {
+      "text": "Monitor Evasion Depends on What RL Finds and What Monitors Miss",
+      "url": "https://www.lesswrong.com/posts/moDKmh4GerCjfB5mM/monitor-evasion-depends-on-what-rl-finds-and-what-monitors"
+    },
+    {
+      "text": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    },
+    {
+      "text": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030"
+    },
+    {
+      "text": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+    },
+    {
+      "text": "Fix the Image, Not the Prompt",
+      "url": "https://towardsdatascience.com/fix-the-image-not-the-prompt/"
+    },
+    {
+      "text": "A Neural Network Learned to Read Digits From Pure Noise",
+      "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/"
+    },
+    {
+      "text": "Refelting My Keyboard",
+      "url": "https://www.lesswrong.com/posts/nsHdsqZsgNui6eGo6/refelting-my-keyboard"
+    },
+    {
+      "text": "What would you do if you had all the time in the world?",
+      "url": "https://www.lesswrong.com/posts/9kdet42p2n8QkpToa/what-would-you-do-if-you-had-all-the-time-in-the-world"
+    },
+    {
+      "text": "Conclusions of my DIY Inkhaven",
+      "url": "https://www.lesswrong.com/posts/579yLaP6YfL9ZRtdN/conclusions-of-my-diy-inkhaven"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
+    },
+    {
+      "text": "Accidentally Misleading People Should Be Embarrassing; Or, Higher Innocence",
+      "url": "https://www.lesswrong.com/posts/XpBwFsRhkQRQJN2pt/accidentally-misleading-people-should-be-embarrassing-or"
+    },
+    {
+      "text": "I BUILT AN AI TAMAGOTCHI BEFORE META COULD",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+    },
+    {
+      "text": "How to Build Bug-Free Applications with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/"
+    },
+    {
+      "text": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
+      "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"
+    },
+    {
+      "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
+    },
+    {
+      "text": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+    },
+    {
+      "text": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
+    }
+  ],
+  "lastUpdated": "2026-11-01T19:46:02Z"
+}
