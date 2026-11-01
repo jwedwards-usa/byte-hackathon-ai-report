@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Against SURA",
+    "url": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"
+  },
+  "topStories": [
+    {
+      "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
+      "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
+    },
+    {
+      "text": "Regulate the Deployment, Not Just the Model",
+      "url": "https://www.lesswrong.com/posts/woCAtAxfTkNzEPkLq/regulate-the-deployment-not-just-the-model"
+    },
+    {
+      "text": "Explaining “AI might obliterate you” to senior policymakers in India",
+      "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+    },
+    {
+      "text": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
+      "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
+    },
+    {
+      "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Generalized belief states in transformers",
+      "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
+    },
+    {
+      "text": "Refelting My Keyboard",
+      "url": "https://www.lesswrong.com/posts/nsHdsqZsgNui6eGo6/refelting-my-keyboard"
+    },
+    {
+      "text": "What would you do if you had all the time in the world?",
+      "url": "https://www.lesswrong.com/posts/9kdet42p2n8QkpToa/what-would-you-do-if-you-had-all-the-time-in-the-world"
+    },
+    {
+      "text": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030"
+    },
+    {
+      "text": "Q\u0026A: Hey AI, who should I vote for this year?",
+      "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030"
+    },
+    {
+      "text": "DailyAI Briefing: Amazon burns $42.4bn on AI, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-amazon-burns-42-4bn-on-ai-plus-4-more/"
+    },
+    {
+      "text": "Conclusions of my DIY Inkhaven",
+      "url": "https://www.lesswrong.com/posts/579yLaP6YfL9ZRtdN/conclusions-of-my-diy-inkhaven"
+    },
+    {
+      "text": "I BUILT AN AI TAMAGOTCHI BEFORE META COULD",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+    },
+    {
+      "text": "How to Build Bug-Free Applications with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/"
+    },
+    {
+      "text": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
+      "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"
+    },
+    {
+      "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Amazon Burned $42.4 Billion of Cash in a Year as It Built for AI",
+      "url": "https://dailyai.com/2026/10/amazon-burned-42-4-billion-of-cash-in-a-year-as-it-built-for-ai/"
+    },
+    {
+      "text": "Mistral Gives Away a Trillion-Parameter AI as Google Locks Its Own Up",
+      "url": "https://dailyai.com/2026/10/mistral-gives-away-a-trillion-parameter-ai-as-google-locks-its-own-up/"
+    },
+    {
+      "text": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
+      "url": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/"
+    },
+    {
+      "text": "Maine’s data center revolt will decide who controls the Senate",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+    },
+    {
+      "text": "Reddit’s Google Visits Fell by 1 Million a Week. It Blames AI Mode",
+      "url": "https://dailyai.com/2026/10/reddits-google-visits-fell-by-1-million-a-week-it-blames-ai-mode/"
+    },
+    {
+      "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
+    },
+    {
+      "text": "What Social Constructs Are (And Are Not)",
+      "url": "https://www.lesswrong.com/posts/aHqKqTcvLEkMNkAHX/what-social-constructs-are-and-are-not"
+    },
+    {
+      "text": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
+    }
+  ],
+  "lastUpdated": "2026-11-01T05:29:29Z"
+}
