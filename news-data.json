@@ -19,6 +19,10 @@
   ],
   "leftColumn": [
     {
+      "text": "Monitor Evasion Depends on What RL Finds and What Monitors Miss",
+      "url": "https://www.lesswrong.com/posts/moDKmh4GerCjfB5mM/monitor-evasion-depends-on-what-rl-finds-and-what-monitors"
+    },
+    {
       "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
     },
@@ -39,30 +43,26 @@
       "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
     },
     {
+      "text": "A Neural Network Learned to Read Digits From Pure Noise",
+      "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/"
+    },
+    {
+      "text": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "DailyAI Briefing: Amazon burns $42.4bn on AI, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-amazon-burns-42-4bn-on-ai-plus-4-more/"
+    },
+    {
       "text": "Refelting My Keyboard",
       "url": "https://www.lesswrong.com/posts/nsHdsqZsgNui6eGo6/refelting-my-keyboard"
     },
     {
       "text": "What would you do if you had all the time in the world?",
       "url": "https://www.lesswrong.com/posts/9kdet42p2n8QkpToa/what-would-you-do-if-you-had-all-the-time-in-the-world"
-    },
-    {
-      "text": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
-    }
-  ],
-  "centerColumn": [
-    {
-      "text": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
-      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030"
-    },
-    {
-      "text": "Q\u0026A: Hey AI, who should I vote for this year?",
-      "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030"
-    },
-    {
-      "text": "DailyAI Briefing: Amazon burns $42.4bn on AI, plus 4 more",
-      "url": "https://dailyai.com/2026/10/dailyai-briefing-amazon-burns-42-4bn-on-ai-plus-4-more/"
     },
     {
       "text": "Conclusions of my DIY Inkhaven",
@@ -81,43 +81,43 @@
       "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"
     },
     {
-      "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
-      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
+      "text": "DO THE MATH: HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
     }
   ],
   "rightColumn": [
+    {
+      "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
+    },
+    {
+      "text": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+    },
+    {
+      "text": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+    },
+    {
+      "text": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+    },
     {
       "text": "Amazon Burned $42.4 Billion of Cash in a Year as It Built for AI",
       "url": "https://dailyai.com/2026/10/amazon-burned-42-4-billion-of-cash-in-a-year-as-it-built-for-ai/"
     },
     {
-      "text": "Mistral Gives Away a Trillion-Parameter AI as Google Locks Its Own Up",
-      "url": "https://dailyai.com/2026/10/mistral-gives-away-a-trillion-parameter-ai-as-google-locks-its-own-up/"
-    },
-    {
-      "text": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
-      "url": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/"
-    },
-    {
-      "text": "Maine’s data center revolt will decide who controls the Senate",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
-    },
-    {
-      "text": "Reddit’s Google Visits Fell by 1 Million a Week. It Blames AI Mode",
-      "url": "https://dailyai.com/2026/10/reddits-google-visits-fell-by-1-million-a-week-it-blames-ai-mode/"
-    },
-    {
-      "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
-    },
-    {
-      "text": "What Social Constructs Are (And Are Not)",
-      "url": "https://www.lesswrong.com/posts/aHqKqTcvLEkMNkAHX/what-social-constructs-are-and-are-not"
-    },
-    {
       "text": "dbreunig/nesformer",
       "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
+    },
+    {
+      "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+    },
+    {
+      "text": "APPLE INTELLIGENCE IS FINALLY COMING TO CHINA WITH IOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
     }
   ],
-  "lastUpdated": "2026-11-01T05:29:29Z"
+  "lastUpdated": "2026-11-01T13:14:18Z"
 }
