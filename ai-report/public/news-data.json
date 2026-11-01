@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
-      "text": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
-      "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
+      "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
+      "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
     },
     {
       "text": "Regulate the Deployment, Not Just the Model",
       "url": "https://www.lesswrong.com/posts/woCAtAxfTkNzEPkLq/regulate-the-deployment-not-just-the-model"
     },
     {
-      "text": "Free ChatGPT Now Flatters Less but Makes More Errors, OpenAI Says",
-      "url": "https://dailyai.com/2026/10/free-chatgpt-now-flatters-less-but-makes-more-errors-openai-says/"
+      "text": "Explaining “AI might obliterate you” to senior policymakers in India",
+      "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
     }
   ],
   "leftColumn": [
     {
+      "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+    },
+    {
+      "text": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
+      "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
+    },
+    {
       "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
       "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
-    },
-    {
-      "text": "API CREDITS BENEFIT FOR ELIGIBLE CHATGPT SUBSCRIPTIONS",
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
-    },
-    {
-      "text": "Dialogue with Davidad about Emergent Wisdom in Language Models",
-      "url": "https://www.lesswrong.com/posts/DpfvWSaGtujM6rL8R/dialogue-with-davidad-about-emergent-wisdom-in-language"
-    },
-    {
-      "text": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
-      "url": "https://arxiv.org/abs/2610.37819"
-    },
-    {
-      "text": "Generalized belief states in transformers",
-      "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Implicit Reasoning in Transformers: Bridging the Compositionality Gap in GPT-2-like Models",
-      "url": "https://arxiv.org/abs/2610.39016"
+      "text": "Generalized belief states in transformers",
+      "url": "https://www.lesswrong.com/posts/4f9p7brLdnTMFuwfB/generalized-belief-states-in-transformers-1"
     },
     {
-      "text": "NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment",
-      "url": "https://arxiv.org/abs/2609.11234"
+      "text": "Refelting My Keyboard",
+      "url": "https://www.lesswrong.com/posts/nsHdsqZsgNui6eGo6/refelting-my-keyboard"
+    },
+    {
+      "text": "What would you do if you had all the time in the world?",
+      "url": "https://www.lesswrong.com/posts/9kdet42p2n8QkpToa/what-would-you-do-if-you-had-all-the-time-in-the-world"
+    },
+    {
+      "text": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
     }
   ],
   "centerColumn": [
     {
-      "text": "Grounded and Faithful P\u0026ID Reasoning: Constraining Vision-Language Models with Recovered Evidence Graphs",
-      "url": "https://arxiv.org/abs/2609.05880"
+      "text": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030"
     },
     {
-      "text": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
-      "url": "https://arxiv.org/abs/2610.37875"
+      "text": "Q\u0026A: Hey AI, who should I vote for this year?",
+      "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030"
     },
     {
-      "text": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
-      "url": "https://arxiv.org/abs/2610.37896"
+      "text": "DailyAI Briefing: Amazon burns $42.4bn on AI, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-amazon-burns-42-4bn-on-ai-plus-4-more/"
     },
     {
-      "text": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "url": "https://arxiv.org/abs/2610.37720"
+      "text": "Conclusions of my DIY Inkhaven",
+      "url": "https://www.lesswrong.com/posts/579yLaP6YfL9ZRtdN/conclusions-of-my-diy-inkhaven"
     },
     {
-      "text": "Training language models in simulation for psychiatric intake",
-      "url": "https://arxiv.org/abs/2610.40476"
+      "text": "I BUILT AN AI TAMAGOTCHI BEFORE META COULD",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
     },
     {
-      "text": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2610.40409"
+      "text": "How to Build Bug-Free Applications with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/"
     },
     {
-      "text": "Locating Sycophancy Across Training Stages in Open Language Models",
-      "url": "https://arxiv.org/abs/2610.37788"
+      "text": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
+      "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"
     },
     {
-      "text": "Reaction precedents extend retrosynthetic prediction beyond training coverage",
-      "url": "https://arxiv.org/abs/2610.40249"
+      "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
     }
   ],
   "rightColumn": [
     {
-      "text": "Echo: Scaling Visual Reinforcement Learning with Off-policy Experience",
-      "url": "https://arxiv.org/abs/2610.37865"
+      "text": "Amazon Burned $42.4 Billion of Cash in a Year as It Built for AI",
+      "url": "https://dailyai.com/2026/10/amazon-burned-42-4-billion-of-cash-in-a-year-as-it-built-for-ai/"
     },
     {
-      "text": "When More Planning Hurts: Learned Planners for World Models",
-      "url": "https://arxiv.org/abs/2610.37891"
+      "text": "Mistral Gives Away a Trillion-Parameter AI as Google Locks Its Own Up",
+      "url": "https://dailyai.com/2026/10/mistral-gives-away-a-trillion-parameter-ai-as-google-locks-its-own-up/"
     },
     {
-      "text": "Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report",
-      "url": "https://arxiv.org/abs/2511.16417"
+      "text": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
+      "url": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/"
     },
     {
-      "text": "One Confidence Threshold, Unequal Coverage: Language Gaps in Typed Decision Interfaces and How Translating Inputs Reduces Them",
-      "url": "https://arxiv.org/abs/2610.37688"
+      "text": "Maine’s data center revolt will decide who controls the Senate",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
     },
     {
-      "text": "Dual-Evolving Reinforcement Learning for Automated Reward Design",
-      "url": "https://arxiv.org/abs/2512.13399"
+      "text": "Reddit’s Google Visits Fell by 1 Million a Week. It Blames AI Mode",
+      "url": "https://dailyai.com/2026/10/reddits-google-visits-fell-by-1-million-a-week-it-blames-ai-mode/"
     },
     {
-      "text": "MetaRefine: Score Refinement with Multi-Level Features for Image Assessment",
-      "url": "https://arxiv.org/abs/2610.40487"
+      "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
     },
     {
-      "text": "Where Planning Changes the Outcome of Orbital Games",
-      "url": "https://arxiv.org/abs/2610.37686"
+      "text": "What Social Constructs Are (And Are Not)",
+      "url": "https://www.lesswrong.com/posts/aHqKqTcvLEkMNkAHX/what-social-constructs-are-and-are-not"
     },
     {
-      "text": "Supervised Fine-Tuning for Reasoning Large Language Models: A Survey",
-      "url": "https://arxiv.org/abs/2610.37681"
+      "text": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
     }
   ],
-  "lastUpdated": "2026-10-31T21:32:38Z"
+  "lastUpdated": "2026-11-01T05:29:29Z"
 }
