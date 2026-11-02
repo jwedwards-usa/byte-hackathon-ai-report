@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Against Against SURA",
+    "url": "https://www.lesswrong.com/posts/pbMyiCXhHCfp3WSq2/against-against-sura"
+  },
+  "topStories": [
+    {
+      "text": "Towards The Autograntor",
+      "url": "https://www.lesswrong.com/posts/Sfkv6JF2ozmAkggKu/towards-the-autograntor"
+    },
+    {
+      "text": "Is your chatbot less helpful because it thinks you’re a bad person? — Replicating a blogpost",
+      "url": "https://www.lesswrong.com/posts/73jyKwdbxjsD7SECv/is-your-chatbot-less-helpful-because-it-thinks-you-re-a-bad"
+    },
+    {
+      "text": "Explaining “AI might obliterate you” to senior policymakers in India",
+      "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Anthropomorphic vs Biological reasoning for thinking about human analogies for LLM behavior",
+      "url": "https://www.lesswrong.com/posts/ceZpZqEqiGNQEjT2e/anthropomorphic-vs-biological-reasoning-for-thinking-about"
+    },
+    {
+      "text": "Misalignment traps lie in wait",
+      "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
+    },
+    {
+      "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+    },
+    {
+      "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
+      "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
+    },
+    {
+      "text": "A Taxonomy of Agency",
+      "url": "https://www.lesswrong.com/posts/EfvG2LqhvoeuhqGTy/a-taxonomy-of-agency"
+    },
+    {
+      "text": "DailyAI Briefing: An AI agent operates on a mouse, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-an-ai-agent-operates-on-a-mouse-plus-4-more/"
+    },
+    {
+      "text": "On Evenhandedness",
+      "url": "https://www.lesswrong.com/posts/TNvr3YAAtxLRzkMja/on-evenhandedness"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Magma is partnering with CASSA to investigate recent unintended model behavior",
+      "url": "https://www.lesswrong.com/posts/eDxQzpSvjDHnkicMH/magma-is-partnering-with-cassa-to-investigate-recent"
+    },
+    {
+      "text": "So I guess everyone uses LLMs to think now",
+      "url": "https://eva.ac/blog/llms/"
+    },
+    {
+      "text": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
+    },
+    {
+      "text": "Offer Tours to Bands",
+      "url": "https://www.lesswrong.com/posts/wCajrrobHn8Zqdu2F/offer-tours-to-bands"
+    },
+    {
+      "text": "Free-Floating Social Patterns",
+      "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
+    },
+    {
+      "text": "A Neural Network Learned to Read Digits From Pure Noise",
+      "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/"
+    },
+    {
+      "text": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+    },
+    {
+      "text": "CHATGPT AND CODEX USAGE LIMITS MERGING",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "DO THE MATH: HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+    },
+    {
+      "text": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
+    },
+    {
+      "text": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+    },
+    {
+      "text": "I BUILT AN AI TAMAGOTCHI BEFORE META COULD",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+    },
+    {
+      "text": "How to Build Bug-Free Applications with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/"
+    },
+    {
+      "text": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
+      "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"
+    },
+    {
+      "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
+    },
+    {
+      "text": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+    }
+  ],
+  "lastUpdated": "2026-11-02T00:38:57Z"
+}
