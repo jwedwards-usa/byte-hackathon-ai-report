@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Scott Alexander’s Against SURA Seems Deeply Confused",
+    "url": "https://www.lesswrong.com/posts/ziMP83D2JYWRQ5jtu/scott-alexander-s-against-sura-seems-deeply-confused"
+  },
+  "topStories": [
+    {
+      "text": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
+      "url": "https://www.lesswrong.com/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
+    },
+    {
+      "text": "Teaching Qwen Why",
+      "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1"
+    },
+    {
+      "text": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890"
+    },
+    {
+      "text": "Towards understanding score-seeking in LLMs",
+      "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s IPO filing gets bigger, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-filing-gets-bigger-plus-4-more/"
+    },
+    {
+      "text": "Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework",
+      "url": "https://arxiv.org/abs/2503.13309"
+    },
+    {
+      "text": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+    },
+    {
+      "text": "A Shared ChatGPT Link Could Have Handed Strangers Your Private Chats",
+      "url": "https://dailyai.com/2026/11/a-shared-chatgpt-link-could-have-handed-strangers-your-private-chats/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI",
+      "url": "https://arxiv.org/abs/2610.41946"
+    },
+    {
+      "text": "On-Chain Behavioral Signatures for Classifying Centralized Exchange Addresses on Ethereum Using Proof-of-Reserves",
+      "url": "https://arxiv.org/abs/2610.41888"
+    },
+    {
+      "text": "A Neural Network Approach towards Real-Time Knot Point Density Estimates for the Nonlinear Quadrotor",
+      "url": "https://arxiv.org/abs/2610.42027"
+    },
+    {
+      "text": "D2ML: Models for Direct-to-Biology Small Molecule Screening",
+      "url": "https://arxiv.org/abs/2610.41070"
+    },
+    {
+      "text": "ID2Pattern: Pretraining Generalizable Identity Behavior Patterns for Transaction Risk Foundation Models",
+      "url": "https://arxiv.org/abs/2610.41988"
+    },
+    {
+      "text": "Certifying Retraining Regret through Residual Structure",
+      "url": "https://arxiv.org/abs/2610.41410"
+    },
+    {
+      "text": "What We Keep of What We Forget: Replacement Operators and Routing Semantics in Training-Free MoE Expert Pruning",
+      "url": "https://arxiv.org/abs/2610.41366"
+    },
+    {
+      "text": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
+      "url": "https://arxiv.org/abs/2610.42066"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement",
+      "url": "https://arxiv.org/abs/2610.40751"
+    },
+    {
+      "text": "FOCUS: First-Order Control Using Optimal Transport Supervision for Imitation from Observations",
+      "url": "https://arxiv.org/abs/2610.41540"
+    },
+    {
+      "text": "Fuzzy selective state model for forecasting the dynamics of consumer preferences",
+      "url": "https://arxiv.org/abs/2610.41879"
+    },
+    {
+      "text": "A Constructive Orbit-Based Theory of Learnability",
+      "url": "https://arxiv.org/abs/2610.41641"
+    },
+    {
+      "text": "\"Shall We Approve?\" Consequence-Aware Approval for Autonomous Coding Agents",
+      "url": "https://arxiv.org/abs/2610.40753"
+    },
+    {
+      "text": "Does Reasoning Make Language Models Agree?",
+      "url": "https://arxiv.org/abs/2610.41691"
+    },
+    {
+      "text": "SCRBench: Beyond Equivalence Checking for Semantic Change Reasoning in Code",
+      "url": "https://arxiv.org/abs/2610.41562"
+    },
+    {
+      "text": "From fleet trajectories to single-cell promises: hierarchically weighted conformal prediction for battery SOH monitoring",
+      "url": "https://arxiv.org/abs/2610.41696"
+    }
+  ],
+  "lastUpdated": "2026-11-02T21:53:02Z"
+}
