@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "A Shared ChatGPT Link Could Have Handed Strangers Your Private Chats",
+    "url": "https://dailyai.com/2026/11/a-shared-chatgpt-link-could-have-handed-strangers-your-private-chats/"
+  },
+  "topStories": [
+    {
+      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890"
+    },
+    {
+      "text": "Against Against SURA",
+      "url": "https://www.lesswrong.com/posts/pbMyiCXhHCfp3WSq2/against-against-sura"
+    },
+    {
+      "text": "Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework",
+      "url": "https://arxiv.org/abs/2503.13309"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI Plans a Push for AI ‘Speed Limits’ as Data Centres Lose Favour",
+      "url": "https://dailyai.com/2026/11/openai-plans-a-push-for-ai-speed-limits-as-data-centres-lose-favour/"
+    },
+    {
+      "text": "Explaining “AI might obliterate you” to senior policymakers in India",
+      "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Beyond Public Access in LLM Pre-Training Data",
+      "url": "https://arxiv.org/abs/2505.00020"
+    },
+    {
+      "text": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
+      "url": "https://arxiv.org/abs/2610.35685"
+    },
+    {
+      "text": "VerifyMAS: Hypothesis Verification for Failure Attribution in LLM-based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2605.17467"
+    },
+    {
+      "text": "Hard Constraint Projection in a Physics Informed Neural Network (Burgers)",
+      "url": "https://arxiv.org/abs/2610.42106"
+    },
+    {
+      "text": "When Disclosure Is Compulsory: Evaluating Ride-Hailing Rebalancing Policies with Self-Interested LLM Driver Agents",
+      "url": "https://arxiv.org/abs/2610.41132"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "A Comprehensive View of Fairness through Distributional Stability",
+      "url": "https://arxiv.org/abs/2609.37061"
+    },
+    {
+      "text": "LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling",
+      "url": "https://arxiv.org/abs/2610.41165"
+    },
+    {
+      "text": "Adaptive Personalization Under Preference Epistemic Uncertainty",
+      "url": "https://arxiv.org/abs/2610.40930"
+    },
+    {
+      "text": "How Do Video Foundation Models Encode Intuitive Physics? Probing Across Pretraining Paradigms",
+      "url": "https://arxiv.org/abs/2606.09646"
+    },
+    {
+      "text": "No-Harm Physics-Informed Inverse Learning with Residual-Calibrated Uncertainty",
+      "url": "https://arxiv.org/abs/2606.07153"
+    },
+    {
+      "text": "Predictive Maintenance at the Edge: An Embedded Anomaly Detection Pipeline Trained with Quantum Optimization",
+      "url": "https://arxiv.org/abs/2610.40848"
+    },
+    {
+      "text": "DAUPNet: Domain-Aware Uncertainty Modeling for Reliable Prototype Discrimination in Cross-Domain Few-Shot Semantic Segmentation",
+      "url": "https://arxiv.org/abs/2607.16308"
+    },
+    {
+      "text": "Generative SDEs with Trainable Diffusion and Density-Based Losses",
+      "url": "https://arxiv.org/abs/2610.41243"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Does Reasoning Make Language Models Agree?",
+      "url": "https://arxiv.org/abs/2610.41691"
+    },
+    {
+      "text": "DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention",
+      "url": "https://arxiv.org/abs/2610.41994"
+    },
+    {
+      "text": "From fleet trajectories to single-cell promises: hierarchically weighted conformal prediction for battery SOH monitoring",
+      "url": "https://arxiv.org/abs/2610.41696"
+    },
+    {
+      "text": "TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation",
+      "url": "https://arxiv.org/abs/2610.40871"
+    },
+    {
+      "text": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+      "url": "https://arxiv.org/abs/2610.40861"
+    },
+    {
+      "text": "Leakage-Controlled Structure-Preserving Augmentation and Template-Aware Evaluation for Bangla Symptom-Based Disease Prediction",
+      "url": "https://arxiv.org/abs/2610.41733"
+    },
+    {
+      "text": "Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation",
+      "url": "https://arxiv.org/abs/2610.40857"
+    },
+    {
+      "text": "Task Vectors Can Be Linearly Decomposed into Interpretable and Controllable Components",
+      "url": "https://arxiv.org/abs/2610.41743"
+    }
+  ],
+  "lastUpdated": "2026-11-02T11:02:59Z"
+}
