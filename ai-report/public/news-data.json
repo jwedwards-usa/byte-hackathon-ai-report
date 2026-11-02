@@ -1,98 +1,102 @@
 {
   "mainHeadline": {
-    "text": "Misalignment traps lie in wait",
-    "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
+    "text": "Against Against SURA",
+    "url": "https://www.lesswrong.com/posts/pbMyiCXhHCfp3WSq2/against-against-sura"
   },
   "topStories": [
     {
+      "text": "Towards The Autograntor",
+      "url": "https://www.lesswrong.com/posts/Sfkv6JF2ozmAkggKu/towards-the-autograntor"
+    },
+    {
+      "text": "Is your chatbot less helpful because it thinks you’re a bad person? — Replicating a blogpost",
+      "url": "https://www.lesswrong.com/posts/73jyKwdbxjsD7SECv/is-your-chatbot-less-helpful-because-it-thinks-you-re-a-bad"
+    },
+    {
       "text": "Explaining “AI might obliterate you” to senior policymakers in India",
-      "url": "https://www.lesswrong.com/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
-    },
-    {
-      "text": "DailyAI Briefing: An AI agent operates on a mouse, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-an-ai-agent-operates-on-a-mouse-plus-4-more/"
-    },
-    {
-      "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+      "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
     }
   ],
   "leftColumn": [
     {
-      "text": "Sanity Checks for Sanity Checks for Sparse Autoencoders",
-      "url": "https://www.lesswrong.com/posts/EC5H7xakTgxxNXm5g/sanity-checks-for-sanity-checks-for-sparse-autoencoders"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Anthropomorphic vs Biological reasoning for thinking about human analogies for LLM behavior",
+      "url": "https://www.lesswrong.com/posts/ceZpZqEqiGNQEjT2e/anthropomorphic-vs-biological-reasoning-for-thinking-about"
+    },
+    {
+      "text": "Misalignment traps lie in wait",
+      "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
+    },
+    {
+      "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
     },
     {
       "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
       "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
     },
     {
-      "text": "Free-Floating Social Patterns",
-      "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
+      "text": "A Taxonomy of Agency",
+      "url": "https://www.lesswrong.com/posts/EfvG2LqhvoeuhqGTy/a-taxonomy-of-agency"
     },
     {
-      "text": "Quoting Kyle Kingsbury",
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+      "text": "DailyAI Briefing: An AI agent operates on a mouse, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-an-ai-agent-operates-on-a-mouse-plus-4-more/"
     },
     {
-      "text": "Organic",
-      "url": "https://www.lesswrong.com/posts/9uhcexcfYuWvu2cDq/organic"
-    },
-    {
-      "text": "Monitor Evasion Depends on What RL Finds and What Monitors Miss",
-      "url": "https://www.lesswrong.com/posts/moDKmh4GerCjfB5mM/monitor-evasion-depends-on-what-rl-finds-and-what-monitors"
-    },
-    {
-      "text": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+      "text": "On Evenhandedness",
+      "url": "https://www.lesswrong.com/posts/TNvr3YAAtxLRzkMja/on-evenhandedness"
     }
   ],
   "centerColumn": [
     {
-      "text": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+      "text": "Magma is partnering with CASSA to investigate recent unintended model behavior",
+      "url": "https://www.lesswrong.com/posts/eDxQzpSvjDHnkicMH/magma-is-partnering-with-cassa-to-investigate-recent"
     },
     {
-      "text": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
-      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030"
+      "text": "So I guess everyone uses LLMs to think now",
+      "url": "https://eva.ac/blog/llms/"
     },
     {
-      "text": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
-      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+      "text": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
     },
     {
-      "text": "Fix the Image, Not the Prompt",
-      "url": "https://towardsdatascience.com/fix-the-image-not-the-prompt/"
+      "text": "Offer Tours to Bands",
+      "url": "https://www.lesswrong.com/posts/wCajrrobHn8Zqdu2F/offer-tours-to-bands"
+    },
+    {
+      "text": "Free-Floating Social Patterns",
+      "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
     },
     {
       "text": "A Neural Network Learned to Read Digits From Pure Noise",
       "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/"
     },
     {
-      "text": "Refelting My Keyboard",
-      "url": "https://www.lesswrong.com/posts/nsHdsqZsgNui6eGo6/refelting-my-keyboard"
+      "text": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
     },
     {
-      "text": "What would you do if you had all the time in the world?",
-      "url": "https://www.lesswrong.com/posts/9kdet42p2n8QkpToa/what-would-you-do-if-you-had-all-the-time-in-the-world"
-    },
-    {
-      "text": "Conclusions of my DIY Inkhaven",
-      "url": "https://www.lesswrong.com/posts/579yLaP6YfL9ZRtdN/conclusions-of-my-diy-inkhaven"
+      "text": "CHATGPT AND CODEX USAGE LIMITS MERGING",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
     }
   ],
   "rightColumn": [
+    {
+      "text": "DO THE MATH: HOW WE TOOK OVER CHATGPT ACCOUNTS",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+    },
     {
       "text": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
     },
     {
-      "text": "Accidentally Misleading People Should Be Embarrassing; Or, Higher Innocence",
-      "url": "https://www.lesswrong.com/posts/XpBwFsRhkQRQJN2pt/accidentally-misleading-people-should-be-embarrassing-or"
+      "text": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
     },
     {
       "text": "I BUILT AN AI TAMAGOTCHI BEFORE META COULD",
@@ -111,13 +115,9 @@
       "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
     },
     {
-      "text": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
-    },
-    {
-      "text": "dbreunig/nesformer",
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
+      "text": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/"
     }
   ],
-  "lastUpdated": "2026-11-01T19:46:02Z"
+  "lastUpdated": "2026-11-02T00:38:57Z"
 }
