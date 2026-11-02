@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Against Against SURA",
-    "url": "https://www.lesswrong.com/posts/pbMyiCXhHCfp3WSq2/against-against-sura"
+    "text": "A Shared ChatGPT Link Could Have Handed Strangers Your Private Chats",
+    "url": "https://dailyai.com/2026/11/a-shared-chatgpt-link-could-have-handed-strangers-your-private-chats/"
   },
   "topStories": [
     {
-      "text": "Towards The Autograntor",
-      "url": "https://www.lesswrong.com/posts/Sfkv6JF2ozmAkggKu/towards-the-autograntor"
+      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890"
     },
     {
-      "text": "Is your chatbot less helpful because it thinks you’re a bad person? — Replicating a blogpost",
-      "url": "https://www.lesswrong.com/posts/73jyKwdbxjsD7SECv/is-your-chatbot-less-helpful-because-it-thinks-you-re-a-bad"
+      "text": "Against Against SURA",
+      "url": "https://www.lesswrong.com/posts/pbMyiCXhHCfp3WSq2/against-against-sura"
+    },
+    {
+      "text": "Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework",
+      "url": "https://arxiv.org/abs/2503.13309"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI Plans a Push for AI ‘Speed Limits’ as Data Centres Lose Favour",
+      "url": "https://dailyai.com/2026/11/openai-plans-a-push-for-ai-speed-limits-as-data-centres-lose-favour/"
     },
     {
       "text": "Explaining “AI might obliterate you” to senior policymakers in India",
       "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Anthropomorphic vs Biological reasoning for thinking about human analogies for LLM behavior",
-      "url": "https://www.lesswrong.com/posts/ceZpZqEqiGNQEjT2e/anthropomorphic-vs-biological-reasoning-for-thinking-about"
+      "text": "Beyond Public Access in LLM Pre-Training Data",
+      "url": "https://arxiv.org/abs/2505.00020"
     },
     {
-      "text": "Misalignment traps lie in wait",
-      "url": "https://www.lesswrong.com/posts/o9CYcjZDqCQf5qeJy/misalignment-traps-lie-in-wait"
+      "text": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
+      "url": "https://arxiv.org/abs/2610.35685"
     },
     {
-      "text": "HOW WE TOOK OVER CHATGPT ACCOUNTS",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+      "text": "VerifyMAS: Hypothesis Verification for Failure Attribution in LLM-based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2605.17467"
     },
     {
-      "text": "DailyAI Briefing: OpenAI’s funding round shrinks, plus 4 more",
-      "url": "https://dailyai.com/2026/10/dailyai-briefing-openais-funding-round-shrinks-plus-4-more/"
+      "text": "Hard Constraint Projection in a Physics Informed Neural Network (Burgers)",
+      "url": "https://arxiv.org/abs/2610.42106"
     },
     {
-      "text": "A Taxonomy of Agency",
-      "url": "https://www.lesswrong.com/posts/EfvG2LqhvoeuhqGTy/a-taxonomy-of-agency"
-    },
-    {
-      "text": "DailyAI Briefing: An AI agent operates on a mouse, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-an-ai-agent-operates-on-a-mouse-plus-4-more/"
-    },
-    {
-      "text": "On Evenhandedness",
-      "url": "https://www.lesswrong.com/posts/TNvr3YAAtxLRzkMja/on-evenhandedness"
+      "text": "When Disclosure Is Compulsory: Evaluating Ride-Hailing Rebalancing Policies with Self-Interested LLM Driver Agents",
+      "url": "https://arxiv.org/abs/2610.41132"
     }
   ],
   "centerColumn": [
     {
-      "text": "Magma is partnering with CASSA to investigate recent unintended model behavior",
-      "url": "https://www.lesswrong.com/posts/eDxQzpSvjDHnkicMH/magma-is-partnering-with-cassa-to-investigate-recent"
+      "text": "A Comprehensive View of Fairness through Distributional Stability",
+      "url": "https://arxiv.org/abs/2609.37061"
     },
     {
-      "text": "So I guess everyone uses LLMs to think now",
-      "url": "https://eva.ac/blog/llms/"
+      "text": "LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling",
+      "url": "https://arxiv.org/abs/2610.41165"
     },
     {
-      "text": "If in doubt, delete the uv.lock file",
-      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
+      "text": "Adaptive Personalization Under Preference Epistemic Uncertainty",
+      "url": "https://arxiv.org/abs/2610.40930"
     },
     {
-      "text": "Offer Tours to Bands",
-      "url": "https://www.lesswrong.com/posts/wCajrrobHn8Zqdu2F/offer-tours-to-bands"
+      "text": "How Do Video Foundation Models Encode Intuitive Physics? Probing Across Pretraining Paradigms",
+      "url": "https://arxiv.org/abs/2606.09646"
     },
     {
-      "text": "Free-Floating Social Patterns",
-      "url": "https://www.lesswrong.com/posts/T4AS8MpnZwxh33GRD/free-floating-social-patterns"
+      "text": "No-Harm Physics-Informed Inverse Learning with Residual-Calibrated Uncertainty",
+      "url": "https://arxiv.org/abs/2606.07153"
     },
     {
-      "text": "A Neural Network Learned to Read Digits From Pure Noise",
-      "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/"
+      "text": "Predictive Maintenance at the Edge: An Embedded Anomaly Detection Pipeline Trained with Quantum Optimization",
+      "url": "https://arxiv.org/abs/2610.40848"
     },
     {
-      "text": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+      "text": "DAUPNet: Domain-Aware Uncertainty Modeling for Reliable Prototype Discrimination in Cross-Domain Few-Shot Semantic Segmentation",
+      "url": "https://arxiv.org/abs/2607.16308"
     },
     {
-      "text": "CHATGPT AND CODEX USAGE LIMITS MERGING",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
+      "text": "Generative SDEs with Trainable Diffusion and Density-Based Losses",
+      "url": "https://arxiv.org/abs/2610.41243"
     }
   ],
   "rightColumn": [
     {
-      "text": "DO THE MATH: HOW WE TOOK OVER CHATGPT ACCOUNTS",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+      "text": "Does Reasoning Make Language Models Agree?",
+      "url": "https://arxiv.org/abs/2610.41691"
     },
     {
-      "text": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
+      "text": "DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention",
+      "url": "https://arxiv.org/abs/2610.41994"
     },
     {
-      "text": "Quoting Kyle Kingsbury",
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+      "text": "From fleet trajectories to single-cell promises: hierarchically weighted conformal prediction for battery SOH monitoring",
+      "url": "https://arxiv.org/abs/2610.41696"
     },
     {
-      "text": "I BUILT AN AI TAMAGOTCHI BEFORE META COULD",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+      "text": "TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation",
+      "url": "https://arxiv.org/abs/2610.40871"
     },
     {
-      "text": "How to Build Bug-Free Applications with Claude Code",
-      "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/"
+      "text": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+      "url": "https://arxiv.org/abs/2610.40861"
     },
     {
-      "text": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
-      "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"
+      "text": "Leakage-Controlled Structure-Preserving Augmentation and Template-Aware Evaluation for Bangla Symptom-Based Disease Prediction",
+      "url": "https://arxiv.org/abs/2610.41733"
     },
     {
-      "text": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
-      "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"
+      "text": "Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation",
+      "url": "https://arxiv.org/abs/2610.40857"
     },
     {
-      "text": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
-      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+      "text": "Task Vectors Can Be Linearly Decomposed into Interpretable and Controllable Components",
+      "url": "https://arxiv.org/abs/2610.41743"
     }
   ],
-  "lastUpdated": "2026-11-02T00:38:57Z"
+  "lastUpdated": "2026-11-02T11:02:59Z"
 }
