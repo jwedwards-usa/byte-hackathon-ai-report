@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
+    "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
+  },
+  "topStories": [
+    {
+      "text": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
+      "url": "https://arxiv.org/abs/2605.24609"
+    },
+    {
+      "text": "MIT Panel: Provably Secure: Math Against Superintelligent Hackers",
+      "url": "https://www.lesswrong.com/posts/wHgj3oPxqoDbdTvyK/mit-panel-provably-secure-math-against-superintelligent"
+    },
+    {
+      "text": "The Missing Product Layers in AI Safety",
+      "url": "https://www.lesswrong.com/posts/hAozFAsKhsr9HhyGi/the-missing-product-layers-in-ai-safety"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    },
+    {
+      "text": "Yudkowsky's mind model for AI alignment research: experiment results",
+      "url": "https://www.lesswrong.com/posts/WJxC7qsC3gjCACrDz/yudkowsky-s-mind-model-for-ai-alignment-research-experiment"
+    },
+    {
+      "text": "OpenAI Says It Will Pay Its Own Power Bill. Will Yours Go Down?",
+      "url": "https://dailyai.com/2026/11/openai-says-it-will-pay-its-own-power-bill-will-yours-go-down/"
+    },
+    {
+      "text": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden"
+    },
+    {
+      "text": "Geometric and algebraic inference in humans and neural networks",
+      "url": "https://arxiv.org/abs/2611.00387"
+    },
+    {
+      "text": "Selecting LLM-Generated Hypotheses Raises Truth Beyond What an LLM Panel Expects: A Pre-registered Study on NAS-Bench-201 and HPOBench",
+      "url": "https://arxiv.org/abs/2611.00643"
+    },
+    {
+      "text": "\\textit{Versteasch du mi?} Computational and Socio-Linguistic Perspectives on GenAI, LLMs, and Non-Standard Language",
+      "url": "https://arxiv.org/abs/2603.28213"
+    },
+    {
+      "text": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Quantizing Recurrent Language Models Is Easier Than You Think",
+      "url": "https://arxiv.org/abs/2611.01864"
+    },
+    {
+      "text": "The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model",
+      "url": "https://arxiv.org/abs/2611.01866"
+    },
+    {
+      "text": "Do Social Influence Pressures Move LLM Agents? Evidence from Delegated Audit Judgment",
+      "url": "https://arxiv.org/abs/2611.00508"
+    },
+    {
+      "text": "ALDER: A Single-Loop Augmented-Lagrangian Damped Extragradient Method for Nonconvex--Concave Minimax Problems with Nonlinear Coupled Constraints",
+      "url": "https://arxiv.org/abs/2611.00691"
+    },
+    {
+      "text": "DACRI: Decision-Aware Causal Intervention Ranking for Critical Supply Chains",
+      "url": "https://arxiv.org/abs/2608.11154"
+    },
+    {
+      "text": "GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines",
+      "url": "https://arxiv.org/abs/2606.09935"
+    },
+    {
+      "text": "Specification-Aware Predictive Uncertainty Decomposition",
+      "url": "https://arxiv.org/abs/2611.02956"
+    },
+    {
+      "text": "SAGE (Subjectivity-Aware Generation Estimator): A Linguistic Framework for AI-Generated Review Detection *",
+      "url": "https://arxiv.org/abs/2611.03060"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Quantization of Large Models with Weight Outliers and Sparsity",
+      "url": "https://arxiv.org/abs/2611.00286"
+    },
+    {
+      "text": "OCELOT: Planetary-Scale Species Distribution Modeling with Satellite Foundation Embeddings",
+      "url": "https://arxiv.org/abs/2611.00284"
+    },
+    {
+      "text": "CERBO: Certified Recourse at a Requested Rate for Gradient-Boosted Trees",
+      "url": "https://arxiv.org/abs/2611.03222"
+    },
+    {
+      "text": "ReWY: Faster Gradient Computation for Delta-Rule Attention Family",
+      "url": "https://arxiv.org/abs/2611.01940"
+    },
+    {
+      "text": "OC-OPD: Observation-coordinated Supervision for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.01965"
+    },
+    {
+      "text": "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
+      "url": "https://arxiv.org/abs/2611.02075"
+    },
+    {
+      "text": "MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation",
+      "url": "https://arxiv.org/abs/2611.02003"
+    },
+    {
+      "text": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+      "url": "https://arxiv.org/abs/2611.03600"
+    }
+  ],
+  "lastUpdated": "2026-11-03T14:10:21Z"
+}

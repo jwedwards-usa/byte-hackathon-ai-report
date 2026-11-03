@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Scott Alexander’s Against SURA Seems Deeply Confused",
-    "url": "https://www.lesswrong.com/posts/ziMP83D2JYWRQ5jtu/scott-alexander-s-against-sura-seems-deeply-confused"
+    "text": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
+    "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
   },
   "topStories": [
     {
-      "text": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
-      "url": "https://www.lesswrong.com/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
+      "text": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
+      "url": "https://arxiv.org/abs/2605.24609"
     },
     {
-      "text": "Teaching Qwen Why",
-      "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1"
+      "text": "MIT Panel: Provably Secure: Math Against Superintelligent Hackers",
+      "url": "https://www.lesswrong.com/posts/wHgj3oPxqoDbdTvyK/mit-panel-provably-secure-math-against-superintelligent"
     },
     {
-      "text": "Anthropic clamps down on Claude’s AI video game clones",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+      "text": "The Missing Product Layers in AI Safety",
+      "url": "https://www.lesswrong.com/posts/hAozFAsKhsr9HhyGi/the-missing-product-layers-in-ai-safety"
     }
   ],
   "leftColumn": [
     {
-      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
-      "url": "https://arxiv.org/abs/2610.40890"
+      "text": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
     },
     {
-      "text": "Towards understanding score-seeking in LLMs",
-      "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1"
+      "text": "Yudkowsky's mind model for AI alignment research: experiment results",
+      "url": "https://www.lesswrong.com/posts/WJxC7qsC3gjCACrDz/yudkowsky-s-mind-model-for-ai-alignment-research-experiment"
     },
     {
-      "text": "DailyAI Briefing: Anthropic’s IPO filing gets bigger, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-filing-gets-bigger-plus-4-more/"
+      "text": "OpenAI Says It Will Pay Its Own Power Bill. Will Yours Go Down?",
+      "url": "https://dailyai.com/2026/11/openai-says-it-will-pay-its-own-power-bill-will-yours-go-down/"
     },
     {
-      "text": "Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework",
-      "url": "https://arxiv.org/abs/2503.13309"
+      "text": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden"
     },
     {
-      "text": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+      "text": "Geometric and algebraic inference in humans and neural networks",
+      "url": "https://arxiv.org/abs/2611.00387"
     },
     {
-      "text": "A Shared ChatGPT Link Could Have Handed Strangers Your Private Chats",
-      "url": "https://dailyai.com/2026/11/a-shared-chatgpt-link-could-have-handed-strangers-your-private-chats/"
+      "text": "Selecting LLM-Generated Hypotheses Raises Truth Beyond What an LLM Panel Expects: A Pre-registered Study on NAS-Bench-201 and HPOBench",
+      "url": "https://arxiv.org/abs/2611.00643"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "\\textit{Versteasch du mi?} Computational and Socio-Linguistic Perspectives on GenAI, LLMs, and Non-Standard Language",
+      "url": "https://arxiv.org/abs/2603.28213"
     },
     {
-      "text": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+      "text": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/"
     }
   ],
   "centerColumn": [
     {
-      "text": "Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI",
-      "url": "https://arxiv.org/abs/2610.41946"
+      "text": "Quantizing Recurrent Language Models Is Easier Than You Think",
+      "url": "https://arxiv.org/abs/2611.01864"
     },
     {
-      "text": "On-Chain Behavioral Signatures for Classifying Centralized Exchange Addresses on Ethereum Using Proof-of-Reserves",
-      "url": "https://arxiv.org/abs/2610.41888"
+      "text": "The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model",
+      "url": "https://arxiv.org/abs/2611.01866"
     },
     {
-      "text": "A Neural Network Approach towards Real-Time Knot Point Density Estimates for the Nonlinear Quadrotor",
-      "url": "https://arxiv.org/abs/2610.42027"
+      "text": "Do Social Influence Pressures Move LLM Agents? Evidence from Delegated Audit Judgment",
+      "url": "https://arxiv.org/abs/2611.00508"
     },
     {
-      "text": "D2ML: Models for Direct-to-Biology Small Molecule Screening",
-      "url": "https://arxiv.org/abs/2610.41070"
+      "text": "ALDER: A Single-Loop Augmented-Lagrangian Damped Extragradient Method for Nonconvex--Concave Minimax Problems with Nonlinear Coupled Constraints",
+      "url": "https://arxiv.org/abs/2611.00691"
     },
     {
-      "text": "ID2Pattern: Pretraining Generalizable Identity Behavior Patterns for Transaction Risk Foundation Models",
-      "url": "https://arxiv.org/abs/2610.41988"
+      "text": "DACRI: Decision-Aware Causal Intervention Ranking for Critical Supply Chains",
+      "url": "https://arxiv.org/abs/2608.11154"
     },
     {
-      "text": "Certifying Retraining Regret through Residual Structure",
-      "url": "https://arxiv.org/abs/2610.41410"
+      "text": "GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines",
+      "url": "https://arxiv.org/abs/2606.09935"
     },
     {
-      "text": "What We Keep of What We Forget: Replacement Operators and Routing Semantics in Training-Free MoE Expert Pruning",
-      "url": "https://arxiv.org/abs/2610.41366"
+      "text": "Specification-Aware Predictive Uncertainty Decomposition",
+      "url": "https://arxiv.org/abs/2611.02956"
     },
     {
-      "text": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
-      "url": "https://arxiv.org/abs/2610.42066"
+      "text": "SAGE (Subjectivity-Aware Generation Estimator): A Linguistic Framework for AI-Generated Review Detection *",
+      "url": "https://arxiv.org/abs/2611.03060"
     }
   ],
   "rightColumn": [
     {
-      "text": "Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement",
-      "url": "https://arxiv.org/abs/2610.40751"
+      "text": "Quantization of Large Models with Weight Outliers and Sparsity",
+      "url": "https://arxiv.org/abs/2611.00286"
     },
     {
-      "text": "FOCUS: First-Order Control Using Optimal Transport Supervision for Imitation from Observations",
-      "url": "https://arxiv.org/abs/2610.41540"
+      "text": "OCELOT: Planetary-Scale Species Distribution Modeling with Satellite Foundation Embeddings",
+      "url": "https://arxiv.org/abs/2611.00284"
     },
     {
-      "text": "Fuzzy selective state model for forecasting the dynamics of consumer preferences",
-      "url": "https://arxiv.org/abs/2610.41879"
+      "text": "CERBO: Certified Recourse at a Requested Rate for Gradient-Boosted Trees",
+      "url": "https://arxiv.org/abs/2611.03222"
     },
     {
-      "text": "A Constructive Orbit-Based Theory of Learnability",
-      "url": "https://arxiv.org/abs/2610.41641"
+      "text": "ReWY: Faster Gradient Computation for Delta-Rule Attention Family",
+      "url": "https://arxiv.org/abs/2611.01940"
     },
     {
-      "text": "\"Shall We Approve?\" Consequence-Aware Approval for Autonomous Coding Agents",
-      "url": "https://arxiv.org/abs/2610.40753"
+      "text": "OC-OPD: Observation-coordinated Supervision for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.01965"
     },
     {
-      "text": "Does Reasoning Make Language Models Agree?",
-      "url": "https://arxiv.org/abs/2610.41691"
+      "text": "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
+      "url": "https://arxiv.org/abs/2611.02075"
     },
     {
-      "text": "SCRBench: Beyond Equivalence Checking for Semantic Change Reasoning in Code",
-      "url": "https://arxiv.org/abs/2610.41562"
+      "text": "MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation",
+      "url": "https://arxiv.org/abs/2611.02003"
     },
     {
-      "text": "From fleet trajectories to single-cell promises: hierarchically weighted conformal prediction for battery SOH monitoring",
-      "url": "https://arxiv.org/abs/2610.41696"
+      "text": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+      "url": "https://arxiv.org/abs/2611.03600"
     }
   ],
-  "lastUpdated": "2026-11-02T21:53:02Z"
+  "lastUpdated": "2026-11-03T14:10:21Z"
 }
