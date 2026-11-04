@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI Will Now Pay Up to $172,000 for the Worst ChatGPT Bugs",
+    "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
+  },
+  "topStories": [
+    {
+      "text": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
+      "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
+    },
+    {
+      "text": "OpenAI agents keep disabling monitoring; is this being handled appropriately?",
+      "url": "https://www.lesswrong.com/posts/TCN4LPgq4aiA3wDG9/openai-agents-keep-disabling-monitoring-is-this-being"
+    },
+    {
+      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OPENAI SAYS CHATGPT IS CATCHING UP TO GOOGLE IN SEARCH",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+    },
+    {
+      "text": "ALBI: LLM-Guided Inductive Logic Programming via Iterative Generate-Test-Constrain Refineme",
+      "url": "https://arxiv.org/abs/2611.05039"
+    },
+    {
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
+    },
+    {
+      "text": "ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals",
+      "url": "https://arxiv.org/abs/2611.05234"
+    },
+    {
+      "text": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+      "url": "https://arxiv.org/abs/2611.03698"
+    },
+    {
+      "text": "TransfoRhythm: A Transformer Architecture Conductive to Blood Pressure Estimation via Solo PPG Signal Capturing",
+      "url": "https://arxiv.org/abs/2404.15352"
+    },
+    {
+      "text": "False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts",
+      "url": "https://arxiv.org/abs/2611.05290"
+    },
+    {
+      "text": "The Pain Axis: LLMs Represent Self-Directed Harm and Act on It",
+      "url": "https://arxiv.org/abs/2609.16247"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training",
+      "url": "https://arxiv.org/abs/2609.07108"
+    },
+    {
+      "text": "Optimizing the Preconditioner: A Black-box Online-to-Nonconvex Conversion with Static Regret Minimization Oracles",
+      "url": "https://arxiv.org/abs/2607.17607"
+    },
+    {
+      "text": "MIMIC-Note-Extract: A Large-Scale Structured Dataset Extracted from MIMIC-IV-Note Discharge Summaries",
+      "url": "https://arxiv.org/abs/2611.04685"
+    },
+    {
+      "text": "SAT Encoding for Set of At-Most-K Cardinality Constraints with Ladder Shape",
+      "url": "https://arxiv.org/abs/2611.04637"
+    },
+    {
+      "text": "TabPFN-3: Technical Report",
+      "url": "https://arxiv.org/abs/2605.13986"
+    },
+    {
+      "text": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+      "url": "https://arxiv.org/abs/2611.05373"
+    },
+    {
+      "text": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+      "url": "https://arxiv.org/abs/2611.05340"
+    },
+    {
+      "text": "Estimating the expected output of wide random MLPs more efficiently than sampling",
+      "url": "https://arxiv.org/abs/2605.05179"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Data-Efficient Kernel Methods for Learning Differential Equations and Their Solution Operators: Algorithms and Error Analysis",
+      "url": "https://arxiv.org/abs/2503.01036"
+    },
+    {
+      "text": "Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior",
+      "url": "https://arxiv.org/abs/2611.04395"
+    },
+    {
+      "text": "Silent Instrument Errors Reorder Agent Leaderboards",
+      "url": "https://arxiv.org/abs/2611.04399"
+    },
+    {
+      "text": "CaliSplat: Sparse Gaussian Fitting and Calibrated Rate Allocation for Image Compression",
+      "url": "https://arxiv.org/abs/2611.04413"
+    },
+    {
+      "text": "Matching with Choice: Menu Design for Patient--Provider Assignment",
+      "url": "https://arxiv.org/abs/2502.10353"
+    },
+    {
+      "text": "Formalizing PTX in Lean to Prove GPU Kernel Correctness",
+      "url": "https://arxiv.org/abs/2611.04447"
+    },
+    {
+      "text": "Rapid Mean-Field Formation Transport with a Shared-Representation Neural Fokker-Planck Controller",
+      "url": "https://arxiv.org/abs/2611.03981"
+    },
+    {
+      "text": "Beyond Foundation Models: PFN Priors Improve Tabular Hyperparameter Optimization",
+      "url": "https://arxiv.org/abs/2611.05141"
+    }
+  ],
+  "lastUpdated": "2026-11-04T10:59:03Z"
+}

@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "OpenAI Will Now Pay Up to $172,000 for the Worst ChatGPT Bugs",
-    "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
+    "text": "OpenAI Says ChatGPT Now Runs a Fifth as Many Searches as Google",
+    "url": "https://dailyai.com/2026/11/openai-says-chatgpt-now-runs-a-fifth-as-many-searches-as-google/"
   },
   "topStories": [
     {
-      "text": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
-      "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
+      "text": "OpenAI Will Now Pay Up to $172,000 for the Worst ChatGPT Bugs",
+      "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
     },
     {
-      "text": "OPENAI SAYS CHATGPT IS CATCHING UP TO GOOGLE IN SEARCH",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+      "text": "DailyAI Briefing: Anthropic’s $17bn quarter ends in a loss, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-17bn-quarter-ends-in-a-loss-plus-4-more/"
     },
     {
-      "text": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
-      "url": "https://arxiv.org/abs/2605.24609"
+      "text": "CHATGPT WILL NOW MAKE YOU ANIMATED GIFS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
     }
   ],
   "leftColumn": [
     {
-      "text": "How to make the US sign an asymmetric treaty as China? Exploit identity-confused AIs.",
-      "url": "https://www.lesswrong.com/posts/mcxMvQMY9xs5adEEr/how-to-make-the-us-sign-an-asymmetric-treaty-as-china"
+      "text": "BENGALURU AI JAILBREAKING WORKSHOP RETROSPECTIVE",
+      "url": "https://www.lesswrong.com/posts/QWeFCksxab9LYo8vT/bengaluru-ai-jailbreaking-workshop-retrospective"
     },
     {
-      "text": "Progress and Cons",
-      "url": "https://www.lesswrong.com/posts/vhTTEpiSZtueJfsDW/progress-and-cons-2"
+      "text": "OPENAI TO ACQUIRE PIERRE COMPUTER COMPANY, INC.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
     },
     {
-      "text": "OPENAI UPDATES ITS MODEL SPEC",
-      "url": "https://www.lesswrong.com/posts/ABEQbEabK6kcSRrNq/openai-updates-its-model-spec"
+      "text": "OpenAI agents keep disabling monitoring; is this being handled appropriately?",
+      "url": "https://www.lesswrong.com/posts/TCN4LPgq4aiA3wDG9/openai-agents-keep-disabling-monitoring-is-this-being"
     },
     {
-      "text": "Can alignment realistically be solved under Plan C?",
-      "url": "https://www.lesswrong.com/posts/acEpAjtcDs5Mcgr4y/can-alignment-realistically-be-solved-under-plan-c"
+      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890"
     },
     {
-      "text": "AI Safety at the Frontier: Paper Highlights of October 2026",
-      "url": "https://www.lesswrong.com/posts/nBWZFawi7HvMqwusk/ai-safety-at-the-frontier-paper-highlights-of-october-2026"
+      "text": "Positive and Negative AI Futures",
+      "url": "https://www.lesswrong.com/posts/MrWZfxHCEgm7uvHJj/positive-and-negative-ai-futures"
     },
     {
-      "text": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden"
+      "text": "ALBI: LLM-Guided Inductive Logic Programming via Iterative Generate-Test-Constrain Refineme",
+      "url": "https://arxiv.org/abs/2611.05039"
     },
     {
-      "text": "HOW CISCO DEFENDS AT MACHINE SPEED WITH OPENAI",
-      "url": "https://openai.com/index/cisco-cyber"
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
     },
     {
-      "text": "Selecting LLM-Generated Hypotheses Raises Truth Beyond What an LLM Panel Expects: A Pre-registered Study on NAS-Bench-201 and HPOBench",
-      "url": "https://arxiv.org/abs/2611.00643"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "centerColumn": [
     {
-      "text": "Does a Norwegian further-trained model give more outdated legal values than its base model? A preregistered paired comparison of Borealis 2 and Gemma 4",
-      "url": "https://arxiv.org/abs/2611.02334"
+      "text": "SYNC: A Training-Free Inference Controller for Dynamic Layer Selection in Multi-Persona Alignment",
+      "url": "https://arxiv.org/abs/2611.02636"
     },
     {
-      "text": "MEMENTO: Learning Context Management for Long Context Processing Agents",
-      "url": "https://arxiv.org/abs/2611.00244"
+      "text": "Amortized Nonlinear Variable Selection with Prior-Data Fitted Networks",
+      "url": "https://arxiv.org/abs/2611.04848"
     },
     {
-      "text": "Online Fair Division of Chores with Upgrade Recourse",
-      "url": "https://arxiv.org/abs/2611.00432"
+      "text": "Modelling lock-in of AI adoption through skill erosion",
+      "url": "https://arxiv.org/abs/2611.04886"
     },
     {
-      "text": "LLM-Augmented Agent-Based Simulation of Cyber Social Agents",
-      "url": "https://arxiv.org/abs/2610.32988"
+      "text": "MindGuard: Guardrail Classifiers for Multi-Turn Mental Health Support",
+      "url": "https://arxiv.org/abs/2602.00950"
     },
     {
-      "text": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
-      "url": "https://arxiv.org/abs/2610.28679"
+      "text": "FatigueFormer: A Physiology-Informed Model for Upper-Limb Muscle Fatigue Assessment",
+      "url": "https://arxiv.org/abs/2603.26841"
     },
     {
-      "text": "Language Models Learn to Improve Language Models",
-      "url": "https://arxiv.org/abs/2610.23344"
+      "text": "Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.02746"
     },
     {
-      "text": "Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off",
-      "url": "https://arxiv.org/abs/2611.02571"
+      "text": "Full Collapse Is Suboptimal: Controlled Partial Neural Collapse for Long-Tailed Recognition",
+      "url": "https://arxiv.org/abs/2610.36460"
     },
     {
-      "text": "Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models",
-      "url": "https://arxiv.org/abs/2611.02627"
+      "text": "The Agent in the Middle: How AI-Mediated Access Reshapes Web Vulnerability Exploitation",
+      "url": "https://arxiv.org/abs/2610.35541"
     }
   ],
   "rightColumn": [
     {
-      "text": "Robust EEG-based Emotion Recognition from Coarse Trial-level Labels under Intra-trial Affective Variability",
-      "url": "https://arxiv.org/abs/2611.01731"
+      "text": "Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.04556"
     },
     {
-      "text": "Bridging Low-Level Image Fusion and High-Level Semantic Understanding",
-      "url": "https://arxiv.org/abs/2611.02896"
+      "text": "Structured Prompts Improve Evaluation of Language Models",
+      "url": "https://arxiv.org/abs/2511.20836"
     },
     {
-      "text": "Value-Conditioned Proposal Acquisition for Test-Time Reasoning",
-      "url": "https://arxiv.org/abs/2611.02852"
+      "text": "ValQID: Learning the Net Value of Semantic Query Groups for Web Device Identification",
+      "url": "https://arxiv.org/abs/2611.04576"
     },
     {
-      "text": "A Deep Reinforcement Learning Framework for Real-Time Electric Vehicle Charging Management in IoEV-Enabled Smart Cities",
-      "url": "https://arxiv.org/abs/2611.01751"
+      "text": "Recovering Geodesic Distances from Noisy Observations",
+      "url": "https://arxiv.org/abs/2511.13025"
     },
     {
-      "text": "The Role of Quantization in Loss Spikes",
-      "url": "https://arxiv.org/abs/2610.38277"
+      "text": "DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation",
+      "url": "https://arxiv.org/abs/2510.15786"
     },
     {
-      "text": "Silent Reward and Environment Defects in EV Charging Simulation Benchmarks: A Diagnostic Checklist",
-      "url": "https://arxiv.org/abs/2611.01769"
+      "text": "A Deep State-Space Model Compression Method using Upper Bound on Output Error",
+      "url": "https://arxiv.org/abs/2510.14542"
     },
     {
-      "text": "Cassette-Editor: An Agent Harness for Editing Video the Way You Do",
-      "url": "https://arxiv.org/abs/2610.37690"
+      "text": "FlowDrive: moderated flow matching with data balancing for trajectory planning",
+      "url": "https://arxiv.org/abs/2509.21961"
     },
     {
-      "text": "ReFrame: Silence-Aware Compute Reclamation for Full-Duplex Speech Models",
-      "url": "https://arxiv.org/abs/2611.01835"
+      "text": "Kierston \u0026 KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
+      "url": "https://arxiv.org/abs/2611.04785"
     }
   ],
-  "lastUpdated": "2026-11-04T01:26:21Z"
+  "lastUpdated": "2026-11-04T19:54:22Z"
 }
