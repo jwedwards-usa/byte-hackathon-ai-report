@@ -1,23 +1,35 @@
 {
   "mainHeadline": {
-    "text": "OPENAI SAYS CHATGPT IS CATCHING UP TO GOOGLE IN SEARCH",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+    "text": "OpenAI Will Now Pay Up to $172,000 for the Worst ChatGPT Bugs",
+    "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
   },
   "topStories": [
-    {
-      "text": "OpenAI Will Now Pay Up to $172,000 for the Worst ChatGPT Bugs",
-      "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
-    },
     {
       "text": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
       "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
     },
     {
-      "text": "OPENAI UPDATES ITS MODEL SPEC",
-      "url": "https://www.lesswrong.com/posts/ABEQbEabK6kcSRrNq/openai-updates-its-model-spec"
+      "text": "OPENAI SAYS CHATGPT IS CATCHING UP TO GOOGLE IN SEARCH",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+    },
+    {
+      "text": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
+      "url": "https://arxiv.org/abs/2605.24609"
     }
   ],
   "leftColumn": [
+    {
+      "text": "How to make the US sign an asymmetric treaty as China? Exploit identity-confused AIs.",
+      "url": "https://www.lesswrong.com/posts/mcxMvQMY9xs5adEEr/how-to-make-the-us-sign-an-asymmetric-treaty-as-china"
+    },
+    {
+      "text": "Progress and Cons",
+      "url": "https://www.lesswrong.com/posts/vhTTEpiSZtueJfsDW/progress-and-cons-2"
+    },
+    {
+      "text": "OPENAI UPDATES ITS MODEL SPEC",
+      "url": "https://www.lesswrong.com/posts/ABEQbEabK6kcSRrNq/openai-updates-its-model-spec"
+    },
     {
       "text": "Can alignment realistically be solved under Plan C?",
       "url": "https://www.lesswrong.com/posts/acEpAjtcDs5Mcgr4y/can-alignment-realistically-be-solved-under-plan-c"
@@ -25,18 +37,6 @@
     {
       "text": "AI Safety at the Frontier: Paper Highlights of October 2026",
       "url": "https://www.lesswrong.com/posts/nBWZFawi7HvMqwusk/ai-safety-at-the-frontier-paper-highlights-of-october-2026"
-    },
-    {
-      "text": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
-      "url": "https://arxiv.org/abs/2605.24609"
-    },
-    {
-      "text": "Progress and Cons",
-      "url": "https://www.lesswrong.com/posts/vhTTEpiSZtueJfsDW/progress-and-cons-2"
-    },
-    {
-      "text": "DailyAI Briefing: Gemini may breach press rights, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-gemini-may-breach-press-rights-plus-4-more/"
     },
     {
       "text": "Heimstaden is changing residential real estate management with AI",
@@ -47,77 +47,77 @@
       "url": "https://openai.com/index/cisco-cyber"
     },
     {
-      "text": "Geometric and algebraic inference in humans and neural networks",
-      "url": "https://arxiv.org/abs/2611.00387"
+      "text": "Selecting LLM-Generated Hypotheses Raises Truth Beyond What an LLM Panel Expects: A Pre-registered Study on NAS-Bench-201 and HPOBench",
+      "url": "https://arxiv.org/abs/2611.00643"
     }
   ],
   "centerColumn": [
     {
-      "text": "SYNC: A Training-Free Inference Controller for Dynamic Layer Selection in Multi-Persona Alignment",
-      "url": "https://arxiv.org/abs/2611.02636"
+      "text": "Does a Norwegian further-trained model give more outdated legal values than its base model? A preregistered paired comparison of Borealis 2 and Gemma 4",
+      "url": "https://arxiv.org/abs/2611.02334"
     },
     {
-      "text": "Sonar-MoE: In-Backward Expert Updates for Memory-Efficient Mixture-of-Experts Training",
-      "url": "https://arxiv.org/abs/2611.03577"
+      "text": "MEMENTO: Learning Context Management for Long Context Processing Agents",
+      "url": "https://arxiv.org/abs/2611.00244"
     },
     {
-      "text": "Acceptance Cards:A Four-Diagnostic Standard for Safe Fine-Tuning Defense Claims",
-      "url": "https://arxiv.org/abs/2605.10575"
+      "text": "Online Fair Division of Chores with Upgrade Recourse",
+      "url": "https://arxiv.org/abs/2611.00432"
     },
     {
-      "text": "Rare Event Constrained Reinforcement Learning with Large Deviations",
-      "url": "https://arxiv.org/abs/2611.02055"
+      "text": "LLM-Augmented Agent-Based Simulation of Cyber Social Agents",
+      "url": "https://arxiv.org/abs/2610.32988"
     },
     {
-      "text": "Para-Gaussian Approximations of Random Deep Neural Networks",
-      "url": "https://arxiv.org/abs/2610.37388"
+      "text": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.28679"
     },
     {
-      "text": "The Weight Gram Matrix Captures Sequential Feature Linearization in Deep Networks",
-      "url": "https://arxiv.org/abs/2605.06258"
+      "text": "Language Models Learn to Improve Language Models",
+      "url": "https://arxiv.org/abs/2610.23344"
     },
     {
-      "text": "Simulated petrological labels enable probabilistic mineralogy prediction from whole-rock geochemistry",
-      "url": "https://arxiv.org/abs/2610.36429"
+      "text": "Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off",
+      "url": "https://arxiv.org/abs/2611.02571"
     },
     {
-      "text": "CytoWave: Perturbation-Centric Pretraining for Single-Cell Response Prediction",
-      "url": "https://arxiv.org/abs/2611.02311"
+      "text": "Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models",
+      "url": "https://arxiv.org/abs/2611.02627"
     }
   ],
   "rightColumn": [
     {
-      "text": "Matryoshka Hash Representations for Model-Aware Compact Semantic Retrieval",
-      "url": "https://arxiv.org/abs/2609.07276"
+      "text": "Robust EEG-based Emotion Recognition from Coarse Trial-level Labels under Intra-trial Affective Variability",
+      "url": "https://arxiv.org/abs/2611.01731"
     },
     {
-      "text": "Cost-efficient Active Learning for Referring Image Segmentation and Grounding",
-      "url": "https://arxiv.org/abs/2608.30621"
+      "text": "Bridging Low-Level Image Fusion and High-Level Semantic Understanding",
+      "url": "https://arxiv.org/abs/2611.02896"
     },
     {
-      "text": "Macro-Operator Generation and Predicate Selection for TAMP Operator Learning",
-      "url": "https://arxiv.org/abs/2608.23629"
+      "text": "Value-Conditioned Proposal Acquisition for Test-Time Reasoning",
+      "url": "https://arxiv.org/abs/2611.02852"
     },
     {
-      "text": "EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment",
-      "url": "https://arxiv.org/abs/2608.14011"
+      "text": "A Deep Reinforcement Learning Framework for Real-Time Electric Vehicle Charging Management in IoEV-Enabled Smart Cities",
+      "url": "https://arxiv.org/abs/2611.01751"
     },
     {
-      "text": "CogRSI: Evolving and Auditing Cognitive Reasoning Strategies",
-      "url": "https://arxiv.org/abs/2611.01113"
+      "text": "The Role of Quantization in Loss Spikes",
+      "url": "https://arxiv.org/abs/2610.38277"
     },
     {
-      "text": "ReWY: Faster Gradient Computation for Delta-Rule Attention Family",
-      "url": "https://arxiv.org/abs/2611.01940"
+      "text": "Silent Reward and Environment Defects in EV Charging Simulation Benchmarks: A Diagnostic Checklist",
+      "url": "https://arxiv.org/abs/2611.01769"
     },
     {
-      "text": "OC-OPD: Observation-coordinated Supervision for On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2611.01965"
+      "text": "Cassette-Editor: An Agent Harness for Editing Video the Way You Do",
+      "url": "https://arxiv.org/abs/2610.37690"
     },
     {
-      "text": "A Study of ASR Adaptation and Representation Dimensionality Reduction in Persian Speech Emotion Recognition Using Whisper",
-      "url": "https://arxiv.org/abs/2608.05165"
+      "text": "ReFrame: Silence-Aware Compute Reclamation for Full-Duplex Speech Models",
+      "url": "https://arxiv.org/abs/2611.01835"
     }
   ],
-  "lastUpdated": "2026-11-03T22:36:20Z"
+  "lastUpdated": "2026-11-04T01:26:21Z"
 }
