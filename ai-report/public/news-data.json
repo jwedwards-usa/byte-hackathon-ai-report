@@ -9,115 +9,115 @@
       "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals"
     },
     {
-      "text": "OPENAI SAYS CHATGPT IS CATCHING UP TO GOOGLE IN SEARCH",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+      "text": "OpenAI agents keep disabling monitoring; is this being handled appropriately?",
+      "url": "https://www.lesswrong.com/posts/TCN4LPgq4aiA3wDG9/openai-agents-keep-disabling-monitoring-is-this-being"
     },
     {
-      "text": "Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows",
-      "url": "https://arxiv.org/abs/2605.24609"
+      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890"
     }
   ],
   "leftColumn": [
     {
-      "text": "How to make the US sign an asymmetric treaty as China? Exploit identity-confused AIs.",
-      "url": "https://www.lesswrong.com/posts/mcxMvQMY9xs5adEEr/how-to-make-the-us-sign-an-asymmetric-treaty-as-china"
+      "text": "OPENAI SAYS CHATGPT IS CATCHING UP TO GOOGLE IN SEARCH",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
     },
     {
-      "text": "Progress and Cons",
-      "url": "https://www.lesswrong.com/posts/vhTTEpiSZtueJfsDW/progress-and-cons-2"
+      "text": "ALBI: LLM-Guided Inductive Logic Programming via Iterative Generate-Test-Constrain Refineme",
+      "url": "https://arxiv.org/abs/2611.05039"
     },
     {
-      "text": "OPENAI UPDATES ITS MODEL SPEC",
-      "url": "https://www.lesswrong.com/posts/ABEQbEabK6kcSRrNq/openai-updates-its-model-spec"
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
     },
     {
-      "text": "Can alignment realistically be solved under Plan C?",
-      "url": "https://www.lesswrong.com/posts/acEpAjtcDs5Mcgr4y/can-alignment-realistically-be-solved-under-plan-c"
+      "text": "ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals",
+      "url": "https://arxiv.org/abs/2611.05234"
     },
     {
-      "text": "AI Safety at the Frontier: Paper Highlights of October 2026",
-      "url": "https://www.lesswrong.com/posts/nBWZFawi7HvMqwusk/ai-safety-at-the-frontier-paper-highlights-of-october-2026"
+      "text": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+      "url": "https://arxiv.org/abs/2611.03698"
     },
     {
-      "text": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden"
+      "text": "TransfoRhythm: A Transformer Architecture Conductive to Blood Pressure Estimation via Solo PPG Signal Capturing",
+      "url": "https://arxiv.org/abs/2404.15352"
     },
     {
-      "text": "HOW CISCO DEFENDS AT MACHINE SPEED WITH OPENAI",
-      "url": "https://openai.com/index/cisco-cyber"
+      "text": "False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts",
+      "url": "https://arxiv.org/abs/2611.05290"
     },
     {
-      "text": "Selecting LLM-Generated Hypotheses Raises Truth Beyond What an LLM Panel Expects: A Pre-registered Study on NAS-Bench-201 and HPOBench",
-      "url": "https://arxiv.org/abs/2611.00643"
+      "text": "The Pain Axis: LLMs Represent Self-Directed Harm and Act on It",
+      "url": "https://arxiv.org/abs/2609.16247"
     }
   ],
   "centerColumn": [
     {
-      "text": "Does a Norwegian further-trained model give more outdated legal values than its base model? A preregistered paired comparison of Borealis 2 and Gemma 4",
-      "url": "https://arxiv.org/abs/2611.02334"
+      "text": "Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training",
+      "url": "https://arxiv.org/abs/2609.07108"
     },
     {
-      "text": "MEMENTO: Learning Context Management for Long Context Processing Agents",
-      "url": "https://arxiv.org/abs/2611.00244"
+      "text": "Optimizing the Preconditioner: A Black-box Online-to-Nonconvex Conversion with Static Regret Minimization Oracles",
+      "url": "https://arxiv.org/abs/2607.17607"
     },
     {
-      "text": "Online Fair Division of Chores with Upgrade Recourse",
-      "url": "https://arxiv.org/abs/2611.00432"
+      "text": "MIMIC-Note-Extract: A Large-Scale Structured Dataset Extracted from MIMIC-IV-Note Discharge Summaries",
+      "url": "https://arxiv.org/abs/2611.04685"
     },
     {
-      "text": "LLM-Augmented Agent-Based Simulation of Cyber Social Agents",
-      "url": "https://arxiv.org/abs/2610.32988"
+      "text": "SAT Encoding for Set of At-Most-K Cardinality Constraints with Ladder Shape",
+      "url": "https://arxiv.org/abs/2611.04637"
     },
     {
-      "text": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
-      "url": "https://arxiv.org/abs/2610.28679"
+      "text": "TabPFN-3: Technical Report",
+      "url": "https://arxiv.org/abs/2605.13986"
     },
     {
-      "text": "Language Models Learn to Improve Language Models",
-      "url": "https://arxiv.org/abs/2610.23344"
+      "text": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+      "url": "https://arxiv.org/abs/2611.05373"
     },
     {
-      "text": "Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off",
-      "url": "https://arxiv.org/abs/2611.02571"
+      "text": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+      "url": "https://arxiv.org/abs/2611.05340"
     },
     {
-      "text": "Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models",
-      "url": "https://arxiv.org/abs/2611.02627"
+      "text": "Estimating the expected output of wide random MLPs more efficiently than sampling",
+      "url": "https://arxiv.org/abs/2605.05179"
     }
   ],
   "rightColumn": [
     {
-      "text": "Robust EEG-based Emotion Recognition from Coarse Trial-level Labels under Intra-trial Affective Variability",
-      "url": "https://arxiv.org/abs/2611.01731"
+      "text": "Data-Efficient Kernel Methods for Learning Differential Equations and Their Solution Operators: Algorithms and Error Analysis",
+      "url": "https://arxiv.org/abs/2503.01036"
     },
     {
-      "text": "Bridging Low-Level Image Fusion and High-Level Semantic Understanding",
-      "url": "https://arxiv.org/abs/2611.02896"
+      "text": "Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior",
+      "url": "https://arxiv.org/abs/2611.04395"
     },
     {
-      "text": "Value-Conditioned Proposal Acquisition for Test-Time Reasoning",
-      "url": "https://arxiv.org/abs/2611.02852"
+      "text": "Silent Instrument Errors Reorder Agent Leaderboards",
+      "url": "https://arxiv.org/abs/2611.04399"
     },
     {
-      "text": "A Deep Reinforcement Learning Framework for Real-Time Electric Vehicle Charging Management in IoEV-Enabled Smart Cities",
-      "url": "https://arxiv.org/abs/2611.01751"
+      "text": "CaliSplat: Sparse Gaussian Fitting and Calibrated Rate Allocation for Image Compression",
+      "url": "https://arxiv.org/abs/2611.04413"
     },
     {
-      "text": "The Role of Quantization in Loss Spikes",
-      "url": "https://arxiv.org/abs/2610.38277"
+      "text": "Matching with Choice: Menu Design for Patient--Provider Assignment",
+      "url": "https://arxiv.org/abs/2502.10353"
     },
     {
-      "text": "Silent Reward and Environment Defects in EV Charging Simulation Benchmarks: A Diagnostic Checklist",
-      "url": "https://arxiv.org/abs/2611.01769"
+      "text": "Formalizing PTX in Lean to Prove GPU Kernel Correctness",
+      "url": "https://arxiv.org/abs/2611.04447"
     },
     {
-      "text": "Cassette-Editor: An Agent Harness for Editing Video the Way You Do",
-      "url": "https://arxiv.org/abs/2610.37690"
+      "text": "Rapid Mean-Field Formation Transport with a Shared-Representation Neural Fokker-Planck Controller",
+      "url": "https://arxiv.org/abs/2611.03981"
     },
     {
-      "text": "ReFrame: Silence-Aware Compute Reclamation for Full-Duplex Speech Models",
-      "url": "https://arxiv.org/abs/2611.01835"
+      "text": "Beyond Foundation Models: PFN Priors Improve Tabular Hyperparameter Optimization",
+      "url": "https://arxiv.org/abs/2611.05141"
     }
   ],
-  "lastUpdated": "2026-11-04T01:26:21Z"
+  "lastUpdated": "2026-11-04T10:59:03Z"
 }
