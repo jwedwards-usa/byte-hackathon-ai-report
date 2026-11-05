@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Against Moloch #50",
+    "url": "https://www.lesswrong.com/posts/7PH4ee6KkGLEqrYqn/against-moloch-50"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI Says ChatGPT Now Runs a Fifth as Many Searches as Google",
+      "url": "https://dailyai.com/2026/11/openai-says-chatgpt-now-runs-a-fifth-as-many-searches-as-google/"
+    },
+    {
+      "text": "OpenAI Will Now Pay Up to $172,000 for the Worst ChatGPT Bugs",
+      "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
+    },
+    {
+      "text": "The Midterms and AI Development",
+      "url": "https://www.lesswrong.com/posts/SdxT3AFFxcngqJfC3/the-midterms-and-ai-development"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890"
+    },
+    {
+      "text": "OPENAI: ASTRA COVERTLY UNDERPERFORMS ON SAFETY RESEARCH",
+      "url": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research"
+    },
+    {
+      "text": "ALBI: LLM-Guided Inductive Logic Programming via Iterative Generate-Test-Constrain Refineme",
+      "url": "https://arxiv.org/abs/2611.05039"
+    },
+    {
+      "text": "Dialogue with Gabriel Alfour on Emergent Wisdom, Coordination, Growing Up, and Democratic Republicanism",
+      "url": "https://www.lesswrong.com/posts/bGyMpy6SLyMhbHFCR/dialogue-with-gabriel-alfour-on-emergent-wisdom-coordination"
+    },
+    {
+      "text": "Model's \"emotions\" noticeably change when they take risky actions\n",
+      "url": "https://www.lesswrong.com/posts/PYcqf9DBMGjTyJSjg/model-s-emotions-noticeably-change-when-they-take-risky-1"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s $17bn quarter ends in a loss, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-17bn-quarter-ends-in-a-loss-plus-4-more/"
+    },
+    {
+      "text": "CHATGPT WILL NOW MAKE YOU ANIMATED GIFS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+    },
+    {
+      "text": "BENGALURU AI JAILBREAKING WORKSHOP RETROSPECTIVE",
+      "url": "https://www.lesswrong.com/posts/QWeFCksxab9LYo8vT/bengaluru-ai-jailbreaking-workshop-retrospective"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "LoRA-Patch: Defending Against Backdoored LoRA Adapters via Directional Steering",
+      "url": "https://arxiv.org/abs/2611.03752"
+    },
+    {
+      "text": "The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents",
+      "url": "https://arxiv.org/abs/2611.03754"
+    },
+    {
+      "text": "A Sharp Barrier of Consistent Submodular Maximization: Any Improvement over $2-\\sqrt{2}$ Entails Exponential Queries or Linear Recourse",
+      "url": "https://arxiv.org/abs/2609.09986"
+    },
+    {
+      "text": "MIMIC-Note-Extract: A Large-Scale Structured Dataset Extracted from MIMIC-IV-Note Discharge Summaries",
+      "url": "https://arxiv.org/abs/2611.04685"
+    },
+    {
+      "text": "Dual-VaDE: Efficient and Robust Prototype Learning via Variational Dual-Domain Mixture Priors",
+      "url": "https://arxiv.org/abs/2611.05099"
+    },
+    {
+      "text": "EvoGroup: A Self-Evolving Harness for Group Agents in Shared Contexts",
+      "url": "https://arxiv.org/abs/2611.03868"
+    },
+    {
+      "text": "CAREFUL-Bench: Effect-Aware, Judge-Free Evaluation of Multi-Turn LLM Function Calling",
+      "url": "https://arxiv.org/abs/2611.02978"
+    },
+    {
+      "text": "AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data",
+      "url": "https://arxiv.org/abs/2611.03815"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MAS-Loop: Beyond One-Shot Orchestration towards Self-Evolving Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.38946"
+    },
+    {
+      "text": "Surrogate Models for Stochastic Al-Cu Phase-Field Solidification",
+      "url": "https://arxiv.org/abs/2611.04695"
+    },
+    {
+      "text": "What Should a Navigator Remember? Spatiotemporal Memory for Zero-Shot Vision-Language Navigation",
+      "url": "https://arxiv.org/abs/2610.38318"
+    },
+    {
+      "text": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+      "url": "https://arxiv.org/abs/2611.03685"
+    },
+    {
+      "text": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
+      "url": "https://arxiv.org/abs/2611.03684"
+    },
+    {
+      "text": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+      "url": "https://arxiv.org/abs/2611.04760"
+    },
+    {
+      "text": "Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards",
+      "url": "https://arxiv.org/abs/2611.04774"
+    },
+    {
+      "text": "Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling",
+      "url": "https://arxiv.org/abs/2611.04792"
+    }
+  ],
+  "lastUpdated": "2026-11-05T01:36:28Z"
+}
