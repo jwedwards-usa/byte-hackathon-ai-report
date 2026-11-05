@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #193: Progress May Dramatically Accelerate",
+    "url": "https://www.lesswrong.com/posts/NrQGzNcicMThuGEEM/ai-193-progress-may-dramatically-accelerate"
+  },
+  "topStories": [
+    {
+      "text": "The Changing Shape of Doom: My AI Safety Explainer",
+      "url": "https://www.lesswrong.com/posts/CHLEcahz5baFu8tso/the-changing-shape-of-doom-my-ai-safety-explainer"
+    },
+    {
+      "text": "OpenAI Says ChatGPT Now Runs a Fifth as Many Searches as Google",
+      "url": "https://dailyai.com/2026/11/openai-says-chatgpt-now-runs-a-fifth-as-many-searches-as-google/"
+    },
+    {
+      "text": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "People Should Resolve Tensions In AI Safety Research",
+      "url": "https://www.lesswrong.com/posts/tn4WSyrqr7ozGLjRy/people-should-resolve-tensions-in-ai-safety-research"
+    },
+    {
+      "text": "METR: Independent Assessment of AI R\u0026D Acceleration at Anthropic in October 2026",
+      "url": "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
+    },
+    {
+      "text": "Adversarial Training Can Further Hide a Backdoor, but Does It Improve Trigger Identification?",
+      "url": "https://www.lesswrong.com/posts/uKFrPK2oQo8LECrbh/adversarial-training-can-further-hide-a-backdoor-but-does-it"
+    },
+    {
+      "text": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+    },
+    {
+      "text": "Scheduling Data to Compute: Hierarchical Data Pipelining for LLM Training on AMD GPUs",
+      "url": "https://arxiv.org/abs/2611.05751"
+    },
+    {
+      "text": "BEYOND THE PROMPT: JAILBREAKING FUNCTION-CALLING LLMS VIA SIMULATED MODERATION TRACES",
+      "url": "https://arxiv.org/abs/2607.00481"
+    },
+    {
+      "text": "PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation",
+      "url": "https://arxiv.org/abs/2603.13275"
+    },
+    {
+      "text": "DailyAI Briefing: Data centres lose 40 of 41 local votes, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-data-centres-lose-40-of-41-local-votes-plus-4-more/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Effects of Parton Pair Correlations on Direct-Photon Yields and Elliptic Flow in Heavy-Ion Collisions",
+      "url": "https://arxiv.org/abs/2611.05042"
+    },
+    {
+      "text": "Domain-Adaptive Small Language Models for Structured Tax Code Prediction",
+      "url": "https://arxiv.org/abs/2507.10880"
+    },
+    {
+      "text": "Auditable Unlearning for LLMs",
+      "url": "https://arxiv.org/abs/2611.05866"
+    },
+    {
+      "text": "Structure, Dimensionality, and Distribution Shape - What Makes Pretraining Data Transferable, and Why the Input Pipeline Decides Which",
+      "url": "https://arxiv.org/abs/2611.04106"
+    },
+    {
+      "text": "Corralling AI Risks with Grassroots Contracts",
+      "url": "https://arxiv.org/abs/2611.06374"
+    },
+    {
+      "text": "TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport",
+      "url": "https://arxiv.org/abs/2611.04878"
+    },
+    {
+      "text": "S$^3$R: Fast and Faithful RL Rollouts via Self-Sparse Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.13202"
+    },
+    {
+      "text": "Auditing a Model-Hub Benchmark: Data Quality, Training Budgets, and Side Information in HuggingBench",
+      "url": "https://arxiv.org/abs/2611.03727"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "EmoTrack: Clinical-Semantic Modeling for Text-Based Depression Severity Estimation",
+      "url": "https://arxiv.org/abs/2605.22286"
+    },
+    {
+      "text": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
+      "url": "https://arxiv.org/abs/2611.00828"
+    },
+    {
+      "text": "Beyond Multi-Index Models: Learning Intersections of Degree-2 PTFs",
+      "url": "https://arxiv.org/abs/2611.05114"
+    },
+    {
+      "text": "SAT-ACT: Learning CDCL Branching from Outcome-Derived Action Preferences",
+      "url": "https://arxiv.org/abs/2610.41290"
+    },
+    {
+      "text": "Do Ray-Traced Cities Make a Better Channel Prior for an Unseen Site? A Pre-Registered Study in Simulation, and a Test on Measured Channels that Reverses It",
+      "url": "https://arxiv.org/abs/2611.05128"
+    },
+    {
+      "text": "PAC Learning with Multiple Correct Answers",
+      "url": "https://arxiv.org/abs/2611.05133"
+    },
+    {
+      "text": "Beyond Foundation Models: PFN Priors Improve Tabular Hyperparameter Optimization",
+      "url": "https://arxiv.org/abs/2611.05141"
+    },
+    {
+      "text": "KL for a KL: On-Policy Distillation with Control Variate Baseline",
+      "url": "https://arxiv.org/abs/2605.07865"
+    }
+  ],
+  "lastUpdated": "2026-11-05T20:06:58Z"
+}

@@ -1,23 +1,39 @@
 {
   "mainHeadline": {
-    "text": "Against Moloch #50",
-    "url": "https://www.lesswrong.com/posts/7PH4ee6KkGLEqrYqn/against-moloch-50"
+    "text": "AI #193: Progress May Dramatically Accelerate",
+    "url": "https://www.lesswrong.com/posts/NrQGzNcicMThuGEEM/ai-193-progress-may-dramatically-accelerate"
   },
   "topStories": [
+    {
+      "text": "The Changing Shape of Doom: My AI Safety Explainer",
+      "url": "https://www.lesswrong.com/posts/CHLEcahz5baFu8tso/the-changing-shape-of-doom-my-ai-safety-explainer"
+    },
     {
       "text": "OpenAI Says ChatGPT Now Runs a Fifth as Many Searches as Google",
       "url": "https://dailyai.com/2026/11/openai-says-chatgpt-now-runs-a-fifth-as-many-searches-as-google/"
     },
     {
-      "text": "OpenAI Will Now Pay Up to $172,000 for the Worst ChatGPT Bugs",
-      "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
-    },
-    {
-      "text": "PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation",
-      "url": "https://arxiv.org/abs/2603.13275"
+      "text": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
     }
   ],
   "leftColumn": [
+    {
+      "text": "People Should Resolve Tensions In AI Safety Research",
+      "url": "https://www.lesswrong.com/posts/tn4WSyrqr7ozGLjRy/people-should-resolve-tensions-in-ai-safety-research"
+    },
+    {
+      "text": "METR: Independent Assessment of AI R\u0026D Acceleration at Anthropic in October 2026",
+      "url": "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
+    },
+    {
+      "text": "Adversarial Training Can Further Hide a Backdoor, but Does It Improve Trigger Identification?",
+      "url": "https://www.lesswrong.com/posts/uKFrPK2oQo8LECrbh/adversarial-training-can-further-hide-a-backdoor-but-does-it"
+    },
+    {
+      "text": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+    },
     {
       "text": "Scheduling Data to Compute: Hierarchical Data Pipelining for LLM Training on AMD GPUs",
       "url": "https://arxiv.org/abs/2611.05751"
@@ -27,97 +43,81 @@
       "url": "https://arxiv.org/abs/2607.00481"
     },
     {
-      "text": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
-      "url": "https://arxiv.org/abs/2611.05590"
+      "text": "PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation",
+      "url": "https://arxiv.org/abs/2603.13275"
     },
     {
-      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
-      "url": "https://arxiv.org/abs/2508.19008"
-    },
-    {
-      "text": "Introducing the AI Security Institutes tracker",
-      "url": "https://www.lesswrong.com/posts/pvNGd4tCfEfTxcDtz/introducing-the-ai-security-institutes-tracker"
-    },
-    {
-      "text": "PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?",
-      "url": "https://arxiv.org/abs/2611.05759"
-    },
-    {
-      "text": "Dual-Node NVIDIA DGX Spark over Tailscale: A Remote-Access Testbed for Distributed LLM Training and Cyber-Threat-Intelligence Fine-Tuning",
-      "url": "https://arxiv.org/abs/2608.07226"
-    },
-    {
-      "text": "TransfoRhythm: A Transformer Architecture Conductive to Blood Pressure Estimation via Solo PPG Signal Capturing",
-      "url": "https://arxiv.org/abs/2404.15352"
+      "text": "DailyAI Briefing: Data centres lose 40 of 41 local votes, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-data-centres-lose-40-of-41-local-votes-plus-4-more/"
     }
   ],
   "centerColumn": [
     {
-      "text": "Discarded or Unreachable? Diagnosing and Repairing Spatial Relation Failure in Vision--Language Similarity",
-      "url": "https://arxiv.org/abs/2611.05565"
+      "text": "Effects of Parton Pair Correlations on Direct-Photon Yields and Elliptic Flow in Heavy-Ion Collisions",
+      "url": "https://arxiv.org/abs/2611.05042"
     },
     {
-      "text": "Fairness Metrics based on the AUC in Clinical Predictive AI",
-      "url": "https://arxiv.org/abs/2611.05222"
+      "text": "Domain-Adaptive Small Language Models for Structured Tax Code Prediction",
+      "url": "https://arxiv.org/abs/2507.10880"
     },
     {
-      "text": "Post-Inference Model Chaining: A Problem Statement and a Model-based Bootstrap for Training End-to-End Digital Twins",
-      "url": "https://arxiv.org/abs/2611.05225"
+      "text": "Auditable Unlearning for LLMs",
+      "url": "https://arxiv.org/abs/2611.05866"
     },
     {
-      "text": "Generative AI for urban planning: synthesizing land-use maps with satellite imagery via DualControlNet",
-      "url": "https://arxiv.org/abs/2611.05859"
+      "text": "Structure, Dimensionality, and Distribution Shape - What Makes Pretraining Data Transferable, and Why the Input Pipeline Decides Which",
+      "url": "https://arxiv.org/abs/2611.04106"
     },
     {
-      "text": "Sample-Grained Approximate Unlearning with Provable Per-Sample Bounds",
-      "url": "https://arxiv.org/abs/2611.04501"
+      "text": "Corralling AI Risks with Grassroots Contracts",
+      "url": "https://arxiv.org/abs/2611.06374"
     },
     {
-      "text": "Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding",
-      "url": "https://arxiv.org/abs/2603.25251"
+      "text": "TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport",
+      "url": "https://arxiv.org/abs/2611.04878"
     },
     {
-      "text": "Certified Circuits: Stability Guarantees for Mechanistic Circuits",
-      "url": "https://arxiv.org/abs/2602.22968"
+      "text": "S$^3$R: Fast and Faithful RL Rollouts via Self-Sparse Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.13202"
     },
     {
-      "text": "Do Saliency Maps Fail Dense Breasts? A Chance-Normalized, Confounder-Aware Audit of Explanation Fairness in Mammography",
-      "url": "https://arxiv.org/abs/2611.05909"
+      "text": "Auditing a Model-Hub Benchmark: Data Quality, Training Budgets, and Side Information in HuggingBench",
+      "url": "https://arxiv.org/abs/2611.03727"
     }
   ],
   "rightColumn": [
     {
-      "text": "Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity",
-      "url": "https://arxiv.org/abs/2611.05202"
+      "text": "EmoTrack: Clinical-Semantic Modeling for Text-Based Depression Severity Estimation",
+      "url": "https://arxiv.org/abs/2605.22286"
     },
     {
-      "text": "Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning",
-      "url": "https://arxiv.org/abs/2611.05207"
+      "text": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
+      "url": "https://arxiv.org/abs/2611.00828"
     },
     {
-      "text": "Dexterous In-Hand Object Pose Reaching with Learned Safety Filters",
-      "url": "https://arxiv.org/abs/2610.37652"
+      "text": "Beyond Multi-Index Models: Learning Intersections of Degree-2 PTFs",
+      "url": "https://arxiv.org/abs/2611.05114"
     },
     {
-      "text": "Designing Benchmarks for Knowledge Work",
-      "url": "https://arxiv.org/abs/2605.23262"
+      "text": "SAT-ACT: Learning CDCL Branching from Outcome-Derived Action Preferences",
+      "url": "https://arxiv.org/abs/2610.41290"
     },
     {
-      "text": "Learning to Learn from Multimodal Experience",
-      "url": "https://arxiv.org/abs/2605.16857"
+      "text": "Do Ray-Traced Cities Make a Better Channel Prior for an Unseen Site? A Pre-Registered Study in Simulation, and a Test on Measured Channels that Reverses It",
+      "url": "https://arxiv.org/abs/2611.05128"
     },
     {
-      "text": "Baba in Wonderland: Online Self-Supervised Dynamics Discovery for Executable World Models",
-      "url": "https://arxiv.org/abs/2605.16725"
+      "text": "PAC Learning with Multiple Correct Answers",
+      "url": "https://arxiv.org/abs/2611.05133"
     },
     {
-      "text": "Reinforcement Learning in GUI Agents: A Survey Toward Digital Inhabitants",
-      "url": "https://arxiv.org/abs/2604.27955"
+      "text": "Beyond Foundation Models: PFN Priors Improve Tabular Hyperparameter Optimization",
+      "url": "https://arxiv.org/abs/2611.05141"
     },
     {
-      "text": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2604.23239"
+      "text": "KL for a KL: On-Policy Distillation with Control Variate Baseline",
+      "url": "https://arxiv.org/abs/2605.07865"
     }
   ],
-  "lastUpdated": "2026-11-05T10:51:07Z"
+  "lastUpdated": "2026-11-05T20:06:58Z"
 }
