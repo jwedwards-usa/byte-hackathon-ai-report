@@ -13,111 +13,111 @@
       "url": "https://dailyai.com/2026/11/openai-will-now-pay-up-to-172000-for-the-worst-chatgpt-bugs/"
     },
     {
-      "text": "The Midterms and AI Development",
-      "url": "https://www.lesswrong.com/posts/SdxT3AFFxcngqJfC3/the-midterms-and-ai-development"
+      "text": "PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation",
+      "url": "https://arxiv.org/abs/2603.13275"
     }
   ],
   "leftColumn": [
     {
-      "text": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
-      "url": "https://arxiv.org/abs/2610.40890"
+      "text": "Scheduling Data to Compute: Hierarchical Data Pipelining for LLM Training on AMD GPUs",
+      "url": "https://arxiv.org/abs/2611.05751"
     },
     {
-      "text": "OPENAI: ASTRA COVERTLY UNDERPERFORMS ON SAFETY RESEARCH",
-      "url": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research"
+      "text": "BEYOND THE PROMPT: JAILBREAKING FUNCTION-CALLING LLMS VIA SIMULATED MODERATION TRACES",
+      "url": "https://arxiv.org/abs/2607.00481"
     },
     {
-      "text": "ALBI: LLM-Guided Inductive Logic Programming via Iterative Generate-Test-Constrain Refineme",
-      "url": "https://arxiv.org/abs/2611.05039"
+      "text": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
+      "url": "https://arxiv.org/abs/2611.05590"
     },
     {
-      "text": "Dialogue with Gabriel Alfour on Emergent Wisdom, Coordination, Growing Up, and Democratic Republicanism",
-      "url": "https://www.lesswrong.com/posts/bGyMpy6SLyMhbHFCR/dialogue-with-gabriel-alfour-on-emergent-wisdom-coordination"
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
     },
     {
-      "text": "Model's \"emotions\" noticeably change when they take risky actions\n",
-      "url": "https://www.lesswrong.com/posts/PYcqf9DBMGjTyJSjg/model-s-emotions-noticeably-change-when-they-take-risky-1"
+      "text": "Introducing the AI Security Institutes tracker",
+      "url": "https://www.lesswrong.com/posts/pvNGd4tCfEfTxcDtz/introducing-the-ai-security-institutes-tracker"
     },
     {
-      "text": "DailyAI Briefing: Anthropic’s $17bn quarter ends in a loss, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-17bn-quarter-ends-in-a-loss-plus-4-more/"
+      "text": "PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?",
+      "url": "https://arxiv.org/abs/2611.05759"
     },
     {
-      "text": "CHATGPT WILL NOW MAKE YOU ANIMATED GIFS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+      "text": "Dual-Node NVIDIA DGX Spark over Tailscale: A Remote-Access Testbed for Distributed LLM Training and Cyber-Threat-Intelligence Fine-Tuning",
+      "url": "https://arxiv.org/abs/2608.07226"
     },
     {
-      "text": "BENGALURU AI JAILBREAKING WORKSHOP RETROSPECTIVE",
-      "url": "https://www.lesswrong.com/posts/QWeFCksxab9LYo8vT/bengaluru-ai-jailbreaking-workshop-retrospective"
+      "text": "TransfoRhythm: A Transformer Architecture Conductive to Blood Pressure Estimation via Solo PPG Signal Capturing",
+      "url": "https://arxiv.org/abs/2404.15352"
     }
   ],
   "centerColumn": [
     {
-      "text": "LoRA-Patch: Defending Against Backdoored LoRA Adapters via Directional Steering",
-      "url": "https://arxiv.org/abs/2611.03752"
+      "text": "Discarded or Unreachable? Diagnosing and Repairing Spatial Relation Failure in Vision--Language Similarity",
+      "url": "https://arxiv.org/abs/2611.05565"
     },
     {
-      "text": "The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents",
-      "url": "https://arxiv.org/abs/2611.03754"
+      "text": "Fairness Metrics based on the AUC in Clinical Predictive AI",
+      "url": "https://arxiv.org/abs/2611.05222"
     },
     {
-      "text": "A Sharp Barrier of Consistent Submodular Maximization: Any Improvement over $2-\\sqrt{2}$ Entails Exponential Queries or Linear Recourse",
-      "url": "https://arxiv.org/abs/2609.09986"
+      "text": "Post-Inference Model Chaining: A Problem Statement and a Model-based Bootstrap for Training End-to-End Digital Twins",
+      "url": "https://arxiv.org/abs/2611.05225"
     },
     {
-      "text": "MIMIC-Note-Extract: A Large-Scale Structured Dataset Extracted from MIMIC-IV-Note Discharge Summaries",
-      "url": "https://arxiv.org/abs/2611.04685"
+      "text": "Generative AI for urban planning: synthesizing land-use maps with satellite imagery via DualControlNet",
+      "url": "https://arxiv.org/abs/2611.05859"
     },
     {
-      "text": "Dual-VaDE: Efficient and Robust Prototype Learning via Variational Dual-Domain Mixture Priors",
-      "url": "https://arxiv.org/abs/2611.05099"
+      "text": "Sample-Grained Approximate Unlearning with Provable Per-Sample Bounds",
+      "url": "https://arxiv.org/abs/2611.04501"
     },
     {
-      "text": "EvoGroup: A Self-Evolving Harness for Group Agents in Shared Contexts",
-      "url": "https://arxiv.org/abs/2611.03868"
+      "text": "Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding",
+      "url": "https://arxiv.org/abs/2603.25251"
     },
     {
-      "text": "CAREFUL-Bench: Effect-Aware, Judge-Free Evaluation of Multi-Turn LLM Function Calling",
-      "url": "https://arxiv.org/abs/2611.02978"
+      "text": "Certified Circuits: Stability Guarantees for Mechanistic Circuits",
+      "url": "https://arxiv.org/abs/2602.22968"
     },
     {
-      "text": "AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data",
-      "url": "https://arxiv.org/abs/2611.03815"
+      "text": "Do Saliency Maps Fail Dense Breasts? A Chance-Normalized, Confounder-Aware Audit of Explanation Fairness in Mammography",
+      "url": "https://arxiv.org/abs/2611.05909"
     }
   ],
   "rightColumn": [
     {
-      "text": "MAS-Loop: Beyond One-Shot Orchestration towards Self-Evolving Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2610.38946"
+      "text": "Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity",
+      "url": "https://arxiv.org/abs/2611.05202"
     },
     {
-      "text": "Surrogate Models for Stochastic Al-Cu Phase-Field Solidification",
-      "url": "https://arxiv.org/abs/2611.04695"
+      "text": "Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.05207"
     },
     {
-      "text": "What Should a Navigator Remember? Spatiotemporal Memory for Zero-Shot Vision-Language Navigation",
-      "url": "https://arxiv.org/abs/2610.38318"
+      "text": "Dexterous In-Hand Object Pose Reaching with Learned Safety Filters",
+      "url": "https://arxiv.org/abs/2610.37652"
     },
     {
-      "text": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
-      "url": "https://arxiv.org/abs/2611.03685"
+      "text": "Designing Benchmarks for Knowledge Work",
+      "url": "https://arxiv.org/abs/2605.23262"
     },
     {
-      "text": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
-      "url": "https://arxiv.org/abs/2611.03684"
+      "text": "Learning to Learn from Multimodal Experience",
+      "url": "https://arxiv.org/abs/2605.16857"
     },
     {
-      "text": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
-      "url": "https://arxiv.org/abs/2611.04760"
+      "text": "Baba in Wonderland: Online Self-Supervised Dynamics Discovery for Executable World Models",
+      "url": "https://arxiv.org/abs/2605.16725"
     },
     {
-      "text": "Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards",
-      "url": "https://arxiv.org/abs/2611.04774"
+      "text": "Reinforcement Learning in GUI Agents: A Survey Toward Digital Inhabitants",
+      "url": "https://arxiv.org/abs/2604.27955"
     },
     {
-      "text": "Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling",
-      "url": "https://arxiv.org/abs/2611.04792"
+      "text": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2604.23239"
     }
   ],
-  "lastUpdated": "2026-11-05T01:36:28Z"
+  "lastUpdated": "2026-11-05T10:51:07Z"
 }
