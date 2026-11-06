@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research",
-    "url": "https://arxiv.org/abs/2501.14546"
+    "text": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+    "url": "https://www.lesswrong.com/posts/uc9ouDHMR2aw2ozsF/gpt-6-astra-covertly-underperforms-on-safety-research-tasks"
   },
   "topStories": [
     {
-      "text": "Frontier coding agents claim work they didn't do",
-      "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do"
+      "text": "Higher salaries in AI safety",
+      "url": "https://www.lesswrong.com/posts/HtMvB7XEFThvDLLzT/higher-salaries-in-ai-safety"
     },
     {
-      "text": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
-      "url": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other"
+      "text": "Dialogue with Richard Ngo on Alignment, Hierarchical Integrity of Human-AI systems, Revolution, and Power",
+      "url": "https://www.lesswrong.com/posts/AGsZXczCzqxZQnEEi/dialogue-with-richard-ngo-on-alignment-hierarchical"
     },
     {
-      "text": "Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring \"Weight-Space Programming\"",
-      "url": "https://arxiv.org/abs/2611.08070"
+      "text": "Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research",
+      "url": "https://arxiv.org/abs/2501.14546"
     }
   ],
   "leftColumn": [
     {
-      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
-      "url": "https://arxiv.org/abs/2508.19008"
-    },
-    {
-      "text": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-      "url": "https://arxiv.org/abs/2611.08438"
-    },
-    {
-      "text": "Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks",
-      "url": "https://arxiv.org/abs/2509.26092"
-    },
-    {
-      "text": "Coding with the Enemy: Can Human Developers Detect AI Agent Sabotage?",
-      "url": "https://arxiv.org/abs/2606.05647"
+      "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
+      "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
     },
     {
       "text": "Argue about Risk Management Speed, not p(doom)",
       "url": "https://www.lesswrong.com/posts/7Qe2wP9Hi4Eq4QacA/argue-about-risk-management-speed-not-p-doom"
     },
     {
-      "text": "How much will conceptual reasoning training transfer to ML research abilities?",
-      "url": "https://www.lesswrong.com/posts/dxekbXfTCpQhuASSz/how-much-will-conceptual-reasoning-training-transfer-to-ml"
+      "text": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
+      "url": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other"
     },
     {
-      "text": "LITMUS: Benchmarking Behavioral Jailbreaks of LLM Agents in Real OS Environments",
-      "url": "https://arxiv.org/abs/2605.10779"
+      "text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron"
     },
     {
-      "text": "B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data",
-      "url": "https://arxiv.org/abs/2505.22252"
+      "text": "Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks",
+      "url": "https://arxiv.org/abs/2509.26092"
+    },
+    {
+      "text": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "url": "https://arxiv.org/abs/2611.08438"
+    },
+    {
+      "text": "Coding with the Enemy: Can Human Developers Detect AI Agent Sabotage?",
+      "url": "https://arxiv.org/abs/2606.05647"
+    },
+    {
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
     }
   ],
   "centerColumn": [
     {
-      "text": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
-      "url": "https://arxiv.org/abs/2611.07909"
+      "text": "Training-Free Character-Length Control in Summarization with Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.06371"
     },
     {
-      "text": "Adversarial Robustness of Kernel Machines: A Comprehensive Analysis",
-      "url": "https://arxiv.org/abs/2611.07474"
+      "text": "An Assessment of Human vs. Model Uncertainty in Soft-Label Learning and Calibration",
+      "url": "https://arxiv.org/abs/2605.18648"
     },
     {
-      "text": "Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding",
-      "url": "https://arxiv.org/abs/2611.07845"
+      "text": "Keeping Jerk in Check: Jointly Trained Perception-Gated Experts for Smooth Terrain Transitions",
+      "url": "https://arxiv.org/abs/2606.19633"
     },
     {
-      "text": "Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics",
-      "url": "https://arxiv.org/abs/2611.07478"
+      "text": "Scientist World: Grow a Research World for AI-Scientists",
+      "url": "https://arxiv.org/abs/2611.08478"
     },
     {
-      "text": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone",
-      "url": "https://arxiv.org/abs/2611.07610"
+      "text": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "url": "https://arxiv.org/abs/2611.06972"
     },
     {
-      "text": "Randomized and Oracle-Based Feasible Directions Methods for Nonsmooth Nonconvex Constrained Optimization",
-      "url": "https://arxiv.org/abs/2611.07691"
+      "text": "Bayesian Tensor Train Kernel Machines with Automatic Model Complexity Inference",
+      "url": "https://arxiv.org/abs/2611.07129"
     },
     {
-      "text": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
-      "url": "https://arxiv.org/abs/2611.07554"
+      "text": "Neural Compression over Equivalence Classes: Exact Gauges and Functional Rate-Distortion",
+      "url": "https://arxiv.org/abs/2611.07233"
     },
     {
-      "text": "Secure Formal Raising: Protecting the Development of AI through Executable Properties",
-      "url": "https://arxiv.org/abs/2611.08042"
+      "text": "Deep Barycentric Regression for Optimal Transport Map Estimation and Its Statistical Optimality",
+      "url": "https://arxiv.org/abs/2609.06598"
     }
   ],
   "rightColumn": [
     {
-      "text": "Steer2Edit: From Activation Steering to Component-Level Editing",
-      "url": "https://arxiv.org/abs/2602.09870"
+      "text": "Physics-Attested Federated Learning: Securing Collaborative Anomaly Detection in Critical Water Infrastructure",
+      "url": "https://arxiv.org/abs/2609.34804"
     },
     {
-      "text": "Learning Dynamics of On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2611.08016"
+      "text": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+      "url": "https://arxiv.org/abs/2611.08403"
     },
     {
-      "text": "MUSS: A Multi-scale and Sequence-based Model for Single-cell Gene Regulation",
-      "url": "https://arxiv.org/abs/2611.08086"
+      "text": "Undertone: Personalizing Frozen VLM Aesthetic Judges from Few Ratings",
+      "url": "https://arxiv.org/abs/2609.27110"
     },
     {
-      "text": "Persistent Retrieval for Conversational Agents: A Study of Retrieval Efficiency",
-      "url": "https://arxiv.org/abs/2611.07899"
+      "text": "Counterexamples and Sufficient Conditions: Comments on \"Optimally-Transported Generalized Method of Moments\"",
+      "url": "https://arxiv.org/abs/2609.20260"
     },
     {
-      "text": "Depth or Description? When a One-Step Latent Score Replaces Lookahead in Proactive Information Acquisition",
-      "url": "https://arxiv.org/abs/2611.07155"
+      "text": "Population-Scalable Multi-Agent World Modeling across Scene Geometries",
+      "url": "https://arxiv.org/abs/2608.08600"
     },
     {
-      "text": "Teaching Agents the \"Principle\", Not the \"Reward\"",
-      "url": "https://arxiv.org/abs/2611.07130"
+      "text": "Integrating Background Knowledge for Scalable Causal Discovery",
+      "url": "https://arxiv.org/abs/2607.10456"
     },
     {
-      "text": "DIAL: Direct Iterative Adversarial Learning for Realistic Multi-Turn Dialogue Simulation",
-      "url": "https://arxiv.org/abs/2512.20773"
+      "text": "Querying Counterfactuals on Tissue Graphs with Supervised Disentanglement",
+      "url": "https://arxiv.org/abs/2606.08493"
     },
     {
-      "text": "Optimal Competitive Ratios for Chasing Convex Functions with Quadratic Growth",
-      "url": "https://arxiv.org/abs/2611.08078"
+      "text": "Discourse Analysis of Legislative Bill Discussions",
+      "url": "https://arxiv.org/abs/2611.05381"
     }
   ],
-  "lastUpdated": "2026-11-06T10:58:50Z"
+  "lastUpdated": "2026-11-06T19:21:31Z"
 }
