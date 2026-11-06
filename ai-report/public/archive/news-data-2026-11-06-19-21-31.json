@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+    "url": "https://www.lesswrong.com/posts/uc9ouDHMR2aw2ozsF/gpt-6-astra-covertly-underperforms-on-safety-research-tasks"
+  },
+  "topStories": [
+    {
+      "text": "Higher salaries in AI safety",
+      "url": "https://www.lesswrong.com/posts/HtMvB7XEFThvDLLzT/higher-salaries-in-ai-safety"
+    },
+    {
+      "text": "Dialogue with Richard Ngo on Alignment, Hierarchical Integrity of Human-AI systems, Revolution, and Power",
+      "url": "https://www.lesswrong.com/posts/AGsZXczCzqxZQnEEi/dialogue-with-richard-ngo-on-alignment-hierarchical"
+    },
+    {
+      "text": "Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research",
+      "url": "https://arxiv.org/abs/2501.14546"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
+      "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
+    },
+    {
+      "text": "Argue about Risk Management Speed, not p(doom)",
+      "url": "https://www.lesswrong.com/posts/7Qe2wP9Hi4Eq4QacA/argue-about-risk-management-speed-not-p-doom"
+    },
+    {
+      "text": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
+      "url": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other"
+    },
+    {
+      "text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "text": "Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks",
+      "url": "https://arxiv.org/abs/2509.26092"
+    },
+    {
+      "text": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "url": "https://arxiv.org/abs/2611.08438"
+    },
+    {
+      "text": "Coding with the Enemy: Can Human Developers Detect AI Agent Sabotage?",
+      "url": "https://arxiv.org/abs/2606.05647"
+    },
+    {
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Training-Free Character-Length Control in Summarization with Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.06371"
+    },
+    {
+      "text": "An Assessment of Human vs. Model Uncertainty in Soft-Label Learning and Calibration",
+      "url": "https://arxiv.org/abs/2605.18648"
+    },
+    {
+      "text": "Keeping Jerk in Check: Jointly Trained Perception-Gated Experts for Smooth Terrain Transitions",
+      "url": "https://arxiv.org/abs/2606.19633"
+    },
+    {
+      "text": "Scientist World: Grow a Research World for AI-Scientists",
+      "url": "https://arxiv.org/abs/2611.08478"
+    },
+    {
+      "text": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "url": "https://arxiv.org/abs/2611.06972"
+    },
+    {
+      "text": "Bayesian Tensor Train Kernel Machines with Automatic Model Complexity Inference",
+      "url": "https://arxiv.org/abs/2611.07129"
+    },
+    {
+      "text": "Neural Compression over Equivalence Classes: Exact Gauges and Functional Rate-Distortion",
+      "url": "https://arxiv.org/abs/2611.07233"
+    },
+    {
+      "text": "Deep Barycentric Regression for Optimal Transport Map Estimation and Its Statistical Optimality",
+      "url": "https://arxiv.org/abs/2609.06598"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Physics-Attested Federated Learning: Securing Collaborative Anomaly Detection in Critical Water Infrastructure",
+      "url": "https://arxiv.org/abs/2609.34804"
+    },
+    {
+      "text": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+      "url": "https://arxiv.org/abs/2611.08403"
+    },
+    {
+      "text": "Undertone: Personalizing Frozen VLM Aesthetic Judges from Few Ratings",
+      "url": "https://arxiv.org/abs/2609.27110"
+    },
+    {
+      "text": "Counterexamples and Sufficient Conditions: Comments on \"Optimally-Transported Generalized Method of Moments\"",
+      "url": "https://arxiv.org/abs/2609.20260"
+    },
+    {
+      "text": "Population-Scalable Multi-Agent World Modeling across Scene Geometries",
+      "url": "https://arxiv.org/abs/2608.08600"
+    },
+    {
+      "text": "Integrating Background Knowledge for Scalable Causal Discovery",
+      "url": "https://arxiv.org/abs/2607.10456"
+    },
+    {
+      "text": "Querying Counterfactuals on Tissue Graphs with Supervised Disentanglement",
+      "url": "https://arxiv.org/abs/2606.08493"
+    },
+    {
+      "text": "Discourse Analysis of Legislative Bill Discussions",
+      "url": "https://arxiv.org/abs/2611.05381"
+    }
+  ],
+  "lastUpdated": "2026-11-06T19:21:31Z"
+}
