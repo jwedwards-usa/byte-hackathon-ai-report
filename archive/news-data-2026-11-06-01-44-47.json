@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Frontier coding agents claim work they didn't do",
+    "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do"
+  },
+  "topStories": [
+    {
+      "text": "AI #193: Progress May Dramatically Accelerate",
+      "url": "https://www.lesswrong.com/posts/NrQGzNcicMThuGEEM/ai-193-progress-may-dramatically-accelerate"
+    },
+    {
+      "text": "OpenAI Says ChatGPT Now Runs a Fifth as Many Searches as Google",
+      "url": "https://dailyai.com/2026/11/openai-says-chatgpt-now-runs-a-fifth-as-many-searches-as-google/"
+    },
+    {
+      "text": "Humans can (almost) natively read neural network weights",
+      "url": "https://www.lesswrong.com/posts/uvKSq6eWkud997ie7/humans-can-almost-natively-read-neural-network-weights"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai"
+    },
+    {
+      "text": "PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation",
+      "url": "https://arxiv.org/abs/2603.13275"
+    },
+    {
+      "text": "Scheduling Data to Compute: Hierarchical Data Pipelining for LLM Training on AMD GPUs",
+      "url": "https://arxiv.org/abs/2611.05751"
+    },
+    {
+      "text": "BEYOND THE PROMPT: JAILBREAKING FUNCTION-CALLING LLMS VIA SIMULATED MODERATION TRACES",
+      "url": "https://arxiv.org/abs/2607.00481"
+    },
+    {
+      "text": "OPENAI IS STEPPING BACK FROM NDAS FOR DATA CENTER PROJECTS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+    },
+    {
+      "text": "Why would an AI pause (significantly) hurt the economy?",
+      "url": "https://www.lesswrong.com/posts/aXA73PnhdJXPb4SWn/why-would-an-ai-pause-significantly-hurt-the-economy"
+    },
+    {
+      "text": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+    },
+    {
+      "text": "ChatGPT Now Makes Animated GIFs as Image Use Hits 4 Billion a Week",
+      "url": "https://dailyai.com/2026/11/chatgpt-now-makes-animated-gifs-as-image-use-hits-4-billion-a-week/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Decoupling Knowledge and Privacy: Post-Task Self-Distillation Replay for LLM Continual Learning",
+      "url": "https://arxiv.org/abs/2609.29711"
+    },
+    {
+      "text": "Unlocking Turing Tensor Cores: A Measured Throughput Account of From-Scratch Pre-training on a Single 22G RTX 2080 Ti",
+      "url": "https://arxiv.org/abs/2611.05419"
+    },
+    {
+      "text": "Where Should a KV-Cache Repair Budget Go? Distractor Structure and Contextual Compatibility in Non-Prefix Reuse",
+      "url": "https://arxiv.org/abs/2611.06397"
+    },
+    {
+      "text": "GREP: Grounding Generated Room Evaluation in Principles",
+      "url": "https://arxiv.org/abs/2611.05802"
+    },
+    {
+      "text": "Shared Geometry As A Rosetta Stone: Cross-Modal Alignment Without Paired Data",
+      "url": "https://arxiv.org/abs/2610.09411"
+    },
+    {
+      "text": "TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport",
+      "url": "https://arxiv.org/abs/2611.04878"
+    },
+    {
+      "text": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+      "url": "https://arxiv.org/abs/2611.05373"
+    },
+    {
+      "text": "Hardware-Aware Design and Layout Selection in Quantum Reservoir Computing for Insurance Claims Forecasting",
+      "url": "https://arxiv.org/abs/2611.03891"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games",
+      "url": "https://arxiv.org/abs/2606.25997"
+    },
+    {
+      "text": "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning",
+      "url": "https://arxiv.org/abs/2606.12109"
+    },
+    {
+      "text": "Recon: Reconstruction-Guided Reasoning Synthesis for User Modeling",
+      "url": "https://arxiv.org/abs/2605.26969"
+    },
+    {
+      "text": "EmoTrack: Clinical-Semantic Modeling for Text-Based Depression Severity Estimation",
+      "url": "https://arxiv.org/abs/2605.22286"
+    },
+    {
+      "text": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
+      "url": "https://arxiv.org/abs/2611.00828"
+    },
+    {
+      "text": "SAT-ACT: Learning CDCL Branching from Outcome-Derived Action Preferences",
+      "url": "https://arxiv.org/abs/2610.41290"
+    },
+    {
+      "text": "Beyond Multi-Index Models: Learning Intersections of Degree-2 PTFs",
+      "url": "https://arxiv.org/abs/2611.05114"
+    },
+    {
+      "text": "KL for a KL: On-Policy Distillation with Control Variate Baseline",
+      "url": "https://arxiv.org/abs/2605.07865"
+    }
+  ],
+  "lastUpdated": "2026-11-06T01:44:47Z"
+}
