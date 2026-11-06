@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Frontier coding agents claim work they didn't do",
-    "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do"
+    "text": "Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research",
+    "url": "https://arxiv.org/abs/2501.14546"
   },
   "topStories": [
     {
-      "text": "AI #193: Progress May Dramatically Accelerate",
-      "url": "https://www.lesswrong.com/posts/NrQGzNcicMThuGEEM/ai-193-progress-may-dramatically-accelerate"
+      "text": "Frontier coding agents claim work they didn't do",
+      "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do"
     },
     {
-      "text": "OpenAI Says ChatGPT Now Runs a Fifth as Many Searches as Google",
-      "url": "https://dailyai.com/2026/11/openai-says-chatgpt-now-runs-a-fifth-as-many-searches-as-google/"
+      "text": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
+      "url": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other"
     },
     {
-      "text": "Humans can (almost) natively read neural network weights",
-      "url": "https://www.lesswrong.com/posts/uvKSq6eWkud997ie7/humans-can-almost-natively-read-neural-network-weights"
+      "text": "Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring \"Weight-Space Programming\"",
+      "url": "https://arxiv.org/abs/2611.08070"
     }
   ],
   "leftColumn": [
     {
-      "text": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai"
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
     },
     {
-      "text": "PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation",
-      "url": "https://arxiv.org/abs/2603.13275"
+      "text": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "url": "https://arxiv.org/abs/2611.08438"
     },
     {
-      "text": "Scheduling Data to Compute: Hierarchical Data Pipelining for LLM Training on AMD GPUs",
-      "url": "https://arxiv.org/abs/2611.05751"
+      "text": "Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks",
+      "url": "https://arxiv.org/abs/2509.26092"
     },
     {
-      "text": "BEYOND THE PROMPT: JAILBREAKING FUNCTION-CALLING LLMS VIA SIMULATED MODERATION TRACES",
-      "url": "https://arxiv.org/abs/2607.00481"
+      "text": "Coding with the Enemy: Can Human Developers Detect AI Agent Sabotage?",
+      "url": "https://arxiv.org/abs/2606.05647"
     },
     {
-      "text": "OPENAI IS STEPPING BACK FROM NDAS FOR DATA CENTER PROJECTS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+      "text": "Argue about Risk Management Speed, not p(doom)",
+      "url": "https://www.lesswrong.com/posts/7Qe2wP9Hi4Eq4QacA/argue-about-risk-management-speed-not-p-doom"
     },
     {
-      "text": "Why would an AI pause (significantly) hurt the economy?",
-      "url": "https://www.lesswrong.com/posts/aXA73PnhdJXPb4SWn/why-would-an-ai-pause-significantly-hurt-the-economy"
+      "text": "How much will conceptual reasoning training transfer to ML research abilities?",
+      "url": "https://www.lesswrong.com/posts/dxekbXfTCpQhuASSz/how-much-will-conceptual-reasoning-training-transfer-to-ml"
     },
     {
-      "text": "Claude AI can plug directly into your bank account",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+      "text": "LITMUS: Benchmarking Behavioral Jailbreaks of LLM Agents in Real OS Environments",
+      "url": "https://arxiv.org/abs/2605.10779"
     },
     {
-      "text": "ChatGPT Now Makes Animated GIFs as Image Use Hits 4 Billion a Week",
-      "url": "https://dailyai.com/2026/11/chatgpt-now-makes-animated-gifs-as-image-use-hits-4-billion-a-week/"
+      "text": "B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data",
+      "url": "https://arxiv.org/abs/2505.22252"
     }
   ],
   "centerColumn": [
     {
-      "text": "Decoupling Knowledge and Privacy: Post-Task Self-Distillation Replay for LLM Continual Learning",
-      "url": "https://arxiv.org/abs/2609.29711"
+      "text": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
+      "url": "https://arxiv.org/abs/2611.07909"
     },
     {
-      "text": "Unlocking Turing Tensor Cores: A Measured Throughput Account of From-Scratch Pre-training on a Single 22G RTX 2080 Ti",
-      "url": "https://arxiv.org/abs/2611.05419"
+      "text": "Adversarial Robustness of Kernel Machines: A Comprehensive Analysis",
+      "url": "https://arxiv.org/abs/2611.07474"
     },
     {
-      "text": "Where Should a KV-Cache Repair Budget Go? Distractor Structure and Contextual Compatibility in Non-Prefix Reuse",
-      "url": "https://arxiv.org/abs/2611.06397"
+      "text": "Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding",
+      "url": "https://arxiv.org/abs/2611.07845"
     },
     {
-      "text": "GREP: Grounding Generated Room Evaluation in Principles",
-      "url": "https://arxiv.org/abs/2611.05802"
+      "text": "Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics",
+      "url": "https://arxiv.org/abs/2611.07478"
     },
     {
-      "text": "Shared Geometry As A Rosetta Stone: Cross-Modal Alignment Without Paired Data",
-      "url": "https://arxiv.org/abs/2610.09411"
+      "text": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone",
+      "url": "https://arxiv.org/abs/2611.07610"
     },
     {
-      "text": "TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport",
-      "url": "https://arxiv.org/abs/2611.04878"
+      "text": "Randomized and Oracle-Based Feasible Directions Methods for Nonsmooth Nonconvex Constrained Optimization",
+      "url": "https://arxiv.org/abs/2611.07691"
     },
     {
-      "text": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
-      "url": "https://arxiv.org/abs/2611.05373"
+      "text": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
+      "url": "https://arxiv.org/abs/2611.07554"
     },
     {
-      "text": "Hardware-Aware Design and Layout Selection in Quantum Reservoir Computing for Insurance Claims Forecasting",
-      "url": "https://arxiv.org/abs/2611.03891"
+      "text": "Secure Formal Raising: Protecting the Development of AI through Executable Properties",
+      "url": "https://arxiv.org/abs/2611.08042"
     }
   ],
   "rightColumn": [
     {
-      "text": "Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games",
-      "url": "https://arxiv.org/abs/2606.25997"
+      "text": "Steer2Edit: From Activation Steering to Component-Level Editing",
+      "url": "https://arxiv.org/abs/2602.09870"
     },
     {
-      "text": "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning",
-      "url": "https://arxiv.org/abs/2606.12109"
+      "text": "Learning Dynamics of On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.08016"
     },
     {
-      "text": "Recon: Reconstruction-Guided Reasoning Synthesis for User Modeling",
-      "url": "https://arxiv.org/abs/2605.26969"
+      "text": "MUSS: A Multi-scale and Sequence-based Model for Single-cell Gene Regulation",
+      "url": "https://arxiv.org/abs/2611.08086"
     },
     {
-      "text": "EmoTrack: Clinical-Semantic Modeling for Text-Based Depression Severity Estimation",
-      "url": "https://arxiv.org/abs/2605.22286"
+      "text": "Persistent Retrieval for Conversational Agents: A Study of Retrieval Efficiency",
+      "url": "https://arxiv.org/abs/2611.07899"
     },
     {
-      "text": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
-      "url": "https://arxiv.org/abs/2611.00828"
+      "text": "Depth or Description? When a One-Step Latent Score Replaces Lookahead in Proactive Information Acquisition",
+      "url": "https://arxiv.org/abs/2611.07155"
     },
     {
-      "text": "SAT-ACT: Learning CDCL Branching from Outcome-Derived Action Preferences",
-      "url": "https://arxiv.org/abs/2610.41290"
+      "text": "Teaching Agents the \"Principle\", Not the \"Reward\"",
+      "url": "https://arxiv.org/abs/2611.07130"
     },
     {
-      "text": "Beyond Multi-Index Models: Learning Intersections of Degree-2 PTFs",
-      "url": "https://arxiv.org/abs/2611.05114"
+      "text": "DIAL: Direct Iterative Adversarial Learning for Realistic Multi-Turn Dialogue Simulation",
+      "url": "https://arxiv.org/abs/2512.20773"
     },
     {
-      "text": "KL for a KL: On-Policy Distillation with Control Variate Baseline",
-      "url": "https://arxiv.org/abs/2605.07865"
+      "text": "Optimal Competitive Ratios for Chasing Convex Functions with Quadratic Growth",
+      "url": "https://arxiv.org/abs/2611.08078"
     }
   ],
-  "lastUpdated": "2026-11-06T01:44:47Z"
+  "lastUpdated": "2026-11-06T10:58:50Z"
 }
