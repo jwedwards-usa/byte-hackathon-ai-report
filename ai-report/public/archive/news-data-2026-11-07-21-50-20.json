@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "DailyAI Briefing: OpenAI locks $11bn at $1.25tn, plus 4 more",
+    "url": "https://dailyai.com/2026/11/dailyai-briefing-openai-locks-11bn-at-1-25tn-plus-4-more/"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
+      "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
+    },
+    {
+      "text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "text": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    },
+    {
+      "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+    },
+    {
+      "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+    },
+    {
+      "text": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "text": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "text": "GOOGLE BACKSTOPS $19B ANTHROPIC LEASE AT TERAWULF CAMPUS",
+      "url": "https://dailyai.com/2026/11/google-backstops-19b-anthropic-lease-at-terawulf-campus/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
+    {
+      "text": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+    },
+    {
+      "text": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+    },
+    {
+      "text": "How to Measure AI Adoption, Performance, and ROI With 12 KPIs",
+      "url": "https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/"
+    },
+    {
+      "text": "Build Your First Multi-Tool AI Agent with Ollama and Python",
+      "url": "https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/"
+    },
+    {
+      "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+    },
+    {
+      "text": "DOJ Stands Up a Super Intelligence Task Force for AI Crime",
+      "url": "https://dailyai.com/2026/11/doj-stands-up-a-super-intelligence-task-force-for-ai-crime/"
+    },
+    {
+      "text": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
+    },
+    {
+      "text": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
+      "url": "https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20/"
+    },
+    {
+      "text": "The typo generation is damaging literature",
+      "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature"
+    },
+    {
+      "text": "Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval",
+      "url": "https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/"
+    },
+    {
+      "text": "How to Prioritize Product Feedback by Revenue at Risk",
+      "url": "https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/"
+    },
+    {
+      "text": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+    },
+    {
+      "text": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+    },
+    {
+      "text": "How to Manage Python Environments with uv Instead of venv and pip",
+      "url": "https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/"
+    }
+  ],
+  "lastUpdated": "2026-11-07T21:50:20Z"
+}
