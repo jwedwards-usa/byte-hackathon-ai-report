@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research",
+    "url": "https://arxiv.org/abs/2501.14546"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
+      "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
+    },
+    {
+      "text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "url": "https://arxiv.org/abs/2611.08438"
+    },
+    {
+      "text": "Coding with the Enemy: Can Human Developers Detect AI Agent Sabotage?",
+      "url": "https://arxiv.org/abs/2606.05647"
+    },
+    {
+      "text": "Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring \"Weight-Space Programming\"",
+      "url": "https://arxiv.org/abs/2611.08070"
+    },
+    {
+      "text": "Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks",
+      "url": "https://arxiv.org/abs/2509.26092"
+    },
+    {
+      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
+      "url": "https://arxiv.org/abs/2508.19008"
+    },
+    {
+      "text": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Who Should Know What? Empirical Information Design for Multi-Agent LLM Economies",
+      "url": "https://arxiv.org/abs/2611.07667"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Unlocking Turing Tensor Cores: A Measured Throughput Account of From-Scratch Pre-training on a Single 22G RTX 2080 Ti",
+      "url": "https://arxiv.org/abs/2611.05419"
+    },
+    {
+      "text": "Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents",
+      "url": "https://arxiv.org/abs/2606.05558"
+    },
+    {
+      "text": "Human-Centred, Risk-Constrained Evaluation of Financial Document Recognition: Evidence, Critical Errors, and Selective Automation",
+      "url": "https://arxiv.org/abs/2611.02775"
+    },
+    {
+      "text": "OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining",
+      "url": "https://arxiv.org/abs/2611.01844"
+    },
+    {
+      "text": "Multi-Estimate Elicitation Does Not Uniformly Debias Language Model Judgments",
+      "url": "https://arxiv.org/abs/2611.00597"
+    },
+    {
+      "text": "SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models",
+      "url": "https://arxiv.org/abs/2609.24894"
+    },
+    {
+      "text": "Equivariant Deep Learning in Direct-Product Space for Electronic-Structure Hamiltonian Prediction",
+      "url": "https://arxiv.org/abs/2611.07695"
+    },
+    {
+      "text": "The Physical Cost of Context: Quality-Constrained Resource Accounting for Coding Agents",
+      "url": "https://arxiv.org/abs/2610.34763"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Provably Efficient Representation Learning for Low-Rank CMDPs",
+      "url": "https://arxiv.org/abs/2611.07295"
+    },
+    {
+      "text": "Learning Noise Optimization for Reward Alignment in Few-Step Generative Models",
+      "url": "https://arxiv.org/abs/2611.06255"
+    },
+    {
+      "text": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.07959"
+    },
+    {
+      "text": "Tight Asymptotic Bounds on the Maximum Number of Linear Regions of Piecewise-Linear Kolmogorov--Arnold networks",
+      "url": "https://arxiv.org/abs/2611.07973"
+    },
+    {
+      "text": "Evolutionary Adaptive Neighborhood Learning: A Genetic Algorithm for Instance-Dependent k Optimization in Nearest Neighbor Classification",
+      "url": "https://arxiv.org/abs/2611.07257"
+    },
+    {
+      "text": "When Bigger Becomes Brittle: Why Compression Hurts More as Language Models Scale",
+      "url": "https://arxiv.org/abs/2611.07891"
+    },
+    {
+      "text": "Learning Dynamics of On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.08016"
+    },
+    {
+      "text": "FARR: Forecast-Aware Residual Refinement with Matched Endpoint Evidence for Long-Horizon Time-Series Forecasting",
+      "url": "https://arxiv.org/abs/2611.07870"
+    }
+  ],
+  "lastUpdated": "2026-11-07T01:02:31Z"
+}
