@@ -1,46 +1,38 @@
 {
   "mainHeadline": {
-    "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    "text": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
   },
   "topStories": [
     {
-      "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
-      "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
+      "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron"
+      "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
+      "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
     }
   ],
   "leftColumn": [
     {
-      "text": "ChatGPT Now Makes Animated GIFs as Image Use Hits 4 Billion a Week",
-      "url": "https://dailyai.com/2026/11/chatgpt-now-makes-animated-gifs-as-image-use-hits-4-billion-a-week/"
+      "text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron"
     },
     {
       "text": "METR: Independent Assessment of AI R\u0026D Acceleration at Anthropic in October 2026",
       "url": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
     },
     {
-      "text": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates"
+      "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
     },
     {
-      "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
-    },
-    {
-      "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
-    },
-    {
-      "text": "OPENAI IS STEPPING BACK FROM NDAS FOR DATA CENTER PROJECTS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+      "text": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
     },
     {
       "text": "Measuring how AI agents handle everyday wet-lab science",
@@ -49,6 +41,14 @@
     {
       "text": "DailyAI Briefing: Data centres lose 40 of 41 local votes, plus 4 more",
       "url": "https://dailyai.com/2026/11/dailyai-briefing-data-centres-lose-40-of-41-local-votes-plus-4-more/"
+    },
+    {
+      "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+    },
+    {
+      "text": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
     }
   ],
   "centerColumn": [
@@ -61,50 +61,46 @@
       "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
     },
     {
-      "text": "How Akai and Moog are embracing vibe-coded mods",
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai"
+      "text": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
+      "url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/"
     },
     {
-      "text": "How to Measure AI Adoption, Performance, and ROI With 12 KPIs",
-      "url": "https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/"
+      "text": "GOOGLE BACKSTOPS $19B ANTHROPIC LEASE AT TERAWULF CAMPUS",
+      "url": "https://dailyai.com/2026/11/google-backstops-19b-anthropic-lease-at-terawulf-campus/"
     },
     {
-      "text": "Build Your First Multi-Tool AI Agent with Ollama and Python",
-      "url": "https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/"
+      "text": "Give Your Python AI Agent Persistent Memory with One JSON File",
+      "url": "https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/"
     },
     {
       "text": "Anthropic Speeds Up 2x, but METR Says Evidence Is Hidden",
       "url": "https://dailyai.com/2026/11/anthropic-speeds-up-2x-but-metr-says-evidence-is-hidden/"
     },
     {
-      "text": "Implementing GPT-2 in CSS",
-      "url": "https://shubhampatil.dev/blog/gpt2-css"
+      "text": "Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval",
+      "url": "https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/"
     },
     {
-      "text": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375"
+      "text": "How to Prioritize Product Feedback by Revenue at Risk",
+      "url": "https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/"
     }
   ],
   "rightColumn": [
     {
-      "text": "Why a Tiny GPT Can Know Two Facts and Still Not Connect Them",
-      "url": "https://towardsdatascience.com/why-a-tiny-gpt-can-know-two-facts-and-still-not-connect-them/"
+      "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
     },
     {
-      "text": "Quoting Nilay Patel",
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+      "text": "DOJ Stands Up a Super Intelligence Task Force for AI Crime",
+      "url": "https://dailyai.com/2026/11/doj-stands-up-a-super-intelligence-task-force-for-ai-crime/"
     },
     {
-      "text": "Big Tech lost big in the 2026 election",
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+      "text": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
     },
     {
-      "text": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders"
-    },
-    {
-      "text": "Protesters break into Microsoft data center site in Amsterdam",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
+      "text": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/"
     },
     {
       "text": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
@@ -115,9 +111,13 @@
       "url": "https://openai.com/index/cultfit-builds-with-codex"
     },
     {
-      "text": "How to Manage Python Environments with uv Instead of venv and pip",
-      "url": "https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/"
+      "text": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+    },
+    {
+      "text": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
     }
   ],
-  "lastUpdated": "2026-11-07T10:05:50Z"
+  "lastUpdated": "2026-11-07T17:57:58Z"
 }
