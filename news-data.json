@@ -1,16 +1,16 @@
 {
   "mainHeadline": {
-    "text": "Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research",
-    "url": "https://arxiv.org/abs/2501.14546"
+    "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
   },
   "topStories": [
     {
-      "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
-    },
-    {
       "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
       "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
       "text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -19,105 +19,105 @@
   ],
   "leftColumn": [
     {
-      "text": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-      "url": "https://arxiv.org/abs/2611.08438"
+      "text": "ChatGPT Now Makes Animated GIFs as Image Use Hits 4 Billion a Week",
+      "url": "https://dailyai.com/2026/11/chatgpt-now-makes-animated-gifs-as-image-use-hits-4-billion-a-week/"
     },
     {
-      "text": "Coding with the Enemy: Can Human Developers Detect AI Agent Sabotage?",
-      "url": "https://arxiv.org/abs/2606.05647"
+      "text": "METR: Independent Assessment of AI R\u0026D Acceleration at Anthropic in October 2026",
+      "url": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at"
     },
     {
-      "text": "Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring \"Weight-Space Programming\"",
-      "url": "https://arxiv.org/abs/2611.08070"
+      "text": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates"
     },
     {
-      "text": "Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks",
-      "url": "https://arxiv.org/abs/2509.26092"
+      "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
     },
     {
-      "text": "Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts",
-      "url": "https://arxiv.org/abs/2508.19008"
+      "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
     },
     {
-      "text": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai"
+      "text": "OPENAI IS STEPPING BACK FROM NDAS FOR DATA CENTER PROJECTS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
     },
     {
-      "text": "Who Should Know What? Empirical Information Design for Multi-Agent LLM Economies",
-      "url": "https://arxiv.org/abs/2611.07667"
+      "text": "DailyAI Briefing: Data centres lose 40 of 41 local votes, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-data-centres-lose-40-of-41-local-votes-plus-4-more/"
     }
   ],
   "centerColumn": [
     {
-      "text": "Unlocking Turing Tensor Cores: A Measured Throughput Account of From-Scratch Pre-training on a Single 22G RTX 2080 Ti",
-      "url": "https://arxiv.org/abs/2611.05419"
+      "text": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
     },
     {
-      "text": "Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents",
-      "url": "https://arxiv.org/abs/2606.05558"
+      "text": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
     },
     {
-      "text": "Human-Centred, Risk-Constrained Evaluation of Financial Document Recognition: Evidence, Critical Errors, and Selective Automation",
-      "url": "https://arxiv.org/abs/2611.02775"
+      "text": "How Akai and Moog are embracing vibe-coded mods",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai"
     },
     {
-      "text": "OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining",
-      "url": "https://arxiv.org/abs/2611.01844"
+      "text": "How to Measure AI Adoption, Performance, and ROI With 12 KPIs",
+      "url": "https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/"
     },
     {
-      "text": "Multi-Estimate Elicitation Does Not Uniformly Debias Language Model Judgments",
-      "url": "https://arxiv.org/abs/2611.00597"
+      "text": "Build Your First Multi-Tool AI Agent with Ollama and Python",
+      "url": "https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/"
     },
     {
-      "text": "SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models",
-      "url": "https://arxiv.org/abs/2609.24894"
+      "text": "Anthropic Speeds Up 2x, but METR Says Evidence Is Hidden",
+      "url": "https://dailyai.com/2026/11/anthropic-speeds-up-2x-but-metr-says-evidence-is-hidden/"
     },
     {
-      "text": "Equivariant Deep Learning in Direct-Product Space for Electronic-Structure Hamiltonian Prediction",
-      "url": "https://arxiv.org/abs/2611.07695"
+      "text": "Implementing GPT-2 in CSS",
+      "url": "https://shubhampatil.dev/blog/gpt2-css"
     },
     {
-      "text": "The Physical Cost of Context: Quality-Constrained Resource Accounting for Coding Agents",
-      "url": "https://arxiv.org/abs/2610.34763"
+      "text": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375"
     }
   ],
   "rightColumn": [
     {
-      "text": "Provably Efficient Representation Learning for Low-Rank CMDPs",
-      "url": "https://arxiv.org/abs/2611.07295"
+      "text": "Why a Tiny GPT Can Know Two Facts and Still Not Connect Them",
+      "url": "https://towardsdatascience.com/why-a-tiny-gpt-can-know-two-facts-and-still-not-connect-them/"
     },
     {
-      "text": "Learning Noise Optimization for Reward Alignment in Few-Step Generative Models",
-      "url": "https://arxiv.org/abs/2611.06255"
+      "text": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
     },
     {
-      "text": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2611.07959"
+      "text": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
     },
     {
-      "text": "Tight Asymptotic Bounds on the Maximum Number of Linear Regions of Piecewise-Linear Kolmogorov--Arnold networks",
-      "url": "https://arxiv.org/abs/2611.07973"
+      "text": "Amazon will let you text Alexa your shopping list",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders"
     },
     {
-      "text": "Evolutionary Adaptive Neighborhood Learning: A Genetic Algorithm for Instance-Dependent k Optimization in Nearest Neighbor Classification",
-      "url": "https://arxiv.org/abs/2611.07257"
+      "text": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
     },
     {
-      "text": "When Bigger Becomes Brittle: Why Compression Hurts More as Language Models Scale",
-      "url": "https://arxiv.org/abs/2611.07891"
+      "text": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
+      "url": "https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20/"
     },
     {
-      "text": "Learning Dynamics of On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2611.08016"
+      "text": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex"
     },
     {
-      "text": "FARR: Forecast-Aware Residual Refinement with Matched Endpoint Evidence for Long-Horizon Time-Series Forecasting",
-      "url": "https://arxiv.org/abs/2611.07870"
+      "text": "How to Manage Python Environments with uv Instead of venv and pip",
+      "url": "https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/"
     }
   ],
-  "lastUpdated": "2026-11-07T01:02:31Z"
+  "lastUpdated": "2026-11-07T10:05:50Z"
 }
