@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Near Horizons",
+    "url": "https://www.lesswrong.com/posts/7e38jwHhe64zgNTon/near-horizons"
+  },
+  "topStories": [
+    {
+      "text": "Hands-On Tutorials for Inspect AI",
+      "url": "https://www.lesswrong.com/posts/EvGLAuEtHpicKGBJh/hands-on-tutorials-for-inspect-ai-1"
+    },
+    {
+      "text": "What do LLMs Really Learn About Model Weights? A Stratification Approach to Examine Weight Space Programming",
+      "url": "https://www.lesswrong.com/posts/WnL4nWrS2owzZfwiz/what-do-llms-really-learn-about-model-weights-a"
+    },
+    {
+      "text": "RSI explained",
+      "url": "https://www.lesswrong.com/posts/YtsvTevNRadkLFp6v/rsi-explained"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The 4 types of AI consciousness/feeling",
+      "url": "https://www.lesswrong.com/posts/wiiApTtRgJgw2EcdZ/the-4-types-of-ai-consciousness-feeling"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Change One Monty Hall Rule and Five LLMs Still Say Switch",
+      "url": "https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/"
+    },
+    {
+      "text": "DailyAI Briefing: OpenAI locks $11bn at $1.25tn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-openai-locks-11bn-at-1-25tn-plus-4-more/"
+    },
+    {
+      "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "text": "CHATGPT LOCKDOWN MODE HAD A HOLE THAT LEAKED CHATS",
+      "url": "https://dailyai.com/2026/11/chatgpt-lockdown-mode-had-a-hole-that-leaked-chats/"
+    },
+    {
+      "text": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
+    {
+      "text": "Five Types of “Corrigibility Projects” I Don’t Want to Fund",
+      "url": "https://www.lesswrong.com/posts/9ixerpx4DCQTaRYCz/five-types-of-corrigibility-projects-i-don-t-want-to-fund"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "\"Illegible problems\" as the 2027 political boss fight",
+      "url": "https://www.lesswrong.com/posts/fjGgrzAkpSDouLwfx/illegible-problems-as-the-2027-political-boss-fight"
+    },
+    {
+      "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+    },
+    {
+      "text": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "text": "Show HN: LLM weight editing tool made by a 15-year-old",
+      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors"
+    },
+    {
+      "text": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "text": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
+    {
+      "text": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+    },
+    {
+      "text": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "The Logic of Disgust",
+      "url": "https://www.lesswrong.com/posts/psBCPYJ8HjR8pujAb/the-logic-of-disgust"
+    },
+    {
+      "text": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "text": "Floating-Point Precision and Its Effects to Model Inference",
+      "url": "https://machinelearningmastery.com/floating-point-precision/"
+    },
+    {
+      "text": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
+    },
+    {
+      "text": "The typo generation is damaging literature",
+      "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature"
+    },
+    {
+      "text": "Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval",
+      "url": "https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/"
+    },
+    {
+      "text": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+    },
+    {
+      "text": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+    }
+  ],
+  "lastUpdated": "2026-11-08T13:15:52Z"
+}
