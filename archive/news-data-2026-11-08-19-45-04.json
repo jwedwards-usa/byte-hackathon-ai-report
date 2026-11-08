@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI safety course update",
+    "url": "https://www.lesswrong.com/posts/WsTiYqDbrizQnEoXa/ai-safety-course-update"
+  },
+  "topStories": [
+    {
+      "text": "DailyAI Briefing: Anthropic buys $3.4bn of gas generators, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropic-buys-34bn-of-gas-generators-plus-4-more/"
+    },
+    {
+      "text": "Elegy for What’s Left of the Normal",
+      "url": "https://www.lesswrong.com/posts/fooXeRHjgpv4TcoRy/elegy-for-what-s-left-of-the-normal"
+    },
+    {
+      "text": "HOW TO BUILD MULTI-AGENT SYSTEMS WITH THE OPENAI AGENTS SDK",
+      "url": "https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Help people outside of AI safety circles",
+      "url": "https://www.lesswrong.com/posts/FEgjbgjpHyDyqHjej/help-people-outside-of-ai-safety-circles"
+    },
+    {
+      "text": "Notes on Take-Off Speeds and RSI",
+      "url": "https://www.lesswrong.com/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi"
+    },
+    {
+      "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "text": "APPLE IS RACING TO MAKE SIRI MORE AGENTIC",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+    },
+    {
+      "text": "Restraint on the part of the front-runner seems like quite a strong signal.",
+      "url": "https://www.lesswrong.com/posts/F6HBzfNunpvH3staH/restraint-on-the-part-of-the-front-runner-seems-like-quite-a"
+    },
+    {
+      "text": "Ajeya: AI is dramatically accelerating AI research right now",
+      "url": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now"
+    },
+    {
+      "text": "What if the AI already won? World domination through digital supremacy",
+      "url": "https://www.lesswrong.com/posts/toYj3kmEqmGKLtcYt/what-if-the-ai-already-won-world-domination-through-digital"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Hands-On Tutorials for Inspect AI",
+      "url": "https://www.lesswrong.com/posts/EvGLAuEtHpicKGBJh/hands-on-tutorials-for-inspect-ai-1"
+    },
+    {
+      "text": "DailyAI Briefing: OpenAI locks $11bn at $1.25tn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-openai-locks-11bn-at-1-25tn-plus-4-more/"
+    },
+    {
+      "text": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
+    {
+      "text": "Near Horizons",
+      "url": "https://www.lesswrong.com/posts/7e38jwHhe64zgNTon/near-horizons"
+    },
+    {
+      "text": "Rhythm Stage Setup v5",
+      "url": "https://www.lesswrong.com/posts/CotJJRxA3qgBAxFhF/rhythm-stage-setup-v5"
+    },
+    {
+      "text": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+    },
+    {
+      "text": "Change One Monty Hall Rule and Five LLMs Still Say Switch",
+      "url": "https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/"
+    },
+    {
+      "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "text": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "text": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
+    {
+      "text": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
+    },
+    {
+      "text": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "text": "Floating-Point Precision and Its Effects to Model Inference",
+      "url": "https://machinelearningmastery.com/floating-point-precision/"
+    },
+    {
+      "text": "Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval",
+      "url": "https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/"
+    },
+    {
+      "text": "How to Prioritize Product Feedback by Revenue at Risk",
+      "url": "https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/"
+    }
+  ],
+  "lastUpdated": "2026-11-08T19:45:04Z"
+}
