@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
-    "url": "https://www.lesswrong.com/posts/34CgHvoSHA2TudSDp/we-asked-100-ai-researchers-at-emnlp-whether-ai-could-be"
+    "text": "Anthropic Makes Claude-Driven Machines Stop If the Link Drops",
+    "url": "https://dailyai.com/2026/11/anthropic-makes-claude-driven-machines-stop-if-the-link-drops/"
   },
   "topStories": [
     {
-      "text": "Confirming Claims of Superposition and Adversarial Examples in Vision Transformers",
-      "url": "https://www.lesswrong.com/posts/TRe3CxDirbjPC7bQg/confirming-claims-of-superposition-and-adversarial-examples-1"
+      "text": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
+    },
+    {
+      "text": "Private LLM copies can agree on a secret key over a public channel",
+      "url": "https://www.lesswrong.com/posts/Y5B742yjGwE9tc6BC/private-llm-copies-can-agree-on-a-secret-key-over-a-public"
+    },
+    {
+      "text": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
+      "url": "https://arxiv.org/abs/2611.09156"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Human-AI Collaboration in Large Language Model-Integrated Building Energy Management Systems: The Role of User Domain Knowledge and AI Literacy",
+      "url": "https://arxiv.org/abs/2602.16140"
+    },
+    {
+      "text": "Why can't academia deal with AI?",
+      "url": "https://www.lesswrong.com/posts/4yhxNedKfccqb9ba4/why-can-t-academia-deal-with-ai"
+    },
+    {
+      "text": "Modelling AI-enabled Extreme Power Concentration in CCP",
+      "url": "https://www.lesswrong.com/posts/quwmitrPsjRehXFsW/modelling-ai-enabled-extreme-power-concentration-in-ccp-2"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Notes on Take-Off Speeds and RSI",
-      "url": "https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "DailyAI Briefing: Anthropic buys $3.4bn of gas generators, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropic-buys-34bn-of-gas-generators-plus-4-more/"
+      "text": "RAG-Enhanced LLMs for Interactive Explainability in Clinical Decision Support Systems",
+      "url": "https://arxiv.org/abs/2611.09232"
     },
     {
-      "text": "Elegy for What’s Left of the Normal",
-      "url": "https://www.lesswrong.com/posts/fooXeRHjgpv4TcoRy/elegy-for-what-s-left-of-the-normal"
+      "text": "Decomposing Yes-No Bias in LLM Moral Judgment: Stance, Position, Word, and Verdict",
+      "url": "https://arxiv.org/abs/2607.05552"
     },
     {
-      "text": "HOW TO BUILD MULTI-AGENT SYSTEMS WITH THE OPENAI AGENTS SDK",
-      "url": "https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/"
+      "text": "MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis",
+      "url": "https://arxiv.org/abs/2611.08795"
     },
     {
-      "text": "DailyAI Briefing: OpenAI locks $11bn at $1.25tn, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-openai-locks-11bn-at-1-25tn-plus-4-more/"
-    },
-    {
-      "text": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
-    },
-    {
-      "text": "Help people outside of AI safety circles",
-      "url": "https://www.lesswrong.com/posts/FEgjbgjpHyDyqHjej/help-people-outside-of-ai-safety-circles"
-    },
-    {
-      "text": "Bay Area Solstice 2026: Auditions!",
-      "url": "https://www.lesswrong.com/posts/YXe6Ni3vMCYdNWmqN/bay-area-solstice-2026-auditions"
-    },
-    {
-      "text": "parse_number() as a SQLite extension: C vs Rust",
-      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
+      "text": "Seeing vs. Counting: Complexity Twins Show Where Multimodal LLMs Fail on Diagrams",
+      "url": "https://arxiv.org/abs/2611.08998"
     }
   ],
   "centerColumn": [
     {
-      "text": "Onngi",
-      "url": "https://www.lesswrong.com/posts/NKHdE2RsGseGvdLsc/onngi"
+      "text": "AI out-persuades expert humans in text-based dialogue",
+      "url": "https://arxiv.org/abs/2606.16475"
     },
     {
-      "text": "Three half-baked research ideas",
-      "url": "https://www.lesswrong.com/posts/vAniKbagqhyzpha6r/three-half-baked-research-ideas"
+      "text": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
+      "url": "https://arxiv.org/abs/2611.09090"
     },
     {
-      "text": "APPLE IS RACING TO MAKE SIRI MORE AGENTIC",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+      "text": "AlienBench: A Benchmark of Structural Novelty in Language Model Outputs",
+      "url": "https://arxiv.org/abs/2611.09094"
     },
     {
-      "text": "Restraint on the part of the front-runner seems like quite a strong signal.",
-      "url": "https://www.lesswrong.com/posts/F6HBzfNunpvH3staH/restraint-on-the-part-of-the-front-runner-seems-like-quite-a"
+      "text": "LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection",
+      "url": "https://arxiv.org/abs/2509.18719"
     },
     {
-      "text": "Ajeya: AI is dramatically accelerating AI research right now",
-      "url": "https://www.lesswrong.com/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now"
+      "text": "JEPAhead: From Inpainting to Causal Forecasting for Urban Driving",
+      "url": "https://arxiv.org/abs/2611.08657"
     },
     {
-      "text": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+      "text": "No Safe Dose: How Training Data Drives Unsafe Image Generation",
+      "url": "https://arxiv.org/abs/2605.28137"
     },
     {
-      "text": "Lying and Not Lying to Kids",
-      "url": "https://www.lesswrong.com/posts/QDwADpScuPDMYhJxC/lying-and-not-lying-to-kids"
+      "text": "Generalized Priority-Aware Shapley Value",
+      "url": "https://arxiv.org/abs/2605.15018"
     },
     {
-      "text": "Change One Monty Hall Rule and Five LLMs Still Say Switch",
-      "url": "https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/"
+      "text": "Calibrated Uncertainty Quantification on TDC ADMET: What Can Be Resolved Across 22 Datasets?",
+      "url": "https://arxiv.org/abs/2611.09373"
     }
   ],
   "rightColumn": [
     {
-      "text": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+      "text": "Descending Everest, Part II: Oracle Complexity of Minimizing a Sum of Convex $(L_0,L_1)$-Smooth Functions",
+      "url": "https://arxiv.org/abs/2611.04171"
     },
     {
-      "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+      "text": "PreForceVision: Physics-Guided Optical Estimation of Bolt Preload from Bolt-Head Deformation",
+      "url": "https://arxiv.org/abs/2611.09529"
     },
     {
-      "text": "AI broke the cybersecurity world. What’s next?",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+      "text": "CID: Measuring Cognitive Work Through Semantic State Change",
+      "url": "https://arxiv.org/abs/2611.09542"
     },
     {
-      "text": "Elvis and Eminem rights holders are suing Suno",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+      "text": "CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling",
+      "url": "https://arxiv.org/abs/2611.09548"
     },
     {
-      "text": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
+      "text": "Towards Robust Reinforcement Learning Market Making: Lessons from Loss Function Experimentation",
+      "url": "https://arxiv.org/abs/2611.09012"
     },
     {
-      "text": "The US let Nvidia sell chips to an empty office in China",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+      "text": "Not Your Diary, Just Your Topic: Grading the Wrong-User Control",
+      "url": "https://arxiv.org/abs/2611.09609"
     },
     {
-      "text": "Floating-Point Precision and Its Effects to Model Inference",
-      "url": "https://machinelearningmastery.com/floating-point-precision/"
+      "text": "Behavior Graphs: Unsupervised Graph Structures for Interpreting Robot Deployment Data",
+      "url": "https://arxiv.org/abs/2611.00405"
     },
     {
-      "text": "Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval",
-      "url": "https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/"
+      "text": "Revisiting Temporal Link Prediction through Structural Proximity",
+      "url": "https://arxiv.org/abs/2610.38385"
     }
   ],
-  "lastUpdated": "2026-11-09T00:58:48Z"
+  "lastUpdated": "2026-11-09T11:24:19Z"
 }
