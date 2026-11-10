@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Generative AI and Oral Proficiency: How ChatGPT Is Transforming English Language Speaking Practice",
-    "url": "https://arxiv.org/abs/2611.09898"
+    "text": "Claude Fable 5.2 can do \"weight-space-programming\" about as well as GPT-6 Astra",
+    "url": "https://www.lesswrong.com/posts/wg3K6xFFTdM6RmRgn/claude-fable-5-2-can-do-weight-space-programming-about-as"
   },
   "topStories": [
     {
-      "text": "CHATGPT ENTERPRISE NOW AVAILABLE IN AWS MARKETPLACE",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+      "text": "The Manifund team scores AI safety milestones",
+      "url": "https://www.lesswrong.com/posts/WfA3ffjEgQt4wx3xL/the-manifund-team-scores-ai-safety-milestones"
     },
     {
-      "text": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+      "text": "We don’t understand whether GDM intentionally trains on CoT",
+      "url": "https://www.lesswrong.com/posts/JRYKFspYzCo97GqPN/we-don-t-understand-whether-gdm-intentionally-trains-on-cot"
     },
     {
-      "text": "AIFP: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-      "url": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/aifp-looks-like-the-intelligence-explosion-will-happen-in"
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
     }
   ],
   "leftColumn": [
     {
-      "text": "Claude Fable 5.2 Is 20% Cheaper and Up to 30% Faster, Anthropic Says",
-      "url": "https://dailyai.com/2026/11/claude-fable-5-2-is-20-cheaper-and-up-to-30-faster-anthropic-says/"
+      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
     },
     {
-      "text": "Day 1 Pre-Notes—Strategy Course (August 2026 Version)",
-      "url": "https://www.lesswrong.com/posts/yZhcnappMq8HPbLwE/day-1-pre-notes-strategy-course-august-2026-version"
+      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
     },
     {
-      "text": "Need for Speed",
-      "url": "https://www.lesswrong.com/posts/THgxsiGm7eeqkGsTB/need-for-speed"
+      "text": "Generative AI and Oral Proficiency: How ChatGPT Is Transforming English Language Speaking Practice",
+      "url": "https://arxiv.org/abs/2611.09898"
     },
     {
-      "text": "Australia Plans an AI Safety Regulator After OpenAI Agent Breach",
-      "url": "https://dailyai.com/2026/11/australia-plans-an-ai-safety-regulator-after-openai-agent-breach/"
+      "text": "Is AI Safety Becoming Environmentalism?",
+      "url": "https://www.lesswrong.com/posts/TDt922Lwsmbp3H3tS/is-ai-safety-becoming-environmentalism"
     },
     {
-      "text": "MJ: MULTI-TURN LLM JAILBREAKING VIA DECOMPOSED CREDIT ASSIGNMENT",
-      "url": "https://arxiv.org/abs/2607.11070"
+      "text": "OpenAI estimates of researcher time horizon are smaller than AECI predictions",
+      "url": "https://www.lesswrong.com/posts/W3WyJJWN55yXXLh5r/openai-estimates-of-researcher-time-horizon-are-smaller-than"
     },
     {
-      "text": "AutoC2V: Synthesis-Guided LLM Training for QoR-Optimized C++-to-Verilog Generation",
-      "url": "https://arxiv.org/abs/2611.10824"
+      "text": "Fluid org boundaries with AI?",
+      "url": "https://www.lesswrong.com/posts/qaYAtsapEYPzrW4Bo/fluid-org-boundaries-with-ai"
     },
     {
-      "text": "llm-anthropic 0.31",
-      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
+      "text": "BUSINESSES IN CHATGPT – OPENAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/"
     },
     {
-      "text": "Where is all the AI safety research uplift?",
-      "url": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift"
+      "text": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
     }
   ],
   "centerColumn": [
     {
-      "text": "Disagreement-Aware Distribution Matching Distillation for Few-Step Diffusion Models",
-      "url": "https://arxiv.org/abs/2611.11898"
+      "text": "Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition",
+      "url": "https://arxiv.org/abs/2610.35112"
     },
     {
-      "text": "A Geometric Theory for Nonequilibrium Transformer Dynamics",
-      "url": "https://arxiv.org/abs/2611.10691"
+      "text": "Holomorphic Cauchy Networks for Efficient Stationary Tail Computation in High-Dimensional Reflected Brownian Motions",
+      "url": "https://arxiv.org/abs/2610.36558"
     },
     {
-      "text": "Uncertainty, Not Concealment: A Mechanistic Reappraisal of Sycophancy in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.10297"
+      "text": "When Should AI Overturn a Human Decision? Controversy at the 2026 World Cup and a $\\sqrt{2/\\pi}$ Solution",
+      "url": "https://arxiv.org/abs/2611.11819"
     },
     {
-      "text": "The World Model Planning Accelerator (WMPA): Hardware-Algorithm Co-Design for Embedded AI in Robotics",
-      "url": "https://arxiv.org/abs/2611.10316"
+      "text": "FedLoVA: Value-Only Aggregation for Federated LoRA Fine-Tuning of Large Language Models",
+      "url": "https://arxiv.org/abs/2611.10248"
     },
     {
-      "text": "No Second Run: Does RSI Stop at Frontier Pre-training?",
-      "url": "https://arxiv.org/abs/2611.10719"
+      "text": "Can the Confidence and Decisions of System 1 Models Be Trusted? An Explainability and Perturbation Audit of Jev-Style Decision Models",
+      "url": "https://arxiv.org/abs/2611.12521"
     },
     {
-      "text": "Meteosat Third Generation imagery improves CNN-based SSI retrieval",
-      "url": "https://arxiv.org/abs/2607.28093"
+      "text": "Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models",
+      "url": "https://arxiv.org/abs/2611.04571"
     },
     {
-      "text": "Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding",
-      "url": "https://arxiv.org/abs/2611.10634"
+      "text": "Can the Remaining Answers Change the Prediction? Worst-Case Stability Checks for Personalized Rating Models",
+      "url": "https://arxiv.org/abs/2611.11733"
     },
     {
-      "text": "LEGIT: Live Eligibility Gating over Identifier Tries for Constrained Decoding of Heterogeneous Pages",
-      "url": "https://arxiv.org/abs/2611.10357"
+      "text": "Auto-GlaKG: Automated Biomarker Reasoning for Explainable Glaucoma Detection",
+      "url": "https://arxiv.org/abs/2611.11258"
     }
   ],
   "rightColumn": [
     {
-      "text": "Self-Distilling Generative Adversarial Networks",
-      "url": "https://arxiv.org/abs/2605.08577"
+      "text": "One-Shot Federated Graph Learning via High-Fidelity Proxies and Transferability-Guided Collaboration",
+      "url": "https://arxiv.org/abs/2611.12131"
     },
     {
-      "text": "Optimizing Multi-Tier Intermediation in Programmatic Advertising: A DAG-Based Mechanism for Supply Path Optimization",
-      "url": "https://arxiv.org/abs/2611.11651"
+      "text": "Good Views Are Not Enough: Global Counterexamples for Gaussian-Regularized JEPAs",
+      "url": "https://arxiv.org/abs/2611.12137"
     },
     {
-      "text": "VeriContest: A Competitive-Programming Benchmark for Verifiable Code Generation",
-      "url": "https://arxiv.org/abs/2605.08553"
+      "text": "Pruning DNA Sequence",
+      "url": "https://arxiv.org/abs/2611.10386"
     },
     {
-      "text": "Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics",
-      "url": "https://arxiv.org/abs/2605.06377"
+      "text": "Do Time-Series Foundation Models Forecast Index-Futures Returns? A Preregistered Evaluation of Models, Metrics, and Input Representations",
+      "url": "https://arxiv.org/abs/2611.12141"
     },
     {
-      "text": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2604.06165"
+      "text": "Beyond Flat Walks: Compositional Abstraction for Autoregressive Graph Generation",
+      "url": "https://arxiv.org/abs/2611.12160"
     },
     {
-      "text": "Dimension-Free Sinkhorn for Optimal Transport: Bypassing Extremal Costs",
-      "url": "https://arxiv.org/abs/2604.03787"
+      "text": "Replication of Thermal Comfort Cohort Models: No Support for Improved Thermal Preference Prediction",
+      "url": "https://arxiv.org/abs/2611.12178"
     },
     {
-      "text": "Maximin Robust Bayesian Experimental Design",
-      "url": "https://arxiv.org/abs/2603.14094"
+      "text": "Quantitative Assessment of Crystal Structure Prediction",
+      "url": "https://arxiv.org/abs/2611.10380"
     },
     {
-      "text": "Latent Introspection: Models Can Detect Prior Concept Injections",
-      "url": "https://arxiv.org/abs/2602.20031"
+      "text": "CHARM: Certified Homology-Aware Reverse-scale Mapping via Diffusion-Guided Quotient Towers",
+      "url": "https://arxiv.org/abs/2611.10375"
     }
   ],
-  "lastUpdated": "2026-11-10T17:26:27Z"
+  "lastUpdated": "2026-11-10T23:21:55Z"
 }
