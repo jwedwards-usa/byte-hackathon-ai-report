@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The Western AI safety playbook doesn’t transfer to China",
+    "url": "https://www.lesswrong.com/posts/AcBzhiaTW9KnB4EBv/the-western-ai-safety-playbook-doesn-t-transfer-to-china-1"
+  },
+  "topStories": [
+    {
+      "text": "CHATGPT ENTERPRISE NOW AVAILABLE IN AWS MARKETPLACE",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "text": "Misaligned Models Still Recognise When Their Responses Are Harmful. Can Training Make Them Care?",
+      "url": "https://www.lesswrong.com/posts/DevXcGBKsJG5Rz69o/misaligned-models-still-recognise-when-their-responses-are"
+    },
+    {
+      "text": "Human-AI Collaboration in Large Language Model-Integrated Building Energy Management Systems: The Role of User Domain Knowledge and AI Literacy",
+      "url": "https://arxiv.org/abs/2602.16140"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
+      "url": "https://arxiv.org/abs/2611.09156"
+    },
+    {
+      "text": "We need more transparency about alignment overfitting",
+      "url": "https://www.lesswrong.com/posts/JTB8JjQfmkHsJtBDs/we-need-more-transparency-about-alignment-overfitting"
+    },
+    {
+      "text": "LEMMO: A Large Electromagnetic Model leveraging Pretrained LLMs for Million-Sample Signal Understanding",
+      "url": "https://arxiv.org/abs/2611.09476"
+    },
+    {
+      "text": "Fast and Accurate Probing of In-Training LLMs' Downstream Performances",
+      "url": "https://arxiv.org/abs/2604.01025"
+    },
+    {
+      "text": "Decomposing Yes-No Bias in LLM Moral Judgment: Stance, Position, Word, and Verdict",
+      "url": "https://arxiv.org/abs/2607.05552"
+    },
+    {
+      "text": "MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis",
+      "url": "https://arxiv.org/abs/2611.08795"
+    },
+    {
+      "text": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
+      "url": "https://arxiv.org/abs/2611.09085"
+    },
+    {
+      "text": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
+      "url": "https://arxiv.org/abs/2604.28031"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning",
+      "url": "https://arxiv.org/abs/2611.09684"
+    },
+    {
+      "text": "Continual Graph Memory and Community Infrastructure for AI-Assisted Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2610.02945"
+    },
+    {
+      "text": "How Much Conversation History Does an AI Agent Need?",
+      "url": "https://arxiv.org/abs/2611.09662"
+    },
+    {
+      "text": "Generalized Priority-Aware Shapley Value",
+      "url": "https://arxiv.org/abs/2605.15018"
+    },
+    {
+      "text": "StockASkill: A Local-First AgentSkill for Intelligent Stock Selection",
+      "url": "https://arxiv.org/abs/2611.09528"
+    },
+    {
+      "text": "Steerable Multi-Objective Group-Relative Preference Optimization with Jointly Trained Low-Rank Adapters",
+      "url": "https://arxiv.org/abs/2611.09634"
+    },
+    {
+      "text": "MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models",
+      "url": "https://arxiv.org/abs/2611.09412"
+    },
+    {
+      "text": "Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs",
+      "url": "https://arxiv.org/abs/2611.09554"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Differentially Private GraphRAG: Protecting Relation Connectivity and Semantics",
+      "url": "https://arxiv.org/abs/2611.09658"
+    },
+    {
+      "text": "Active Learning of Robust Models",
+      "url": "https://arxiv.org/abs/2611.09520"
+    },
+    {
+      "text": "BEiTScore++: Reference-free Image Captioning Evaluation with BEiT-3 and Conformalized Quantile Regression",
+      "url": "https://arxiv.org/abs/2611.09505"
+    },
+    {
+      "text": "CoRS: Fast Neural Flexible Job-Shop Scheduling via Composite Interval State Reuse",
+      "url": "https://arxiv.org/abs/2610.26239"
+    },
+    {
+      "text": "REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge",
+      "url": "https://arxiv.org/abs/2610.26261"
+    },
+    {
+      "text": "HarnessMM: Recursive Self-Improvement for Harness Token Efficiency",
+      "url": "https://arxiv.org/abs/2610.32813"
+    },
+    {
+      "text": "DecoyCount: Evaluating Visual-Reasoning Misalignment in Counting",
+      "url": "https://arxiv.org/abs/2610.34855"
+    },
+    {
+      "text": "From LoRA to Language: Recovering Skill Documents from Adapters",
+      "url": "https://arxiv.org/abs/2611.09454"
+    }
+  ],
+  "lastUpdated": "2026-11-10T06:59:35Z"
+}

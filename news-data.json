@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "How Scientists Can Work on AI Safety",
-    "url": "https://www.lesswrong.com/posts/pmQHeHndgXW3c8Z49/how-scientists-can-work-on-ai-safety"
+    "text": "The Western AI safety playbook doesn’t transfer to China",
+    "url": "https://www.lesswrong.com/posts/AcBzhiaTW9KnB4EBv/the-western-ai-safety-playbook-doesn-t-transfer-to-china-1"
   },
   "topStories": [
-    {
-      "text": "How do LLMs interpret FDT in a twin PD simulation?",
-      "url": "https://www.lesswrong.com/posts/g5qQcsGN8FF4brDfb/how-do-llms-interpret-fdt-in-a-twin-pd-simulation"
-    },
     {
       "text": "CHATGPT ENTERPRISE NOW AVAILABLE IN AWS MARKETPLACE",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
     },
     {
-      "text": "How I'm thinking about extreme power concentration",
-      "url": "https://www.lesswrong.com/posts/JaCarKxBzfGwseb2s/how-i-m-thinking-about-extreme-power-concentration"
+      "text": "Misaligned Models Still Recognise When Their Responses Are Harmful. Can Training Make Them Care?",
+      "url": "https://www.lesswrong.com/posts/DevXcGBKsJG5Rz69o/misaligned-models-still-recognise-when-their-responses-are"
+    },
+    {
+      "text": "Human-AI Collaboration in Large Language Model-Integrated Building Energy Management Systems: The Role of User Domain Knowledge and AI Literacy",
+      "url": "https://arxiv.org/abs/2602.16140"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Where is all the AI safety research uplift?",
-      "url": "https://www.lesswrong.com/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift"
-    },
-    {
-      "text": "My views on AI development and why I’m joining Anthropic",
-      "url": "https://www.lesswrong.com/posts/LL4fT6nZwWbX3ACvw/my-views-on-ai-development-and-why-i-m-joining-anthropic"
-    },
-    {
-      "text": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
-    },
-    {
-      "text": "Astra covertly underperforming on safety research is concerning, even though it’s unlikely to be motivated by ambitious goals",
-      "url": "https://www.lesswrong.com/posts/SEdum3BDfAJtwLuoB/astra-covertly-underperforming-on-safety-research-is"
-    },
     {
       "text": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
       "url": "https://arxiv.org/abs/2611.09156"
     },
     {
-      "text": "Human-AI Collaboration in Large Language Model-Integrated Building Energy Management Systems: The Role of User Domain Knowledge and AI Literacy",
-      "url": "https://arxiv.org/abs/2602.16140"
+      "text": "We need more transparency about alignment overfitting",
+      "url": "https://www.lesswrong.com/posts/JTB8JjQfmkHsJtBDs/we-need-more-transparency-about-alignment-overfitting"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "LEMMO: A Large Electromagnetic Model leveraging Pretrained LLMs for Million-Sample Signal Understanding",
+      "url": "https://arxiv.org/abs/2611.09476"
     },
     {
-      "text": "Three Phases of Capabilities and Alignment",
-      "url": "https://www.lesswrong.com/posts/EGDqsLt8BFuhTYp5u/three-phases-of-capabilities-and-alignment"
+      "text": "Fast and Accurate Probing of In-Training LLMs' Downstream Performances",
+      "url": "https://arxiv.org/abs/2604.01025"
+    },
+    {
+      "text": "Decomposing Yes-No Bias in LLM Moral Judgment: Stance, Position, Word, and Verdict",
+      "url": "https://arxiv.org/abs/2607.05552"
+    },
+    {
+      "text": "MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis",
+      "url": "https://arxiv.org/abs/2611.08795"
+    },
+    {
+      "text": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
+      "url": "https://arxiv.org/abs/2611.09085"
+    },
+    {
+      "text": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
+      "url": "https://arxiv.org/abs/2604.28031"
     }
   ],
   "centerColumn": [
     {
-      "text": "AURA: A Reinforcement Learning Framework for AI-Driven Adaptive Conversational Surveys",
-      "url": "https://arxiv.org/abs/2510.27126"
+      "text": "SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning",
+      "url": "https://arxiv.org/abs/2611.09684"
     },
     {
-      "text": "CrowdDirector: Runtime Orchestration of Crowd Simulation through Natural-Language Directives",
-      "url": "https://arxiv.org/abs/2611.08763"
+      "text": "Continual Graph Memory and Community Infrastructure for AI-Assisted Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2610.02945"
     },
     {
-      "text": "FusionCLIP: Multimodal Contrastive Pretraining for Fusion Plasma Diagnostics",
-      "url": "https://arxiv.org/abs/2611.09493"
+      "text": "How Much Conversation History Does an AI Agent Need?",
+      "url": "https://arxiv.org/abs/2611.09662"
     },
     {
-      "text": "Interpretable Multifidelity Learning with Kolmogorov-Arnold Networks for Spatiotemporal Nuclear Reactor Flow Modeling",
-      "url": "https://arxiv.org/abs/2611.08512"
+      "text": "Generalized Priority-Aware Shapley Value",
+      "url": "https://arxiv.org/abs/2605.15018"
     },
     {
-      "text": "Diffusion-free Score Matching for Exact Conditional Sampling",
-      "url": "https://arxiv.org/abs/2611.09758"
+      "text": "StockASkill: A Local-First AgentSkill for Intelligent Stock Selection",
+      "url": "https://arxiv.org/abs/2611.09528"
     },
     {
-      "text": "A Spectral Renormalization-Group View of Learning",
-      "url": "https://arxiv.org/abs/2611.00422"
+      "text": "Steerable Multi-Objective Group-Relative Preference Optimization with Jointly Trained Low-Rank Adapters",
+      "url": "https://arxiv.org/abs/2611.09634"
     },
     {
-      "text": "The Cost of Coverage: Conformalising Native Forecast Uncertainty for GB Wind Power",
-      "url": "https://arxiv.org/abs/2611.09815"
+      "text": "MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models",
+      "url": "https://arxiv.org/abs/2611.09412"
     },
     {
-      "text": "JEPAhead: From Inpainting to Causal Forecasting for Urban Driving",
-      "url": "https://arxiv.org/abs/2611.08657"
+      "text": "Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs",
+      "url": "https://arxiv.org/abs/2611.09554"
     }
   ],
   "rightColumn": [
     {
-      "text": "AdaAlloc: Adaptive Visual Token Allocation for Long-Video Question Answering",
-      "url": "https://arxiv.org/abs/2611.09092"
+      "text": "Differentially Private GraphRAG: Protecting Relation Connectivity and Semantics",
+      "url": "https://arxiv.org/abs/2611.09658"
     },
     {
-      "text": "FoleyForge: Free-form, Controllable, Rectified-flow Editing of Sound Effects",
-      "url": "https://arxiv.org/abs/2611.08695"
+      "text": "Active Learning of Robust Models",
+      "url": "https://arxiv.org/abs/2611.09520"
     },
     {
-      "text": "FIND: Frequency Invariance Disentanglement for Test-Time Adaptation in LiDAR 3D Detection",
-      "url": "https://arxiv.org/abs/2611.09170"
+      "text": "BEiTScore++: Reference-free Image Captioning Evaluation with BEiT-3 and Conformalized Quantile Regression",
+      "url": "https://arxiv.org/abs/2611.09505"
     },
     {
-      "text": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
-      "url": "https://arxiv.org/abs/2611.09843"
+      "text": "CoRS: Fast Neural Flexible Job-Shop Scheduling via Composite Interval State Reuse",
+      "url": "https://arxiv.org/abs/2610.26239"
     },
     {
-      "text": "Computer-Use Agents Are Embodied Generalists",
-      "url": "https://arxiv.org/abs/2611.09847"
+      "text": "REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge",
+      "url": "https://arxiv.org/abs/2610.26261"
     },
     {
-      "text": "On the (non-)closedness of the set of ReLU networks",
-      "url": "https://arxiv.org/abs/2611.09887"
+      "text": "HarnessMM: Recursive Self-Improvement for Harness Token Efficiency",
+      "url": "https://arxiv.org/abs/2610.32813"
     },
     {
-      "text": "WearableBridge: Task-Guided Latent Transport for Free-Living Activity Recognition",
-      "url": "https://arxiv.org/abs/2611.09067"
+      "text": "DecoyCount: Evaluating Visual-Reasoning Misalignment in Counting",
+      "url": "https://arxiv.org/abs/2610.34855"
     },
     {
-      "text": "Electoral Intelligence: A Neural Zero-Inflated Negative Binomial Model for Forecasting Swedish Municipal Elections",
-      "url": "https://arxiv.org/abs/2611.08501"
+      "text": "From LoRA to Language: Recovering Skill Documents from Adapters",
+      "url": "https://arxiv.org/abs/2611.09454"
     }
   ],
-  "lastUpdated": "2026-11-09T22:25:11Z"
+  "lastUpdated": "2026-11-10T06:59:35Z"
 }
