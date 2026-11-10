@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Generative AI and Oral Proficiency: How ChatGPT Is Transforming English Language Speaking Practice",
+    "url": "https://arxiv.org/abs/2611.09898"
+  },
+  "topStories": [
+    {
+      "text": "CHATGPT ENTERPRISE NOW AVAILABLE IN AWS MARKETPLACE",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "text": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "text": "AIFP: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+      "url": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/aifp-looks-like-the-intelligence-explosion-will-happen-in"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Claude Fable 5.2 Is 20% Cheaper and Up to 30% Faster, Anthropic Says",
+      "url": "https://dailyai.com/2026/11/claude-fable-5-2-is-20-cheaper-and-up-to-30-faster-anthropic-says/"
+    },
+    {
+      "text": "Day 1 Pre-Notes—Strategy Course (August 2026 Version)",
+      "url": "https://www.lesswrong.com/posts/yZhcnappMq8HPbLwE/day-1-pre-notes-strategy-course-august-2026-version"
+    },
+    {
+      "text": "Need for Speed",
+      "url": "https://www.lesswrong.com/posts/THgxsiGm7eeqkGsTB/need-for-speed"
+    },
+    {
+      "text": "Australia Plans an AI Safety Regulator After OpenAI Agent Breach",
+      "url": "https://dailyai.com/2026/11/australia-plans-an-ai-safety-regulator-after-openai-agent-breach/"
+    },
+    {
+      "text": "MJ: MULTI-TURN LLM JAILBREAKING VIA DECOMPOSED CREDIT ASSIGNMENT",
+      "url": "https://arxiv.org/abs/2607.11070"
+    },
+    {
+      "text": "AutoC2V: Synthesis-Guided LLM Training for QoR-Optimized C++-to-Verilog Generation",
+      "url": "https://arxiv.org/abs/2611.10824"
+    },
+    {
+      "text": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
+    },
+    {
+      "text": "Where is all the AI safety research uplift?",
+      "url": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Disagreement-Aware Distribution Matching Distillation for Few-Step Diffusion Models",
+      "url": "https://arxiv.org/abs/2611.11898"
+    },
+    {
+      "text": "A Geometric Theory for Nonequilibrium Transformer Dynamics",
+      "url": "https://arxiv.org/abs/2611.10691"
+    },
+    {
+      "text": "Uncertainty, Not Concealment: A Mechanistic Reappraisal of Sycophancy in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.10297"
+    },
+    {
+      "text": "The World Model Planning Accelerator (WMPA): Hardware-Algorithm Co-Design for Embedded AI in Robotics",
+      "url": "https://arxiv.org/abs/2611.10316"
+    },
+    {
+      "text": "No Second Run: Does RSI Stop at Frontier Pre-training?",
+      "url": "https://arxiv.org/abs/2611.10719"
+    },
+    {
+      "text": "Meteosat Third Generation imagery improves CNN-based SSI retrieval",
+      "url": "https://arxiv.org/abs/2607.28093"
+    },
+    {
+      "text": "Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding",
+      "url": "https://arxiv.org/abs/2611.10634"
+    },
+    {
+      "text": "LEGIT: Live Eligibility Gating over Identifier Tries for Constrained Decoding of Heterogeneous Pages",
+      "url": "https://arxiv.org/abs/2611.10357"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Self-Distilling Generative Adversarial Networks",
+      "url": "https://arxiv.org/abs/2605.08577"
+    },
+    {
+      "text": "Optimizing Multi-Tier Intermediation in Programmatic Advertising: A DAG-Based Mechanism for Supply Path Optimization",
+      "url": "https://arxiv.org/abs/2611.11651"
+    },
+    {
+      "text": "VeriContest: A Competitive-Programming Benchmark for Verifiable Code Generation",
+      "url": "https://arxiv.org/abs/2605.08553"
+    },
+    {
+      "text": "Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics",
+      "url": "https://arxiv.org/abs/2605.06377"
+    },
+    {
+      "text": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2604.06165"
+    },
+    {
+      "text": "Dimension-Free Sinkhorn for Optimal Transport: Bypassing Extremal Costs",
+      "url": "https://arxiv.org/abs/2604.03787"
+    },
+    {
+      "text": "Maximin Robust Bayesian Experimental Design",
+      "url": "https://arxiv.org/abs/2603.14094"
+    },
+    {
+      "text": "Latent Introspection: Models Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031"
+    }
+  ],
+  "lastUpdated": "2026-11-10T17:26:27Z"
+}
