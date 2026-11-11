@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
-    "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    "text": "Modern LLMs Don’t Know What Yudkowsky and Soares Think of Them",
+    "url": "https://www.lesswrong.com/posts/5buAWtQ8p4tJQP9so/modern-llms-don-t-know-what-yudkowsky-and-soares-think-of"
   },
   "topStories": [
     {
-      "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
-      "url": "https://arxiv.org/abs/2610.27745"
+      "text": "Critique of Roman Yampolskiy's impossibility proofs ",
+      "url": "https://www.lesswrong.com/posts/ni9AxvujPFjhfzAQD/critique-of-roman-yampolskiy-s-impossibility-proofs"
     },
     {
-      "text": "What Can AI Welfare Buy Without Consciousness?",
-      "url": "https://www.lesswrong.com/posts/D3WYRopEnodnM5CzF/what-can-ai-welfare-buy-without-consciousness"
+      "text": "CHATGPT ENTERPRISE NOW AVAILABLE IN AWS MARKETPLACE",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
     },
     {
-      "text": "IFRS Compliance Verification: An Open Multi-LLM Benchmark and Content-Conditioned Ensemble Classifier",
-      "url": "https://arxiv.org/abs/2611.13595"
+      "text": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
     }
   ],
   "leftColumn": [
     {
-      "text": "MOAI: Module-Optimizing Architecture for non-interactive secure transformer Inference",
-      "url": "https://arxiv.org/abs/2611.13641"
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
-      "text": "Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation",
-      "url": "https://arxiv.org/abs/2611.13926"
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
     },
     {
-      "text": "Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth",
-      "url": "https://arxiv.org/abs/2611.13594"
+      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
     },
     {
-      "text": "EIGENVALUES OF THE HESSIAN IN DEEP LEARNING: THE ORIGIN OF SYMMETRY AND ITS BREAKING",
-      "url": "https://arxiv.org/abs/2610.09919"
+      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
     },
     {
-      "text": "HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios",
-      "url": "https://arxiv.org/abs/2611.14059"
+      "text": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     },
     {
-      "text": "Free Lunch Uncertainty: Sequence-Level R\\'enyi Entropy from Particle Decoding for Adaptive LLM Reasoning",
-      "url": "https://arxiv.org/abs/2611.13414"
+      "text": "Bridging the gap between AI Safety and Cybersecurity",
+      "url": "https://www.lesswrong.com/posts/8cRzzfAkXmapD8ijA/bridging-the-gap-between-ai-safety-and-cybersecurity"
     },
     {
-      "text": "Mitigating Private Data Leakage in LLMs with Whiteout",
-      "url": "https://arxiv.org/abs/2610.02418"
+      "text": "Anthropic Seeks Up to $78 a Share in IPO That Could Raise $64bn",
+      "url": "https://dailyai.com/2026/11/anthropic-seeks-up-to-78-a-share-in-ipo-that-could-raise-64bn/"
     },
     {
-      "text": "Agreeing on the Answer but Not the Reason: Measurement Limits of LLM Reasoning Failure Taxonomies",
-      "url": "https://arxiv.org/abs/2611.13140"
+      "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
+      "url": "https://arxiv.org/abs/2610.27745"
     }
   ],
   "centerColumn": [
     {
-      "text": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
-      "url": "https://arxiv.org/abs/2611.14374"
+      "text": "Epistemic Infrastructures of Science in AI Era Should Rebalance Costs of Generation and Verification",
+      "url": "https://arxiv.org/abs/2605.10425"
     },
     {
-      "text": "On Federated Averaging with Partial Participation under a General Variance Condition",
-      "url": "https://arxiv.org/abs/2611.14239"
+      "text": "REVELIO: Universal Multimodal Task Load Estimation for Cross-Domain Generalization",
+      "url": "https://arxiv.org/abs/2509.01642"
     },
     {
-      "text": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
-      "url": "https://arxiv.org/abs/2605.17558"
+      "text": "Cross-Modality Investigation on WESAD Stress Classification",
+      "url": "https://arxiv.org/abs/2502.18733"
     },
     {
-      "text": "DnNP: Denoising Input Uncertainty in Neural Processes",
-      "url": "https://arxiv.org/abs/2611.14424"
+      "text": "Representational Atoms in Neural Networks",
+      "url": "https://arxiv.org/abs/2611.14168"
     },
     {
-      "text": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
-      "url": "https://arxiv.org/abs/2611.14418"
+      "text": "PARDIG: Global Precipitation Estimates Learned from Sparse Satellite Observations",
+      "url": "https://arxiv.org/abs/2611.13941"
     },
     {
-      "text": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
-      "url": "https://arxiv.org/abs/2611.14467"
+      "text": "The Star Geometry of Critic-Based Regularizer Learning",
+      "url": "https://arxiv.org/abs/2408.16852"
     },
     {
-      "text": "Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3",
-      "url": "https://arxiv.org/abs/2611.14060"
+      "text": "Semantic Chains: From Reachable Facts to Justified Answers",
+      "url": "https://arxiv.org/abs/2611.14252"
     },
     {
-      "text": "BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction",
-      "url": "https://arxiv.org/abs/2602.04512"
+      "text": "FinCutBench: A Continually Updated Benchmark for Measuring the Temporal Boundaries of LLM Financial Knowledge",
+      "url": "https://arxiv.org/abs/2611.11588"
     }
   ],
   "rightColumn": [
     {
-      "text": "SeqFold: Timestamp-Addressable Compressed States for User Action Sequence Backbones",
-      "url": "https://arxiv.org/abs/2611.13704"
+      "text": "Tabular Foundation Models in Financial Predictions",
+      "url": "https://arxiv.org/abs/2611.13550"
     },
     {
-      "text": "Preconditioned Flow Matching",
-      "url": "https://arxiv.org/abs/2603.02337"
+      "text": "Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning",
+      "url": "https://arxiv.org/abs/2607.19181"
     },
     {
-      "text": "Decentralized Ranking Aggregation via Gossip: Convergence and Robustness",
-      "url": "https://arxiv.org/abs/2602.22847"
+      "text": "Investigating Composite Modeling in Multi-Objective Bayesian Optimization for Scientific Design",
+      "url": "https://arxiv.org/abs/2611.13565"
     },
     {
-      "text": "Broad-Persistent Advising in Interactive Reinforcement Learning via Latent State Encoding",
-      "url": "https://arxiv.org/abs/2611.13712"
+      "text": "Metamorphic testing of learned AC optimal power flow surrogates reveals representation dependence",
+      "url": "https://arxiv.org/abs/2611.13566"
     },
     {
-      "text": "FiLoRA: Focus-and-Ignore LoRA for Controllable Feature Reliance",
-      "url": "https://arxiv.org/abs/2602.02060"
+      "text": "Market-Conditioned JEPA: Learning from Unpredictable Market Shocks",
+      "url": "https://arxiv.org/abs/2611.13572"
     },
     {
-      "text": "Entropic Risk-Aware Monte Carlo Tree Search",
-      "url": "https://arxiv.org/abs/2601.17667"
+      "text": "Unified Optimization of Traffic Signal and Lane Channelization for an Isolated Intersection Using Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.13599"
     },
     {
-      "text": "Automatic regularization for Kronecker product MMSE filters",
-      "url": "https://arxiv.org/abs/2512.14932"
+      "text": "Listen to the Features: Voice Anonymization Driven by Content Embedding Matching over Signal Reconstruction",
+      "url": "https://arxiv.org/abs/2607.09767"
     },
     {
-      "text": "Generative Online Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2512.02581"
+      "text": "Adaptive Reparametrized Time for Score-Based Diffusion Sampling",
+      "url": "https://arxiv.org/abs/2607.02137"
     }
   ],
-  "lastUpdated": "2026-11-11T05:41:08Z"
+  "lastUpdated": "2026-11-11T14:09:51Z"
 }
