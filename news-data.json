@@ -1,50 +1,50 @@
 {
   "mainHeadline": {
-    "text": "Modern LLMs Don’t Know What Yudkowsky and Soares Think of Them",
-    "url": "https://www.lesswrong.com/posts/5buAWtQ8p4tJQP9so/modern-llms-don-t-know-what-yudkowsky-and-soares-think-of"
+    "text": "Is predicting AI behaviour a neglected AI safety agenda?",
+    "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
   },
   "topStories": [
     {
-      "text": "Critique of Roman Yampolskiy's impossibility proofs ",
-      "url": "https://www.lesswrong.com/posts/ni9AxvujPFjhfzAQD/critique-of-roman-yampolskiy-s-impossibility-proofs"
+      "text": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
     },
     {
-      "text": "CHATGPT ENTERPRISE NOW AVAILABLE IN AWS MARKETPLACE",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+      "text": "The Chain Lens [interim]",
+      "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
     },
     {
-      "text": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
     }
   ],
   "leftColumn": [
     {
+      "text": "LLMs can learn (some) multi-step reasoning on filler tokens",
+      "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"
+    },
+    {
+      "text": "ChatGPT’s New Business Agents Should Admit They Are Salespeople",
+      "url": "https://dailyai.com/2026/11/chatgpts-new-business-agents-should-admit-they-are-salespeople/"
+    },
+    {
       "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
-    },
-    {
-      "text": "llm-gemini 0.36",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-    },
-    {
-      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
-    },
-    {
-      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
     },
     {
       "text": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     },
     {
-      "text": "Bridging the gap between AI Safety and Cybersecurity",
-      "url": "https://www.lesswrong.com/posts/8cRzzfAkXmapD8ijA/bridging-the-gap-between-ai-safety-and-cybersecurity"
+      "text": "Don't Waste a Good Swarm Attack and the Colluder's Dilemma",
+      "url": "https://www.lesswrong.com/posts/oLHdtvYSrvDpWREo4/don-t-waste-a-good-swarm-attack-and-the-colluder-s-dilemma"
     },
     {
-      "text": "Anthropic Seeks Up to $78 a Share in IPO That Could Raise $64bn",
-      "url": "https://dailyai.com/2026/11/anthropic-seeks-up-to-78-a-share-in-ipo-that-could-raise-64bn/"
+      "text": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html"
+    },
+    {
+      "text": "Kimi's Room (Preliminary Results)",
+      "url": "https://www.lesswrong.com/posts/gXHhtGijBbs8q7iEY/kimi-s-room-preliminary-results"
     },
     {
       "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
@@ -53,71 +53,71 @@
   ],
   "centerColumn": [
     {
-      "text": "Epistemic Infrastructures of Science in AI Era Should Rebalance Costs of Generation and Verification",
-      "url": "https://arxiv.org/abs/2605.10425"
+      "text": "ZoomGain: Mining Global-to-Zoom Perception Gaps for Fine-Grained Visual Supervision",
+      "url": "https://arxiv.org/abs/2611.14076"
     },
     {
-      "text": "REVELIO: Universal Multimodal Task Load Estimation for Cross-Domain Generalization",
-      "url": "https://arxiv.org/abs/2509.01642"
+      "text": "Gradient Inversion through Linear and Affine Subspace Constraints",
+      "url": "https://arxiv.org/abs/2611.13976"
     },
     {
-      "text": "Cross-Modality Investigation on WESAD Stress Classification",
-      "url": "https://arxiv.org/abs/2502.18733"
+      "text": "Interleaving anatomical inspection and diagnostic reasoning for explainable radiology report generation",
+      "url": "https://arxiv.org/abs/2611.14018"
     },
     {
-      "text": "Representational Atoms in Neural Networks",
-      "url": "https://arxiv.org/abs/2611.14168"
+      "text": "A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening",
+      "url": "https://arxiv.org/abs/2611.14013"
     },
     {
-      "text": "PARDIG: Global Precipitation Estimates Learned from Sparse Satellite Observations",
-      "url": "https://arxiv.org/abs/2611.13941"
+      "text": "Tokens-per-Parameter Coverage Is Critical for Robust LLM Scaling Law Extrapolation",
+      "url": "https://arxiv.org/abs/2605.08541"
     },
     {
-      "text": "The Star Geometry of Critic-Based Regularizer Learning",
-      "url": "https://arxiv.org/abs/2408.16852"
+      "text": "Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.14009"
     },
     {
-      "text": "Semantic Chains: From Reachable Facts to Justified Answers",
-      "url": "https://arxiv.org/abs/2611.14252"
+      "text": "AdjointFlow: Accelerating Scientific Inverse Problems with Physics-Based Transport",
+      "url": "https://arxiv.org/abs/2611.13389"
     },
     {
-      "text": "FinCutBench: A Continually Updated Benchmark for Measuring the Temporal Boundaries of LLM Financial Knowledge",
-      "url": "https://arxiv.org/abs/2611.11588"
+      "text": "Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development",
+      "url": "https://arxiv.org/abs/2611.13940"
     }
   ],
   "rightColumn": [
     {
-      "text": "Tabular Foundation Models in Financial Predictions",
-      "url": "https://arxiv.org/abs/2611.13550"
+      "text": "LoBoost: Model-Native Local Conformal Prediction for Gradient-Boosted Trees",
+      "url": "https://arxiv.org/abs/2602.22432"
     },
     {
-      "text": "Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning",
-      "url": "https://arxiv.org/abs/2607.19181"
+      "text": "From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge",
+      "url": "https://arxiv.org/abs/2611.13196"
     },
     {
-      "text": "Investigating Composite Modeling in Multi-Objective Bayesian Optimization for Scientific Design",
-      "url": "https://arxiv.org/abs/2611.13565"
+      "text": "Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation",
+      "url": "https://arxiv.org/abs/2611.14328"
     },
     {
-      "text": "Metamorphic testing of learned AC optimal power flow surrogates reveals representation dependence",
-      "url": "https://arxiv.org/abs/2611.13566"
+      "text": "Recasting Visual Language Models as EEG Foundation Models for Clinical Neurodiagnostics",
+      "url": "https://arxiv.org/abs/2611.05538"
     },
     {
-      "text": "Market-Conditioned JEPA: Learning from Unpredictable Market Shocks",
-      "url": "https://arxiv.org/abs/2611.13572"
+      "text": "BEiTScore++: Reference-free Image Captioning Evaluation with BEiT-3 and Conformalized Quantile Regression",
+      "url": "https://arxiv.org/abs/2611.09505"
     },
     {
-      "text": "Unified Optimization of Traffic Signal and Lane Channelization for an Isolated Intersection Using Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.13599"
+      "text": "RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics",
+      "url": "https://arxiv.org/abs/2603.06639"
     },
     {
-      "text": "Listen to the Features: Voice Anonymization Driven by Content Embedding Matching over Signal Reconstruction",
-      "url": "https://arxiv.org/abs/2607.09767"
+      "text": "Muon Makes the First Mixture-of-Experts Layer Harder to Balance",
+      "url": "https://arxiv.org/abs/2610.37914"
     },
     {
-      "text": "Adaptive Reparametrized Time for Score-Based Diffusion Sampling",
-      "url": "https://arxiv.org/abs/2607.02137"
+      "text": "Chem World: A Large-Scale Benchmark and Physics-Aware Framework for Trustworthy Molecular Property Prediction",
+      "url": "https://arxiv.org/abs/2611.13945"
     }
   ],
-  "lastUpdated": "2026-11-11T14:09:51Z"
+  "lastUpdated": "2026-11-11T22:07:17Z"
 }
