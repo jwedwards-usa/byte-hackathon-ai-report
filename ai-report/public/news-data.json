@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Claude Fable 5.2 can do \"weight-space-programming\" about as well as GPT-6 Astra",
-    "url": "https://www.lesswrong.com/posts/wg3K6xFFTdM6RmRgn/claude-fable-5-2-can-do-weight-space-programming-about-as"
+    "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans"
   },
   "topStories": [
     {
-      "text": "The Manifund team scores AI safety milestones",
-      "url": "https://www.lesswrong.com/posts/WfA3ffjEgQt4wx3xL/the-manifund-team-scores-ai-safety-milestones"
+      "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
+      "url": "https://arxiv.org/abs/2610.27745"
     },
     {
-      "text": "We don’t understand whether GDM intentionally trains on CoT",
-      "url": "https://www.lesswrong.com/posts/JRYKFspYzCo97GqPN/we-don-t-understand-whether-gdm-intentionally-trains-on-cot"
+      "text": "What Can AI Welfare Buy Without Consciousness?",
+      "url": "https://www.lesswrong.com/posts/D3WYRopEnodnM5CzF/what-can-ai-welfare-buy-without-consciousness"
     },
     {
-      "text": "llm-gemini 0.36",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+      "text": "IFRS Compliance Verification: An Open Multi-LLM Benchmark and Content-Conditioned Ensemble Classifier",
+      "url": "https://arxiv.org/abs/2611.13595"
     }
   ],
   "leftColumn": [
     {
-      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
+      "text": "MOAI: Module-Optimizing Architecture for non-interactive secure transformer Inference",
+      "url": "https://arxiv.org/abs/2611.13641"
     },
     {
-      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+      "text": "Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation",
+      "url": "https://arxiv.org/abs/2611.13926"
     },
     {
-      "text": "Generative AI and Oral Proficiency: How ChatGPT Is Transforming English Language Speaking Practice",
-      "url": "https://arxiv.org/abs/2611.09898"
+      "text": "Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth",
+      "url": "https://arxiv.org/abs/2611.13594"
     },
     {
-      "text": "Is AI Safety Becoming Environmentalism?",
-      "url": "https://www.lesswrong.com/posts/TDt922Lwsmbp3H3tS/is-ai-safety-becoming-environmentalism"
+      "text": "EIGENVALUES OF THE HESSIAN IN DEEP LEARNING: THE ORIGIN OF SYMMETRY AND ITS BREAKING",
+      "url": "https://arxiv.org/abs/2610.09919"
     },
     {
-      "text": "OpenAI estimates of researcher time horizon are smaller than AECI predictions",
-      "url": "https://www.lesswrong.com/posts/W3WyJJWN55yXXLh5r/openai-estimates-of-researcher-time-horizon-are-smaller-than"
+      "text": "HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios",
+      "url": "https://arxiv.org/abs/2611.14059"
     },
     {
-      "text": "Fluid org boundaries with AI?",
-      "url": "https://www.lesswrong.com/posts/qaYAtsapEYPzrW4Bo/fluid-org-boundaries-with-ai"
+      "text": "Free Lunch Uncertainty: Sequence-Level R\\'enyi Entropy from Particle Decoding for Adaptive LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.13414"
     },
     {
-      "text": "BUSINESSES IN CHATGPT – OPENAI",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt/"
+      "text": "Mitigating Private Data Leakage in LLMs with Whiteout",
+      "url": "https://arxiv.org/abs/2610.02418"
     },
     {
-      "text": "Anthropic has its own AI-powered office suite now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+      "text": "Agreeing on the Answer but Not the Reason: Measurement Limits of LLM Reasoning Failure Taxonomies",
+      "url": "https://arxiv.org/abs/2611.13140"
     }
   ],
   "centerColumn": [
     {
-      "text": "Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition",
-      "url": "https://arxiv.org/abs/2610.35112"
+      "text": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
+      "url": "https://arxiv.org/abs/2611.14374"
     },
     {
-      "text": "Holomorphic Cauchy Networks for Efficient Stationary Tail Computation in High-Dimensional Reflected Brownian Motions",
-      "url": "https://arxiv.org/abs/2610.36558"
+      "text": "On Federated Averaging with Partial Participation under a General Variance Condition",
+      "url": "https://arxiv.org/abs/2611.14239"
     },
     {
-      "text": "When Should AI Overturn a Human Decision? Controversy at the 2026 World Cup and a $\\sqrt{2/\\pi}$ Solution",
-      "url": "https://arxiv.org/abs/2611.11819"
+      "text": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
+      "url": "https://arxiv.org/abs/2605.17558"
     },
     {
-      "text": "FedLoVA: Value-Only Aggregation for Federated LoRA Fine-Tuning of Large Language Models",
-      "url": "https://arxiv.org/abs/2611.10248"
+      "text": "DnNP: Denoising Input Uncertainty in Neural Processes",
+      "url": "https://arxiv.org/abs/2611.14424"
     },
     {
-      "text": "Can the Confidence and Decisions of System 1 Models Be Trusted? An Explainability and Perturbation Audit of Jev-Style Decision Models",
-      "url": "https://arxiv.org/abs/2611.12521"
+      "text": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
+      "url": "https://arxiv.org/abs/2611.14418"
     },
     {
-      "text": "Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models",
-      "url": "https://arxiv.org/abs/2611.04571"
+      "text": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+      "url": "https://arxiv.org/abs/2611.14467"
     },
     {
-      "text": "Can the Remaining Answers Change the Prediction? Worst-Case Stability Checks for Personalized Rating Models",
-      "url": "https://arxiv.org/abs/2611.11733"
+      "text": "Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3",
+      "url": "https://arxiv.org/abs/2611.14060"
     },
     {
-      "text": "Auto-GlaKG: Automated Biomarker Reasoning for Explainable Glaucoma Detection",
-      "url": "https://arxiv.org/abs/2611.11258"
+      "text": "BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction",
+      "url": "https://arxiv.org/abs/2602.04512"
     }
   ],
   "rightColumn": [
     {
-      "text": "One-Shot Federated Graph Learning via High-Fidelity Proxies and Transferability-Guided Collaboration",
-      "url": "https://arxiv.org/abs/2611.12131"
+      "text": "SeqFold: Timestamp-Addressable Compressed States for User Action Sequence Backbones",
+      "url": "https://arxiv.org/abs/2611.13704"
     },
     {
-      "text": "Good Views Are Not Enough: Global Counterexamples for Gaussian-Regularized JEPAs",
-      "url": "https://arxiv.org/abs/2611.12137"
+      "text": "Preconditioned Flow Matching",
+      "url": "https://arxiv.org/abs/2603.02337"
     },
     {
-      "text": "Pruning DNA Sequence",
-      "url": "https://arxiv.org/abs/2611.10386"
+      "text": "Decentralized Ranking Aggregation via Gossip: Convergence and Robustness",
+      "url": "https://arxiv.org/abs/2602.22847"
     },
     {
-      "text": "Do Time-Series Foundation Models Forecast Index-Futures Returns? A Preregistered Evaluation of Models, Metrics, and Input Representations",
-      "url": "https://arxiv.org/abs/2611.12141"
+      "text": "Broad-Persistent Advising in Interactive Reinforcement Learning via Latent State Encoding",
+      "url": "https://arxiv.org/abs/2611.13712"
     },
     {
-      "text": "Beyond Flat Walks: Compositional Abstraction for Autoregressive Graph Generation",
-      "url": "https://arxiv.org/abs/2611.12160"
+      "text": "FiLoRA: Focus-and-Ignore LoRA for Controllable Feature Reliance",
+      "url": "https://arxiv.org/abs/2602.02060"
     },
     {
-      "text": "Replication of Thermal Comfort Cohort Models: No Support for Improved Thermal Preference Prediction",
-      "url": "https://arxiv.org/abs/2611.12178"
+      "text": "Entropic Risk-Aware Monte Carlo Tree Search",
+      "url": "https://arxiv.org/abs/2601.17667"
     },
     {
-      "text": "Quantitative Assessment of Crystal Structure Prediction",
-      "url": "https://arxiv.org/abs/2611.10380"
+      "text": "Automatic regularization for Kronecker product MMSE filters",
+      "url": "https://arxiv.org/abs/2512.14932"
     },
     {
-      "text": "CHARM: Certified Homology-Aware Reverse-scale Mapping via Diffusion-Guided Quotient Towers",
-      "url": "https://arxiv.org/abs/2611.10375"
+      "text": "Generative Online Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2512.02581"
     }
   ],
-  "lastUpdated": "2026-11-10T23:21:55Z"
+  "lastUpdated": "2026-11-11T05:41:08Z"
 }
