@@ -5,23 +5,19 @@
   },
   "topStories": [
     {
+      "text": "A Flaw in OpenAI’s Codex Put 97 Million Monthly Downloads at Risk",
+      "url": "https://dailyai.com/2026/11/codex-flaw-put-a-tool-downloaded-97-million-times-a-month-at-risk/"
+    },
+    {
       "text": "Japan Drafts AI Safety Rules That Would Carry Penalties",
       "url": "https://dailyai.com/2026/11/japan-drafts-penalty-backed-safety-rules-for-the-most-powerful-ai/"
     },
     {
-      "text": "Chips for Humanity:\nCompute for AI safety research",
-      "url": "https://www.lesswrong.com/posts/P3JjXySeQpdWjmCGw/chips-for-humanity-compute-for-ai-safety-research"
-    },
-    {
-      "text": "AI Security Issues Are Social Engineering Issues",
-      "url": "https://www.lesswrong.com/posts/e8S7u4iRi7fZyKbG5/ai-security-issues-are-social-engineering-issues"
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
     }
   ],
   "leftColumn": [
-    {
-      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
-    },
     {
       "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
@@ -43,27 +39,19 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "New research could lead to faster, trustworthy AI models for climate prediction",
-      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+      "text": "United Airlines Won’t Let Your AI Assistant Book Your Flights",
+      "url": "https://dailyai.com/2026/11/united-airlines-wont-let-your-ai-assistant-book-your-flights/"
     },
     {
-      "text": "Quine can predict cross-propensity spillover. (imperfectly but significantly better than chance) ",
-      "url": "https://www.lesswrong.com/posts/z58m8i2fMrGbJuhXX/quine-can-predict-cross-propensity-spillover-imperfectly-but"
+      "text": "How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)",
+      "url": "https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/"
+    },
+    {
+      "text": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
     }
   ],
   "centerColumn": [
-    {
-      "text": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
-    },
-    {
-      "text": "Anthropic Seeks Up to $78 a Share in IPO That Could Raise $64bn",
-      "url": "https://dailyai.com/2026/11/anthropic-seeks-up-to-78-a-share-in-ipo-that-could-raise-64bn/"
-    },
-    {
-      "text": "Google Shouldn’t Make Gmail Users Accept Human Review to Use Gemini",
-      "url": "https://dailyai.com/2026/11/google-shouldnt-make-gmail-users-accept-human-review-to-use-gemini/"
-    },
     {
       "text": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
@@ -71,6 +59,14 @@
     {
       "text": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
       "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"
+    },
+    {
+      "text": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
+      "text": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
+      "url": "https://www.lesswrong.com/posts/GPDhwwsFoZGwbcvdS/linkpost-neural-networks-are-already-clean-followup"
     },
     {
       "text": "Gilbert + Tobin rethinks the business of law with AI",
@@ -81,22 +77,22 @@
       "url": "https://dailyai.com/2026/11/a-five-person-team-and-ai-proved-signals-code-in-four-weeks/"
     },
     {
-      "text": "How I'm thinking about different types of automated alignment",
-      "url": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated"
+      "text": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri"
+    },
+    {
+      "text": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
     }
   ],
   "rightColumn": [
     {
+      "text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
       "text": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
       "url": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"
-    },
-    {
-      "text": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-    },
-    {
-      "text": "What Are Diffusion Language Models, and Why Are They Different From GPT?",
-      "url": "https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/"
     },
     {
       "text": "aws-emulator",
@@ -115,9 +111,13 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
     },
     {
-      "text": "Freelance Writing Work Shrank 31% as a Share of Upwork Job Posts",
-      "url": "https://dailyai.com/2026/11/freelance-writing-work-shrank-31-as-a-share-of-upwork-job-posts/"
+      "text": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
+      "url": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/"
+    },
+    {
+      "text": "New York Gives Big AI Labs Until 1 January to Register Under RAISE Act",
+      "url": "https://dailyai.com/2026/11/new-york-gives-big-ai-labs-until-1-january-to-register-under-raise-act/"
     }
   ],
-  "lastUpdated": "2026-11-12T09:28:42Z"
+  "lastUpdated": "2026-11-12T12:33:11Z"
 }

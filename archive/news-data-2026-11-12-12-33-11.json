@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Experience machines and Coxon’s rhetorical failure",
+    "url": "https://www.lesswrong.com/posts/swYNi3j4ryeZ4gebe/experience-machines-and-coxon-s-rhetorical-failure"
+  },
+  "topStories": [
+    {
+      "text": "A Flaw in OpenAI’s Codex Put 97 Million Monthly Downloads at Risk",
+      "url": "https://dailyai.com/2026/11/codex-flaw-put-a-tool-downloaded-97-million-times-a-month-at-risk/"
+    },
+    {
+      "text": "Japan Drafts AI Safety Rules That Would Carry Penalties",
+      "url": "https://dailyai.com/2026/11/japan-drafts-penalty-backed-safety-rules-for-the-most-powerful-ai/"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+    },
+    {
+      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
+    },
+    {
+      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "United Airlines Won’t Let Your AI Assistant Book Your Flights",
+      "url": "https://dailyai.com/2026/11/united-airlines-wont-let-your-ai-assistant-book-your-flights/"
+    },
+    {
+      "text": "How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)",
+      "url": "https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/"
+    },
+    {
+      "text": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "text": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
+      "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"
+    },
+    {
+      "text": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
+      "text": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
+      "url": "https://www.lesswrong.com/posts/GPDhwwsFoZGwbcvdS/linkpost-neural-networks-are-already-clean-followup"
+    },
+    {
+      "text": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "text": "A Five-Person Team and AI Proved Signal’s Code in Four Weeks",
+      "url": "https://dailyai.com/2026/11/a-five-person-team-and-ai-proved-signals-code-in-four-weeks/"
+    },
+    {
+      "text": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri"
+    },
+    {
+      "text": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "text": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
+      "url": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"
+    },
+    {
+      "text": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
+    },
+    {
+      "text": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt"
+    },
+    {
+      "text": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "text": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+    },
+    {
+      "text": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
+      "url": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/"
+    },
+    {
+      "text": "New York Gives Big AI Labs Until 1 January to Register Under RAISE Act",
+      "url": "https://dailyai.com/2026/11/new-york-gives-big-ai-labs-until-1-january-to-register-under-raise-act/"
+    }
+  ],
+  "lastUpdated": "2026-11-12T12:33:11Z"
+}
