@@ -1,38 +1,34 @@
 {
   "mainHeadline": {
-    "text": "Is predicting AI behaviour a neglected AI safety agenda?",
-    "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
+    "text": "AI Security Issues Are Social Engineering Issues",
+    "url": "https://www.lesswrong.com/posts/e8S7u4iRi7fZyKbG5/ai-security-issues-are-social-engineering-issues"
   },
   "topStories": [
     {
-      "text": "Gemini Decisions API",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+      "text": "Is predicting AI behaviour a neglected AI safety agenda?",
+      "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
     },
     {
       "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
-      "text": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      "text": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
+      "url": "https://www.lesswrong.com/posts/GPDhwwsFoZGwbcvdS/linkpost-neural-networks-are-already-clean-followup"
     }
   ],
   "leftColumn": [
     {
-      "text": "Don't Waste a Good Swarm Attack and the Colluder's Dilemma",
-      "url": "https://www.lesswrong.com/posts/oLHdtvYSrvDpWREo4/don-t-waste-a-good-swarm-attack-and-the-colluder-s-dilemma"
+      "text": "Chips for Humanity:\nCompute for AI safety research",
+      "url": "https://www.lesswrong.com/posts/P3JjXySeQpdWjmCGw/chips-for-humanity-compute-for-ai-safety-research"
     },
     {
-      "text": "The Chain Lens [interim]",
-      "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
+      "text": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
+      "url": "https://www.lesswrong.com/posts/scgudBc6hetT8ftTZ/models-can-critique-delusions-in-isolation-but-revert-to"
     },
     {
       "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
       "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
-    },
-    {
-      "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
-      "url": "https://arxiv.org/abs/2610.27745"
     },
     {
       "text": "llm-gemini 0.36",
@@ -49,75 +45,79 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Rage, Rage Against the Dying of the Light",
+      "url": "https://www.lesswrong.com/posts/C3g3JxpJizPNjMsQ4/rage-rage-against-the-dying-of-the-light"
     }
   ],
   "centerColumn": [
     {
-      "text": "Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines",
-      "url": "https://arxiv.org/abs/2611.14266"
+      "text": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/"
     },
     {
-      "text": "Auditing the Judge: Internal Signals for LLM Reasoning Assurance",
-      "url": "https://arxiv.org/abs/2611.14323"
+      "text": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
     },
     {
-      "text": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
-      "url": "https://arxiv.org/abs/2611.14374"
+      "text": "Google Shouldn’t Make Gmail Users Accept Human Review to Use Gemini",
+      "url": "https://dailyai.com/2026/11/google-shouldnt-make-gmail-users-accept-human-review-to-use-gemini/"
     },
     {
-      "text": "RamanPFN: A physics-guided spectral foundation framework for in-context learning across diverse Raman applications",
-      "url": "https://arxiv.org/abs/2608.02157"
+      "text": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
     },
     {
-      "text": "DnNP: Denoising Input Uncertainty in Neural Processes",
-      "url": "https://arxiv.org/abs/2611.14424"
+      "text": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
+      "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"
     },
     {
-      "text": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
-      "url": "https://arxiv.org/abs/2611.14467"
+      "text": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
     },
     {
-      "text": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
-      "url": "https://arxiv.org/abs/2605.17558"
+      "text": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
     },
     {
-      "text": "Breakdown of Autoregressive Multi-Step Reasoning Under Concentrated vs. Diffuse Attention Head Dropout",
-      "url": "https://arxiv.org/abs/2611.14209"
+      "text": "Stroh Violin",
+      "url": "https://www.lesswrong.com/posts/JbboQMxJtgqZcbdRg/stroh-violin"
     }
   ],
   "rightColumn": [
     {
-      "text": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2611.13030"
+      "text": "New York Gives Big AI Labs Until 1 January to Register Under RAISE Act",
+      "url": "https://dailyai.com/2026/11/new-york-gives-big-ai-labs-until-1-january-to-register-under-raise-act/"
     },
     {
-      "text": "Earth Embeddings in Environmental Remote Sensing",
-      "url": "https://arxiv.org/abs/2611.13612"
+      "text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
     },
     {
-      "text": "Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding",
-      "url": "https://arxiv.org/abs/2611.13017"
+      "text": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
+      "url": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"
     },
     {
-      "text": "ZeroPoint: Lightweight Energy-Based Decision Model",
-      "url": "https://arxiv.org/abs/2611.12992"
+      "text": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
     },
     {
-      "text": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
-      "url": "https://arxiv.org/abs/2611.12961"
+      "text": "What Are Diffusion Language Models, and Why Are They Different From GPT?",
+      "url": "https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/"
     },
     {
-      "text": "BEiTScore++: Reference-free Image Captioning Evaluation with BEiT-3 and Conformalized Quantile Regression",
-      "url": "https://arxiv.org/abs/2611.09505"
+      "text": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
     },
     {
-      "text": "Fermat ProbCover: Coverage-Based Active Learning on Fermat Distance Graphs",
-      "url": "https://arxiv.org/abs/2611.13448"
+      "text": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt"
     },
     {
-      "text": "Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives",
-      "url": "https://arxiv.org/abs/2611.07935"
+      "text": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
     }
   ],
-  "lastUpdated": "2026-11-12T00:53:56Z"
+  "lastUpdated": "2026-11-12T06:31:50Z"
 }
