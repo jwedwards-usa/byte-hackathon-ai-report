@@ -1,34 +1,30 @@
 {
   "mainHeadline": {
-    "text": "AI Security Issues Are Social Engineering Issues",
-    "url": "https://www.lesswrong.com/posts/e8S7u4iRi7fZyKbG5/ai-security-issues-are-social-engineering-issues"
+    "text": "Experience machines and Coxon’s rhetorical failure",
+    "url": "https://www.lesswrong.com/posts/swYNi3j4ryeZ4gebe/experience-machines-and-coxon-s-rhetorical-failure"
   },
   "topStories": [
     {
-      "text": "Is predicting AI behaviour a neglected AI safety agenda?",
-      "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
+      "text": "Japan Drafts AI Safety Rules That Would Carry Penalties",
+      "url": "https://dailyai.com/2026/11/japan-drafts-penalty-backed-safety-rules-for-the-most-powerful-ai/"
     },
-    {
-      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
-    },
-    {
-      "text": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
-      "url": "https://www.lesswrong.com/posts/GPDhwwsFoZGwbcvdS/linkpost-neural-networks-are-already-clean-followup"
-    }
-  ],
-  "leftColumn": [
     {
       "text": "Chips for Humanity:\nCompute for AI safety research",
       "url": "https://www.lesswrong.com/posts/P3JjXySeQpdWjmCGw/chips-for-humanity-compute-for-ai-safety-research"
     },
     {
-      "text": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
-      "url": "https://www.lesswrong.com/posts/scgudBc6hetT8ftTZ/models-can-critique-delusions-in-isolation-but-revert-to"
-    },
+      "text": "AI Security Issues Are Social Engineering Issues",
+      "url": "https://www.lesswrong.com/posts/e8S7u4iRi7fZyKbG5/ai-security-issues-are-social-engineering-issues"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
       "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
+    },
+    {
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
       "text": "llm-gemini 0.36",
@@ -47,18 +43,22 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Rage, Rage Against the Dying of the Light",
-      "url": "https://www.lesswrong.com/posts/C3g3JxpJizPNjMsQ4/rage-rage-against-the-dying-of-the-light"
+      "text": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+    },
+    {
+      "text": "Quine can predict cross-propensity spillover. (imperfectly but significantly better than chance) ",
+      "url": "https://www.lesswrong.com/posts/z58m8i2fMrGbJuhXX/quine-can-predict-cross-propensity-spillover-imperfectly-but"
     }
   ],
   "centerColumn": [
     {
-      "text": "llm 0.37.2",
-      "url": "https://simonwillison.net/2026/Nov/11/llm/"
-    },
-    {
       "text": "The Download: preserving minds and weighing open AI risks",
       "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
+    },
+    {
+      "text": "Anthropic Seeks Up to $78 a Share in IPO That Could Raise $64bn",
+      "url": "https://dailyai.com/2026/11/anthropic-seeks-up-to-78-a-share-in-ipo-that-could-raise-64bn/"
     },
     {
       "text": "Google Shouldn’t Make Gmail Users Accept Human Review to Use Gemini",
@@ -73,27 +73,19 @@
       "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"
     },
     {
-      "text": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+      "text": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     },
     {
-      "text": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+      "text": "A Five-Person Team and AI Proved Signal’s Code in Four Weeks",
+      "url": "https://dailyai.com/2026/11/a-five-person-team-and-ai-proved-signals-code-in-four-weeks/"
     },
     {
-      "text": "Stroh Violin",
-      "url": "https://www.lesswrong.com/posts/JbboQMxJtgqZcbdRg/stroh-violin"
+      "text": "How I'm thinking about different types of automated alignment",
+      "url": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated"
     }
   ],
   "rightColumn": [
-    {
-      "text": "New York Gives Big AI Labs Until 1 January to Register Under RAISE Act",
-      "url": "https://dailyai.com/2026/11/new-york-gives-big-ai-labs-until-1-january-to-register-under-raise-act/"
-    },
-    {
-      "text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
-    },
     {
       "text": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
       "url": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"
@@ -117,7 +109,15 @@
     {
       "text": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "text": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+    },
+    {
+      "text": "Freelance Writing Work Shrank 31% as a Share of Upwork Job Posts",
+      "url": "https://dailyai.com/2026/11/freelance-writing-work-shrank-31-as-a-share-of-upwork-job-posts/"
     }
   ],
-  "lastUpdated": "2026-11-12T06:31:50Z"
+  "lastUpdated": "2026-11-12T09:28:42Z"
 }
