@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #194: Spy Versus Guy",
+    "url": "https://www.lesswrong.com/posts/qKd9DvDMiYXxzAugk/ai-194-spy-versus-guy"
+  },
+  "topStories": [
+    {
+      "text": "GOOGLE SEARCH GETS A MAJOR UPGRADE WITH GEMINI 4 HYDROGEN",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
+    {
+      "text": "Reward-Hacking is potentially ill-defined",
+      "url": "https://www.lesswrong.com/posts/zGFwQHygysmKgcpgE/reward-hacking-is-potentially-ill-defined"
+    },
+    {
+      "text": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "text": "Plan B for Alignment: Seeding Environmental Doubt",
+      "url": "https://www.lesswrong.com/posts/qhtHrjDQEaXjxYnqE/plan-b-for-alignment-seeding-environmental-doubt"
+    },
+    {
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Four AI Companies Agree to Outside Child-Safety Tests of Their Tools",
+      "url": "https://dailyai.com/2026/11/four-ai-companies-agree-to-outside-child-safety-tests-of-their-tools/"
+    },
+    {
+      "text": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+    },
+    {
+      "text": "Anthropic Seeks Up to $78 a Share in IPO That Could Raise $64bn",
+      "url": "https://dailyai.com/2026/11/anthropic-seeks-up-to-78-a-share-in-ipo-that-could-raise-64bn/"
+    },
+    {
+      "text": "Oh, Palantir is ‘progressive’ now, is it?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video"
+    },
+    {
+      "text": "San Francisco Rationalist Dinner",
+      "url": "https://www.lesswrong.com/events/z3gejrgP6LRuFFRkP/san-francisco-rationalist-dinner-3"
+    },
+    {
+      "text": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    },
+    {
+      "text": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/"
+    },
+    {
+      "text": "There is no such thing as cosmophagous AI",
+      "url": "https://www.lesswrong.com/posts/KrFu7kGk3x8aZcCzu/there-is-no-such-thing-as-cosmophagous-ai"
+    },
+    {
+      "text": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults.",
+      "url": "https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/"
+    },
+    {
+      "text": "2026 NYC Secular Solstice \u0026 East Coast Rationalist Megameetup",
+      "url": "https://www.lesswrong.com/events/aZiFeJdDcX7CEfi2a/2026-nyc-secular-solstice-and-east-coast-rationalist"
+    },
+    {
+      "text": "I REVIEWED THE APPLE HOMEVIEW, ASK ME ANYTHING",
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything"
+    },
+    {
+      "text": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
+      "text": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
+    },
+    {
+      "text": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt"
+    },
+    {
+      "text": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+    },
+    {
+      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+    }
+  ],
+  "lastUpdated": "2026-11-12T18:26:07Z"
+}

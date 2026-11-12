@@ -5,26 +5,34 @@
   },
   "topStories": [
     {
-      "text": "Are Frontier Reasoning Models useful on hard-to-verify problems?",
-      "url": "https://www.lesswrong.com/posts/C7AK8DJZGcgmye6xq/are-frontier-reasoning-models-useful-on-hard-to-verify"
+      "text": "GOOGLE SEARCH GETS A MAJOR UPGRADE WITH GEMINI 4 HYDROGEN",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
     },
     {
-      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
+      "text": "Reward-Hacking is potentially ill-defined",
+      "url": "https://www.lesswrong.com/posts/zGFwQHygysmKgcpgE/reward-hacking-is-potentially-ill-defined"
     },
     {
-      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+      "text": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
     }
   ],
   "leftColumn": [
     {
-      "text": "llm-gemini 0.36",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+      "text": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
     },
     {
-      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+      "text": "Plan B for Alignment: Seeding Environmental Doubt",
+      "url": "https://www.lesswrong.com/posts/qhtHrjDQEaXjxYnqE/plan-b-for-alignment-seeding-environmental-doubt"
+    },
+    {
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
     },
     {
       "text": "Sample Blog Post",
@@ -35,20 +43,12 @@
       "url": "https://dailyai.com/2026/11/four-ai-companies-agree-to-outside-child-safety-tests-of-their-tools/"
     },
     {
-      "text": "Experience machines and Coxon’s rhetorical failure",
-      "url": "https://www.lesswrong.com/posts/swYNi3j4ryeZ4gebe/experience-machines-and-coxon-s-rhetorical-failure"
-    },
-    {
       "text": "Gemini Decisions API",
       "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
     },
     {
-      "text": "ChatGPT’s New Business Agents Should Admit They Are Salespeople",
-      "url": "https://dailyai.com/2026/11/chatgpts-new-business-agents-should-admit-they-are-salespeople/"
-    },
-    {
-      "text": "Evidence that the ‘talker’ has introspective access to the ‘doer’",
-      "url": "https://www.lesswrong.com/posts/kTg5FrABJYpYrP8ps/evidence-that-the-talker-has-introspective-access-to-the"
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
     }
   ],
   "centerColumn": [
@@ -61,9 +61,31 @@
       "url": "https://dailyai.com/2026/11/anthropic-seeks-up-to-78-a-share-in-ipo-that-could-raise-64bn/"
     },
     {
-      "text": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+      "text": "Oh, Palantir is ‘progressive’ now, is it?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video"
     },
+    {
+      "text": "San Francisco Rationalist Dinner",
+      "url": "https://www.lesswrong.com/events/z3gejrgP6LRuFFRkP/san-francisco-rationalist-dinner-3"
+    },
+    {
+      "text": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    },
+    {
+      "text": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/"
+    },
+    {
+      "text": "There is no such thing as cosmophagous AI",
+      "url": "https://www.lesswrong.com/posts/KrFu7kGk3x8aZcCzu/there-is-no-such-thing-as-cosmophagous-ai"
+    },
+    {
+      "text": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    }
+  ],
+  "rightColumn": [
     {
       "text": "I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults.",
       "url": "https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/"
@@ -73,26 +95,12 @@
       "url": "https://www.lesswrong.com/events/aZiFeJdDcX7CEfi2a/2026-nyc-secular-solstice-and-east-coast-rationalist"
     },
     {
-      "text": "Libreagi – Save OSS Models",
-      "url": "https://libreagi.com/"
+      "text": "I REVIEWED THE APPLE HOMEVIEW, ASK ME ANYTHING",
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything"
     },
     {
       "text": "Holiday Extras is rethinking what it can build with Codex",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
-    },
-    {
-      "text": "From FairBot to other cooperation conditions by substitution",
-      "url": "https://www.lesswrong.com/posts/A6vtipePkrQuuebKF/from-fairbot-to-other-cooperation-conditions-by-substitution"
-    }
-  ],
-  "rightColumn": [
-    {
-      "text": "How I'm thinking about different types of automated alignment",
-      "url": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated"
-    },
-    {
-      "text": "I REVIEWED THE APPLE HOMEVIEW, ASK ME ANYTHING",
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything"
     },
     {
       "text": "aws-emulator",
@@ -103,21 +111,13 @@
       "url": "https://commandlinesystems.com/magic.txt"
     },
     {
-      "text": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
-      "url": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/"
+      "text": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
     },
     {
-      "text": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
-    },
-    {
-      "text": "HOW TO USE APPLE'S FM CLI TO RUN ON-DEVICE LLMS FROM PYTHON",
-      "url": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/"
-    },
-    {
-      "text": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
-      "url": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/"
+      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
     }
   ],
-  "lastUpdated": "2026-11-12T15:29:35Z"
+  "lastUpdated": "2026-11-12T18:26:07Z"
 }
