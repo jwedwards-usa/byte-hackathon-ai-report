@@ -1,26 +1,26 @@
 {
   "mainHeadline": {
-    "text": "Is predicting AI behaviour a neglected AI safety agenda?",
-    "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
+    "text": "AI Security Issues Are Social Engineering Issues",
+    "url": "https://www.lesswrong.com/posts/e8S7u4iRi7fZyKbG5/ai-security-issues-are-social-engineering-issues"
   },
   "topStories": [
     {
+      "text": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
+      "url": "https://www.lesswrong.com/posts/scgudBc6hetT8ftTZ/models-can-critique-delusions-in-isolation-but-revert-to"
+    },
+    {
+      "text": "Is predicting AI behaviour a neglected AI safety agenda?",
+      "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
+    },
+    {
       "text": "Gemini Decisions API",
       "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
-    },
-    {
-      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
-    },
-    {
-      "text": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     }
   ],
   "leftColumn": [
     {
-      "text": "Don't Waste a Good Swarm Attack and the Colluder's Dilemma",
-      "url": "https://www.lesswrong.com/posts/oLHdtvYSrvDpWREo4/don-t-waste-a-good-swarm-attack-and-the-colluder-s-dilemma"
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
       "text": "The Chain Lens [interim]",
@@ -53,71 +53,71 @@
   ],
   "centerColumn": [
     {
-      "text": "Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines",
-      "url": "https://arxiv.org/abs/2611.14266"
+      "text": "Semantic Chains: From Reachable Facts to Justified Answers",
+      "url": "https://arxiv.org/abs/2611.14252"
     },
     {
-      "text": "Auditing the Judge: Internal Signals for LLM Reasoning Assurance",
-      "url": "https://arxiv.org/abs/2611.14323"
+      "text": "Geometry-Dependent Approximation and Stability Properties of Shallow ReLU$^k$ Networks on Bounded Euclidean Domains",
+      "url": "https://arxiv.org/abs/2611.13952"
     },
     {
-      "text": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
-      "url": "https://arxiv.org/abs/2611.14374"
+      "text": "A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction from Safety Reports with Physics-Based Failure Quantification and Interventional Analysis",
+      "url": "https://arxiv.org/abs/2610.35658"
     },
     {
-      "text": "RamanPFN: A physics-guided spectral foundation framework for in-context learning across diverse Raman applications",
-      "url": "https://arxiv.org/abs/2608.02157"
+      "text": "Beyond the Mean Gap: What Transferred-Angle QAOA Retains on a Superconducting Processor",
+      "url": "https://arxiv.org/abs/2611.10529"
     },
     {
-      "text": "DnNP: Denoising Input Uncertainty in Neural Processes",
-      "url": "https://arxiv.org/abs/2611.14424"
+      "text": "BioXArena-Pro: a research-grade benchmark for autonomous biomedical machine learning agents",
+      "url": "https://arxiv.org/abs/2611.13994"
     },
     {
-      "text": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
-      "url": "https://arxiv.org/abs/2611.14467"
+      "text": "Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.14009"
     },
     {
-      "text": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
-      "url": "https://arxiv.org/abs/2605.17558"
+      "text": "Verifiable Agentic Traffic Class: A Policed Quality-of-Service Mechanism for Agentic AI Traffic, Evaluated from Simulation to Real-Kernel Adversarial Testing",
+      "url": "https://arxiv.org/abs/2611.14211"
     },
     {
-      "text": "Breakdown of Autoregressive Multi-Step Reasoning Under Concentrated vs. Diffuse Attention Head Dropout",
-      "url": "https://arxiv.org/abs/2611.14209"
+      "text": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
+      "url": "https://arxiv.org/abs/2611.14035"
     }
   ],
   "rightColumn": [
     {
-      "text": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2611.13030"
+      "text": "Density-Ratio Losses for Post-Hoc Learning to Defer",
+      "url": "https://arxiv.org/abs/2605.19557"
     },
     {
-      "text": "Earth Embeddings in Environmental Remote Sensing",
-      "url": "https://arxiv.org/abs/2611.13612"
+      "text": "Factor Augmented High-Dimensional SGD",
+      "url": "https://arxiv.org/abs/2605.19291"
     },
     {
-      "text": "Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding",
-      "url": "https://arxiv.org/abs/2611.13017"
+      "text": "Living constitutions: Participatory alignment for sovereign foundation models",
+      "url": "https://arxiv.org/abs/2611.13402"
     },
     {
-      "text": "ZeroPoint: Lightweight Energy-Based Decision Model",
-      "url": "https://arxiv.org/abs/2611.12992"
+      "text": "Minimax Rates and Spectral Distillation for Tree Ensembles",
+      "url": "https://arxiv.org/abs/2605.11841"
     },
     {
-      "text": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
-      "url": "https://arxiv.org/abs/2611.12961"
+      "text": "Affine Tracing: A New Paradigm for Probabilistic Linear Solvers",
+      "url": "https://arxiv.org/abs/2605.10566"
     },
     {
-      "text": "BEiTScore++: Reference-free Image Captioning Evaluation with BEiT-3 and Conformalized Quantile Regression",
-      "url": "https://arxiv.org/abs/2611.09505"
+      "text": "SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer",
+      "url": "https://arxiv.org/abs/2611.12903"
     },
     {
-      "text": "Fermat ProbCover: Coverage-Based Active Learning on Fermat Distance Graphs",
-      "url": "https://arxiv.org/abs/2611.13448"
+      "text": "IntentTwin: Deconfounding Candidate Support and the Oracle-to-Deployment Gap in Offline Web Behavior Prediction",
+      "url": "https://arxiv.org/abs/2611.12918"
     },
     {
-      "text": "Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives",
-      "url": "https://arxiv.org/abs/2611.07935"
+      "text": "HiCAP: Hierarchical Cultural Adaptation via Personality for Dialogue Generation",
+      "url": "https://arxiv.org/abs/2611.13207"
     }
   ],
-  "lastUpdated": "2026-11-12T00:53:56Z"
+  "lastUpdated": "2026-11-12T03:37:15Z"
 }
