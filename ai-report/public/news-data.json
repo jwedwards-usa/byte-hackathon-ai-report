@@ -5,34 +5,30 @@
   },
   "topStories": [
     {
-      "text": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
-      "url": "https://www.lesswrong.com/posts/scgudBc6hetT8ftTZ/models-can-critique-delusions-in-isolation-but-revert-to"
-    },
-    {
       "text": "Is predicting AI behaviour a neglected AI safety agenda?",
       "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
     },
-    {
-      "text": "Gemini Decisions API",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
-    }
-  ],
-  "leftColumn": [
     {
       "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
-      "text": "The Chain Lens [interim]",
-      "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
+      "text": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
+      "url": "https://www.lesswrong.com/posts/GPDhwwsFoZGwbcvdS/linkpost-neural-networks-are-already-clean-followup"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Chips for Humanity:\nCompute for AI safety research",
+      "url": "https://www.lesswrong.com/posts/P3JjXySeQpdWjmCGw/chips-for-humanity-compute-for-ai-safety-research"
+    },
+    {
+      "text": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
+      "url": "https://www.lesswrong.com/posts/scgudBc6hetT8ftTZ/models-can-critique-delusions-in-isolation-but-revert-to"
     },
     {
       "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
       "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
-    },
-    {
-      "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
-      "url": "https://arxiv.org/abs/2610.27745"
     },
     {
       "text": "llm-gemini 0.36",
@@ -49,75 +45,79 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Rage, Rage Against the Dying of the Light",
+      "url": "https://www.lesswrong.com/posts/C3g3JxpJizPNjMsQ4/rage-rage-against-the-dying-of-the-light"
     }
   ],
   "centerColumn": [
     {
-      "text": "Semantic Chains: From Reachable Facts to Justified Answers",
-      "url": "https://arxiv.org/abs/2611.14252"
+      "text": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/"
     },
     {
-      "text": "Geometry-Dependent Approximation and Stability Properties of Shallow ReLU$^k$ Networks on Bounded Euclidean Domains",
-      "url": "https://arxiv.org/abs/2611.13952"
+      "text": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
     },
     {
-      "text": "A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction from Safety Reports with Physics-Based Failure Quantification and Interventional Analysis",
-      "url": "https://arxiv.org/abs/2610.35658"
+      "text": "Google Shouldn’t Make Gmail Users Accept Human Review to Use Gemini",
+      "url": "https://dailyai.com/2026/11/google-shouldnt-make-gmail-users-accept-human-review-to-use-gemini/"
     },
     {
-      "text": "Beyond the Mean Gap: What Transferred-Angle QAOA Retains on a Superconducting Processor",
-      "url": "https://arxiv.org/abs/2611.10529"
+      "text": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
     },
     {
-      "text": "BioXArena-Pro: a research-grade benchmark for autonomous biomedical machine learning agents",
-      "url": "https://arxiv.org/abs/2611.13994"
+      "text": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
+      "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"
     },
     {
-      "text": "Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2611.14009"
+      "text": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
     },
     {
-      "text": "Verifiable Agentic Traffic Class: A Policed Quality-of-Service Mechanism for Agentic AI Traffic, Evaluated from Simulation to Real-Kernel Adversarial Testing",
-      "url": "https://arxiv.org/abs/2611.14211"
+      "text": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
     },
     {
-      "text": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
-      "url": "https://arxiv.org/abs/2611.14035"
+      "text": "Stroh Violin",
+      "url": "https://www.lesswrong.com/posts/JbboQMxJtgqZcbdRg/stroh-violin"
     }
   ],
   "rightColumn": [
     {
-      "text": "Density-Ratio Losses for Post-Hoc Learning to Defer",
-      "url": "https://arxiv.org/abs/2605.19557"
+      "text": "New York Gives Big AI Labs Until 1 January to Register Under RAISE Act",
+      "url": "https://dailyai.com/2026/11/new-york-gives-big-ai-labs-until-1-january-to-register-under-raise-act/"
     },
     {
-      "text": "Factor Augmented High-Dimensional SGD",
-      "url": "https://arxiv.org/abs/2605.19291"
+      "text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
     },
     {
-      "text": "Living constitutions: Participatory alignment for sovereign foundation models",
-      "url": "https://arxiv.org/abs/2611.13402"
+      "text": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
+      "url": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"
     },
     {
-      "text": "Minimax Rates and Spectral Distillation for Tree Ensembles",
-      "url": "https://arxiv.org/abs/2605.11841"
+      "text": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
     },
     {
-      "text": "Affine Tracing: A New Paradigm for Probabilistic Linear Solvers",
-      "url": "https://arxiv.org/abs/2605.10566"
+      "text": "What Are Diffusion Language Models, and Why Are They Different From GPT?",
+      "url": "https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/"
     },
     {
-      "text": "SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer",
-      "url": "https://arxiv.org/abs/2611.12903"
+      "text": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
     },
     {
-      "text": "IntentTwin: Deconfounding Candidate Support and the Oracle-to-Deployment Gap in Offline Web Behavior Prediction",
-      "url": "https://arxiv.org/abs/2611.12918"
+      "text": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt"
     },
     {
-      "text": "HiCAP: Hierarchical Cultural Adaptation via Personality for Dialogue Generation",
-      "url": "https://arxiv.org/abs/2611.13207"
+      "text": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
     }
   ],
-  "lastUpdated": "2026-11-12T03:37:15Z"
+  "lastUpdated": "2026-11-12T06:31:50Z"
 }

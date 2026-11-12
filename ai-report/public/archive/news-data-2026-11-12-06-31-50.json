@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI Security Issues Are Social Engineering Issues",
+    "url": "https://www.lesswrong.com/posts/e8S7u4iRi7fZyKbG5/ai-security-issues-are-social-engineering-issues"
+  },
+  "topStories": [
+    {
+      "text": "Is predicting AI behaviour a neglected AI safety agenda?",
+      "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
+    },
+    {
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "text": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
+      "url": "https://www.lesswrong.com/posts/GPDhwwsFoZGwbcvdS/linkpost-neural-networks-are-already-clean-followup"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Chips for Humanity:\nCompute for AI safety research",
+      "url": "https://www.lesswrong.com/posts/P3JjXySeQpdWjmCGw/chips-for-humanity-compute-for-ai-safety-research"
+    },
+    {
+      "text": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
+      "url": "https://www.lesswrong.com/posts/scgudBc6hetT8ftTZ/models-can-critique-delusions-in-isolation-but-revert-to"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
+    },
+    {
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+    },
+    {
+      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
+    },
+    {
+      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Rage, Rage Against the Dying of the Light",
+      "url": "https://www.lesswrong.com/posts/C3g3JxpJizPNjMsQ4/rage-rage-against-the-dying-of-the-light"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/"
+    },
+    {
+      "text": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
+    },
+    {
+      "text": "Google Shouldn’t Make Gmail Users Accept Human Review to Use Gemini",
+      "url": "https://dailyai.com/2026/11/google-shouldnt-make-gmail-users-accept-human-review-to-use-gemini/"
+    },
+    {
+      "text": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "text": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
+      "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"
+    },
+    {
+      "text": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+    },
+    {
+      "text": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+    },
+    {
+      "text": "Stroh Violin",
+      "url": "https://www.lesswrong.com/posts/JbboQMxJtgqZcbdRg/stroh-violin"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "New York Gives Big AI Labs Until 1 January to Register Under RAISE Act",
+      "url": "https://dailyai.com/2026/11/new-york-gives-big-ai-labs-until-1-january-to-register-under-raise-act/"
+    },
+    {
+      "text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "text": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
+      "url": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"
+    },
+    {
+      "text": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "text": "What Are Diffusion Language Models, and Why Are They Different From GPT?",
+      "url": "https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/"
+    },
+    {
+      "text": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
+    },
+    {
+      "text": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt"
+    },
+    {
+      "text": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    }
+  ],
+  "lastUpdated": "2026-11-12T06:31:50Z"
+}
