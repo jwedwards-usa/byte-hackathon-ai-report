@@ -1,26 +1,38 @@
 {
   "mainHeadline": {
-    "text": "AI #194: Spy Versus Guy",
-    "url": "https://www.lesswrong.com/posts/qKd9DvDMiYXxzAugk/ai-194-spy-versus-guy"
+    "text": "Looping a transformer increases no-CoT capabilities more than general capabilities",
+    "url": "https://www.lesswrong.com/posts/uxsDuWWHNTpKrsF6P/looping-a-transformer-increases-no-cot-capabilities-more"
   },
   "topStories": [
     {
-      "text": "GOOGLE SEARCH GETS A MAJOR UPGRADE WITH GEMINI 4 HYDROGEN",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+      "text": "Post-Glasswing cybersecurity projects",
+      "url": "https://www.lesswrong.com/posts/nW3g2spGXuoLsRsWh/post-glasswing-cybersecurity-projects"
     },
     {
-      "text": "Reward-Hacking is potentially ill-defined",
-      "url": "https://www.lesswrong.com/posts/zGFwQHygysmKgcpgE/reward-hacking-is-potentially-ill-defined"
+      "text": "Future of AI Honeypots",
+      "url": "https://www.lesswrong.com/posts/KSekmsGMeur2mJFA2/future-of-ai-honeypots"
     },
     {
-      "text": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+      "text": "We need more decorrelated evidence",
+      "url": "https://www.lesswrong.com/posts/EuhQ5fnGR4tAQTTgd/we-need-more-decorrelated-evidence"
     }
   ],
   "leftColumn": [
     {
-      "text": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+      "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude"
+    },
+    {
+      "text": "Anthropic should measure the effect of evaluation awareness",
+      "url": "https://www.lesswrong.com/posts/AXA4qnKCCwihCXhfm/anthropic-should-measure-the-effect-of-evaluation-awareness"
+    },
+    {
+      "text": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+    },
+    {
+      "text": "A New Kind of Prediction Market for Science",
+      "url": "https://www.lesswrong.com/posts/7xJeaAKTKxbHL6F9a/a-new-kind-of-prediction-market-for-science"
     },
     {
       "text": "Plan B for Alignment: Seeding Environmental Doubt",
@@ -31,43 +43,49 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
-      "text": "llm-gemini 0.36",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "GOOGLE SEARCH GETS A MAJOR UPGRADE WITH GEMINI 4 HYDROGEN",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"
     },
     {
       "text": "Four AI Companies Agree to Outside Child-Safety Tests of Their Tools",
       "url": "https://dailyai.com/2026/11/four-ai-companies-agree-to-outside-child-safety-tests-of-their-tools/"
     },
     {
-      "text": "Gemini Decisions API",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+      "text": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
     },
-    {
-      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
-    }
-  ],
-  "centerColumn": [
     {
       "text": "Anthropic's IPO roadshow video",
       "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
     },
     {
-      "text": "Anthropic Seeks Up to $78 a Share in IPO That Could Raise $64bn",
-      "url": "https://dailyai.com/2026/11/anthropic-seeks-up-to-78-a-share-in-ipo-that-could-raise-64bn/"
-    },
-    {
-      "text": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video"
+      "text": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     },
     {
       "text": "San Francisco Rationalist Dinner",
       "url": "https://www.lesswrong.com/events/z3gejrgP6LRuFFRkP/san-francisco-rationalist-dinner-3"
     },
+    {
+      "text": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "text": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    }
+  ],
+  "rightColumn": [
     {
       "text": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing/"
@@ -77,38 +95,12 @@
       "url": "https://libreagi.com/"
     },
     {
-      "text": "There is no such thing as cosmophagous AI",
-      "url": "https://www.lesswrong.com/posts/KrFu7kGk3x8aZcCzu/there-is-no-such-thing-as-cosmophagous-ai"
-    },
-    {
-      "text": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-    }
-  ],
-  "rightColumn": [
-    {
-      "text": "I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults.",
-      "url": "https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/"
-    },
-    {
-      "text": "2026 NYC Secular Solstice \u0026 East Coast Rationalist Megameetup",
-      "url": "https://www.lesswrong.com/events/aZiFeJdDcX7CEfi2a/2026-nyc-secular-solstice-and-east-coast-rationalist"
-    },
-    {
-      "text": "I REVIEWED THE APPLE HOMEVIEW, ASK ME ANYTHING",
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything"
-    },
-    {
       "text": "Holiday Extras is rethinking what it can build with Codex",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
     },
     {
-      "text": "aws-emulator",
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
-    },
-    {
-      "text": "Emacs in the Age of Magic",
-      "url": "https://commandlinesystems.com/magic.txt"
+      "text": "Browse tools.simonwillison.net by tag",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
     },
     {
       "text": "What to know about this year’s UN climate talks",
@@ -117,7 +109,15 @@
     {
       "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+    },
+    {
+      "text": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
+      "url": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/"
+    },
+    {
+      "text": "HOW TO USE APPLE'S FM CLI TO RUN ON-DEVICE LLMS FROM PYTHON",
+      "url": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/"
     }
   ],
-  "lastUpdated": "2026-11-12T18:26:07Z"
+  "lastUpdated": "2026-11-12T21:28:55Z"
 }
