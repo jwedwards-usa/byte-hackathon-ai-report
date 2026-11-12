@@ -9,115 +9,115 @@
       "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
     },
     {
-      "text": "The Chain Lens [interim]",
-      "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
-    },
-    {
-      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "LLMs can learn (some) multi-step reasoning on filler tokens",
-      "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"
-    },
-    {
-      "text": "ChatGPT’s New Business Agents Should Admit They Are Salespeople",
-      "url": "https://dailyai.com/2026/11/chatgpts-new-business-agents-should-admit-they-are-salespeople/"
-    },
-    {
       "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
       "text": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Don't Waste a Good Swarm Attack and the Colluder's Dilemma",
       "url": "https://www.lesswrong.com/posts/oLHdtvYSrvDpWREo4/don-t-waste-a-good-swarm-attack-and-the-colluder-s-dilemma"
     },
     {
-      "text": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
-      "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html"
+      "text": "The Chain Lens [interim]",
+      "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
     },
     {
-      "text": "Kimi's Room (Preliminary Results)",
-      "url": "https://www.lesswrong.com/posts/gXHhtGijBbs8q7iEY/kimi-s-room-preliminary-results"
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
     },
     {
       "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
       "url": "https://arxiv.org/abs/2610.27745"
+    },
+    {
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+    },
+    {
+      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
+    },
+    {
+      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "centerColumn": [
     {
-      "text": "ZoomGain: Mining Global-to-Zoom Perception Gaps for Fine-Grained Visual Supervision",
-      "url": "https://arxiv.org/abs/2611.14076"
+      "text": "Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines",
+      "url": "https://arxiv.org/abs/2611.14266"
     },
     {
-      "text": "Gradient Inversion through Linear and Affine Subspace Constraints",
-      "url": "https://arxiv.org/abs/2611.13976"
+      "text": "Auditing the Judge: Internal Signals for LLM Reasoning Assurance",
+      "url": "https://arxiv.org/abs/2611.14323"
     },
     {
-      "text": "Interleaving anatomical inspection and diagnostic reasoning for explainable radiology report generation",
-      "url": "https://arxiv.org/abs/2611.14018"
+      "text": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
+      "url": "https://arxiv.org/abs/2611.14374"
     },
     {
-      "text": "A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening",
-      "url": "https://arxiv.org/abs/2611.14013"
+      "text": "RamanPFN: A physics-guided spectral foundation framework for in-context learning across diverse Raman applications",
+      "url": "https://arxiv.org/abs/2608.02157"
     },
     {
-      "text": "Tokens-per-Parameter Coverage Is Critical for Robust LLM Scaling Law Extrapolation",
-      "url": "https://arxiv.org/abs/2605.08541"
+      "text": "DnNP: Denoising Input Uncertainty in Neural Processes",
+      "url": "https://arxiv.org/abs/2611.14424"
     },
     {
-      "text": "Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2611.14009"
+      "text": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+      "url": "https://arxiv.org/abs/2611.14467"
     },
     {
-      "text": "AdjointFlow: Accelerating Scientific Inverse Problems with Physics-Based Transport",
-      "url": "https://arxiv.org/abs/2611.13389"
+      "text": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
+      "url": "https://arxiv.org/abs/2605.17558"
     },
     {
-      "text": "Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development",
-      "url": "https://arxiv.org/abs/2611.13940"
+      "text": "Breakdown of Autoregressive Multi-Step Reasoning Under Concentrated vs. Diffuse Attention Head Dropout",
+      "url": "https://arxiv.org/abs/2611.14209"
     }
   ],
   "rightColumn": [
     {
-      "text": "LoBoost: Model-Native Local Conformal Prediction for Gradient-Boosted Trees",
-      "url": "https://arxiv.org/abs/2602.22432"
+      "text": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2611.13030"
     },
     {
-      "text": "From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge",
-      "url": "https://arxiv.org/abs/2611.13196"
+      "text": "Earth Embeddings in Environmental Remote Sensing",
+      "url": "https://arxiv.org/abs/2611.13612"
     },
     {
-      "text": "Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation",
-      "url": "https://arxiv.org/abs/2611.14328"
+      "text": "Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.13017"
     },
     {
-      "text": "Recasting Visual Language Models as EEG Foundation Models for Clinical Neurodiagnostics",
-      "url": "https://arxiv.org/abs/2611.05538"
+      "text": "ZeroPoint: Lightweight Energy-Based Decision Model",
+      "url": "https://arxiv.org/abs/2611.12992"
+    },
+    {
+      "text": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
+      "url": "https://arxiv.org/abs/2611.12961"
     },
     {
       "text": "BEiTScore++: Reference-free Image Captioning Evaluation with BEiT-3 and Conformalized Quantile Regression",
       "url": "https://arxiv.org/abs/2611.09505"
     },
     {
-      "text": "RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics",
-      "url": "https://arxiv.org/abs/2603.06639"
+      "text": "Fermat ProbCover: Coverage-Based Active Learning on Fermat Distance Graphs",
+      "url": "https://arxiv.org/abs/2611.13448"
     },
     {
-      "text": "Muon Makes the First Mixture-of-Experts Layer Harder to Balance",
-      "url": "https://arxiv.org/abs/2610.37914"
-    },
-    {
-      "text": "Chem World: A Large-Scale Benchmark and Physics-Aware Framework for Trustworthy Molecular Property Prediction",
-      "url": "https://arxiv.org/abs/2611.13945"
+      "text": "Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives",
+      "url": "https://arxiv.org/abs/2611.07935"
     }
   ],
-  "lastUpdated": "2026-11-11T22:07:17Z"
+  "lastUpdated": "2026-11-12T00:53:56Z"
 }

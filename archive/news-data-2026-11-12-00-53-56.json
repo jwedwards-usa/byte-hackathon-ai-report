@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Is predicting AI behaviour a neglected AI safety agenda?",
+    "url": "https://www.lesswrong.com/posts/atEfFNcHpnPo9RhnZ/is-predicting-ai-behaviour-a-neglected-ai-safety-agenda"
+  },
+  "topStories": [
+    {
+      "text": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+    },
+    {
+      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "text": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Don't Waste a Good Swarm Attack and the Colluder's Dilemma",
+      "url": "https://www.lesswrong.com/posts/oLHdtvYSrvDpWREo4/don-t-waste-a-good-swarm-attack-and-the-colluder-s-dilemma"
+    },
+    {
+      "text": "The Chain Lens [interim]",
+      "url": "https://www.lesswrong.com/posts/Nr6fksEqqxNpdz6rk/the-chain-lens-interim"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
+    },
+    {
+      "text": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
+      "url": "https://arxiv.org/abs/2610.27745"
+    },
+    {
+      "text": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+    },
+    {
+      "text": "DailyAI Briefing: Claude Fable 5.2 gets 20% cheaper, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-claude-fable-5-2-gets-20-cheaper-plus-4-more/"
+    },
+    {
+      "text": "CHATGPT IS GETTING VERIFIED AI ‘BUSINESS AGENTS’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines",
+      "url": "https://arxiv.org/abs/2611.14266"
+    },
+    {
+      "text": "Auditing the Judge: Internal Signals for LLM Reasoning Assurance",
+      "url": "https://arxiv.org/abs/2611.14323"
+    },
+    {
+      "text": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
+      "url": "https://arxiv.org/abs/2611.14374"
+    },
+    {
+      "text": "RamanPFN: A physics-guided spectral foundation framework for in-context learning across diverse Raman applications",
+      "url": "https://arxiv.org/abs/2608.02157"
+    },
+    {
+      "text": "DnNP: Denoising Input Uncertainty in Neural Processes",
+      "url": "https://arxiv.org/abs/2611.14424"
+    },
+    {
+      "text": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+      "url": "https://arxiv.org/abs/2611.14467"
+    },
+    {
+      "text": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
+      "url": "https://arxiv.org/abs/2605.17558"
+    },
+    {
+      "text": "Breakdown of Autoregressive Multi-Step Reasoning Under Concentrated vs. Diffuse Attention Head Dropout",
+      "url": "https://arxiv.org/abs/2611.14209"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2611.13030"
+    },
+    {
+      "text": "Earth Embeddings in Environmental Remote Sensing",
+      "url": "https://arxiv.org/abs/2611.13612"
+    },
+    {
+      "text": "Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.13017"
+    },
+    {
+      "text": "ZeroPoint: Lightweight Energy-Based Decision Model",
+      "url": "https://arxiv.org/abs/2611.12992"
+    },
+    {
+      "text": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
+      "url": "https://arxiv.org/abs/2611.12961"
+    },
+    {
+      "text": "BEiTScore++: Reference-free Image Captioning Evaluation with BEiT-3 and Conformalized Quantile Regression",
+      "url": "https://arxiv.org/abs/2611.09505"
+    },
+    {
+      "text": "Fermat ProbCover: Coverage-Based Active Learning on Fermat Distance Graphs",
+      "url": "https://arxiv.org/abs/2611.13448"
+    },
+    {
+      "text": "Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives",
+      "url": "https://arxiv.org/abs/2611.07935"
+    }
+  ],
+  "lastUpdated": "2026-11-12T00:53:56Z"
+}
