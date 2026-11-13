@@ -5,9 +5,19 @@
   },
   "topStories": [
     {
+      "text": "GPT-5.6 WON’T BE OPPENHEIMER",
+      "url": "https://www.lesswrong.com/posts/hobjMq8FcueYazxCY/gpt-5-6-won-t-be-oppenheimer"
+    },
+    {
       "text": "llm-gemini 0.37",
       "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
     },
+    {
+      "text": "The Epicurean technique of meeting claims with more claims",
+      "url": "https://www.lesswrong.com/posts/ifnrTCRobGW4XTja2/the-epicurean-technique-of-meeting-claims-with-more-claims"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Orienting to 1 year AGI timelines",
       "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"
@@ -15,9 +25,7 @@
     {
       "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
@@ -25,14 +33,6 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "AGI is probably bad for startups, even if it doesn't lead to ASI",
-      "url": "https://www.lesswrong.com/posts/zdLN7bLPnh5jzWCAx/agi-is-probably-bad-for-startups-even-if-it-doesn-t-lead-to"
-    },
-    {
-      "text": "Post-Glasswing cybersecurity projects",
-      "url": "https://www.lesswrong.com/posts/nW3g2spGXuoLsRsWh/post-glasswing-cybersecurity-projects"
     },
     {
       "text": "AI chatbots are recommending fake retail websites, study finds",
@@ -43,23 +43,15 @@
       "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
     },
     {
-      "text": "Logical Share Splitting for People who Aren't Sure if They're Intuitionists or Not",
-      "url": "https://www.lesswrong.com/posts/kM4KQ4QxmELgwGscj/logical-share-splitting-for-people-who-aren-t-sure-if-they"
+      "text": "New AI “copilot” helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
     },
     {
-      "text": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+      "text": "A Flaw in OpenAI’s Codex Put 97 Million Monthly Downloads at Risk",
+      "url": "https://dailyai.com/2026/11/codex-flaw-put-a-tool-downloaded-97-million-times-a-month-at-risk/"
     }
   ],
   "centerColumn": [
-    {
-      "text": "Getting Reliable Structured Outputs from LLMs: Validation, Retries and Constrained Decoding",
-      "url": "https://machinelearningmastery.com/getting-reliable-structured-outputs-from-llms-validation-retries-and-constrained-decoding/"
-    },
-    {
-      "text": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-    },
     {
       "text": "llm 0.37.2",
       "url": "https://simonwillison.net/2026/Nov/11/llm/"
@@ -69,12 +61,8 @@
       "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
     },
     {
-      "text": "Your Research Needs More of The Void",
-      "url": "https://www.lesswrong.com/posts/bmogjuWbrJfkprghx/your-research-needs-more-of-the-void"
-    },
-    {
-      "text": "Performative Neuroticism vs Genuine Connection",
-      "url": "https://www.lesswrong.com/posts/2uaxctSToqc5S7Ekf/performative-neuroticism-vs-genuine-connection"
+      "text": "Suppose we successfully train out self-preservation ",
+      "url": "https://www.lesswrong.com/posts/ay2BtvafvrviBnLYr/suppose-we-successfully-train-out-self-preservation"
     },
     {
       "text": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -83,17 +71,21 @@
     {
       "text": "No, AI agents did not discover a previously unknown Maya site",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+    },
+    {
+      "text": "DailyAI Briefing: Lawsuit aims to halt new AI models, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-lawsuit-aims-to-halt-new-ai-models-plus-4-more/"
+    },
+    {
+      "text": "More game developers are starting to use generative AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
+    },
+    {
+      "text": "Judges Shouldn’t Decide How Fast AI Is Built",
+      "url": "https://dailyai.com/2026/11/judges-shouldnt-decide-how-fast-ai-is-built/"
     }
   ],
   "rightColumn": [
-    {
-      "text": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
-    },
-    {
-      "text": "Browse tools.simonwillison.net by tag",
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
-    },
     {
       "text": "What to know about this year’s UN climate talks",
       "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
@@ -115,9 +107,17 @@
       "url": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/"
     },
     {
+      "text": "Your Research Needs More of The Void",
+      "url": "https://www.lesswrong.com/posts/bmogjuWbrJfkprghx/your-research-needs-more-of-the-void"
+    },
+    {
+      "text": "Performative Neuroticism vs Genuine Connection",
+      "url": "https://www.lesswrong.com/posts/2uaxctSToqc5S7Ekf/performative-neuroticism-vs-genuine-connection"
+    },
+    {
       "text": "The Jensen Huang scandal is hardly over",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
     }
   ],
-  "lastUpdated": "2026-11-13T03:25:33Z"
+  "lastUpdated": "2026-11-13T06:37:16Z"
 }
