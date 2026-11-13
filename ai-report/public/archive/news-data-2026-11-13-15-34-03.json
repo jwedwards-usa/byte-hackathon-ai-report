@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+    "url": "https://arxiv.org/abs/2611.14935"
+  },
+  "topStories": [
+    {
+      "text": "I'm leaving my PhD to pursue AI Safety work",
+      "url": "https://www.lesswrong.com/posts/rjzqbfsW552PyMBNv/i-m-leaving-my-phd-to-pursue-ai-safety-work"
+    },
+    {
+      "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+      "url": "https://arxiv.org/abs/2611.15250"
+    },
+    {
+      "text": "Jensen Huang Resigns After Having Another Affair In Addition to the Chinese Spy",
+      "url": "https://www.lesswrong.com/posts/5u2ZNiskEkkJtrMDz/jensen-huang-resigns-after-having-another-affair-in-addition"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Swarmish: what happens when agent swarms create language?",
+      "url": "https://www.lesswrong.com/posts/7eJF9p8rnaAAcKbZa/swarmish-what-happens-when-agent-swarms-create-language"
+    },
+    {
+      "text": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "text": "We want to run AI safety events for you!",
+      "url": "https://www.lesswrong.com/posts/KAaTfsZmzqFFvKfBJ/we-want-to-run-ai-safety-events-for-you"
+    },
+    {
+      "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
+    },
+    {
+      "text": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2611.15058"
+    },
+    {
+      "text": "Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization",
+      "url": "https://arxiv.org/abs/2605.25129"
+    },
+    {
+      "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
+      "url": "https://arxiv.org/abs/2603.29288"
+    },
+    {
+      "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Human Grounded Evaluation of Large Language Models for Optical Network Automation",
+      "url": "https://arxiv.org/abs/2607.18068"
+    },
+    {
+      "text": "The Overstated Cost of AI Fairness in Criminal Justice",
+      "url": "https://arxiv.org/abs/2608.01299"
+    },
+    {
+      "text": "WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration",
+      "url": "https://arxiv.org/abs/2611.15457"
+    },
+    {
+      "text": "Clustering trajectories of modelled estimates: an uncertainty-aware framework, with an application to global cardiovascular disease burden, 1990 to 2023",
+      "url": "https://arxiv.org/abs/2611.14529"
+    },
+    {
+      "text": "Expanding the Decision Space of Pretrained Models through Structured Re-Decoding",
+      "url": "https://arxiv.org/abs/2611.15109"
+    },
+    {
+      "text": "TIDE: Token-Level Credit Assignment via Entropy-Gated Bounded Deviation",
+      "url": "https://arxiv.org/abs/2605.03327"
+    },
+    {
+      "text": "Learning-Based Interpolation of Detector Gaps in Photon-Counting X-ray Imaging",
+      "url": "https://arxiv.org/abs/2611.15614"
+    },
+    {
+      "text": "Science Prediction Universe",
+      "url": "https://arxiv.org/abs/2611.15049"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents",
+      "url": "https://arxiv.org/abs/2611.16590"
+    },
+    {
+      "text": "Near-Optimal Regret for Oracle-Efficient Adversarial Contextual Bandits",
+      "url": "https://arxiv.org/abs/2611.17109"
+    },
+    {
+      "text": "A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression",
+      "url": "https://arxiv.org/abs/2611.17143"
+    },
+    {
+      "text": "Studies on Sign Language Retrieval in Low-Resource Dictionary Settings",
+      "url": "https://arxiv.org/abs/2611.16621"
+    },
+    {
+      "text": "Maximizing Capacity Utilization of LoRA Adapters for Mitigating the Learning-Forgetting Trade-off",
+      "url": "https://arxiv.org/abs/2611.17191"
+    },
+    {
+      "text": "Physically Interpretable Basin Selection in Discrete-Variable Origami Design",
+      "url": "https://arxiv.org/abs/2611.17196"
+    },
+    {
+      "text": "InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling",
+      "url": "https://arxiv.org/abs/2611.16647"
+    },
+    {
+      "text": "Small Heads, Strong Decisions: A Controlled Study of Typed-Decision Models",
+      "url": "https://arxiv.org/abs/2611.15592"
+    }
+  ],
+  "lastUpdated": "2026-11-13T15:34:03Z"
+}
