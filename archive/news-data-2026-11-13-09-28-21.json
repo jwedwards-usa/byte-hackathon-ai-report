@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+    "url": "https://arxiv.org/abs/2611.14935"
+  },
+  "topStories": [
+    {
+      "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+      "url": "https://arxiv.org/abs/2611.15250"
+    },
+    {
+      "text": "Don't Burn the Boats for Slower Worlds ",
+      "url": "https://www.lesswrong.com/posts/x64cRHmmy7z2ds5HQ/don-t-burn-the-boats-for-slower-worlds"
+    },
+    {
+      "text": "Thoughts on attending the March Against AI Extinction",
+      "url": "https://www.lesswrong.com/posts/u3CKQTMNffKrpJQcd/thoughts-on-attending-the-march-against-ai-extinction"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "GPT-5.6 WON’T BE OPPENHEIMER",
+      "url": "https://www.lesswrong.com/posts/hobjMq8FcueYazxCY/gpt-5-6-won-t-be-oppenheimer"
+    },
+    {
+      "text": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2611.15058"
+    },
+    {
+      "text": "Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization",
+      "url": "https://arxiv.org/abs/2605.25129"
+    },
+    {
+      "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
+      "url": "https://arxiv.org/abs/2603.29288"
+    },
+    {
+      "text": "Expanding the Role of Diffusion Models for Robust Classifier Training",
+      "url": "https://arxiv.org/abs/2602.19931"
+    },
+    {
+      "text": "Verifiable by Construction: How Well Do LLMs Substantiate Their Clinical Claims with Verbatim Quotes?",
+      "url": "https://arxiv.org/abs/2609.15964"
+    },
+    {
+      "text": "A hybrid machine learning-analog framework for downscaling unprecedented climate extremes",
+      "url": "https://arxiv.org/abs/2611.15284"
+    },
+    {
+      "text": "MechBench: A Domain-Specific LLM Benchmark for Parallel Mechanisms",
+      "url": "https://arxiv.org/abs/2611.15342"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Domain-Routed Delta Optimization for Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.13249"
+    },
+    {
+      "text": "Knowledge in the Harness, Reliability in the Weights: Teacher-Free Co-Evolution of an LLM Agent",
+      "url": "https://arxiv.org/abs/2611.15268"
+    },
+    {
+      "text": "GTAGym: AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.13028"
+    },
+    {
+      "text": "Agent Self-Improvement with Frozen Weights: The Added Value and Limits of Failure Traces",
+      "url": "https://arxiv.org/abs/2611.11342"
+    },
+    {
+      "text": "WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration",
+      "url": "https://arxiv.org/abs/2611.15457"
+    },
+    {
+      "text": "Visible Tails: Characterizing Adaptation to Unknown Moments in Heavy-Tailed Bandits",
+      "url": "https://arxiv.org/abs/2611.12140"
+    },
+    {
+      "text": "Bet Imaginatively, not Historically in Independent-Data Sequential Testing",
+      "url": "https://arxiv.org/abs/2611.15456"
+    },
+    {
+      "text": "MEME: Multi-entity \u0026 Evolving Memory Evaluation",
+      "url": "https://arxiv.org/abs/2605.12477"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph",
+      "url": "https://arxiv.org/abs/2611.16678"
+    },
+    {
+      "text": "How Should Planning Agents ReSHAPE Their Search Space?",
+      "url": "https://arxiv.org/abs/2611.16466"
+    },
+    {
+      "text": "On the Difficulty of Sequence-Level Supervised Learning for Autoregressive Language Models",
+      "url": "https://arxiv.org/abs/2611.16736"
+    },
+    {
+      "text": "MechFoundry: An agentic loop that poses and performs engineering analyses and optimization of real-world objects",
+      "url": "https://arxiv.org/abs/2611.14571"
+    },
+    {
+      "text": "Finite-Cadence Refresh Equilibria for Streaming Prior-Anchored Ridge: A Closed-Form Forgetting Window and Spectral Correction",
+      "url": "https://arxiv.org/abs/2611.14586"
+    },
+    {
+      "text": "Learning a calibrated decision head from logged bandit feedback",
+      "url": "https://arxiv.org/abs/2611.15572"
+    },
+    {
+      "text": "What Conformal Selection Can Certify in CRISPR Off-Target Design:Benchmark Leakage, Free Baselines, and a Finite-Sample Cohort Requirement",
+      "url": "https://arxiv.org/abs/2611.15555"
+    },
+    {
+      "text": "Causals: An Open Knowledge Graph for Research on Causal Reasoning",
+      "url": "https://arxiv.org/abs/2611.16267"
+    }
+  ],
+  "lastUpdated": "2026-11-13T09:28:21Z"
+}

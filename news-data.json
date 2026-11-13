@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Thoughts on attending the March Against AI Extinction",
-    "url": "https://www.lesswrong.com/posts/u3CKQTMNffKrpJQcd/thoughts-on-attending-the-march-against-ai-extinction"
+    "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+    "url": "https://arxiv.org/abs/2611.14935"
   },
   "topStories": [
+    {
+      "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+      "url": "https://arxiv.org/abs/2611.15250"
+    },
+    {
+      "text": "Don't Burn the Boats for Slower Worlds ",
+      "url": "https://www.lesswrong.com/posts/x64cRHmmy7z2ds5HQ/don-t-burn-the-boats-for-slower-worlds"
+    },
+    {
+      "text": "Thoughts on attending the March Against AI Extinction",
+      "url": "https://www.lesswrong.com/posts/u3CKQTMNffKrpJQcd/thoughts-on-attending-the-march-against-ai-extinction"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "GPT-5.6 WON’T BE OPPENHEIMER",
       "url": "https://www.lesswrong.com/posts/hobjMq8FcueYazxCY/gpt-5-6-won-t-be-oppenheimer"
     },
     {
-      "text": "llm-gemini 0.37",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+      "text": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2611.15058"
     },
     {
-      "text": "The Epicurean technique of meeting claims with more claims",
-      "url": "https://www.lesswrong.com/posts/ifnrTCRobGW4XTja2/the-epicurean-technique-of-meeting-claims-with-more-claims"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Orienting to 1 year AGI timelines",
-      "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"
+      "text": "Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization",
+      "url": "https://arxiv.org/abs/2605.25129"
     },
     {
-      "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude"
+      "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
+      "url": "https://arxiv.org/abs/2603.29288"
     },
     {
-      "text": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+      "text": "Expanding the Role of Diffusion Models for Robust Classifier Training",
+      "url": "https://arxiv.org/abs/2602.19931"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Verifiable by Construction: How Well Do LLMs Substantiate Their Clinical Claims with Verbatim Quotes?",
+      "url": "https://arxiv.org/abs/2609.15964"
     },
     {
-      "text": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+      "text": "A hybrid machine learning-analog framework for downscaling unprecedented climate extremes",
+      "url": "https://arxiv.org/abs/2611.15284"
     },
     {
-      "text": "DailyAI Briefing: Anthropic’s IPO could raise $64bn, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-ipo-could-raise-64bn-plus-4-more/"
-    },
-    {
-      "text": "New AI “copilot” helps engineers design better structures",
-      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
-    },
-    {
-      "text": "A Flaw in OpenAI’s Codex Put 97 Million Monthly Downloads at Risk",
-      "url": "https://dailyai.com/2026/11/codex-flaw-put-a-tool-downloaded-97-million-times-a-month-at-risk/"
+      "text": "MechBench: A Domain-Specific LLM Benchmark for Parallel Mechanisms",
+      "url": "https://arxiv.org/abs/2611.15342"
     }
   ],
   "centerColumn": [
     {
-      "text": "llm 0.37.2",
-      "url": "https://simonwillison.net/2026/Nov/11/llm/"
+      "text": "Domain-Routed Delta Optimization for Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.13249"
     },
     {
-      "text": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
+      "text": "Knowledge in the Harness, Reliability in the Weights: Teacher-Free Co-Evolution of an LLM Agent",
+      "url": "https://arxiv.org/abs/2611.15268"
     },
     {
-      "text": "Suppose we successfully train out self-preservation ",
-      "url": "https://www.lesswrong.com/posts/ay2BtvafvrviBnLYr/suppose-we-successfully-train-out-self-preservation"
+      "text": "GTAGym: AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.13028"
     },
     {
-      "text": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+      "text": "Agent Self-Improvement with Frozen Weights: The Added Value and Limits of Failure Traces",
+      "url": "https://arxiv.org/abs/2611.11342"
     },
     {
-      "text": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+      "text": "WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration",
+      "url": "https://arxiv.org/abs/2611.15457"
     },
     {
-      "text": "DailyAI Briefing: Lawsuit aims to halt new AI models, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-lawsuit-aims-to-halt-new-ai-models-plus-4-more/"
+      "text": "Visible Tails: Characterizing Adaptation to Unknown Moments in Heavy-Tailed Bandits",
+      "url": "https://arxiv.org/abs/2611.12140"
     },
     {
-      "text": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
+      "text": "Bet Imaginatively, not Historically in Independent-Data Sequential Testing",
+      "url": "https://arxiv.org/abs/2611.15456"
     },
     {
-      "text": "Judges Shouldn’t Decide How Fast AI Is Built",
-      "url": "https://dailyai.com/2026/11/judges-shouldnt-decide-how-fast-ai-is-built/"
+      "text": "MEME: Multi-entity \u0026 Evolving Memory Evaluation",
+      "url": "https://arxiv.org/abs/2605.12477"
     }
   ],
   "rightColumn": [
     {
-      "text": "What to know about this year’s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+      "text": "Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph",
+      "url": "https://arxiv.org/abs/2611.16678"
     },
     {
-      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+      "text": "How Should Planning Agents ReSHAPE Their Search Space?",
+      "url": "https://arxiv.org/abs/2611.16466"
     },
     {
-      "text": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
-      "url": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/"
+      "text": "On the Difficulty of Sequence-Level Supervised Learning for Autoregressive Language Models",
+      "url": "https://arxiv.org/abs/2611.16736"
     },
     {
-      "text": "HOW TO USE APPLE'S FM CLI TO RUN ON-DEVICE LLMS FROM PYTHON",
-      "url": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/"
+      "text": "MechFoundry: An agentic loop that poses and performs engineering analyses and optimization of real-world objects",
+      "url": "https://arxiv.org/abs/2611.14571"
     },
     {
-      "text": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
-      "url": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/"
+      "text": "Finite-Cadence Refresh Equilibria for Streaming Prior-Anchored Ridge: A Closed-Form Forgetting Window and Spectral Correction",
+      "url": "https://arxiv.org/abs/2611.14586"
     },
     {
-      "text": "Your Research Needs More of The Void",
-      "url": "https://www.lesswrong.com/posts/bmogjuWbrJfkprghx/your-research-needs-more-of-the-void"
+      "text": "Learning a calibrated decision head from logged bandit feedback",
+      "url": "https://arxiv.org/abs/2611.15572"
     },
     {
-      "text": "Performative Neuroticism vs Genuine Connection",
-      "url": "https://www.lesswrong.com/posts/2uaxctSToqc5S7Ekf/performative-neuroticism-vs-genuine-connection"
+      "text": "What Conformal Selection Can Certify in CRISPR Off-Target Design:Benchmark Leakage, Free Baselines, and a Finite-Sample Cohort Requirement",
+      "url": "https://arxiv.org/abs/2611.15555"
     },
     {
-      "text": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+      "text": "Causals: An Open Knowledge Graph for Research on Causal Reasoning",
+      "url": "https://arxiv.org/abs/2611.16267"
     }
   ],
-  "lastUpdated": "2026-11-13T06:37:16Z"
+  "lastUpdated": "2026-11-13T09:28:21Z"
 }
