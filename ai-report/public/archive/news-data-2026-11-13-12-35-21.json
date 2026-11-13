@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+    "url": "https://arxiv.org/abs/2611.14935"
+  },
+  "topStories": [
+    {
+      "text": "Swarmish: what happens when agent swarms create language?",
+      "url": "https://www.lesswrong.com/posts/7eJF9p8rnaAAcKbZa/swarmish-what-happens-when-agent-swarms-create-language"
+    },
+    {
+      "text": "We want to run AI safety events for you!",
+      "url": "https://www.lesswrong.com/posts/KAaTfsZmzqFFvKfBJ/we-want-to-run-ai-safety-events-for-you"
+    },
+    {
+      "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+      "url": "https://arxiv.org/abs/2611.15250"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "What is Anthropic's Resource and Information Agreement?",
+      "url": "https://www.lesswrong.com/posts/9TjKJZDwj87C9CAYb/what-is-anthropic-s-resource-and-information-agreement"
+    },
+    {
+      "text": "Don't Burn the Boats for Slower Worlds ",
+      "url": "https://www.lesswrong.com/posts/x64cRHmmy7z2ds5HQ/don-t-burn-the-boats-for-slower-worlds"
+    },
+    {
+      "text": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
+    },
+    {
+      "text": "A solvable model of feature learning in a nonlinear network",
+      "url": "https://www.lesswrong.com/posts/8PMbEETpAmgJmtwkd/a-solvable-model-of-feature-learning-in-a-nonlinear-network"
+    },
+    {
+      "text": "GPT-5.6 WON’T BE OPPENHEIMER",
+      "url": "https://www.lesswrong.com/posts/hobjMq8FcueYazxCY/gpt-5-6-won-t-be-oppenheimer"
+    },
+    {
+      "text": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2611.15058"
+    },
+    {
+      "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
+      "url": "https://arxiv.org/abs/2603.29288"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Human Grounded Evaluation of Large Language Models for Optical Network Automation",
+      "url": "https://arxiv.org/abs/2607.18068"
+    },
+    {
+      "text": "The Overstated Cost of AI Fairness in Criminal Justice",
+      "url": "https://arxiv.org/abs/2608.01299"
+    },
+    {
+      "text": "Expanding the Decision Space of Pretrained Models through Structured Re-Decoding",
+      "url": "https://arxiv.org/abs/2611.15109"
+    },
+    {
+      "text": "WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration",
+      "url": "https://arxiv.org/abs/2611.15457"
+    },
+    {
+      "text": "Clustering trajectories of modelled estimates: an uncertainty-aware framework, with an application to global cardiovascular disease burden, 1990 to 2023",
+      "url": "https://arxiv.org/abs/2611.14529"
+    },
+    {
+      "text": "Governing Copyright Responsibly in the Era of Generative AI",
+      "url": "https://arxiv.org/abs/2610.17002"
+    },
+    {
+      "text": "Human or Synthetic? What a Fixed Budget Buys for Post-Training",
+      "url": "https://arxiv.org/abs/2611.16895"
+    },
+    {
+      "text": "Science Prediction Universe",
+      "url": "https://arxiv.org/abs/2611.15049"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Temporal Regularized Learning: Self-Supervised Learning Local in Space and Time",
+      "url": "https://arxiv.org/abs/2611.17019"
+    },
+    {
+      "text": "Studies on Sign Language Retrieval in Low-Resource Dictionary Settings",
+      "url": "https://arxiv.org/abs/2611.16621"
+    },
+    {
+      "text": "Near-Optimal Regret for Oracle-Efficient Adversarial Contextual Bandits",
+      "url": "https://arxiv.org/abs/2611.17109"
+    },
+    {
+      "text": "MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects",
+      "url": "https://arxiv.org/abs/2611.16361"
+    },
+    {
+      "text": "InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling",
+      "url": "https://arxiv.org/abs/2611.16647"
+    },
+    {
+      "text": "A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression",
+      "url": "https://arxiv.org/abs/2611.17143"
+    },
+    {
+      "text": "Maximizing Capacity Utilization of LoRA Adapters for Mitigating the Learning-Forgetting Trade-off",
+      "url": "https://arxiv.org/abs/2611.17191"
+    },
+    {
+      "text": "Small Heads, Strong Decisions: A Controlled Study of Typed-Decision Models",
+      "url": "https://arxiv.org/abs/2611.15592"
+    }
+  ],
+  "lastUpdated": "2026-11-13T12:35:21Z"
+}
