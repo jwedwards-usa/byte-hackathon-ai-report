@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+  },
+  "topStories": [
+    {
+      "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+      "url": "https://arxiv.org/abs/2611.14935"
+    },
+    {
+      "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
+      "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
+    },
+    {
+      "text": "Welcome to AI safety's mass movement era",
+      "url": "https://www.lesswrong.com/posts/4vJbhP9YLWpJEcScW/welcome-to-ai-safety-s-mass-movement-era"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "What Rewarding Misbehavior During RL Does to Character-Trained Models",
+      "url": "https://www.lesswrong.com/posts/nCpxFQesXaqEq3SgL/what-rewarding-misbehavior-during-rl-does-to-character"
+    },
+    {
+      "text": "AI safety is also a behaviour change problem (and that means it needs social scientists)",
+      "url": "https://www.lesswrong.com/posts/gbrKyHpF2Fq6QqeKG/ai-safety-is-also-a-behaviour-change-problem-and-that-means"
+    },
+    {
+      "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+      "url": "https://arxiv.org/abs/2611.15250"
+    },
+    {
+      "text": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "text": "INTRODUCING CHATGPT WALLET",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
+      "url": "https://arxiv.org/abs/2603.29288"
+    },
+    {
+      "text": "Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization",
+      "url": "https://arxiv.org/abs/2605.25129"
+    },
+    {
+      "text": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2611.15058"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+      "url": "https://arxiv.org/abs/2606.03159"
+    },
+    {
+      "text": "\"I don't know what I don't know\": Exploring the Benefits and Challenges of AI in Interdisciplinary Research",
+      "url": "https://arxiv.org/abs/2611.15121"
+    },
+    {
+      "text": "Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2611.15130"
+    },
+    {
+      "text": "When Does Learned Constraint Selection Pay in Security-Constrained Optimisation? A Boundary Map from SCOPF to Unit Commitment",
+      "url": "https://arxiv.org/abs/2611.15142"
+    },
+    {
+      "text": "Expanding the Decision Space of Pretrained Models through Structured Re-Decoding",
+      "url": "https://arxiv.org/abs/2611.15109"
+    },
+    {
+      "text": "Modelling the occurrence and reporting dynamics of weather-related home insurance claims",
+      "url": "https://arxiv.org/abs/2611.14542"
+    },
+    {
+      "text": "Probe Before You Preach: Conformal Ambiguity Sets and Neuro-Symbolic Counterfactual Probing for Diagnosing Algebraic Misconceptions in Middle School Mathematics",
+      "url": "https://arxiv.org/abs/2611.14557"
+    },
+    {
+      "text": "NaijaFacts: A Framework for Disentangling Language from Knowledge in Facts about Nigeria",
+      "url": "https://arxiv.org/abs/2611.06504"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models",
+      "url": "https://arxiv.org/abs/2611.15315"
+    },
+    {
+      "text": "RESYNC: Residual Latent-State Synchronization for Deadline-Bound Streaming Inference",
+      "url": "https://arxiv.org/abs/2611.16523"
+    },
+    {
+      "text": "Helgason-Fourier Random Features for Scalable Hyperbolic Latent Variables",
+      "url": "https://arxiv.org/abs/2611.16461"
+    },
+    {
+      "text": "Verify by Doing: Co-Evolving Agent Execution and Evaluation without External Feedback",
+      "url": "https://arxiv.org/abs/2611.15276"
+    },
+    {
+      "text": "AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention",
+      "url": "https://arxiv.org/abs/2611.15215"
+    },
+    {
+      "text": "Can a search hold its own bar? In-loop deflation and its exploits in autonomous strategy discovery",
+      "url": "https://arxiv.org/abs/2611.14539"
+    },
+    {
+      "text": "Katz Kernel Based Stratification of Breast Cancer Patients",
+      "url": "https://arxiv.org/abs/2611.14540"
+    },
+    {
+      "text": "A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression",
+      "url": "https://arxiv.org/abs/2611.17143"
+    }
+  ],
+  "lastUpdated": "2026-11-13T21:30:44Z"
+}
