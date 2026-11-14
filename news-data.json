@@ -23,10 +23,6 @@
       "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
     },
     {
-      "text": "Datasets Determine the Difficulty of Interpretability",
-      "url": "https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability"
-    },
-    {
       "text": "INTRODUCING CHATGPT WALLET",
       "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
@@ -49,13 +45,19 @@
     {
       "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "text": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+        "alt": "Open-source AI without Jensen",
+        "width": 600,
+        "height": 400
+      }
     }
   ],
   "centerColumn": [
-    {
-      "text": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola"
-    },
     {
       "text": "What AI Agents Speed Up in PhD Research, and What They Can't",
       "url": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/"
@@ -63,14 +65,6 @@
     {
       "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
       "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
-    },
-    {
-      "text": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
-      "url": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/"
-    },
-    {
-      "text": "Let’s talk about Jensen Huang’s many affairs!",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
     },
     {
       "text": "New AI “copilot” helps engineers design better structures",
@@ -83,13 +77,21 @@
     {
       "text": "Introducing Gemini 4 Hydrogen",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "text": "Ralph Page on Live Music",
+      "url": "https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music"
+    },
+    {
+      "text": "Pretending to be racist is unlikely to make you attractive to women",
+      "url": "https://www.lesswrong.com/posts/Szesz5P6RmnGJqxrb/pretending-to-be-racist-is-unlikely-to-make-you-attractive"
+    },
+    {
+      "text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
     }
   ],
   "rightColumn": [
-    {
-      "text": "Dynamical explanations in the blogosphere",
-      "url": "https://www.lesswrong.com/posts/kaZiSyZXAFkue2xo3/dynamical-explanations-in-the-blogosphere"
-    },
     {
       "text": "Amazon has a plan to index the world’s online shopping data",
       "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
@@ -103,10 +105,6 @@
       "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
     },
     {
-      "text": "French Experts Want Consumer Chatbots Tested Before Launch",
-      "url": "https://dailyai.com/2026/11/french-experts-want-consumer-chatbots-tested-before-launch/"
-    },
-    {
       "text": "Three Lincoln Laboratory technologies receive 2026 R\u0026D 100 Awards",
       "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112"
     },
@@ -117,7 +115,15 @@
     {
       "text": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    },
+    {
+      "text": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/"
+    },
+    {
+      "text": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
     }
   ],
-  "lastUpdated": "2026-11-14T09:22:45Z"
+  "lastUpdated": "2026-11-14T12:34:44Z"
 }

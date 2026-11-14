@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
+    "url": "https://www.lesswrong.com/posts/kXA22cZ6BdYdyL3Jz/i-was-zohran-s-campaign-manager-here-s-what-the-ai-safety-1"
+  },
+  "topStories": [
+    {
+      "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
+    {
+      "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
+      "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
+    },
+    {
+      "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
+      "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Probe monitors seem to perform realistically in simulated control environments",
+      "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
+    },
+    {
+      "text": "INTRODUCING CHATGPT WALLET",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "text": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "the water is receding",
+      "url": "https://www.lesswrong.com/posts/G9gthhpwpEtw2TbQy/the-water-is-receding"
+    },
+    {
+      "text": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield"
+    },
+    {
+      "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "text": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+        "alt": "Open-source AI without Jensen",
+        "width": 600,
+        "height": 400
+      }
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "What AI Agents Speed Up in PhD Research, and What They Can't",
+      "url": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/"
+    },
+    {
+      "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+    },
+    {
+      "text": "New AI “copilot” helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
+    },
+    {
+      "text": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    },
+    {
+      "text": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "text": "Ralph Page on Live Music",
+      "url": "https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music"
+    },
+    {
+      "text": "Pretending to be racist is unlikely to make you attractive to women",
+      "url": "https://www.lesswrong.com/posts/Szesz5P6RmnGJqxrb/pretending-to-be-racist-is-unlikely-to-make-you-attractive"
+    },
+    {
+      "text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    },
+    {
+      "text": "How Jev Makes Decisions About Images, With 4 Python Examples",
+      "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/"
+    },
+    {
+      "text": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+    },
+    {
+      "text": "Three Lincoln Laboratory technologies receive 2026 R\u0026D 100 Awards",
+      "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112"
+    },
+    {
+      "text": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+    },
+    {
+      "text": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    },
+    {
+      "text": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/"
+    },
+    {
+      "text": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
+    }
+  ],
+  "lastUpdated": "2026-11-14T12:34:44Z"
+}
