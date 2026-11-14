@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+    "url": "https://arxiv.org/abs/2611.14935"
+  },
+  "topStories": [
+    {
+      "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
+      "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
+    },
+    {
+      "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
+    {
+      "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
+      "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Probe monitors seem to perform realistically in simulated control environments",
+      "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
+    },
+    {
+      "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+      "url": "https://arxiv.org/abs/2611.15250"
+    },
+    {
+      "text": "the water is receding",
+      "url": "https://www.lesswrong.com/posts/G9gthhpwpEtw2TbQy/the-water-is-receding"
+    },
+    {
+      "text": "INTRODUCING CHATGPT WALLET",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "text": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield"
+    },
+    {
+      "text": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2611.15058"
+    },
+    {
+      "text": "Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization",
+      "url": "https://arxiv.org/abs/2605.25129"
+    },
+    {
+      "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
+      "url": "https://arxiv.org/abs/2603.29288"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "From Nodes to Pixels: Topological and Structural Two-View Graph Imaging",
+      "url": "https://arxiv.org/abs/2611.14750"
+    },
+    {
+      "text": "Human Grounded Evaluation of Large Language Models for Optical Network Automation",
+      "url": "https://arxiv.org/abs/2607.18068"
+    },
+    {
+      "text": "Density Constraints Overcome the Energy-Density Trade-Off in Exchange-Correlation Functionals",
+      "url": "https://arxiv.org/abs/2610.30022"
+    },
+    {
+      "text": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+      "url": "https://arxiv.org/abs/2611.16728"
+    },
+    {
+      "text": "Training Computer Use Agents to Assess the Usability of Graphical User Interfaces",
+      "url": "https://arxiv.org/abs/2604.26020"
+    },
+    {
+      "text": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
+      "url": "https://arxiv.org/abs/2611.16693"
+    },
+    {
+      "text": "TIDE: Token-Level Credit Assignment via Entropy-Gated Bounded Deviation",
+      "url": "https://arxiv.org/abs/2605.03327"
+    },
+    {
+      "text": "Clustering trajectories of modelled estimates: an uncertainty-aware framework, with an application to global cardiovascular disease burden, 1990 to 2023",
+      "url": "https://arxiv.org/abs/2611.14529"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "On the Difficulty of Sequence-Level Supervised Learning for Autoregressive Language Models",
+      "url": "https://arxiv.org/abs/2611.16736"
+    },
+    {
+      "text": "Effect-Level Validation for Causal Discovery in Interactive Telemetry",
+      "url": "https://arxiv.org/abs/2602.08340"
+    },
+    {
+      "text": "Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography",
+      "url": "https://arxiv.org/abs/2611.17091"
+    },
+    {
+      "text": "Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors",
+      "url": "https://arxiv.org/abs/2608.23873"
+    },
+    {
+      "text": "Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data",
+      "url": "https://arxiv.org/abs/2611.16184"
+    },
+    {
+      "text": "Four conditions for composing plugin-based agents without a host agents",
+      "url": "https://arxiv.org/abs/2608.28553"
+    },
+    {
+      "text": "Self-Supervised Attention-Based Virtual Metrology for CMP MRR Prediction",
+      "url": "https://arxiv.org/abs/2611.16172"
+    },
+    {
+      "text": "Disentangling Spurious Correlations: How IRM Handles Diverse Shortcuts in Text Classification",
+      "url": "https://arxiv.org/abs/2611.17107"
+    }
+  ],
+  "lastUpdated": "2026-11-14T03:32:10Z"
+}
