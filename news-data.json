@@ -1,7 +1,7 @@
 {
   "mainHeadline": {
-    "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
-    "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
+    "text": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
+    "url": "https://www.lesswrong.com/posts/kXA22cZ6BdYdyL3Jz/i-was-zohran-s-campaign-manager-here-s-what-the-ai-safety-1"
   },
   "topStories": [
     {
@@ -13,8 +13,8 @@
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
     },
     {
-      "text": "the water is receding",
-      "url": "https://www.lesswrong.com/posts/G9gthhpwpEtw2TbQy/the-water-is-receding"
+      "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
+      "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
     }
   ],
   "leftColumn": [
@@ -23,12 +23,12 @@
       "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
     },
     {
-      "text": "INTRODUCING CHATGPT WALLET",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+      "text": "Datasets Determine the Difficulty of Interpretability",
+      "url": "https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability"
     },
     {
-      "text": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield"
+      "text": "INTRODUCING CHATGPT WALLET",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
     {
       "text": "llm-gemini 0.37",
@@ -39,19 +39,23 @@
       "url": "https://www.anthropic.com/news"
     },
     {
+      "text": "the water is receding",
+      "url": "https://www.lesswrong.com/posts/G9gthhpwpEtw2TbQy/the-water-is-receding"
+    },
+    {
+      "text": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield"
+    },
+    {
       "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude"
-    },
-    {
-      "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
-    },
-    {
-      "text": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
     }
   ],
   "centerColumn": [
+    {
+      "text": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola"
+    },
     {
       "text": "What AI Agents Speed Up in PhD Research, and What They Can't",
       "url": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/"
@@ -61,20 +65,12 @@
       "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
     },
     {
-      "text": "Let’s talk about Jensen Huang’s many affairs!",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
-    },
-    {
       "text": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
       "url": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/"
     },
     {
-      "text": "The Complete Guide to LLM Evaluation",
-      "url": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/"
-    },
-    {
-      "text": "Teens in Richer Families Now Use AI for Homework More, RAND Finds",
-      "url": "https://dailyai.com/2026/11/teens-in-richer-families-now-use-ai-for-homework-more-rand-finds/"
+      "text": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
     },
     {
       "text": "New AI “copilot” helps engineers design better structures",
@@ -83,12 +79,16 @@
     {
       "text": "Google’s new Gemini model is better at understanding complicated questions",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    },
+    {
+      "text": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
     }
   ],
   "rightColumn": [
     {
-      "text": "How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)",
-      "url": "https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/"
+      "text": "Dynamical explanations in the blogosphere",
+      "url": "https://www.lesswrong.com/posts/kaZiSyZXAFkue2xo3/dynamical-explanations-in-the-blogosphere"
     },
     {
       "text": "Amazon has a plan to index the world’s online shopping data",
@@ -107,17 +107,17 @@
       "url": "https://dailyai.com/2026/11/french-experts-want-consumer-chatbots-tested-before-launch/"
     },
     {
-      "text": "Nvidia Shares Fall 4.3% After Jensen Huang Resigns as CEO",
-      "url": "https://dailyai.com/2026/11/nvidia-shares-fall-4-3-after-jensen-huang-resigns-as-ceo/"
-    },
-    {
       "text": "Three Lincoln Laboratory technologies receive 2026 R\u0026D 100 Awards",
       "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112"
     },
     {
       "text": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+    },
+    {
+      "text": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
     }
   ],
-  "lastUpdated": "2026-11-14T06:37:03Z"
+  "lastUpdated": "2026-11-14T09:22:45Z"
 }
