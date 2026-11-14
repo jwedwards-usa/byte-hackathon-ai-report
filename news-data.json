@@ -1,42 +1,42 @@
 {
   "mainHeadline": {
-    "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+    "url": "https://arxiv.org/abs/2611.14935"
   },
   "topStories": [
     {
-      "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
-      "url": "https://arxiv.org/abs/2611.14935"
+      "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
+    {
+      "text": "Probe monitors seem to perform realistically in simulated control environments",
+      "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
     },
     {
       "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
-    },
-    {
-      "text": "Welcome to AI safety's mass movement era",
-      "url": "https://www.lesswrong.com/posts/4vJbhP9YLWpJEcScW/welcome-to-ai-safety-s-mass-movement-era"
     }
   ],
   "leftColumn": [
-    {
-      "text": "What Rewarding Misbehavior During RL Does to Character-Trained Models",
-      "url": "https://www.lesswrong.com/posts/nCpxFQesXaqEq3SgL/what-rewarding-misbehavior-during-rl-does-to-character"
-    },
-    {
-      "text": "AI safety is also a behaviour change problem (and that means it needs social scientists)",
-      "url": "https://www.lesswrong.com/posts/gbrKyHpF2Fq6QqeKG/ai-safety-is-also-a-behaviour-change-problem-and-that-means"
-    },
     {
       "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
       "url": "https://arxiv.org/abs/2611.15250"
     },
     {
-      "text": "llm-gemini 0.37",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+      "text": "Homeopathic Learning: Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
+      "url": "https://www.lesswrong.com/posts/5CrmJfRY7yMaAoumC/homeopathic-learning-diluting-poisoned-fine-tuning-data-can-1"
+    },
+    {
+      "text": "Exploring the Mechanisms Behind Opus 4.6’s Refusal to Pay Back Its Loan",
+      "url": "https://www.lesswrong.com/posts/jtcbBpmGztkHRpeBv/exploring-the-mechanisms-behind-opus-4-6-s-refusal-to-pay"
     },
     {
       "text": "INTRODUCING CHATGPT WALLET",
       "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "text": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield"
     },
     {
       "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
@@ -53,71 +53,71 @@
   ],
   "centerColumn": [
     {
-      "text": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
-      "url": "https://arxiv.org/abs/2606.03159"
+      "text": "The Overstated Cost of AI Fairness in Criminal Justice",
+      "url": "https://arxiv.org/abs/2608.01299"
     },
     {
-      "text": "\"I don't know what I don't know\": Exploring the Benefits and Challenges of AI in Interdisciplinary Research",
-      "url": "https://arxiv.org/abs/2611.15121"
+      "text": "Do the Details Help the Whole? One-Way Transfer from Person Actions to Group Intent in VLMs on JRDB-Social",
+      "url": "https://arxiv.org/abs/2611.16581"
     },
     {
-      "text": "Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference",
-      "url": "https://arxiv.org/abs/2611.15130"
+      "text": "WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration",
+      "url": "https://arxiv.org/abs/2611.15457"
     },
     {
-      "text": "When Does Learned Constraint Selection Pay in Security-Constrained Optimisation? A Boundary Map from SCOPF to Unit Commitment",
-      "url": "https://arxiv.org/abs/2611.15142"
+      "text": "Clustering trajectories of modelled estimates: an uncertainty-aware framework, with an application to global cardiovascular disease burden, 1990 to 2023",
+      "url": "https://arxiv.org/abs/2611.14529"
     },
     {
-      "text": "Expanding the Decision Space of Pretrained Models through Structured Re-Decoding",
-      "url": "https://arxiv.org/abs/2611.15109"
+      "text": "AI4Plasma II: Geometry-Aware Surrogate Modeling for Variable Electrode Gap GEC Plasmas",
+      "url": "https://arxiv.org/abs/2611.15584"
     },
     {
-      "text": "Modelling the occurrence and reporting dynamics of weather-related home insurance claims",
-      "url": "https://arxiv.org/abs/2611.14542"
+      "text": "Observations Drift, Structures Remain: Structural Pretraining with Time Alignment for Electromagnetic Signals",
+      "url": "https://arxiv.org/abs/2611.15566"
     },
     {
-      "text": "Probe Before You Preach: Conformal Ambiguity Sets and Neuro-Symbolic Counterfactual Probing for Diagnosing Algebraic Misconceptions in Middle School Mathematics",
-      "url": "https://arxiv.org/abs/2611.14557"
+      "text": "An Approach to Hinton's Mother-Child Proposal: Neural Networks Learning and Preserving Care in a Finite World",
+      "url": "https://arxiv.org/abs/2611.15523"
     },
     {
-      "text": "NaijaFacts: A Framework for Disentangling Language from Knowledge in Facts about Nigeria",
-      "url": "https://arxiv.org/abs/2611.06504"
+      "text": "DETER: Suppression During Pretraining for Tamper Resistance",
+      "url": "https://arxiv.org/abs/2611.15479"
     }
   ],
   "rightColumn": [
     {
-      "text": "MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models",
-      "url": "https://arxiv.org/abs/2611.15315"
+      "text": "Wayfinder: Adaptive Resource Routing from Agent Citations",
+      "url": "https://arxiv.org/abs/2611.16053"
     },
     {
-      "text": "RESYNC: Residual Latent-State Synchronization for Deadline-Bound Streaming Inference",
-      "url": "https://arxiv.org/abs/2611.16523"
+      "text": "Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models",
+      "url": "https://arxiv.org/abs/2611.14661"
     },
     {
-      "text": "Helgason-Fourier Random Features for Scalable Hyperbolic Latent Variables",
-      "url": "https://arxiv.org/abs/2611.16461"
+      "text": "A Unified Interpretable Semantic Framework for Multi-Modal Fiber Sensing Under Data Scarcity",
+      "url": "https://arxiv.org/abs/2611.16027"
     },
     {
-      "text": "Verify by Doing: Co-Evolving Agent Execution and Evaluation without External Feedback",
-      "url": "https://arxiv.org/abs/2611.15276"
+      "text": "Imitating the Imperfect: Offline-to-Online Robust Imitation Learning from Heterogeneous Demonstrators",
+      "url": "https://arxiv.org/abs/2611.16020"
     },
     {
-      "text": "AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention",
-      "url": "https://arxiv.org/abs/2611.15215"
+      "text": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "https://arxiv.org/abs/2611.17316"
     },
     {
-      "text": "Can a search hold its own bar? In-loop deflation and its exploits in autonomous strategy discovery",
-      "url": "https://arxiv.org/abs/2611.14539"
+      "text": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+      "url": "https://arxiv.org/abs/2611.17294"
     },
     {
-      "text": "Katz Kernel Based Stratification of Breast Cancer Patients",
-      "url": "https://arxiv.org/abs/2611.14540"
+      "text": "Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences",
+      "url": "https://arxiv.org/abs/2611.16934"
     },
     {
-      "text": "A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression",
-      "url": "https://arxiv.org/abs/2611.17143"
+      "text": "Temporal Regularized Learning: Self-Supervised Learning Local in Space and Time",
+      "url": "https://arxiv.org/abs/2611.17019"
     }
   ],
-  "lastUpdated": "2026-11-13T21:30:44Z"
+  "lastUpdated": "2026-11-14T00:40:11Z"
 }
