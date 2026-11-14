@@ -1,13 +1,9 @@
 {
   "mainHeadline": {
-    "text": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
-    "url": "https://arxiv.org/abs/2611.14935"
+    "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
+    "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
   },
   "topStories": [
-    {
-      "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
-      "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
-    },
     {
       "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
@@ -15,20 +11,16 @@
     {
       "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
+    },
+    {
+      "text": "the water is receding",
+      "url": "https://www.lesswrong.com/posts/G9gthhpwpEtw2TbQy/the-water-is-receding"
     }
   ],
   "leftColumn": [
     {
       "text": "Probe monitors seem to perform realistically in simulated control environments",
       "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
-    },
-    {
-      "text": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
-      "url": "https://arxiv.org/abs/2611.15250"
-    },
-    {
-      "text": "the water is receding",
-      "url": "https://www.lesswrong.com/posts/G9gthhpwpEtw2TbQy/the-water-is-receding"
     },
     {
       "text": "INTRODUCING CHATGPT WALLET",
@@ -39,85 +31,93 @@
       "url": "https://openai.com/business/customer-stories/shield"
     },
     {
-      "text": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
-      "url": "https://arxiv.org/abs/2611.15058"
+      "text": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
     },
     {
-      "text": "Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization",
-      "url": "https://arxiv.org/abs/2605.25129"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
-      "url": "https://arxiv.org/abs/2603.29288"
+      "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
+    },
+    {
+      "text": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
     }
   ],
   "centerColumn": [
     {
-      "text": "From Nodes to Pixels: Topological and Structural Two-View Graph Imaging",
-      "url": "https://arxiv.org/abs/2611.14750"
+      "text": "What AI Agents Speed Up in PhD Research, and What They Can't",
+      "url": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/"
     },
     {
-      "text": "Human Grounded Evaluation of Large Language Models for Optical Network Automation",
-      "url": "https://arxiv.org/abs/2607.18068"
+      "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
     },
     {
-      "text": "Density Constraints Overcome the Energy-Density Trade-Off in Exchange-Correlation Functionals",
-      "url": "https://arxiv.org/abs/2610.30022"
+      "text": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
     },
     {
-      "text": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
-      "url": "https://arxiv.org/abs/2611.16728"
+      "text": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
+      "url": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/"
     },
     {
-      "text": "Training Computer Use Agents to Assess the Usability of Graphical User Interfaces",
-      "url": "https://arxiv.org/abs/2604.26020"
+      "text": "The Complete Guide to LLM Evaluation",
+      "url": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/"
     },
     {
-      "text": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
-      "url": "https://arxiv.org/abs/2611.16693"
+      "text": "Teens in Richer Families Now Use AI for Homework More, RAND Finds",
+      "url": "https://dailyai.com/2026/11/teens-in-richer-families-now-use-ai-for-homework-more-rand-finds/"
     },
     {
-      "text": "TIDE: Token-Level Credit Assignment via Entropy-Gated Bounded Deviation",
-      "url": "https://arxiv.org/abs/2605.03327"
+      "text": "New AI “copilot” helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
     },
     {
-      "text": "Clustering trajectories of modelled estimates: an uncertainty-aware framework, with an application to global cardiovascular disease burden, 1990 to 2023",
-      "url": "https://arxiv.org/abs/2611.14529"
+      "text": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
     }
   ],
   "rightColumn": [
     {
-      "text": "On the Difficulty of Sequence-Level Supervised Learning for Autoregressive Language Models",
-      "url": "https://arxiv.org/abs/2611.16736"
+      "text": "How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)",
+      "url": "https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/"
     },
     {
-      "text": "Effect-Level Validation for Causal Discovery in Interactive Telemetry",
-      "url": "https://arxiv.org/abs/2602.08340"
+      "text": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
     },
     {
-      "text": "Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography",
-      "url": "https://arxiv.org/abs/2611.17091"
+      "text": "How Jev Makes Decisions About Images, With 4 Python Examples",
+      "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/"
     },
     {
-      "text": "Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors",
-      "url": "https://arxiv.org/abs/2608.23873"
+      "text": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
     },
     {
-      "text": "Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data",
-      "url": "https://arxiv.org/abs/2611.16184"
+      "text": "French Experts Want Consumer Chatbots Tested Before Launch",
+      "url": "https://dailyai.com/2026/11/french-experts-want-consumer-chatbots-tested-before-launch/"
     },
     {
-      "text": "Four conditions for composing plugin-based agents without a host agents",
-      "url": "https://arxiv.org/abs/2608.28553"
+      "text": "Nvidia Shares Fall 4.3% After Jensen Huang Resigns as CEO",
+      "url": "https://dailyai.com/2026/11/nvidia-shares-fall-4-3-after-jensen-huang-resigns-as-ceo/"
     },
     {
-      "text": "Self-Supervised Attention-Based Virtual Metrology for CMP MRR Prediction",
-      "url": "https://arxiv.org/abs/2611.16172"
+      "text": "Three Lincoln Laboratory technologies receive 2026 R\u0026D 100 Awards",
+      "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112"
     },
     {
-      "text": "Disentangling Spurious Correlations: How IRM Handles Diverse Shortcuts in Text Classification",
-      "url": "https://arxiv.org/abs/2611.17107"
+      "text": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     }
   ],
-  "lastUpdated": "2026-11-14T03:32:10Z"
+  "lastUpdated": "2026-11-14T06:37:03Z"
 }
