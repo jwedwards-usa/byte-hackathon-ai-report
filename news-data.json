@@ -1,9 +1,13 @@
 {
   "mainHeadline": {
-    "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    "text": "Transcript: Yudkowsky \u0026 Irving debate scalable oversight",
+    "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
   },
   "topStories": [
+    {
+      "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
     {
       "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
@@ -11,16 +15,12 @@
     {
       "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
       "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
-    },
-    {
-      "text": "Probe monitors seem to perform realistically in simulated control environments",
-      "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
     }
   ],
   "leftColumn": [
     {
-      "text": "RL Reward-Hack Auditing for Chinese AI Safety",
-      "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety"
+      "text": "Why AI Won’t Kill Us by 2030, and Probably Ever",
+      "url": "https://www.lesswrong.com/posts/QgSvF5yDJjkn3NZTY/why-ai-won-t-kill-us-by-2030-and-probably-ever"
     },
     {
       "text": "llm-gemini 0.37",
@@ -31,6 +31,10 @@
       "url": "https://www.anthropic.com/news"
     },
     {
+      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
+    },
+    {
       "text": "INTRODUCING CHATGPT WALLET",
       "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
@@ -39,26 +43,26 @@
       "url": "https://openai.com/business/customer-stories/shield"
     },
     {
-      "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude"
+      "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
     },
     {
-      "text": "Mathematicians: Let’s Surf This Wave",
-      "url": "https://www.lesswrong.com/posts/proLpz7k8XFLT5yaw/mathematicians-let-s-surf-this-wave"
-    },
-    {
-      "text": "How to Build a Markov Chain in Python With NumPy",
-      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
+      "text": "RL Reward-Hack Auditing for Chinese AI Safety",
+      "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety"
     }
   ],
   "centerColumn": [
     {
-      "text": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+      "text": "Outer space is not consistently big",
+      "url": "https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big"
     },
     {
-      "text": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+      "text": "How to Build a Markov Chain in Python With NumPy",
+      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
+    },
+    {
+      "text": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/"
     },
     {
       "text": "Google’s Gemini 4 Hydrogen Is 2.5 Times Faster and Now Powers Search",
@@ -73,28 +77,26 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
     },
     {
-      "text": "Open-source AI without Jensen",
-      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "image": {
-        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
-        "alt": "Open-source AI without Jensen",
-        "width": 600,
-        "height": 400
-      }
+      "text": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
     },
     {
-      "text": "Global Optimization for Combinatorial Geometry Problems Revisited in Era of LLMs",
-      "url": "https://arxiv.org/abs/2601.05943"
-    },
-    {
-      "text": "Ralph Page on Live Music",
-      "url": "https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music"
+      "text": "Agile Manifesto for Agents",
+      "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development"
     }
   ],
   "rightColumn": [
     {
-      "text": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+      "text": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
+      "url": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/"
+    },
+    {
+      "text": "Teens in Richer Families Now Use AI for Homework More, RAND Finds",
+      "url": "https://dailyai.com/2026/11/teens-in-richer-families-now-use-ai-for-homework-more-rand-finds/"
+    },
+    {
+      "text": "Helping robots fit into the human workplace",
+      "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
     },
     {
       "text": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -113,17 +115,9 @@
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
     },
     {
-      "text": "Three Lincoln Laboratory technologies receive 2026 R\u0026D 100 Awards",
-      "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112"
-    },
-    {
-      "text": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
-    },
-    {
       "text": "datasette-cluster-map 0.19",
       "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
     }
   ],
-  "lastUpdated": "2026-11-14T18:29:30Z"
+  "lastUpdated": "2026-11-14T21:29:03Z"
 }
