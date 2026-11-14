@@ -9,19 +9,15 @@
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
     },
     {
-      "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-    },
-    {
       "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
       "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "Probe monitors seem to perform realistically in simulated control environments",
       "url": "https://www.lesswrong.com/posts/erwxQSF2D6naAcoEz/probe-monitors-seem-to-perform-realistically-in-simulated-2"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "RL Reward-Hack Auditing for Chinese AI Safety",
       "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety"
@@ -35,10 +31,6 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "How to Build a Markov Chain in Python With NumPy",
-      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
-    },
-    {
       "text": "INTRODUCING CHATGPT WALLET",
       "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
@@ -49,16 +41,24 @@
     {
       "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "text": "Mathematicians: Let’s Surf This Wave",
+      "url": "https://www.lesswrong.com/posts/proLpz7k8XFLT5yaw/mathematicians-let-s-surf-this-wave"
+    },
+    {
+      "text": "How to Build a Markov Chain in Python With NumPy",
+      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
     }
   ],
   "centerColumn": [
     {
-      "text": "GOOGLE SEARCH GETS A MAJOR UPGRADE WITH GEMINI 4 HYDROGEN",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+      "text": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
     },
     {
-      "text": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+      "text": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
     },
     {
       "text": "Google’s Gemini 4 Hydrogen Is 2.5 Times Faster and Now Powers Search",
@@ -73,19 +73,33 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
     },
     {
-      "text": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+      "text": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+        "alt": "Open-source AI without Jensen",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Global Optimization for Combinatorial Geometry Problems Revisited in Era of LLMs",
+      "url": "https://arxiv.org/abs/2601.05943"
     },
     {
       "text": "Ralph Page on Live Music",
       "url": "https://www.lesswrong.com/posts/NGnHe8EAsScC6R3Lm/ralph-page-on-live-music"
-    },
-    {
-      "text": "Pretending to be racist is unlikely to make you attractive to women",
-      "url": "https://www.lesswrong.com/posts/Szesz5P6RmnGJqxrb/pretending-to-be-racist-is-unlikely-to-make-you-attractive"
     }
   ],
   "rightColumn": [
+    {
+      "text": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+    },
+    {
+      "text": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    },
     {
       "text": "Dynamical explanations in the blogosphere",
       "url": "https://www.lesswrong.com/posts/kaZiSyZXAFkue2xo3/dynamical-explanations-in-the-blogosphere"
@@ -107,17 +121,9 @@
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     },
     {
-      "text": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/"
-    },
-    {
-      "text": "Libreagi – Save OSS Models",
-      "url": "https://libreagi.com/"
-    },
-    {
       "text": "datasette-cluster-map 0.19",
       "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
     }
   ],
-  "lastUpdated": "2026-11-14T15:26:35Z"
+  "lastUpdated": "2026-11-14T18:29:30Z"
 }
