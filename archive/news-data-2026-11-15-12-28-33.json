@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+  },
+  "topStories": [
+    {
+      "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
+      "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
+    },
+    {
+      "text": "Visualizing the Difficulty of AI Alignment",
+      "url": "https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment"
+    },
+    {
+      "text": "Motivations and incentives around AGI",
+      "url": "https://www.lesswrong.com/posts/DonAoEXiRGNFGKhio/motivations-and-incentives-around-agi"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Protesting For AI Regulation",
+      "url": "https://www.lesswrong.com/posts/WgG5M9ZZ2C5KawYP5/protesting-for-ai-regulation"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Against Desperation - for Goodness, and Hope",
+      "url": "https://www.lesswrong.com/posts/8bftRw9DYfsqGzfRo/against-desperation-for-goodness-and-hope"
+    },
+    {
+      "text": "INTRODUCING CHATGPT WALLET",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "text": "On the Brutality of Amdahl's Law",
+      "url": "https://www.lesswrong.com/posts/bMsQ44sKqrFWjuHPb/on-the-brutality-of-amdahl-s-law"
+    },
+    {
+      "text": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+    },
+    {
+      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+    },
+    {
+      "text": "Solar power, from futurist speculation to business plan",
+      "url": "https://www.lesswrong.com/posts/qdKGb5tSWYJqCtWGk/solar-power-from-futurist-speculation-to-business-plan"
+    },
+    {
+      "text": "Wargames inform present policy, not future incident response",
+      "url": "https://www.lesswrong.com/posts/pzdfkxeG2CMsDWixs/wargames-inform-present-policy-not-future-incident-response"
+    },
+    {
+      "text": "A digital security checklist for the AI age",
+      "url": "https://www.lesswrong.com/posts/oCX2KjEL6mLDCsq77/a-digital-security-checklist-for-the-ai-age"
+    },
+    {
+      "text": "How to Build a Markov Chain in Python With NumPy",
+      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
+    },
+    {
+      "text": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/"
+    },
+    {
+      "text": "Google’s Gemini 4 Hydrogen Is 2.5 Times Faster and Now Powers Search",
+      "url": "https://dailyai.com/2026/11/googles-gemini-4-hydrogen-is-2-5-times-faster-and-now-powers-search/"
+    },
+    {
+      "text": "Weight-Only Quantization",
+      "url": "https://machinelearningmastery.com/weight-only-quantization/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
+    },
+    {
+      "text": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+        "alt": "Open-source AI without Jensen",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+      "text": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    },
+    {
+      "text": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    },
+    {
+      "text": "How Jev Makes Decisions About Images, With 4 Python Examples",
+      "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/"
+    },
+    {
+      "text": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+    },
+    {
+      "text": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
+    }
+  ],
+  "lastUpdated": "2026-11-15T12:28:33Z"
+}
