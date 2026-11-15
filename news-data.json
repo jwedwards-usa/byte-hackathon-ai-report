@@ -5,26 +5,38 @@
   },
   "topStories": [
     {
-      "text": "Transcript: Yudkowsky \u0026 Irving debate scalable oversight",
-      "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
-    },
-    {
       "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
     },
     {
       "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
+    },
+    {
+      "text": "A calendar for the age of AI: AA",
+      "url": "https://www.lesswrong.com/posts/Kfhuxfqh95aGEdpgt/a-calendar-for-the-age-of-ai-aa"
     }
   ],
   "leftColumn": [
     {
-      "text": "datasette-llm 0.1a11",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+      "text": "Transcript: Yudkowsky \u0026 Irving debate scalable oversight",
+      "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
+    },
+    {
+      "text": "The Oldest Text in the Training Data",
+      "url": "https://www.lesswrong.com/posts/CzZR4ZcJoCNi2zqFn/the-oldest-text-in-the-training-data"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "On the Brutality of Amdahl's Law",
+      "url": "https://www.lesswrong.com/posts/bMsQ44sKqrFWjuHPb/on-the-brutality-of-amdahl-s-law"
+    },
+    {
+      "text": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
     },
     {
       "text": "INTRODUCING CHATGPT WALLET",
@@ -37,24 +49,16 @@
     {
       "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-    },
-    {
-      "text": "RL Reward-Hack Auditing for Chinese AI Safety",
-      "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety"
-    },
+    }
+  ],
+  "centerColumn": [
     {
       "text": "Embryo selection and economic discounting",
       "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
     },
     {
-      "text": "Should prices sum to $1 for undecidable sentences?",
-      "url": "https://www.lesswrong.com/posts/59QxAMsnbrEQur2Py/should-prices-sum-to-usd1-for-undecidable-sentences-1"
-    }
-  ],
-  "centerColumn": [
-    {
-      "text": "Outer space is not consistently big",
-      "url": "https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big"
+      "text": "Be Grateful in Spite of Your Suffering",
+      "url": "https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering"
     },
     {
       "text": "How to Build a Markov Chain in Python With NumPy",
@@ -79,10 +83,6 @@
     {
       "text": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
-    },
-    {
-      "text": "Agile Manifesto for Agents",
-      "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development"
     }
   ],
   "rightColumn": [
@@ -95,16 +95,16 @@
       "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
     },
     {
+      "text": "Outer space is not consistently big",
+      "url": "https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big"
+    },
+    {
       "text": "datasette-vega 0.7",
       "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
     },
     {
       "text": "Jensen Huang and the decline of the visionary showman founder CEO",
       "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
-    },
-    {
-      "text": "Dynamical explanations in the blogosphere",
-      "url": "https://www.lesswrong.com/posts/kaZiSyZXAFkue2xo3/dynamical-explanations-in-the-blogosphere"
     },
     {
       "text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -119,5 +119,5 @@
       "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/"
     }
   ],
-  "lastUpdated": "2026-11-15T00:51:00Z"
+  "lastUpdated": "2026-11-15T03:31:40Z"
 }
