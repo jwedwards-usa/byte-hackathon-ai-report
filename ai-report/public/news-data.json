@@ -1,7 +1,7 @@
 {
   "mainHeadline": {
-    "text": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
-    "url": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about"
+    "text": "Visualizing the Difficulty of AI Alignment",
+    "url": "https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment"
   },
   "topStories": [
     {
@@ -13,18 +13,14 @@
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
     },
     {
-      "text": "A calendar for the age of AI: AA",
-      "url": "https://www.lesswrong.com/posts/Kfhuxfqh95aGEdpgt/a-calendar-for-the-age-of-ai-aa"
+      "text": "Protesting For AI Regulation",
+      "url": "https://www.lesswrong.com/posts/WgG5M9ZZ2C5KawYP5/protesting-for-ai-regulation"
     }
   ],
   "leftColumn": [
     {
-      "text": "Transcript: Yudkowsky \u0026 Irving debate scalable oversight",
-      "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
-    },
-    {
-      "text": "The Oldest Text in the Training Data",
-      "url": "https://www.lesswrong.com/posts/CzZR4ZcJoCNi2zqFn/the-oldest-text-in-the-training-data"
+      "text": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
+      "url": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about"
     },
     {
       "text": "Sample Blog Post",
@@ -35,10 +31,6 @@
       "url": "https://www.lesswrong.com/posts/bMsQ44sKqrFWjuHPb/on-the-brutality-of-amdahl-s-law"
     },
     {
-      "text": "datasette-llm 0.1a11",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
-    },
-    {
       "text": "INTRODUCING CHATGPT WALLET",
       "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
@@ -47,18 +39,30 @@
       "url": "https://openai.com/business/customer-stories/shield"
     },
     {
+      "text": "Trying to understand that compute multiplier graph",
+      "url": "https://www.lesswrong.com/posts/WKt2mqJrsFuMiszed/trying-to-understand-that-compute-multiplier-graph"
+    },
+    {
+      "text": "The Oldest Text in the Training Data",
+      "url": "https://www.lesswrong.com/posts/CzZR4ZcJoCNi2zqFn/the-oldest-text-in-the-training-data"
+    },
+    {
       "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
     }
   ],
   "centerColumn": [
     {
-      "text": "Embryo selection and economic discounting",
-      "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
+      "text": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
     },
     {
-      "text": "Be Grateful in Spite of Your Suffering",
-      "url": "https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering"
+      "text": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+    },
+    {
+      "text": "Embryo selection and economic discounting",
+      "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
     },
     {
       "text": "How to Build a Markov Chain in Python With NumPy",
@@ -73,10 +77,6 @@
       "url": "https://dailyai.com/2026/11/googles-gemini-4-hydrogen-is-2-5-times-faster-and-now-powers-search/"
     },
     {
-      "text": "New AI “copilot” helps engineers design better structures",
-      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
-    },
-    {
       "text": "Weight-Only Quantization",
       "url": "https://machinelearningmastery.com/weight-only-quantization/"
     },
@@ -87,16 +87,16 @@
   ],
   "rightColumn": [
     {
+      "text": "The Complete Guide to LLM Evaluation",
+      "url": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/"
+    },
+    {
       "text": "Teens in Richer Families Now Use AI for Homework More, RAND Finds",
       "url": "https://dailyai.com/2026/11/teens-in-richer-families-now-use-ai-for-homework-more-rand-finds/"
     },
     {
-      "text": "Helping robots fit into the human workplace",
-      "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
-    },
-    {
-      "text": "Outer space is not consistently big",
-      "url": "https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big"
+      "text": "Be Grateful in Spite of Your Suffering",
+      "url": "https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering"
     },
     {
       "text": "datasette-vega 0.7",
@@ -119,5 +119,5 @@
       "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/"
     }
   ],
-  "lastUpdated": "2026-11-15T03:31:40Z"
+  "lastUpdated": "2026-11-15T06:36:30Z"
 }
