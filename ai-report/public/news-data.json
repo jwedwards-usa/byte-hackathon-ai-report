@@ -1,16 +1,16 @@
 {
   "mainHeadline": {
-    "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    "text": "Where are the adults in AI safety? ",
+    "url": "https://www.lesswrong.com/posts/iymi7FSdnbRAAn8To/where-are-the-adults-in-ai-safety"
   },
   "topStories": [
     {
-      "text": "Reading Speculations Concerning the First Ultraintelligent Machine",
-      "url": "https://www.lesswrong.com/posts/uKPJwHiSiweKWJ9rz/reading-speculations-concerning-the-first-ultraintelligent"
+      "text": "Alignment 'train/test splits' should be sacred",
+      "url": "https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred"
     },
     {
-      "text": "Visualizing the Difficulty of AI Alignment",
-      "url": "https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment"
+      "text": "Reading Speculations Concerning the First Ultraintelligent Machine",
+      "url": "https://www.lesswrong.com/posts/uKPJwHiSiweKWJ9rz/reading-speculations-concerning-the-first-ultraintelligent"
     },
     {
       "text": "Sample Blog Post",
@@ -19,12 +19,24 @@
   ],
   "leftColumn": [
     {
-      "text": "Motivations and incentives around AGI",
-      "url": "https://www.lesswrong.com/posts/DonAoEXiRGNFGKhio/motivations-and-incentives-around-agi"
+      "text": "Easier To Be Good",
+      "url": "https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good"
     },
     {
-      "text": "Not just a bystander, not anymore…",
-      "url": "https://www.lesswrong.com/posts/jcoXnm6tP4zAA4gjR/not-just-a-bystander-not-anymore"
+      "text": "DailyAI Briefing: Fed survey names AI top financial risk, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-fed-survey-names-ai-top-financial-risk-plus-4-more/"
+    },
+    {
+      "text": "Bayesian Games with Nukes",
+      "url": "https://www.lesswrong.com/posts/b2tRteNzTGbEaDTMN/bayesian-games-with-nukes"
+    },
+    {
+      "text": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "text": "The Case for MAPLE",
+      "url": "https://www.lesswrong.com/posts/hhKp7iwJFvTMocH4s/the-case-for-maple"
     },
     {
       "text": "datasette-llm 0.1a11",
@@ -35,42 +47,30 @@
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
     },
     {
-      "text": "Where ASI Could Stumble",
-      "url": "https://www.lesswrong.com/posts/Jj2aLyZPYDv8ZsnCj/where-asi-could-stumble-1"
-    },
-    {
-      "text": "What a year of Zen retreats was actually like",
-      "url": "https://www.lesswrong.com/posts/jdTnPuFCvEBgHR9mF/what-a-year-of-zen-retreats-was-actually-like"
-    },
-    {
-      "text": "Trying to understand that compute multiplier graph",
-      "url": "https://www.lesswrong.com/posts/WKt2mqJrsFuMiszed/trying-to-understand-that-compute-multiplier-graph"
-    },
-    {
-      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
+      "text": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
     }
   ],
   "centerColumn": [
     {
-      "text": "An overview of Jensen Huang’s messy days",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+      "text": "Giving Up on Saving the World",
+      "url": "https://www.lesswrong.com/posts/hvDpcoLqpHvQEmx8B/giving-up-on-saving-the-world"
     },
     {
-      "text": "Against Desperation - for Goodness, and Hope",
-      "url": "https://www.lesswrong.com/posts/8bftRw9DYfsqGzfRo/against-desperation-for-goodness-and-hope"
+      "text": "Where ASI Could Stumble",
+      "url": "https://www.lesswrong.com/posts/Jj2aLyZPYDv8ZsnCj/where-asi-could-stumble-1"
     },
     {
-      "text": "Wargames inform present policy, not future incident response",
-      "url": "https://www.lesswrong.com/posts/pzdfkxeG2CMsDWixs/wargames-inform-present-policy-not-future-incident-response"
+      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
     },
     {
-      "text": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
-      "url": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/"
+      "text": "Not just a bystander, not anymore…",
+      "url": "https://www.lesswrong.com/posts/jcoXnm6tP4zAA4gjR/not-just-a-bystander-not-anymore"
     },
     {
-      "text": "Computing Effective Dimension for Quantum ML Models in PyTorch",
-      "url": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/"
+      "text": "What a year of Zen retreats was actually like",
+      "url": "https://www.lesswrong.com/posts/jdTnPuFCvEBgHR9mF/what-a-year-of-zen-retreats-was-actually-like"
     },
     {
       "text": "Understanding Positional Embeddings in Modern LLMs",
@@ -87,16 +87,12 @@
   ],
   "rightColumn": [
     {
-      "text": "Solar power, from futurist speculation to business plan",
-      "url": "https://www.lesswrong.com/posts/qdKGb5tSWYJqCtWGk/solar-power-from-futurist-speculation-to-business-plan"
+      "text": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
     },
     {
       "text": "Weight-Only Quantization",
       "url": "https://machinelearningmastery.com/weight-only-quantization/"
-    },
-    {
-      "text": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
     },
     {
       "text": "Open-source AI without Jensen",
@@ -109,6 +105,14 @@
       }
     },
     {
+      "text": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
+      "url": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/"
+    },
+    {
+      "text": "Computing Effective Dimension for Quantum ML Models in PyTorch",
+      "url": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/"
+    },
+    {
       "text": "datasette-vega 0.7",
       "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
     },
@@ -119,11 +123,7 @@
     {
       "text": "Amazon has a plan to index the world’s online shopping data",
       "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-    },
-    {
-      "text": "datasette-cluster-map 0.19",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
     }
   ],
-  "lastUpdated": "2026-11-15T18:24:40Z"
+  "lastUpdated": "2026-11-15T21:25:03Z"
 }

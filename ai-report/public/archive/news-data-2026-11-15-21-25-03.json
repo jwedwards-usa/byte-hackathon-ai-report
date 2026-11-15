@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Where are the adults in AI safety? ",
+    "url": "https://www.lesswrong.com/posts/iymi7FSdnbRAAn8To/where-are-the-adults-in-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "Alignment 'train/test splits' should be sacred",
+      "url": "https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred"
+    },
+    {
+      "text": "Reading Speculations Concerning the First Ultraintelligent Machine",
+      "url": "https://www.lesswrong.com/posts/uKPJwHiSiweKWJ9rz/reading-speculations-concerning-the-first-ultraintelligent"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Easier To Be Good",
+      "url": "https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good"
+    },
+    {
+      "text": "DailyAI Briefing: Fed survey names AI top financial risk, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-fed-survey-names-ai-top-financial-risk-plus-4-more/"
+    },
+    {
+      "text": "Bayesian Games with Nukes",
+      "url": "https://www.lesswrong.com/posts/b2tRteNzTGbEaDTMN/bayesian-games-with-nukes"
+    },
+    {
+      "text": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "text": "The Case for MAPLE",
+      "url": "https://www.lesswrong.com/posts/hhKp7iwJFvTMocH4s/the-case-for-maple"
+    },
+    {
+      "text": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+    },
+    {
+      "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "text": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Giving Up on Saving the World",
+      "url": "https://www.lesswrong.com/posts/hvDpcoLqpHvQEmx8B/giving-up-on-saving-the-world"
+    },
+    {
+      "text": "Where ASI Could Stumble",
+      "url": "https://www.lesswrong.com/posts/Jj2aLyZPYDv8ZsnCj/where-asi-could-stumble-1"
+    },
+    {
+      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
+    },
+    {
+      "text": "Not just a bystander, not anymore…",
+      "url": "https://www.lesswrong.com/posts/jcoXnm6tP4zAA4gjR/not-just-a-bystander-not-anymore"
+    },
+    {
+      "text": "What a year of Zen retreats was actually like",
+      "url": "https://www.lesswrong.com/posts/jdTnPuFCvEBgHR9mF/what-a-year-of-zen-retreats-was-actually-like"
+    },
+    {
+      "text": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    },
+    {
+      "text": "How to Build a Markov Chain in Python With NumPy",
+      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
+    },
+    {
+      "text": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
+    {
+      "text": "Weight-Only Quantization",
+      "url": "https://machinelearningmastery.com/weight-only-quantization/"
+    },
+    {
+      "text": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+        "alt": "Open-source AI without Jensen",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
+      "url": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/"
+    },
+    {
+      "text": "Computing Effective Dimension for Quantum ML Models in PyTorch",
+      "url": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/"
+    },
+    {
+      "text": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
+    },
+    {
+      "text": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    },
+    {
+      "text": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    }
+  ],
+  "lastUpdated": "2026-11-15T21:25:03Z"
+}
