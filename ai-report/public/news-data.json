@@ -19,36 +19,36 @@
   ],
   "leftColumn": [
     {
-      "text": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
-      "url": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "On the Brutality of Amdahl's Law",
-      "url": "https://www.lesswrong.com/posts/bMsQ44sKqrFWjuHPb/on-the-brutality-of-amdahl-s-law"
     },
     {
       "text": "INTRODUCING CHATGPT WALLET",
       "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
     {
-      "text": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield"
-    },
-    {
       "text": "Trying to understand that compute multiplier graph",
       "url": "https://www.lesswrong.com/posts/WKt2mqJrsFuMiszed/trying-to-understand-that-compute-multiplier-graph"
     },
     {
-      "text": "The Oldest Text in the Training Data",
-      "url": "https://www.lesswrong.com/posts/CzZR4ZcJoCNi2zqFn/the-oldest-text-in-the-training-data"
-    },
-    {
       "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "text": "Wargames inform present policy, not future incident response",
+      "url": "https://www.lesswrong.com/posts/pzdfkxeG2CMsDWixs/wargames-inform-present-policy-not-future-incident-response"
+    },
+    {
+      "text": "A digital security checklist for the AI age",
+      "url": "https://www.lesswrong.com/posts/oCX2KjEL6mLDCsq77/a-digital-security-checklist-for-the-ai-age"
+    },
+    {
+      "text": "On the Brutality of Amdahl's Law",
+      "url": "https://www.lesswrong.com/posts/bMsQ44sKqrFWjuHPb/on-the-brutality-of-amdahl-s-law"
+    },
+    {
+      "text": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
     }
   ],
   "centerColumn": [
@@ -61,8 +61,8 @@
       "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
     },
     {
-      "text": "Embryo selection and economic discounting",
-      "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
+      "text": "Solar power, from futurist speculation to business plan",
+      "url": "https://www.lesswrong.com/posts/qdKGb5tSWYJqCtWGk/solar-power-from-futurist-speculation-to-business-plan"
     },
     {
       "text": "How to Build a Markov Chain in Python With NumPy",
@@ -91,12 +91,8 @@
       "url": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/"
     },
     {
-      "text": "Teens in Richer Families Now Use AI for Homework More, RAND Finds",
-      "url": "https://dailyai.com/2026/11/teens-in-richer-families-now-use-ai-for-homework-more-rand-finds/"
-    },
-    {
-      "text": "Be Grateful in Spite of Your Suffering",
-      "url": "https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering"
+      "text": "Embryo selection and economic discounting",
+      "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
     },
     {
       "text": "datasette-vega 0.7",
@@ -117,7 +113,11 @@
     {
       "text": "How Jev Makes Decisions About Images, With 4 Python Examples",
       "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/"
+    },
+    {
+      "text": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
     }
   ],
-  "lastUpdated": "2026-11-15T06:36:30Z"
+  "lastUpdated": "2026-11-15T09:26:46Z"
 }
