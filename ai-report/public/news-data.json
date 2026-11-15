@@ -1,9 +1,13 @@
 {
   "mainHeadline": {
-    "text": "Transcript: Yudkowsky \u0026 Irving debate scalable oversight",
-    "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
+    "text": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
+    "url": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about"
   },
   "topStories": [
+    {
+      "text": "Transcript: Yudkowsky \u0026 Irving debate scalable oversight",
+      "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight"
+    },
     {
       "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
@@ -11,28 +15,16 @@
     {
       "text": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
       "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/"
-    },
-    {
-      "text": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
-      "url": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large"
     }
   ],
   "leftColumn": [
     {
-      "text": "Why AI Won’t Kill Us by 2030, and Probably Ever",
-      "url": "https://www.lesswrong.com/posts/QgSvF5yDJjkn3NZTY/why-ai-won-t-kill-us-by-2030-and-probably-ever"
-    },
-    {
-      "text": "llm-gemini 0.37",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+      "text": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
     },
     {
       "text": "INTRODUCING CHATGPT WALLET",
@@ -49,6 +41,14 @@
     {
       "text": "RL Reward-Hack Auditing for Chinese AI Safety",
       "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety"
+    },
+    {
+      "text": "Embryo selection and economic discounting",
+      "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting"
+    },
+    {
+      "text": "Should prices sum to $1 for undecidable sentences?",
+      "url": "https://www.lesswrong.com/posts/59QxAMsnbrEQur2Py/should-prices-sum-to-usd1-for-undecidable-sentences-1"
     }
   ],
   "centerColumn": [
@@ -73,8 +73,8 @@
       "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
     },
     {
-      "text": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+      "text": "Weight-Only Quantization",
+      "url": "https://machinelearningmastery.com/weight-only-quantization/"
     },
     {
       "text": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
@@ -87,16 +87,16 @@
   ],
   "rightColumn": [
     {
-      "text": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
-      "url": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/"
-    },
-    {
       "text": "Teens in Richer Families Now Use AI for Homework More, RAND Finds",
       "url": "https://dailyai.com/2026/11/teens-in-richer-families-now-use-ai-for-homework-more-rand-finds/"
     },
     {
       "text": "Helping robots fit into the human workplace",
       "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"
+    },
+    {
+      "text": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
     },
     {
       "text": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -107,17 +107,17 @@
       "url": "https://www.lesswrong.com/posts/kaZiSyZXAFkue2xo3/dynamical-explanations-in-the-blogosphere"
     },
     {
-      "text": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-    },
-    {
       "text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
     },
     {
-      "text": "datasette-cluster-map 0.19",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
+      "text": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    },
+    {
+      "text": "How Jev Makes Decisions About Images, With 4 Python Examples",
+      "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/"
     }
   ],
-  "lastUpdated": "2026-11-14T21:29:03Z"
+  "lastUpdated": "2026-11-15T00:51:00Z"
 }
