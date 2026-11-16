@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "You can't patch yesterday's AI",
+    "url": "https://www.lesswrong.com/posts/cPw3KoptvXFgRgxbH/you-can-t-patch-yesterday-s-ai"
+  },
+  "topStories": [
+    {
+      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
+      "url": "https://arxiv.org/abs/2611.18114"
+    },
+    {
+      "text": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
+      "url": "https://arxiv.org/abs/2611.18104"
+    },
+    {
+      "text": "From Reading Code to Reading Spec: A Verified Layer for LLM-Driven Codebase Maintenance",
+      "url": "https://arxiv.org/abs/2609.06383"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging",
+      "url": "https://arxiv.org/abs/2611.17468"
+    },
+    {
+      "text": "Resolving AdaBoost Cycling with LLMs: A Computer-Assisted Counterexample",
+      "url": "https://arxiv.org/abs/2604.07055"
+    },
+    {
+      "text": "ScrapeGraphAI-100k: Dataset for Schema-Constrained LLM Generation",
+      "url": "https://arxiv.org/abs/2602.15189"
+    },
+    {
+      "text": "Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation",
+      "url": "https://arxiv.org/abs/2611.17629"
+    },
+    {
+      "text": "Fair and Efficient Distributed EV Charging Coordination Using Threshold Cryptography and Machine Learning",
+      "url": "https://arxiv.org/abs/2611.17577"
+    },
+    {
+      "text": "Accepted but Wrong: Silent Failures of LLM Code Repairs after API Migrations",
+      "url": "https://arxiv.org/abs/2611.08269"
+    },
+    {
+      "text": "HetCCL: Efficient LLM Training on Heterogeneous Vendor GPUs",
+      "url": "https://arxiv.org/abs/2601.22585"
+    },
+    {
+      "text": "LLMs are weirdly below chance on TASTE benchmark without a shortcut",
+      "url": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-weirdly-below-chance-on-taste-benchmark-without-a"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "An In-Silico Audit of Topographic Organization in a Multimodal Brain-Response Model",
+      "url": "https://arxiv.org/abs/2611.18105"
+    },
+    {
+      "text": "RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation",
+      "url": "https://arxiv.org/abs/2611.18244"
+    },
+    {
+      "text": "Stealthy, High-Impact False Data Injection Attacks in Smart Grid Using Physics-Constrained GAN with Limited System Knowledge",
+      "url": "https://arxiv.org/abs/2611.15162"
+    },
+    {
+      "text": "Indic-Task Gains and Regressions after Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.16228"
+    },
+    {
+      "text": "Choosing Quantized Code LLMs by File Size and Energy per Solved Task",
+      "url": "https://arxiv.org/abs/2611.17605"
+    },
+    {
+      "text": "From Bytes to Behavior: Request-Level Attribution from Live GPU Hidden States",
+      "url": "https://arxiv.org/abs/2611.18272"
+    },
+    {
+      "text": "Structure makes quantum circuits trainable",
+      "url": "https://arxiv.org/abs/2611.18378"
+    },
+    {
+      "text": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
+      "url": "https://arxiv.org/abs/2611.18372"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "OmniScore-Bench: Evaluating Vision-Language Models on Musical Score Reading",
+      "url": "https://arxiv.org/abs/2611.17870"
+    },
+    {
+      "text": "Reasoning Models Confabulate to Defend Injected Beliefs About Their Own Requests",
+      "url": "https://arxiv.org/abs/2611.17958"
+    },
+    {
+      "text": "User-Schedulable Approximations for Quantized Tensor Programs",
+      "url": "https://arxiv.org/abs/2611.17526"
+    },
+    {
+      "text": "Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences",
+      "url": "https://arxiv.org/abs/2611.16934"
+    },
+    {
+      "text": "When Cooperation Must Change: Semantic Strategy Unlearning in Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.17917"
+    },
+    {
+      "text": "RecMem: Recurrent Memory Compression for Long-Sequence Generative Recommendation",
+      "url": "https://arxiv.org/abs/2611.17921"
+    },
+    {
+      "text": "What Balanced Accuracy Cannot Identify in Neural-Signal Decoding under Test-Time Adaptation",
+      "url": "https://arxiv.org/abs/2611.17925"
+    },
+    {
+      "text": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
+      "url": "https://arxiv.org/abs/2611.17529"
+    }
+  ],
+  "lastUpdated": "2026-11-16T06:50:37Z"
+}
