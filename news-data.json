@@ -1,23 +1,27 @@
 {
   "mainHeadline": {
-    "text": "Social Sanction Gaming gives Multi-Agent AIs Powerful Control over their Reinforcement",
-    "url": "https://www.lesswrong.com/posts/C6MM2FAeCAdDLBZCH/social-sanction-gaming-gives-multi-agent-ais-powerful"
+    "text": "Fable 5.2 is the New Bazooka",
+    "url": "https://www.lesswrong.com/posts/ZQccv9GPAzHGbWcwE/fable-5-2-is-the-new-bazooka"
   },
   "topStories": [
+    {
+      "text": "Social Sanction Gaming gives Multi-Agent AIs Powerful Control over their Reinforcement",
+      "url": "https://www.lesswrong.com/posts/C6MM2FAeCAdDLBZCH/social-sanction-gaming-gives-multi-agent-ais-powerful"
+    },
     {
       "text": "Gemini 4 safety reports don’t demonstrate low loss-of-control risk",
       "url": "https://www.lesswrong.com/posts/DjfeRMnLdNumtcKbK/gemini-4-safety-reports-don-t-demonstrate-low-loss-of"
     },
     {
-      "text": "LVMH Signs Deal to Show Articles From Its 17 News Brands in ChatGPT",
-      "url": "https://dailyai.com/2026/11/lvmhs-17-news-brands-strike-a-deal-to-appear-in-chatgpt-answers/"
-    },
-    {
-      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership"
+      "text": "CALIFORNIA SUES OPENAI OVER ROGUE AI HACKING INCIDENTS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
     }
   ],
   "leftColumn": [
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
     {
       "text": "Recursive, Self, Improvement",
       "url": "https://www.lesswrong.com/posts/7Ncd3ZqFD9iqrAiSu/recursive-self-improvement-1"
@@ -31,6 +35,10 @@
       "url": "https://openai.com/index/science-at-the-frontier"
     },
     {
+      "text": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
+    },
+    {
       "text": "Cryonics as Cause Area",
       "url": "https://www.lesswrong.com/posts/mRAM4DrK47cKc4kp9/cryonics-as-cause-area-1"
     },
@@ -41,83 +49,75 @@
     {
       "text": "Building trustworthy AI by fencing it in, not predicting it",
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
-    },
-    {
-      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
-      "url": "https://arxiv.org/abs/2611.18114"
-    },
-    {
-      "text": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
-      "url": "https://arxiv.org/abs/2611.18104"
     }
   ],
   "centerColumn": [
     {
-      "text": "AI Agents Push Humans Out of the Loop",
-      "url": "https://arxiv.org/abs/2608.23642"
+      "text": "Lipschitz-Constrained Discriminators in Generative Modeling: Asymptotic Behavior and Support Mismatch",
+      "url": "https://arxiv.org/abs/2611.18394"
     },
     {
-      "text": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
-      "url": "https://arxiv.org/abs/2611.18563"
+      "text": "Toward Universal Translatability: On the Statistical Ontology of Generative AI",
+      "url": "https://arxiv.org/abs/2611.17963"
     },
     {
-      "text": "Detection Is Not Early Warning: Evaluating Token-Level Alarms on Language Model Failures",
-      "url": "https://arxiv.org/abs/2611.16803"
+      "text": "FEND: Far-End Detection in Outbound Voice AI Calls",
+      "url": "https://arxiv.org/abs/2611.18050"
     },
     {
-      "text": "A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space",
-      "url": "https://arxiv.org/abs/2611.18026"
+      "text": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+      "url": "https://arxiv.org/abs/2611.18531"
     },
     {
-      "text": "Experts Across Schemas: Agent-Guided Mixture-of-Relational-Experts for Cross-Database Generalization",
-      "url": "https://arxiv.org/abs/2611.18315"
+      "text": "Logically Consistent Accurate Forecasts",
+      "url": "https://arxiv.org/abs/2611.17735"
     },
     {
-      "text": "When evaluation becomes intervention in clinical AI",
-      "url": "https://arxiv.org/abs/2611.18297"
+      "text": "Agent-as-a-Judge",
+      "url": "https://arxiv.org/abs/2611.18067"
     },
     {
-      "text": "Training-point consistency of kernel ridge regression with varying correlation scales",
-      "url": "https://arxiv.org/abs/2611.18095"
+      "text": "Time-Consistent Evaluation of Hierarchical Code Graphs for SWE Agents",
+      "url": "https://arxiv.org/abs/2611.17388"
     },
     {
-      "text": "Muon Attains $\\mathcal{O}(\\varepsilon^{-3})$ Iteration Complexity under Shuffling",
-      "url": "https://arxiv.org/abs/2611.18124"
+      "text": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
+      "url": "https://arxiv.org/abs/2611.17412"
     }
   ],
   "rightColumn": [
     {
-      "text": "Activation Steering the Nan-Shan in Typhoon",
-      "url": "https://arxiv.org/abs/2611.17768"
+      "text": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
+      "url": "https://arxiv.org/abs/2611.17728"
     },
     {
-      "text": "Vision-language models lag human performance on physical dynamics and intent reasoning",
-      "url": "https://arxiv.org/abs/2601.01547"
+      "text": "STAMP: Manufacturing-Informed Generative Design and Shape Optimization of Sheet Panels",
+      "url": "https://arxiv.org/abs/2611.18144"
     },
     {
-      "text": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
-      "url": "https://arxiv.org/abs/2611.18458"
+      "text": "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents",
+      "url": "https://arxiv.org/abs/2611.17696"
     },
     {
-      "text": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
-      "url": "https://arxiv.org/abs/2611.18464"
+      "text": "ProdPilot: A Layered Model Context Protocol System for Automated Production Readiness and Deployment of Vibe-Coded Projects",
+      "url": "https://arxiv.org/abs/2611.17381"
     },
     {
-      "text": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
-      "url": "https://arxiv.org/abs/2611.18494"
+      "text": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
+      "url": "https://arxiv.org/abs/2611.17681"
     },
     {
-      "text": "Recovering the Euclidean Geometry of High-Dimensional Data Under Heterogeneous Noise",
-      "url": "https://arxiv.org/abs/2507.18520"
+      "text": "Enumerating Posterior-Supported Priors: First-Order Error of Finite-Integral Cross-Categorical Measurement Morphisms",
+      "url": "https://arxiv.org/abs/2611.17390"
     },
     {
-      "text": "Bias-Optimal Bounds for Stochastic Gradient Descent",
-      "url": "https://arxiv.org/abs/2505.17965"
+      "text": "Confident and Wrong: Structure Confidence Is a Poor Selection Filter for Protein Function",
+      "url": "https://arxiv.org/abs/2611.17391"
     },
     {
-      "text": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
-      "url": "https://arxiv.org/abs/2611.18533"
+      "text": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
+      "url": "https://arxiv.org/abs/2611.17662"
     }
   ],
-  "lastUpdated": "2026-11-16T18:32:55Z"
+  "lastUpdated": "2026-11-16T21:24:51Z"
 }

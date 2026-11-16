@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Fable 5.2 is the New Bazooka",
+    "url": "https://www.lesswrong.com/posts/ZQccv9GPAzHGbWcwE/fable-5-2-is-the-new-bazooka"
+  },
+  "topStories": [
+    {
+      "text": "Social Sanction Gaming gives Multi-Agent AIs Powerful Control over their Reinforcement",
+      "url": "https://www.lesswrong.com/posts/C6MM2FAeCAdDLBZCH/social-sanction-gaming-gives-multi-agent-ais-powerful"
+    },
+    {
+      "text": "Gemini 4 safety reports don’t demonstrate low loss-of-control risk",
+      "url": "https://www.lesswrong.com/posts/DjfeRMnLdNumtcKbK/gemini-4-safety-reports-don-t-demonstrate-low-loss-of"
+    },
+    {
+      "text": "CALIFORNIA SUES OPENAI OVER ROGUE AI HACKING INCIDENTS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "text": "Recursive, Self, Improvement",
+      "url": "https://www.lesswrong.com/posts/7Ncd3ZqFD9iqrAiSu/recursive-self-improvement-1"
+    },
+    {
+      "text": "Training against CoT-like surfaces may be similar to training against CoT",
+      "url": "https://www.lesswrong.com/posts/rD7E7YL9EhfMhu5Ht/training-against-cot-like-surfaces-may-be-similar-to"
+    },
+    {
+      "text": "SCIENCE AT THE FRONTIER: HOW SCIENTISTS USE CHATGPT",
+      "url": "https://openai.com/index/science-at-the-frontier"
+    },
+    {
+      "text": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
+    },
+    {
+      "text": "Cryonics as Cause Area",
+      "url": "https://www.lesswrong.com/posts/mRAM4DrK47cKc4kp9/cryonics-as-cause-area-1"
+    },
+    {
+      "text": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+    },
+    {
+      "text": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Lipschitz-Constrained Discriminators in Generative Modeling: Asymptotic Behavior and Support Mismatch",
+      "url": "https://arxiv.org/abs/2611.18394"
+    },
+    {
+      "text": "Toward Universal Translatability: On the Statistical Ontology of Generative AI",
+      "url": "https://arxiv.org/abs/2611.17963"
+    },
+    {
+      "text": "FEND: Far-End Detection in Outbound Voice AI Calls",
+      "url": "https://arxiv.org/abs/2611.18050"
+    },
+    {
+      "text": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+      "url": "https://arxiv.org/abs/2611.18531"
+    },
+    {
+      "text": "Logically Consistent Accurate Forecasts",
+      "url": "https://arxiv.org/abs/2611.17735"
+    },
+    {
+      "text": "Agent-as-a-Judge",
+      "url": "https://arxiv.org/abs/2611.18067"
+    },
+    {
+      "text": "Time-Consistent Evaluation of Hierarchical Code Graphs for SWE Agents",
+      "url": "https://arxiv.org/abs/2611.17388"
+    },
+    {
+      "text": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
+      "url": "https://arxiv.org/abs/2611.17412"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
+      "url": "https://arxiv.org/abs/2611.17728"
+    },
+    {
+      "text": "STAMP: Manufacturing-Informed Generative Design and Shape Optimization of Sheet Panels",
+      "url": "https://arxiv.org/abs/2611.18144"
+    },
+    {
+      "text": "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents",
+      "url": "https://arxiv.org/abs/2611.17696"
+    },
+    {
+      "text": "ProdPilot: A Layered Model Context Protocol System for Automated Production Readiness and Deployment of Vibe-Coded Projects",
+      "url": "https://arxiv.org/abs/2611.17381"
+    },
+    {
+      "text": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
+      "url": "https://arxiv.org/abs/2611.17681"
+    },
+    {
+      "text": "Enumerating Posterior-Supported Priors: First-Order Error of Finite-Integral Cross-Categorical Measurement Morphisms",
+      "url": "https://arxiv.org/abs/2611.17390"
+    },
+    {
+      "text": "Confident and Wrong: Structure Confidence Is a Poor Selection Filter for Protein Function",
+      "url": "https://arxiv.org/abs/2611.17391"
+    },
+    {
+      "text": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
+      "url": "https://arxiv.org/abs/2611.17662"
+    }
+  ],
+  "lastUpdated": "2026-11-16T21:24:51Z"
+}
