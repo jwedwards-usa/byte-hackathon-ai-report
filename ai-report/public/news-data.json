@@ -5,19 +5,43 @@
   },
   "topStories": [
     {
+      "text": "Gemini 4 safety reports don’t demonstrate low loss-of-control risk",
+      "url": "https://www.lesswrong.com/posts/DjfeRMnLdNumtcKbK/gemini-4-safety-reports-don-t-demonstrate-low-loss-of"
+    },
+    {
       "text": "LVMH Signs Deal to Show Articles From Its 17 News Brands in ChatGPT",
       "url": "https://dailyai.com/2026/11/lvmhs-17-news-brands-strike-a-deal-to-appear-in-chatgpt-answers/"
     },
     {
       "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership"
-    },
-    {
-      "text": "Local LLMs Handle Textbook RAG but Fail on New Research Papers",
-      "url": "https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/"
     }
   ],
   "leftColumn": [
+    {
+      "text": "Recursive, Self, Improvement",
+      "url": "https://www.lesswrong.com/posts/7Ncd3ZqFD9iqrAiSu/recursive-self-improvement-1"
+    },
+    {
+      "text": "Training against CoT-like surfaces may be similar to training against CoT",
+      "url": "https://www.lesswrong.com/posts/rD7E7YL9EhfMhu5Ht/training-against-cot-like-surfaces-may-be-similar-to"
+    },
+    {
+      "text": "SCIENCE AT THE FRONTIER: HOW SCIENTISTS USE CHATGPT",
+      "url": "https://openai.com/index/science-at-the-frontier"
+    },
+    {
+      "text": "Cryonics as Cause Area",
+      "url": "https://www.lesswrong.com/posts/mRAM4DrK47cKc4kp9/cryonics-as-cause-area-1"
+    },
+    {
+      "text": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+    },
+    {
+      "text": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+    },
     {
       "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
       "url": "https://arxiv.org/abs/2611.18114"
@@ -25,99 +49,75 @@
     {
       "text": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
       "url": "https://arxiv.org/abs/2611.18104"
-    },
-    {
-      "text": "THE KING’S TRUST AND OPENAI LAUNCH £1M PARTNERSHIP",
-      "url": "https://openai.com/index/the-kings-trust-and-openai"
-    },
-    {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Why Human in the Loop AI Oversight Fails and How to Fix It",
-      "url": "https://towardsdatascience.com/why-human-in-the-loop-ai-oversight-fails-and-how-to-fix-it/"
-    },
-    {
-      "text": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
-    },
-    {
-      "text": "The Siren Song of the Inside Game",
-      "url": "https://www.lesswrong.com/posts/GSseMxyeJmqQgKQi4/the-siren-song-of-the-inside-game"
-    },
-    {
-      "text": "A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging",
-      "url": "https://arxiv.org/abs/2611.17468"
     }
   ],
   "centerColumn": [
     {
-      "text": "Indic-Task Gains and Regressions after Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.16228"
+      "text": "AI Agents Push Humans Out of the Loop",
+      "url": "https://arxiv.org/abs/2608.23642"
+    },
+    {
+      "text": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+      "url": "https://arxiv.org/abs/2611.18563"
+    },
+    {
+      "text": "Detection Is Not Early Warning: Evaluating Token-Level Alarms on Language Model Failures",
+      "url": "https://arxiv.org/abs/2611.16803"
+    },
+    {
+      "text": "A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space",
+      "url": "https://arxiv.org/abs/2611.18026"
+    },
+    {
+      "text": "Experts Across Schemas: Agent-Guided Mixture-of-Relational-Experts for Cross-Database Generalization",
+      "url": "https://arxiv.org/abs/2611.18315"
+    },
+    {
+      "text": "When evaluation becomes intervention in clinical AI",
+      "url": "https://arxiv.org/abs/2611.18297"
     },
     {
       "text": "Training-point consistency of kernel ridge regression with varying correlation scales",
       "url": "https://arxiv.org/abs/2611.18095"
     },
     {
-      "text": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
-      "url": "https://arxiv.org/abs/2611.12799"
-    },
-    {
-      "text": "Only as Safe as the Weakest Agent: A Break That Appears Only When the System Is Multi-Agent",
-      "url": "https://arxiv.org/abs/2611.17520"
-    },
-    {
-      "text": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-      "url": "https://arxiv.org/abs/2611.10123"
-    },
-    {
       "text": "Muon Attains $\\mathcal{O}(\\varepsilon^{-3})$ Iteration Complexity under Shuffling",
       "url": "https://arxiv.org/abs/2611.18124"
-    },
-    {
-      "text": "Operationalizing Governed Agentic Workflows in Regulated Finance: A Customer Zero Case Study using Zafin AIOS",
-      "url": "https://arxiv.org/abs/2610.33253"
-    },
-    {
-      "text": "Waveform-based pulse timing enhanced by self-supervised neural regression models for digital nuclear instrumentation",
-      "url": "https://arxiv.org/abs/2611.17356"
     }
   ],
   "rightColumn": [
     {
-      "text": "ZONOS3-Mini Technical Report",
-      "url": "https://arxiv.org/abs/2611.16525"
+      "text": "Activation Steering the Nan-Shan in Typhoon",
+      "url": "https://arxiv.org/abs/2611.17768"
     },
     {
-      "text": "Small Is Not Dead: Distance-Aware Cluster Revival for e-means",
-      "url": "https://arxiv.org/abs/2611.18238"
+      "text": "Vision-language models lag human performance on physical dynamics and intent reasoning",
+      "url": "https://arxiv.org/abs/2601.01547"
     },
     {
-      "text": "Neural Classifiers as Error-Correcting Codes",
-      "url": "https://arxiv.org/abs/2611.18239"
+      "text": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
+      "url": "https://arxiv.org/abs/2611.18458"
     },
     {
-      "text": "HyBridge: Bridge-Guided Self-Supervised Hyperbolic Hypergraph Representation Learning",
-      "url": "https://arxiv.org/abs/2611.16351"
+      "text": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
+      "url": "https://arxiv.org/abs/2611.18464"
     },
     {
-      "text": "Right Token, Right Time: From Per-Token Gating to Trajectory-Aware Activation Steering",
-      "url": "https://arxiv.org/abs/2611.18274"
+      "text": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+      "url": "https://arxiv.org/abs/2611.18494"
     },
     {
-      "text": "Clean Tickets, Wrong Orders: Catching Silent Errors with a Language Model in Your Browser Tab",
-      "url": "https://arxiv.org/abs/2611.18284"
+      "text": "Recovering the Euclidean Geometry of High-Dimensional Data Under Heterogeneous Noise",
+      "url": "https://arxiv.org/abs/2507.18520"
     },
     {
-      "text": "DECODE: Decomposable Environments for COntrolled Sequential-Decision Evaluation",
-      "url": "https://arxiv.org/abs/2611.18367"
+      "text": "Bias-Optimal Bounds for Stochastic Gradient Descent",
+      "url": "https://arxiv.org/abs/2505.17965"
     },
     {
-      "text": "TotalSegmentator Aorta Report: Automated Aortic Diameter Measurement at 11 Standardized Landmarks on CT Images",
-      "url": "https://arxiv.org/abs/2611.17968"
+      "text": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+      "url": "https://arxiv.org/abs/2611.18533"
     }
   ],
-  "lastUpdated": "2026-11-16T15:32:17Z"
+  "lastUpdated": "2026-11-16T18:32:55Z"
 }
