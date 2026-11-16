@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
+    "url": "https://www.lesswrong.com/posts/A9o8f2jjwxRiph2ht/what-futures-do-ai-models-want-an-exploratory-character"
+  },
+  "topStories": [
+    {
+      "text": "LLMs are weirdly below chance on TASTE benchmark without a shortcut",
+      "url": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-weirdly-below-chance-on-taste-benchmark-without-a"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science"
+    },
+    {
+      "text": "The great human centipede that is Twitter",
+      "url": "https://www.lesswrong.com/posts/Ctia6zyXF69N3tzhv/the-great-human-centipede-that-is-twitter"
+    },
+    {
+      "text": "Why so many arguments about human nature?",
+      "url": "https://www.lesswrong.com/posts/JoCHxFZDQuBXZAm3t/why-so-many-arguments-about-human-nature"
+    },
+    {
+      "text": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+    },
+    {
+      "text": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+    },
+    {
+      "text": "[low effort post] The Non-extinctionist World",
+      "url": "https://www.lesswrong.com/posts/9KbbXaEwtQiQrAjYW/low-effort-post-the-non-extinctionist-world"
+    },
+    {
+      "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "text": "An exploration of the mathematical implications of a 'Poincaré causal diamond model of hyperbolic static spacetime'",
+      "url": "https://www.lesswrong.com/posts/QvZ5gJSGZnmMH8YzA/an-exploration-of-the-mathematical-implications-of-a"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Waluigi World",
+      "url": "https://www.lesswrong.com/posts/RvBivWJMbeA6trzN5/waluigi-world"
+    },
+    {
+      "text": "Easier To Be Good",
+      "url": "https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good"
+    },
+    {
+      "text": "DailyAI Briefing: Fed survey names AI top financial risk, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-fed-survey-names-ai-top-financial-risk-plus-4-more/"
+    },
+    {
+      "text": "Bayesian Games with Nukes",
+      "url": "https://www.lesswrong.com/posts/b2tRteNzTGbEaDTMN/bayesian-games-with-nukes"
+    },
+    {
+      "text": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+    },
+    {
+      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
+    },
+    {
+      "text": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "text": "datasette 0.65.6",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "datasette-agent 0.6a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
+    },
+    {
+      "text": "How to Build a Markov Chain in Python With NumPy",
+      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
+    },
+    {
+      "text": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/"
+    },
+    {
+      "text": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
+    {
+      "text": "Weight-Only Quantization",
+      "url": "https://machinelearningmastery.com/weight-only-quantization/"
+    },
+    {
+      "text": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+        "alt": "Open-source AI without Jensen",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Artificial Intelligence for the Z80",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80"
+    },
+    {
+      "text": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+    }
+  ],
+  "lastUpdated": "2026-11-16T03:33:58Z"
+}
