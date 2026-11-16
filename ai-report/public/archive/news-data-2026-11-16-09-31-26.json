@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "You can't patch yesterday's AI",
+    "url": "https://www.lesswrong.com/posts/cPw3KoptvXFgRgxbH/you-can-t-patch-yesterday-s-ai"
+  },
+  "topStories": [
+    {
+      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
+      "url": "https://arxiv.org/abs/2611.18114"
+    },
+    {
+      "text": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
+      "url": "https://arxiv.org/abs/2611.18104"
+    },
+    {
+      "text": "ScrapeGraphAI-100k: Dataset for Schema-Constrained LLM Generation",
+      "url": "https://arxiv.org/abs/2602.15189"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "HetCCL: Efficient LLM Training on Heterogeneous Vendor GPUs",
+      "url": "https://arxiv.org/abs/2601.22585"
+    },
+    {
+      "text": "A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging",
+      "url": "https://arxiv.org/abs/2611.17468"
+    },
+    {
+      "text": "From Reading Code to Reading Spec: A Verified Layer for LLM-Driven Codebase Maintenance",
+      "url": "https://arxiv.org/abs/2609.06383"
+    },
+    {
+      "text": "Resolving AdaBoost Cycling with LLMs: A Computer-Assisted Counterexample",
+      "url": "https://arxiv.org/abs/2604.07055"
+    },
+    {
+      "text": "Fair and Efficient Distributed EV Charging Coordination Using Threshold Cryptography and Machine Learning",
+      "url": "https://arxiv.org/abs/2611.17577"
+    },
+    {
+      "text": "Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation",
+      "url": "https://arxiv.org/abs/2611.17629"
+    },
+    {
+      "text": "Accepted but Wrong: Silent Failures of LLM Code Repairs after API Migrations",
+      "url": "https://arxiv.org/abs/2611.08269"
+    },
+    {
+      "text": "LLMs are below chance on TASTE once a shortcut is removed",
+      "url": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-below-chance-on-taste-once-a-shortcut-is-removed"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Tracing 3D Anatomy in 2D Strokes: Can Projection-Derived Masks Replace 3D Segmentation for Cervical Spine Fracture Recognition?",
+      "url": "https://arxiv.org/abs/2601.15235"
+    },
+    {
+      "text": "Analyzing Learning-Dynamics Across Loss and Prediction Choices for Diffusion Models",
+      "url": "https://arxiv.org/abs/2611.17967"
+    },
+    {
+      "text": "See Every Block Once: Variance-Reduced Post-Training for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.17754"
+    },
+    {
+      "text": "Benchmarking AI risk behaviors",
+      "url": "https://arxiv.org/abs/2611.16318"
+    },
+    {
+      "text": "RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation",
+      "url": "https://arxiv.org/abs/2611.18244"
+    },
+    {
+      "text": "Only as Safe as the Weakest Agent: A Break That Appears Only When the System Is Multi-Agent",
+      "url": "https://arxiv.org/abs/2611.17520"
+    },
+    {
+      "text": "Conflict, Feasibility, Faithfulness, Displacement: Four Quantities That Come Apart in Federated Dual-Cone Aggregation",
+      "url": "https://arxiv.org/abs/2611.18014"
+    },
+    {
+      "text": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+      "url": "https://arxiv.org/abs/2611.12762"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MarathonTS: a benchmark of long synthetic time series from window assembly and long-series generators",
+      "url": "https://arxiv.org/abs/2611.18190"
+    },
+    {
+      "text": "T2ST: Data-Efficient Spatio-Temporal Foundation Models via Temporal Data and Knowledge Transfer",
+      "url": "https://arxiv.org/abs/2611.18199"
+    },
+    {
+      "text": "Pluralistic Alignment in Large Language Models: Objectives, Human References, and Preference Representations",
+      "url": "https://arxiv.org/abs/2610.24471"
+    },
+    {
+      "text": "Small Is Not Dead: Distance-Aware Cluster Revival for e-means",
+      "url": "https://arxiv.org/abs/2611.18238"
+    },
+    {
+      "text": "Neural Classifiers as Error-Correcting Codes",
+      "url": "https://arxiv.org/abs/2611.18239"
+    },
+    {
+      "text": "TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU",
+      "url": "https://arxiv.org/abs/2610.24161"
+    },
+    {
+      "text": "Right Token, Right Time: From Per-Token Gating to Trajectory-Aware Activation Steering",
+      "url": "https://arxiv.org/abs/2611.18274"
+    },
+    {
+      "text": "Clean Tickets, Wrong Orders: Catching Silent Errors with a Language Model in Your Browser Tab",
+      "url": "https://arxiv.org/abs/2611.18284"
+    }
+  ],
+  "lastUpdated": "2026-11-16T09:31:26Z"
+}
