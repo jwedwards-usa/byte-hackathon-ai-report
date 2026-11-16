@@ -1,27 +1,23 @@
 {
   "mainHeadline": {
-    "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
-    "url": "https://openai.com/index/lvmh-media-division-partnership"
+    "text": "Social Sanction Gaming gives Multi-Agent AIs Powerful Control over their Reinforcement",
+    "url": "https://www.lesswrong.com/posts/C6MM2FAeCAdDLBZCH/social-sanction-gaming-gives-multi-agent-ais-powerful"
   },
   "topStories": [
     {
+      "text": "LVMH Signs Deal to Show Articles From Its 17 News Brands in ChatGPT",
+      "url": "https://dailyai.com/2026/11/lvmhs-17-news-brands-strike-a-deal-to-appear-in-chatgpt-answers/"
+    },
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
       "text": "Local LLMs Handle Textbook RAG but Fail on New Research Papers",
       "url": "https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/"
-    },
-    {
-      "text": "You can't patch yesterday's AI",
-      "url": "https://www.lesswrong.com/posts/cPw3KoptvXFgRgxbH/you-can-t-patch-yesterday-s-ai"
-    },
-    {
-      "text": "The Siren Song of the Inside Game",
-      "url": "https://www.lesswrong.com/posts/GSseMxyeJmqQgKQi4/the-siren-song-of-the-inside-game"
     }
   ],
   "leftColumn": [
-    {
-      "text": "David Duvenaud on Post-AGI Futures",
-      "url": "https://www.lesswrong.com/posts/imSaXjysZuAbNuLya/david-duvenaud-on-post-agi-futures"
-    },
     {
       "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
       "url": "https://arxiv.org/abs/2611.18114"
@@ -39,68 +35,60 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Fair and Efficient Distributed EV Charging Coordination Using Threshold Cryptography and Machine Learning",
-      "url": "https://arxiv.org/abs/2611.17577"
+      "text": "Why Human in the Loop AI Oversight Fails and How to Fix It",
+      "url": "https://towardsdatascience.com/why-human-in-the-loop-ai-oversight-fails-and-how-to-fix-it/"
     },
     {
-      "text": "From Reading Code to Reading Spec: A Verified Layer for LLM-Driven Codebase Maintenance",
-      "url": "https://arxiv.org/abs/2609.06383"
+      "text": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
     },
     {
-      "text": "Resolving AdaBoost Cycling with LLMs: A Computer-Assisted Counterexample",
-      "url": "https://arxiv.org/abs/2604.07055"
+      "text": "The Siren Song of the Inside Game",
+      "url": "https://www.lesswrong.com/posts/GSseMxyeJmqQgKQi4/the-siren-song-of-the-inside-game"
+    },
+    {
+      "text": "A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging",
+      "url": "https://arxiv.org/abs/2611.17468"
     }
   ],
   "centerColumn": [
     {
-      "text": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "url": "https://arxiv.org/abs/2611.17610"
+      "text": "Indic-Task Gains and Regressions after Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.16228"
     },
     {
-      "text": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
-      "url": "https://arxiv.org/abs/2611.18563"
+      "text": "Training-point consistency of kernel ridge regression with varying correlation scales",
+      "url": "https://arxiv.org/abs/2611.18095"
     },
     {
-      "text": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
-      "url": "https://arxiv.org/abs/2611.18493"
+      "text": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
+      "url": "https://arxiv.org/abs/2611.12799"
     },
     {
       "text": "Only as Safe as the Weakest Agent: A Break That Appears Only When the System Is Multi-Agent",
       "url": "https://arxiv.org/abs/2611.17520"
     },
     {
-      "text": "Lipschitz-Constrained Discriminators in Generative Modeling: Asymptotic Behavior and Support Mismatch",
-      "url": "https://arxiv.org/abs/2611.18394"
+      "text": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+      "url": "https://arxiv.org/abs/2611.10123"
     },
     {
-      "text": "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",
-      "url": "https://arxiv.org/abs/2604.14586"
+      "text": "Muon Attains $\\mathcal{O}(\\varepsilon^{-3})$ Iteration Complexity under Shuffling",
+      "url": "https://arxiv.org/abs/2611.18124"
     },
     {
-      "text": "Structure makes quantum circuits trainable",
-      "url": "https://arxiv.org/abs/2611.18378"
+      "text": "Operationalizing Governed Agentic Workflows in Regulated Finance: A Customer Zero Case Study using Zafin AIOS",
+      "url": "https://arxiv.org/abs/2610.33253"
     },
     {
-      "text": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
-      "url": "https://arxiv.org/abs/2611.18372"
+      "text": "Waveform-based pulse timing enhanced by self-supervised neural regression models for digital nuclear instrumentation",
+      "url": "https://arxiv.org/abs/2611.17356"
     }
   ],
   "rightColumn": [
     {
-      "text": "On the Limits of Sufficient Explanations",
-      "url": "https://arxiv.org/abs/2611.18163"
-    },
-    {
-      "text": "MarathonTS: a benchmark of long synthetic time series from window assembly and long-series generators",
-      "url": "https://arxiv.org/abs/2611.18190"
-    },
-    {
-      "text": "T2ST: Data-Efficient Spatio-Temporal Foundation Models via Temporal Data and Knowledge Transfer",
-      "url": "https://arxiv.org/abs/2611.18199"
-    },
-    {
-      "text": "FlashSampling: Fast and Memory-Efficient Exact Sampling",
-      "url": "https://arxiv.org/abs/2603.15854"
+      "text": "ZONOS3-Mini Technical Report",
+      "url": "https://arxiv.org/abs/2611.16525"
     },
     {
       "text": "Small Is Not Dead: Distance-Aware Cluster Revival for e-means",
@@ -111,13 +99,25 @@
       "url": "https://arxiv.org/abs/2611.18239"
     },
     {
-      "text": "ViroGym: Realistic Large-Scale Benchmarks for Evaluating Viral Proteins",
-      "url": "https://arxiv.org/abs/2603.06740"
+      "text": "HyBridge: Bridge-Guided Self-Supervised Hyperbolic Hypergraph Representation Learning",
+      "url": "https://arxiv.org/abs/2611.16351"
     },
     {
       "text": "Right Token, Right Time: From Per-Token Gating to Trajectory-Aware Activation Steering",
       "url": "https://arxiv.org/abs/2611.18274"
+    },
+    {
+      "text": "Clean Tickets, Wrong Orders: Catching Silent Errors with a Language Model in Your Browser Tab",
+      "url": "https://arxiv.org/abs/2611.18284"
+    },
+    {
+      "text": "DECODE: Decomposable Environments for COntrolled Sequential-Decision Evaluation",
+      "url": "https://arxiv.org/abs/2611.18367"
+    },
+    {
+      "text": "TotalSegmentator Aorta Report: Automated Aortic Diameter Measurement at 11 Standardized Landmarks on CT Images",
+      "url": "https://arxiv.org/abs/2611.17968"
     }
   ],
-  "lastUpdated": "2026-11-16T12:34:28Z"
+  "lastUpdated": "2026-11-16T15:32:17Z"
 }
