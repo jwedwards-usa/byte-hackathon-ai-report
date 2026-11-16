@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
+    "url": "https://www.lesswrong.com/posts/A9o8f2jjwxRiph2ht/what-futures-do-ai-models-want-an-exploratory-character"
+  },
+  "topStories": [
+    {
+      "text": "LLMs are weirdly below chance on TASTE without a shortcut",
+      "url": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-weirdly-below-chance-on-taste-without-a-shortcut"
+    },
+    {
+      "text": "Where are the adults in AI safety? ",
+      "url": "https://www.lesswrong.com/posts/iymi7FSdnbRAAn8To/where-are-the-adults-in-ai-safety"
+    },
+    {
+      "text": "Alignment 'train/test splits' should be sacred",
+      "url": "https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+    },
+    {
+      "text": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science"
+    },
+    {
+      "text": "[low effort post] The Non-extinctionist World",
+      "url": "https://www.lesswrong.com/posts/9KbbXaEwtQiQrAjYW/low-effort-post-the-non-extinctionist-world"
+    },
+    {
+      "text": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "text": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "text": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/"
+    },
+    {
+      "text": "Magic: The Gathering is getting a Netflix series",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Giving Up on Saving the World",
+      "url": "https://www.lesswrong.com/posts/hvDpcoLqpHvQEmx8B/giving-up-on-saving-the-world"
+    },
+    {
+      "text": "Easier To Be Good",
+      "url": "https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good"
+    },
+    {
+      "text": "DailyAI Briefing: Fed survey names AI top financial risk, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-fed-survey-names-ai-top-financial-risk-plus-4-more/"
+    },
+    {
+      "text": "Bayesian Games with Nukes",
+      "url": "https://www.lesswrong.com/posts/b2tRteNzTGbEaDTMN/bayesian-games-with-nukes"
+    },
+    {
+      "text": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+    },
+    {
+      "text": "DailyAI Briefing: Chinese AI tied to banned Nvidia chips, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-chinese-ai-tied-to-banned-nvidia-chips-plus-4-more/"
+    },
+    {
+      "text": "datasette 0.65.6",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
+    },
+    {
+      "text": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    },
+    {
+      "text": "How to Build a Markov Chain in Python With NumPy",
+      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/"
+    },
+    {
+      "text": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/"
+    },
+    {
+      "text": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
+    {
+      "text": "Weight-Only Quantization",
+      "url": "https://machinelearningmastery.com/weight-only-quantization/"
+    },
+    {
+      "text": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "image": {
+        "src": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+        "alt": "Open-source AI without Jensen",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
+      "url": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/"
+    },
+    {
+      "text": "Computing Effective Dimension for Quantum ML Models in PyTorch",
+      "url": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/"
+    }
+  ],
+  "lastUpdated": "2026-11-16T00:54:20Z"
+}
