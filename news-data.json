@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
-      "text": "Using AI to solve most of alignment is a fundamentally doomed approach: an intuition",
-      "url": "https://www.lesswrong.com/posts/b6GpdJb6QLZTQGhpr/using-ai-to-solve-most-of-alignment-is-a-fundamentally"
+      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
+      "url": "https://arxiv.org/abs/2611.18114"
     },
     {
       "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership"
     },
     {
-      "text": "California State Politics AI Safety Overview",
-      "url": "https://www.lesswrong.com/posts/qNivEw2dxrFvNSPWi/california-state-politics-ai-safety-overview"
+      "text": "Accepted but Wrong: Silent Failures of LLM Code Repairs after API Migrations",
+      "url": "https://arxiv.org/abs/2611.08269"
     }
   ],
   "leftColumn": [
     {
-      "text": "The case against smoking (decision theory)",
-      "url": "https://www.lesswrong.com/posts/mP3rzhMthKpfYa7Ss/the-case-against-smoking-decision-theory"
+      "text": "ScrapeGraphAI-100k: Dataset for Schema-Constrained LLM Generation",
+      "url": "https://arxiv.org/abs/2602.15189"
+    },
+    {
+      "text": "Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation",
+      "url": "https://arxiv.org/abs/2611.17629"
+    },
+    {
+      "text": "California State Politics AI Safety Overview",
+      "url": "https://www.lesswrong.com/posts/qNivEw2dxrFvNSPWi/california-state-politics-ai-safety-overview"
     },
     {
       "text": "SCIENCE AT THE FRONTIER: HOW SCIENTISTS USE CHATGPT",
       "url": "https://openai.com/index/science-at-the-frontier"
     },
     {
-      "text": "A closer look at “Sparks of Weight-Space Programming”",
-      "url": "https://www.lesswrong.com/posts/PD8Hmzro4N3piJSMP/a-closer-look-at-sparks-of-weight-space-programming"
+      "text": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "url": "https://arxiv.org/abs/2611.17515"
     },
     {
-      "text": "LVMH Signs Deal to Show Articles From Its 17 News Brands in ChatGPT",
-      "url": "https://dailyai.com/2026/11/lvmhs-17-news-brands-strike-a-deal-to-appear-in-chatgpt-answers/"
+      "text": "AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling",
+      "url": "https://arxiv.org/abs/2611.08752"
     },
     {
-      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
-      "url": "https://arxiv.org/abs/2611.18114"
+      "text": "From Chats to Markets: AgenticPay for LLM-Powered Negotiation in Multi-Agent Commerce",
+      "url": "https://arxiv.org/abs/2602.06008"
     },
     {
-      "text": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
-      "url": "https://arxiv.org/abs/2611.18104"
-    },
-    {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Thoughts on \"safety bad bc warning shots good\"",
-      "url": "https://www.lesswrong.com/posts/qJrhEoNbzKRQYhybh/thoughts-on-safety-bad-bc-warning-shots-good"
+      "text": "Can Large Language Models Optimize Pretrained Neural Network Weights? A Multi-Phase Empirical Evaluation of Gradient-Free Editing in YOLO26 Object Detection",
+      "url": "https://arxiv.org/abs/2611.17789"
     }
   ],
   "centerColumn": [
     {
-      "text": "Indic-Task Gains and Regressions after Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.16228"
+      "text": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
+      "url": "https://arxiv.org/abs/2611.18439"
     },
     {
-      "text": "From Bytes to Behavior: Request-Level Attribution from Live GPU Hidden States",
-      "url": "https://arxiv.org/abs/2611.18272"
+      "text": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+      "url": "https://arxiv.org/abs/2611.18531"
+    },
+    {
+      "text": "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",
+      "url": "https://arxiv.org/abs/2604.14586"
+    },
+    {
+      "text": "Pruning Extensions and Efficiency Trade-Offs for Sustainable Time Series Classification",
+      "url": "https://arxiv.org/abs/2604.07953"
+    },
+    {
+      "text": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2610.21025"
+    },
+    {
+      "text": "FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI",
+      "url": "https://arxiv.org/abs/2610.24349"
+    },
+    {
+      "text": "E0: Expressive Fine-Grained Discrete Action Prediction for Vision-Language-Action Models via Tweedie Discrete Diffusion",
+      "url": "https://arxiv.org/abs/2511.21542"
     },
     {
       "text": "CoTTAGE: An Explainable Judge for Text-to-Audio Generation",
       "url": "https://arxiv.org/abs/2611.17644"
-    },
-    {
-      "text": "Conflict, Feasibility, Faithfulness, Displacement: Four Quantities That Come Apart in Federated Dual-Cone Aggregation",
-      "url": "https://arxiv.org/abs/2611.18014"
-    },
-    {
-      "text": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-      "url": "https://arxiv.org/abs/2611.10123"
-    },
-    {
-      "text": "AI for Parameter Selection in Sample-based Quantum Diagonalization",
-      "url": "https://arxiv.org/abs/2611.18307"
-    },
-    {
-      "text": "NaijaFacts: A Framework for Disentangling Language from Knowledge in Facts about Nigeria",
-      "url": "https://arxiv.org/abs/2611.06504"
-    },
-    {
-      "text": "Detection Is Not Early Warning: Evaluating Token-Level Alarms on Language Model Failures",
-      "url": "https://arxiv.org/abs/2611.16803"
     }
   ],
   "rightColumn": [
     {
-      "text": "Robustness Evaluation of GPU Cloud Pricing Benchmarks under Incomplete Observations: A Controlled Missingness Study",
-      "url": "https://arxiv.org/abs/2611.17796"
+      "text": "DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery",
+      "url": "https://arxiv.org/abs/2611.17878"
     },
     {
-      "text": "AmbiSteer: Selectively Eliciting Ambiguity-Aware Responses in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.17900"
+      "text": "Active Learning of Temporal Specifications through Distinguishing Queries",
+      "url": "https://arxiv.org/abs/2611.17866"
     },
     {
-      "text": "Securing Multi-Agent Systems by Design",
-      "url": "https://arxiv.org/abs/2611.17883"
+      "text": "SceneAgent: A Multi-Agent Framework for Portable Game Scene Generation",
+      "url": "https://arxiv.org/abs/2611.17821"
     },
     {
-      "text": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
-      "url": "https://arxiv.org/abs/2611.17460"
+      "text": "Multimodal Person Concept Model for Person Identification under Varying Observation Conditions",
+      "url": "https://arxiv.org/abs/2611.17802"
     },
     {
-      "text": "Interactive Program Induction with Language Model Priors",
-      "url": "https://arxiv.org/abs/2611.18485"
+      "text": "LEGAL-UQA: Testing Constitutional Question-Answering Systems for Urdu Speakers with a Parallel English-Urdu Benchmark",
+      "url": "https://arxiv.org/abs/2410.13013"
     },
     {
-      "text": "LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect",
-      "url": "https://arxiv.org/abs/2611.18412"
+      "text": "Towards Seconds-level Video Representation: Quadratically Gated Feature Grid with Adaptive, Prediction-free Sampling",
+      "url": "https://arxiv.org/abs/2611.17786"
     },
     {
-      "text": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
-      "url": "https://arxiv.org/abs/2611.18397"
+      "text": "Activation Steering the Nan-Shan in Typhoon",
+      "url": "https://arxiv.org/abs/2611.17768"
     },
     {
-      "text": "Learning Word-Level Explanations of Text Reuse in Latin Literature with Little Annotation",
-      "url": "https://arxiv.org/abs/2611.18319"
+      "text": "Graph Your Own Prompt",
+      "url": "https://arxiv.org/abs/2509.23373"
     }
   ],
-  "lastUpdated": "2026-11-17T03:28:25Z"
+  "lastUpdated": "2026-11-17T06:35:55Z"
 }
