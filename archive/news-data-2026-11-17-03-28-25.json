@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "The AI consciousness debate is a red herring",
+    "url": "https://www.lesswrong.com/posts/i76GuXDvGcbC7oWcb/the-ai-consciousness-debate-is-a-red-herring"
+  },
+  "topStories": [
+    {
+      "text": "Using AI to solve most of alignment is a fundamentally doomed approach: an intuition",
+      "url": "https://www.lesswrong.com/posts/b6GpdJb6QLZTQGhpr/using-ai-to-solve-most-of-alignment-is-a-fundamentally"
+    },
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "text": "California State Politics AI Safety Overview",
+      "url": "https://www.lesswrong.com/posts/qNivEw2dxrFvNSPWi/california-state-politics-ai-safety-overview"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "The case against smoking (decision theory)",
+      "url": "https://www.lesswrong.com/posts/mP3rzhMthKpfYa7Ss/the-case-against-smoking-decision-theory"
+    },
+    {
+      "text": "SCIENCE AT THE FRONTIER: HOW SCIENTISTS USE CHATGPT",
+      "url": "https://openai.com/index/science-at-the-frontier"
+    },
+    {
+      "text": "A closer look at “Sparks of Weight-Space Programming”",
+      "url": "https://www.lesswrong.com/posts/PD8Hmzro4N3piJSMP/a-closer-look-at-sparks-of-weight-space-programming"
+    },
+    {
+      "text": "LVMH Signs Deal to Show Articles From Its 17 News Brands in ChatGPT",
+      "url": "https://dailyai.com/2026/11/lvmhs-17-news-brands-strike-a-deal-to-appear-in-chatgpt-answers/"
+    },
+    {
+      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
+      "url": "https://arxiv.org/abs/2611.18114"
+    },
+    {
+      "text": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
+      "url": "https://arxiv.org/abs/2611.18104"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Thoughts on \"safety bad bc warning shots good\"",
+      "url": "https://www.lesswrong.com/posts/qJrhEoNbzKRQYhybh/thoughts-on-safety-bad-bc-warning-shots-good"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Indic-Task Gains and Regressions after Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.16228"
+    },
+    {
+      "text": "From Bytes to Behavior: Request-Level Attribution from Live GPU Hidden States",
+      "url": "https://arxiv.org/abs/2611.18272"
+    },
+    {
+      "text": "CoTTAGE: An Explainable Judge for Text-to-Audio Generation",
+      "url": "https://arxiv.org/abs/2611.17644"
+    },
+    {
+      "text": "Conflict, Feasibility, Faithfulness, Displacement: Four Quantities That Come Apart in Federated Dual-Cone Aggregation",
+      "url": "https://arxiv.org/abs/2611.18014"
+    },
+    {
+      "text": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+      "url": "https://arxiv.org/abs/2611.10123"
+    },
+    {
+      "text": "AI for Parameter Selection in Sample-based Quantum Diagonalization",
+      "url": "https://arxiv.org/abs/2611.18307"
+    },
+    {
+      "text": "NaijaFacts: A Framework for Disentangling Language from Knowledge in Facts about Nigeria",
+      "url": "https://arxiv.org/abs/2611.06504"
+    },
+    {
+      "text": "Detection Is Not Early Warning: Evaluating Token-Level Alarms on Language Model Failures",
+      "url": "https://arxiv.org/abs/2611.16803"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Robustness Evaluation of GPU Cloud Pricing Benchmarks under Incomplete Observations: A Controlled Missingness Study",
+      "url": "https://arxiv.org/abs/2611.17796"
+    },
+    {
+      "text": "AmbiSteer: Selectively Eliciting Ambiguity-Aware Responses in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.17900"
+    },
+    {
+      "text": "Securing Multi-Agent Systems by Design",
+      "url": "https://arxiv.org/abs/2611.17883"
+    },
+    {
+      "text": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+      "url": "https://arxiv.org/abs/2611.17460"
+    },
+    {
+      "text": "Interactive Program Induction with Language Model Priors",
+      "url": "https://arxiv.org/abs/2611.18485"
+    },
+    {
+      "text": "LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect",
+      "url": "https://arxiv.org/abs/2611.18412"
+    },
+    {
+      "text": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "url": "https://arxiv.org/abs/2611.18397"
+    },
+    {
+      "text": "Learning Word-Level Explanations of Text Reuse in Latin Literature with Little Annotation",
+      "url": "https://arxiv.org/abs/2611.18319"
+    }
+  ],
+  "lastUpdated": "2026-11-17T03:28:25Z"
+}
