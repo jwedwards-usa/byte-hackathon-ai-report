@@ -1,20 +1,20 @@
 {
   "mainHeadline": {
-    "text": "Fable 5.2 is the New Bazooka",
-    "url": "https://www.lesswrong.com/posts/ZQccv9GPAzHGbWcwE/fable-5-2-is-the-new-bazooka"
+    "text": "The AI consciousness debate is a red herring",
+    "url": "https://www.lesswrong.com/posts/i76GuXDvGcbC7oWcb/the-ai-consciousness-debate-is-a-red-herring"
   },
   "topStories": [
     {
-      "text": "Social Sanction Gaming gives Multi-Agent AIs Powerful Control over their Reinforcement",
-      "url": "https://www.lesswrong.com/posts/C6MM2FAeCAdDLBZCH/social-sanction-gaming-gives-multi-agent-ais-powerful"
+      "text": "The case against smoking (decision theory)",
+      "url": "https://www.lesswrong.com/posts/mP3rzhMthKpfYa7Ss/the-case-against-smoking-decision-theory"
     },
     {
-      "text": "Gemini 4 safety reports don’t demonstrate low loss-of-control risk",
-      "url": "https://www.lesswrong.com/posts/DjfeRMnLdNumtcKbK/gemini-4-safety-reports-don-t-demonstrate-low-loss-of"
+      "text": "Using AI to solve most of alignment is a fundamentally doomed approach: an intuition",
+      "url": "https://www.lesswrong.com/posts/b6GpdJb6QLZTQGhpr/using-ai-to-solve-most-of-alignment-is-a-fundamentally"
     },
     {
-      "text": "CALIFORNIA SUES OPENAI OVER ROGUE AI HACKING INCIDENTS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+      "text": "Fable 5.2 is the New Bazooka",
+      "url": "https://www.lesswrong.com/posts/ZQccv9GPAzHGbWcwE/fable-5-2-is-the-new-bazooka"
     }
   ],
   "leftColumn": [
@@ -23,101 +23,101 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership"
     },
     {
-      "text": "Recursive, Self, Improvement",
-      "url": "https://www.lesswrong.com/posts/7Ncd3ZqFD9iqrAiSu/recursive-self-improvement-1"
-    },
-    {
-      "text": "Training against CoT-like surfaces may be similar to training against CoT",
-      "url": "https://www.lesswrong.com/posts/rD7E7YL9EhfMhu5Ht/training-against-cot-like-surfaces-may-be-similar-to"
-    },
-    {
       "text": "SCIENCE AT THE FRONTIER: HOW SCIENTISTS USE CHATGPT",
       "url": "https://openai.com/index/science-at-the-frontier"
+    },
+    {
+      "text": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/"
+    },
+    {
+      "text": "CALIFORNIA SUES OPENAI OVER ROGUE AI HACKING INCIDENTS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
     },
     {
       "text": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
       "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
     },
     {
-      "text": "Cryonics as Cause Area",
-      "url": "https://www.lesswrong.com/posts/mRAM4DrK47cKc4kp9/cryonics-as-cause-area-1"
+      "text": "LVMH Signs Deal to Show Articles From Its 17 News Brands in ChatGPT",
+      "url": "https://dailyai.com/2026/11/lvmhs-17-news-brands-strike-a-deal-to-appear-in-chatgpt-answers/"
     },
     {
-      "text": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+      "text": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
+      "url": "https://arxiv.org/abs/2611.18104"
     },
     {
-      "text": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
+      "url": "https://arxiv.org/abs/2611.18114"
     }
   ],
   "centerColumn": [
     {
-      "text": "Lipschitz-Constrained Discriminators in Generative Modeling: Asymptotic Behavior and Support Mismatch",
-      "url": "https://arxiv.org/abs/2611.18394"
-    },
-    {
-      "text": "Toward Universal Translatability: On the Statistical Ontology of Generative AI",
-      "url": "https://arxiv.org/abs/2611.17963"
-    },
-    {
-      "text": "FEND: Far-End Detection in Outbound Voice AI Calls",
-      "url": "https://arxiv.org/abs/2611.18050"
-    },
-    {
-      "text": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-      "url": "https://arxiv.org/abs/2611.18531"
-    },
-    {
-      "text": "Logically Consistent Accurate Forecasts",
-      "url": "https://arxiv.org/abs/2611.17735"
-    },
-    {
-      "text": "Agent-as-a-Judge",
-      "url": "https://arxiv.org/abs/2611.18067"
+      "text": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+      "url": "https://arxiv.org/abs/2611.18563"
     },
     {
       "text": "Time-Consistent Evaluation of Hierarchical Code Graphs for SWE Agents",
       "url": "https://arxiv.org/abs/2611.17388"
     },
     {
-      "text": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
-      "url": "https://arxiv.org/abs/2611.17412"
+      "text": "Curvature-Aware Edge Dynamic GNNs for Low-$p_T$ Track Reconstruction at HL-LHC",
+      "url": "https://arxiv.org/abs/2611.17343"
+    },
+    {
+      "text": "Tracing Uncertainties of Extreme El Ni\\~{n}o Prediction to Mesoscale Ocean Currents",
+      "url": "https://arxiv.org/abs/2611.17854"
+    },
+    {
+      "text": "In the Eye of the Beholder: Human Label Variation in Textual and Visual Entailment",
+      "url": "https://arxiv.org/abs/2611.17954"
+    },
+    {
+      "text": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
+      "url": "https://arxiv.org/abs/2611.17398"
+    },
+    {
+      "text": "Toward Universal Translatability: On the Statistical Ontology of Generative AI",
+      "url": "https://arxiv.org/abs/2611.17963"
+    },
+    {
+      "text": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "url": "https://arxiv.org/abs/2611.17539"
     }
   ],
   "rightColumn": [
     {
-      "text": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
-      "url": "https://arxiv.org/abs/2611.17728"
+      "text": "FlashSampling: Fast and Memory-Efficient Exact Sampling",
+      "url": "https://arxiv.org/abs/2603.15854"
     },
     {
-      "text": "STAMP: Manufacturing-Informed Generative Design and Shape Optimization of Sheet Panels",
-      "url": "https://arxiv.org/abs/2611.18144"
+      "text": "Sample-efficient prediction of high-entropy alloy strength through outcome-aware robust sequential learning",
+      "url": "https://arxiv.org/abs/2611.18462"
     },
     {
-      "text": "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents",
-      "url": "https://arxiv.org/abs/2611.17696"
+      "text": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
+      "url": "https://arxiv.org/abs/2611.18507"
     },
     {
-      "text": "ProdPilot: A Layered Model Context Protocol System for Automated Production Readiness and Deployment of Vibe-Coded Projects",
-      "url": "https://arxiv.org/abs/2611.17381"
+      "text": "Agent-written heuristics versus commercial solvers on unsolved job-shop benchmark instances",
+      "url": "https://arxiv.org/abs/2611.17682"
     },
     {
-      "text": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
-      "url": "https://arxiv.org/abs/2611.17681"
+      "text": "ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression",
+      "url": "https://arxiv.org/abs/2602.11008"
     },
     {
-      "text": "Enumerating Posterior-Supported Priors: First-Order Error of Finite-Integral Cross-Categorical Measurement Morphisms",
-      "url": "https://arxiv.org/abs/2611.17390"
+      "text": "HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities",
+      "url": "https://arxiv.org/abs/2510.12200"
     },
     {
-      "text": "Confident and Wrong: Structure Confidence Is a Poor Selection Filter for Protein Function",
-      "url": "https://arxiv.org/abs/2611.17391"
+      "text": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+      "url": "https://arxiv.org/abs/2611.17460"
     },
     {
-      "text": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
-      "url": "https://arxiv.org/abs/2611.17662"
+      "text": "Unsupervised Anomaly Detection in Measured Neutron Flux Profiles of the SAFARI-1 Research Reactor",
+      "url": "https://arxiv.org/abs/2611.17351"
     }
   ],
-  "lastUpdated": "2026-11-16T21:24:51Z"
+  "lastUpdated": "2026-11-17T00:45:58Z"
 }
