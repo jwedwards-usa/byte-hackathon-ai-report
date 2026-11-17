@@ -1,7 +1,7 @@
 {
   "mainHeadline": {
-    "text": "Jensen Huang Really Liked Selling China Advanced AI Chips",
-    "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips"
+    "text": "A lab employee's guide to raising concerns",
+    "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
   },
   "topStories": [
     {
@@ -9,8 +9,8 @@
       "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
     },
     {
-      "text": "Making sense of Recursive Self Improvement",
-      "url": "https://www.lesswrong.com/posts/aPc93AWibTygEbRTh/making-sense-of-recursive-self-improvement"
+      "text": "The Natural Alliance of Everyone Else",
+      "url": "https://www.lesswrong.com/posts/FqbKvFFsK2quvrMF5/the-natural-alliance-of-everyone-else"
     },
     {
       "text": "Why do AIFP forecasters disagree so much on the gap between SARs and TED-AIs?",
@@ -23,12 +23,16 @@
       "url": "https://arxiv.org/abs/2506.02479"
     },
     {
-      "text": "AI models tell anxious renters less directly that new apartments lower rents",
-      "url": "https://www.lesswrong.com/posts/Czsa9a9mnDb6WwXhw/ai-models-tell-anxious-renters-less-directly-that-new"
+      "text": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
     },
     {
-      "text": "Emergent and Conditional Misalignment in LLM Planner Agents",
-      "url": "https://www.lesswrong.com/posts/qtZjBtuMgyvbTwtmF/emergent-and-conditional-misalignment-in-llm-planner-agents"
+      "text": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+      "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips"
+    },
+    {
+      "text": "Making sense of Recursive Self Improvement",
+      "url": "https://www.lesswrong.com/posts/aPc93AWibTygEbRTh/making-sense-of-recursive-self-improvement"
     },
     {
       "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
@@ -39,85 +43,81 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership"
     },
     {
-      "text": "OPENAI LETS 4 OUTSIDE LABS INSPECT ITS MODELS ON SITE",
-      "url": "https://dailyai.com/2026/11/openai-lets-4-outside-labs-inspect-its-models-on-site/"
+      "text": "Tracing Feature Circuits",
+      "url": "https://www.lesswrong.com/posts/emdBsH3jAyarqM5JD/tracing-feature-circuits"
     },
     {
-      "text": "AI safety should outsource more work",
-      "url": "https://www.lesswrong.com/posts/e7xGEYEHBgadD9Rzy/ai-safety-should-outsource-more-work"
-    },
-    {
-      "text": "Parkinson's Disease Freezing of Gait (FoG) Symptom Detection Using Machine Learning from Wearable Sensor Data",
-      "url": "https://arxiv.org/abs/2506.12561"
+      "text": "Deep Learning for Physicists: From Linear Regression to Reasoning Models",
+      "url": "https://arxiv.org/abs/2611.21295"
     }
   ],
   "centerColumn": [
     {
-      "text": "CRFCAN: A Complex-Valued Cross-Domain Residual Network for Joint Channel and Phase Noise Estimation in Sub-THz OFDM Systems",
-      "url": "https://arxiv.org/abs/2609.12244"
+      "text": "CONTEXT-PCa: Evaluating the role of clinical context in MRI-based AI for detecting clinically significant prostate cancer (study protocol)",
+      "url": "https://arxiv.org/abs/2611.19082"
+    },
+    {
+      "text": "Linglong Agent Service: A Runtime for Centralized Agent Reasoning and Distributed Execution",
+      "url": "https://arxiv.org/abs/2611.21129"
     },
     {
       "text": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
       "url": "https://arxiv.org/abs/2611.18971"
     },
     {
-      "text": "Quantum Computing-Based Wasserstein Generative Adversarial Networks for Airfoil Parameterization",
-      "url": "https://arxiv.org/abs/2611.20602"
-    },
-    {
       "text": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
       "url": "https://arxiv.org/abs/2611.18958"
     },
     {
-      "text": "ONAM: Fitting Orthogonal Neural Additive Models for Post-Hoc Interpretability of Black-Box Predictions",
-      "url": "https://arxiv.org/abs/2611.21550"
+      "text": "Scientific Coding with Large Language Models: Evidence from Finite Element Analysis",
+      "url": "https://arxiv.org/abs/2611.21176"
     },
     {
-      "text": "ViSAR: Training-Free Adaptive-$k$ Retrieval for Document Visual Question Answering",
-      "url": "https://arxiv.org/abs/2609.02486"
+      "text": "RubricReviewer: From Direct Critique to Rubric-Driven Review via Agentic Evidence Synthesis and Human-Aligned Generation",
+      "url": "https://arxiv.org/abs/2608.00005"
     },
     {
-      "text": "Tensorized Automata: Algebraically Informed Representation Learning for Sequential Decision Making",
-      "url": "https://arxiv.org/abs/2611.21514"
+      "text": "Agent-Native by Design: A Programming Language for Agentic Applications",
+      "url": "https://arxiv.org/abs/2611.21298"
     },
     {
-      "text": "Agent Authenticator: Passkey-Grade, Hardware-Bound Authentication for AI Agents",
-      "url": "https://arxiv.org/abs/2611.19536"
+      "text": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
+      "url": "https://arxiv.org/abs/2611.21584"
     }
   ],
   "rightColumn": [
     {
-      "text": "HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields",
-      "url": "https://arxiv.org/abs/2611.20368"
+      "text": "Variationally correct physics-informed operator learning for nonlinear partial differential equations",
+      "url": "https://arxiv.org/abs/2611.21469"
     },
     {
-      "text": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
-      "url": "https://arxiv.org/abs/2611.17048"
+      "text": "Calibrated Functional Prediction from Overlapping Nonlinear Observations",
+      "url": "https://arxiv.org/abs/2611.20567"
     },
     {
-      "text": "Intrinsic Attention as Navigator: A Non-Generative Retrieval Method for Multi-Hop Queries",
-      "url": "https://arxiv.org/abs/2611.18617"
+      "text": "Memory-Efficient Speculative Decoding with Quantized Draft KV Cache",
+      "url": "https://arxiv.org/abs/2611.20565"
     },
     {
-      "text": "Reframing Video Inverse Tone Mapping as Blind Posterior Inference via Latent Luminance Supervision",
-      "url": "https://arxiv.org/abs/2611.15146"
+      "text": "One-Shot Calibration via Model Editing",
+      "url": "https://arxiv.org/abs/2611.20562"
     },
     {
-      "text": "Typed Knowledge over Constructive Institutions: A Proof-Relevant Type Theory for Verified Science",
-      "url": "https://arxiv.org/abs/2611.15108"
+      "text": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+      "url": "https://arxiv.org/abs/2611.12942"
     },
     {
-      "text": "Perceived Agency During Agent-Avatar Control Transitions in Virtual Reality",
-      "url": "https://arxiv.org/abs/2611.12529"
+      "text": "How many sorted projections determine any n points in k dimensions?",
+      "url": "https://arxiv.org/abs/2611.06470"
     },
     {
-      "text": "MARS: Multiscale Appearance-Residual Streams for Video Forgery Detection",
-      "url": "https://arxiv.org/abs/2611.12508"
+      "text": "Hilbert States for Decision-Making under Partial Observability",
+      "url": "https://arxiv.org/abs/2611.20970"
     },
     {
-      "text": "RGFC: Registry Grounded Function Calling with stage-decomposed evaluation",
-      "url": "https://arxiv.org/abs/2611.18622"
+      "text": "Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions",
+      "url": "https://arxiv.org/abs/2611.20472"
     }
   ],
-  "lastUpdated": "2026-11-17T15:25:08Z"
+  "lastUpdated": "2026-11-17T18:32:25Z"
 }
