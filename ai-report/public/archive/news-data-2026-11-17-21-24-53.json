@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+    "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+  },
+  "topStories": [
+    {
+      "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
+      "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+    },
+    {
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
+    },
+    {
+      "text": "DailyAI Briefing: GPT-6.2 Astra and Sol arrive, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-gpt-6-2-astra-sol-arrive-plus-4-more/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A lab employee's guide to raising concerns",
+      "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
+    },
+    {
+      "text": "Putting a spotlight on AI, society, and humanity",
+      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117"
+    },
+    {
+      "text": "Why do AIFP forecasters disagree so much on the gap between SARs and TED-AIs?",
+      "url": "https://www.lesswrong.com/posts/8wEAJtLRA3YtaQDxj/why-do-aifp-forecasters-disagree-so-much-on-the-gap-between"
+    },
+    {
+      "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
+      "url": "https://arxiv.org/abs/2611.18802"
+    },
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "text": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+    },
+    {
+      "text": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "text": "Tracing Feature Circuits",
+      "url": "https://www.lesswrong.com/posts/emdBsH3jAyarqM5JD/tracing-feature-circuits"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges",
+      "url": "https://arxiv.org/abs/2611.19199"
+    },
+    {
+      "text": "Representation Before Training: A Practical Benchmark for Generative Medical Event Model Tokenization",
+      "url": "https://arxiv.org/abs/2604.16775"
+    },
+    {
+      "text": "A Hybrid State Space-Attention Architecture for Forecasting the Trajectories of Battery Degradation",
+      "url": "https://arxiv.org/abs/2611.19116"
+    },
+    {
+      "text": "Supercharging Olmo-core for Efficient and Scalable MoE Training",
+      "url": "https://arxiv.org/abs/2611.18956"
+    },
+    {
+      "text": "Paying Creators for Training Data Can Increase AI Displacement",
+      "url": "https://arxiv.org/abs/2611.20204"
+    },
+    {
+      "text": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+      "url": "https://arxiv.org/abs/2611.20218"
+    },
+    {
+      "text": "The Human Side of ML Engineering: Analyzing the Collaboration and Communication Skills in ML Job Postings",
+      "url": "https://arxiv.org/abs/2611.18915"
+    },
+    {
+      "text": "Conditional Endorsement: Simulating How Adults with Different Skills Evaluate Canada's National AI Strategy",
+      "url": "https://arxiv.org/abs/2611.19111"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "STORMGUIDE-FL: Stochastic Remote Guidance for Efficient Mining of Federated Streaming Data",
+      "url": "https://arxiv.org/abs/2611.20975"
+    },
+    {
+      "text": "Learning What the True Labels Would Teach: Posterior Analytic Class-Incremental Learning with Unlabeled Data",
+      "url": "https://arxiv.org/abs/2611.20937"
+    },
+    {
+      "text": "Procedure without Judgment: What Small Language Models Learn under an Exact Verifier",
+      "url": "https://arxiv.org/abs/2611.21529"
+    },
+    {
+      "text": "Exstill: The Most Efficient Single-Chip Processor for the Next Token",
+      "url": "https://arxiv.org/abs/2611.18859"
+    },
+    {
+      "text": "Motor Imagery Classification Using Hybrid Cross-Subject Class Mixup and Selective Attention",
+      "url": "https://arxiv.org/abs/2611.20853"
+    },
+    {
+      "text": "artist: A Python package for differentiable ray tracing and gradient-based optimization of solar tower power plant operation",
+      "url": "https://arxiv.org/abs/2611.20851"
+    },
+    {
+      "text": "Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs",
+      "url": "https://arxiv.org/abs/2611.20835"
+    },
+    {
+      "text": "ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing",
+      "url": "https://arxiv.org/abs/2607.10301"
+    }
+  ],
+  "lastUpdated": "2026-11-17T21:24:53Z"
+}
