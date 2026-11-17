@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+    "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips"
+  },
+  "topStories": [
+    {
+      "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
+      "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+    },
+    {
+      "text": "Making sense of Recursive Self Improvement",
+      "url": "https://www.lesswrong.com/posts/aPc93AWibTygEbRTh/making-sense-of-recursive-self-improvement"
+    },
+    {
+      "text": "Why do AIFP forecasters disagree so much on the gap between SARs and TED-AIs?",
+      "url": "https://www.lesswrong.com/posts/8wEAJtLRA3YtaQDxj/why-do-aifp-forecasters-disagree-so-much-on-the-gap-between"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
+    },
+    {
+      "text": "AI models tell anxious renters less directly that new apartments lower rents",
+      "url": "https://www.lesswrong.com/posts/Czsa9a9mnDb6WwXhw/ai-models-tell-anxious-renters-less-directly-that-new"
+    },
+    {
+      "text": "Emergent and Conditional Misalignment in LLM Planner Agents",
+      "url": "https://www.lesswrong.com/posts/qtZjBtuMgyvbTwtmF/emergent-and-conditional-misalignment-in-llm-planner-agents"
+    },
+    {
+      "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
+      "url": "https://arxiv.org/abs/2611.18802"
+    },
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "text": "OPENAI LETS 4 OUTSIDE LABS INSPECT ITS MODELS ON SITE",
+      "url": "https://dailyai.com/2026/11/openai-lets-4-outside-labs-inspect-its-models-on-site/"
+    },
+    {
+      "text": "AI safety should outsource more work",
+      "url": "https://www.lesswrong.com/posts/e7xGEYEHBgadD9Rzy/ai-safety-should-outsource-more-work"
+    },
+    {
+      "text": "Parkinson's Disease Freezing of Gait (FoG) Symptom Detection Using Machine Learning from Wearable Sensor Data",
+      "url": "https://arxiv.org/abs/2506.12561"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "CRFCAN: A Complex-Valued Cross-Domain Residual Network for Joint Channel and Phase Noise Estimation in Sub-THz OFDM Systems",
+      "url": "https://arxiv.org/abs/2609.12244"
+    },
+    {
+      "text": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
+      "url": "https://arxiv.org/abs/2611.18971"
+    },
+    {
+      "text": "Quantum Computing-Based Wasserstein Generative Adversarial Networks for Airfoil Parameterization",
+      "url": "https://arxiv.org/abs/2611.20602"
+    },
+    {
+      "text": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
+      "url": "https://arxiv.org/abs/2611.18958"
+    },
+    {
+      "text": "ONAM: Fitting Orthogonal Neural Additive Models for Post-Hoc Interpretability of Black-Box Predictions",
+      "url": "https://arxiv.org/abs/2611.21550"
+    },
+    {
+      "text": "ViSAR: Training-Free Adaptive-$k$ Retrieval for Document Visual Question Answering",
+      "url": "https://arxiv.org/abs/2609.02486"
+    },
+    {
+      "text": "Tensorized Automata: Algebraically Informed Representation Learning for Sequential Decision Making",
+      "url": "https://arxiv.org/abs/2611.21514"
+    },
+    {
+      "text": "Agent Authenticator: Passkey-Grade, Hardware-Bound Authentication for AI Agents",
+      "url": "https://arxiv.org/abs/2611.19536"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields",
+      "url": "https://arxiv.org/abs/2611.20368"
+    },
+    {
+      "text": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
+      "url": "https://arxiv.org/abs/2611.17048"
+    },
+    {
+      "text": "Intrinsic Attention as Navigator: A Non-Generative Retrieval Method for Multi-Hop Queries",
+      "url": "https://arxiv.org/abs/2611.18617"
+    },
+    {
+      "text": "Reframing Video Inverse Tone Mapping as Blind Posterior Inference via Latent Luminance Supervision",
+      "url": "https://arxiv.org/abs/2611.15146"
+    },
+    {
+      "text": "Typed Knowledge over Constructive Institutions: A Proof-Relevant Type Theory for Verified Science",
+      "url": "https://arxiv.org/abs/2611.15108"
+    },
+    {
+      "text": "Perceived Agency During Agent-Avatar Control Transitions in Virtual Reality",
+      "url": "https://arxiv.org/abs/2611.12529"
+    },
+    {
+      "text": "MARS: Multiscale Appearance-Residual Streams for Video Forgery Detection",
+      "url": "https://arxiv.org/abs/2611.12508"
+    },
+    {
+      "text": "RGFC: Registry Grounded Function Calling with stage-decomposed evaluation",
+      "url": "https://arxiv.org/abs/2611.18622"
+    }
+  ],
+  "lastUpdated": "2026-11-17T15:25:08Z"
+}
