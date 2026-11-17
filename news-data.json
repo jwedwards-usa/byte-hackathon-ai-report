@@ -1,7 +1,7 @@
 {
   "mainHeadline": {
-    "text": "A lab employee's guide to raising concerns",
-    "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
+    "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+    "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
   },
   "topStories": [
     {
@@ -9,30 +9,26 @@
       "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
     },
     {
-      "text": "The Natural Alliance of Everyone Else",
-      "url": "https://www.lesswrong.com/posts/FqbKvFFsK2quvrMF5/the-natural-alliance-of-everyone-else"
-    },
-    {
-      "text": "Why do AIFP forecasters disagree so much on the gap between SARs and TED-AIs?",
-      "url": "https://www.lesswrong.com/posts/8wEAJtLRA3YtaQDxj/why-do-aifp-forecasters-disagree-so-much-on-the-gap-between"
-    }
-  ],
-  "leftColumn": [
-    {
       "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
       "url": "https://arxiv.org/abs/2506.02479"
     },
     {
-      "text": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+      "text": "DailyAI Briefing: GPT-6.2 Astra and Sol arrive, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-gpt-6-2-astra-sol-arrive-plus-4-more/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A lab employee's guide to raising concerns",
+      "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
     },
     {
-      "text": "Jensen Huang Really Liked Selling China Advanced AI Chips",
-      "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips"
+      "text": "Putting a spotlight on AI, society, and humanity",
+      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117"
     },
     {
-      "text": "Making sense of Recursive Self Improvement",
-      "url": "https://www.lesswrong.com/posts/aPc93AWibTygEbRTh/making-sense-of-recursive-self-improvement"
+      "text": "Why do AIFP forecasters disagree so much on the gap between SARs and TED-AIs?",
+      "url": "https://www.lesswrong.com/posts/8wEAJtLRA3YtaQDxj/why-do-aifp-forecasters-disagree-so-much-on-the-gap-between"
     },
     {
       "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
@@ -43,81 +39,85 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership"
     },
     {
-      "text": "Tracing Feature Circuits",
-      "url": "https://www.lesswrong.com/posts/emdBsH3jAyarqM5JD/tracing-feature-circuits"
+      "text": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
     },
     {
-      "text": "Deep Learning for Physicists: From Linear Regression to Reasoning Models",
-      "url": "https://arxiv.org/abs/2611.21295"
+      "text": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "text": "Tracing Feature Circuits",
+      "url": "https://www.lesswrong.com/posts/emdBsH3jAyarqM5JD/tracing-feature-circuits"
     }
   ],
   "centerColumn": [
     {
-      "text": "CONTEXT-PCa: Evaluating the role of clinical context in MRI-based AI for detecting clinically significant prostate cancer (study protocol)",
-      "url": "https://arxiv.org/abs/2611.19082"
+      "text": "What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges",
+      "url": "https://arxiv.org/abs/2611.19199"
     },
     {
-      "text": "Linglong Agent Service: A Runtime for Centralized Agent Reasoning and Distributed Execution",
-      "url": "https://arxiv.org/abs/2611.21129"
+      "text": "Representation Before Training: A Practical Benchmark for Generative Medical Event Model Tokenization",
+      "url": "https://arxiv.org/abs/2604.16775"
     },
     {
-      "text": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
-      "url": "https://arxiv.org/abs/2611.18971"
+      "text": "A Hybrid State Space-Attention Architecture for Forecasting the Trajectories of Battery Degradation",
+      "url": "https://arxiv.org/abs/2611.19116"
     },
     {
-      "text": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
-      "url": "https://arxiv.org/abs/2611.18958"
+      "text": "Supercharging Olmo-core for Efficient and Scalable MoE Training",
+      "url": "https://arxiv.org/abs/2611.18956"
     },
     {
-      "text": "Scientific Coding with Large Language Models: Evidence from Finite Element Analysis",
-      "url": "https://arxiv.org/abs/2611.21176"
+      "text": "Paying Creators for Training Data Can Increase AI Displacement",
+      "url": "https://arxiv.org/abs/2611.20204"
     },
     {
-      "text": "RubricReviewer: From Direct Critique to Rubric-Driven Review via Agentic Evidence Synthesis and Human-Aligned Generation",
-      "url": "https://arxiv.org/abs/2608.00005"
+      "text": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+      "url": "https://arxiv.org/abs/2611.20218"
     },
     {
-      "text": "Agent-Native by Design: A Programming Language for Agentic Applications",
-      "url": "https://arxiv.org/abs/2611.21298"
+      "text": "The Human Side of ML Engineering: Analyzing the Collaboration and Communication Skills in ML Job Postings",
+      "url": "https://arxiv.org/abs/2611.18915"
     },
     {
-      "text": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
-      "url": "https://arxiv.org/abs/2611.21584"
+      "text": "Conditional Endorsement: Simulating How Adults with Different Skills Evaluate Canada's National AI Strategy",
+      "url": "https://arxiv.org/abs/2611.19111"
     }
   ],
   "rightColumn": [
     {
-      "text": "Variationally correct physics-informed operator learning for nonlinear partial differential equations",
-      "url": "https://arxiv.org/abs/2611.21469"
+      "text": "STORMGUIDE-FL: Stochastic Remote Guidance for Efficient Mining of Federated Streaming Data",
+      "url": "https://arxiv.org/abs/2611.20975"
     },
     {
-      "text": "Calibrated Functional Prediction from Overlapping Nonlinear Observations",
-      "url": "https://arxiv.org/abs/2611.20567"
+      "text": "Learning What the True Labels Would Teach: Posterior Analytic Class-Incremental Learning with Unlabeled Data",
+      "url": "https://arxiv.org/abs/2611.20937"
     },
     {
-      "text": "Memory-Efficient Speculative Decoding with Quantized Draft KV Cache",
-      "url": "https://arxiv.org/abs/2611.20565"
+      "text": "Procedure without Judgment: What Small Language Models Learn under an Exact Verifier",
+      "url": "https://arxiv.org/abs/2611.21529"
     },
     {
-      "text": "One-Shot Calibration via Model Editing",
-      "url": "https://arxiv.org/abs/2611.20562"
+      "text": "Exstill: The Most Efficient Single-Chip Processor for the Next Token",
+      "url": "https://arxiv.org/abs/2611.18859"
     },
     {
-      "text": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "url": "https://arxiv.org/abs/2611.12942"
+      "text": "Motor Imagery Classification Using Hybrid Cross-Subject Class Mixup and Selective Attention",
+      "url": "https://arxiv.org/abs/2611.20853"
     },
     {
-      "text": "How many sorted projections determine any n points in k dimensions?",
-      "url": "https://arxiv.org/abs/2611.06470"
+      "text": "artist: A Python package for differentiable ray tracing and gradient-based optimization of solar tower power plant operation",
+      "url": "https://arxiv.org/abs/2611.20851"
     },
     {
-      "text": "Hilbert States for Decision-Making under Partial Observability",
-      "url": "https://arxiv.org/abs/2611.20970"
+      "text": "Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs",
+      "url": "https://arxiv.org/abs/2611.20835"
     },
     {
-      "text": "Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions",
-      "url": "https://arxiv.org/abs/2611.20472"
+      "text": "ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing",
+      "url": "https://arxiv.org/abs/2607.10301"
     }
   ],
-  "lastUpdated": "2026-11-17T18:32:25Z"
+  "lastUpdated": "2026-11-17T21:24:53Z"
 }
