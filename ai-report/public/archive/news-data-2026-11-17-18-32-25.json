@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "A lab employee's guide to raising concerns",
+    "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
+  },
+  "topStories": [
+    {
+      "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
+      "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+    },
+    {
+      "text": "The Natural Alliance of Everyone Else",
+      "url": "https://www.lesswrong.com/posts/FqbKvFFsK2quvrMF5/the-natural-alliance-of-everyone-else"
+    },
+    {
+      "text": "Why do AIFP forecasters disagree so much on the gap between SARs and TED-AIs?",
+      "url": "https://www.lesswrong.com/posts/8wEAJtLRA3YtaQDxj/why-do-aifp-forecasters-disagree-so-much-on-the-gap-between"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
+    },
+    {
+      "text": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "text": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+      "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips"
+    },
+    {
+      "text": "Making sense of Recursive Self Improvement",
+      "url": "https://www.lesswrong.com/posts/aPc93AWibTygEbRTh/making-sense-of-recursive-self-improvement"
+    },
+    {
+      "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
+      "url": "https://arxiv.org/abs/2611.18802"
+    },
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "text": "Tracing Feature Circuits",
+      "url": "https://www.lesswrong.com/posts/emdBsH3jAyarqM5JD/tracing-feature-circuits"
+    },
+    {
+      "text": "Deep Learning for Physicists: From Linear Regression to Reasoning Models",
+      "url": "https://arxiv.org/abs/2611.21295"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "CONTEXT-PCa: Evaluating the role of clinical context in MRI-based AI for detecting clinically significant prostate cancer (study protocol)",
+      "url": "https://arxiv.org/abs/2611.19082"
+    },
+    {
+      "text": "Linglong Agent Service: A Runtime for Centralized Agent Reasoning and Distributed Execution",
+      "url": "https://arxiv.org/abs/2611.21129"
+    },
+    {
+      "text": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
+      "url": "https://arxiv.org/abs/2611.18971"
+    },
+    {
+      "text": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
+      "url": "https://arxiv.org/abs/2611.18958"
+    },
+    {
+      "text": "Scientific Coding with Large Language Models: Evidence from Finite Element Analysis",
+      "url": "https://arxiv.org/abs/2611.21176"
+    },
+    {
+      "text": "RubricReviewer: From Direct Critique to Rubric-Driven Review via Agentic Evidence Synthesis and Human-Aligned Generation",
+      "url": "https://arxiv.org/abs/2608.00005"
+    },
+    {
+      "text": "Agent-Native by Design: A Programming Language for Agentic Applications",
+      "url": "https://arxiv.org/abs/2611.21298"
+    },
+    {
+      "text": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
+      "url": "https://arxiv.org/abs/2611.21584"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Variationally correct physics-informed operator learning for nonlinear partial differential equations",
+      "url": "https://arxiv.org/abs/2611.21469"
+    },
+    {
+      "text": "Calibrated Functional Prediction from Overlapping Nonlinear Observations",
+      "url": "https://arxiv.org/abs/2611.20567"
+    },
+    {
+      "text": "Memory-Efficient Speculative Decoding with Quantized Draft KV Cache",
+      "url": "https://arxiv.org/abs/2611.20565"
+    },
+    {
+      "text": "One-Shot Calibration via Model Editing",
+      "url": "https://arxiv.org/abs/2611.20562"
+    },
+    {
+      "text": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+      "url": "https://arxiv.org/abs/2611.12942"
+    },
+    {
+      "text": "How many sorted projections determine any n points in k dimensions?",
+      "url": "https://arxiv.org/abs/2611.06470"
+    },
+    {
+      "text": "Hilbert States for Decision-Making under Partial Observability",
+      "url": "https://arxiv.org/abs/2611.20970"
+    },
+    {
+      "text": "Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions",
+      "url": "https://arxiv.org/abs/2611.20472"
+    }
+  ],
+  "lastUpdated": "2026-11-17T18:32:25Z"
+}
