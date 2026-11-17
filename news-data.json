@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "The AI consciousness debate is a red herring",
-    "url": "https://www.lesswrong.com/posts/i76GuXDvGcbC7oWcb/the-ai-consciousness-debate-is-a-red-herring"
+    "text": "Emergent and Conditional Misalignment in LLM Planner Agents",
+    "url": "https://www.lesswrong.com/posts/qtZjBtuMgyvbTwtmF/emergent-and-conditional-misalignment-in-llm-planner-agents"
   },
   "topStories": [
     {
-      "text": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
-      "url": "https://arxiv.org/abs/2611.18114"
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
     },
     {
-      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership"
+      "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
+      "url": "https://arxiv.org/abs/2611.18802"
     },
     {
-      "text": "Accepted but Wrong: Silent Failures of LLM Code Repairs after API Migrations",
-      "url": "https://arxiv.org/abs/2611.08269"
+      "text": "The Metacognitive Profile Atlas: Domain-level confidence discrimination in 33 frontier LLMs on MMLU",
+      "url": "https://arxiv.org/abs/2605.06673"
     }
   ],
   "leftColumn": [
     {
-      "text": "ScrapeGraphAI-100k: Dataset for Schema-Constrained LLM Generation",
-      "url": "https://arxiv.org/abs/2602.15189"
+      "text": "TrainExplorer: Autonomous LLM Post-Training via Plan-and-Decouple Exploration",
+      "url": "https://arxiv.org/abs/2611.20430"
     },
     {
-      "text": "Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation",
-      "url": "https://arxiv.org/abs/2611.17629"
+      "text": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
+      "url": "https://arxiv.org/abs/2611.20608"
     },
     {
-      "text": "California State Politics AI Safety Overview",
-      "url": "https://www.lesswrong.com/posts/qNivEw2dxrFvNSPWi/california-state-politics-ai-safety-overview"
+      "text": "On the effects of emulated quantum layers on CNN performance and explainability for OCT and dementia imaging",
+      "url": "https://arxiv.org/abs/2607.21186"
     },
     {
-      "text": "SCIENCE AT THE FRONTIER: HOW SCIENTISTS USE CHATGPT",
-      "url": "https://openai.com/index/science-at-the-frontier"
+      "text": "The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training",
+      "url": "https://arxiv.org/abs/2502.19002"
     },
     {
-      "text": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-      "url": "https://arxiv.org/abs/2611.17515"
+      "text": "Deep Learning for Physicists: From Linear Regression to Reasoning Models",
+      "url": "https://arxiv.org/abs/2611.21295"
     },
     {
-      "text": "AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling",
-      "url": "https://arxiv.org/abs/2611.08752"
+      "text": "But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors",
+      "url": "https://arxiv.org/abs/2505.17760"
     },
     {
-      "text": "From Chats to Markets: AgenticPay for LLM-Powered Negotiation in Multi-Agent Commerce",
-      "url": "https://arxiv.org/abs/2602.06008"
+      "text": "Parkinson's Disease Freezing of Gait (FoG) Symptom Detection Using Machine Learning from Wearable Sensor Data",
+      "url": "https://arxiv.org/abs/2506.12561"
     },
     {
-      "text": "Can Large Language Models Optimize Pretrained Neural Network Weights? A Multi-Phase Empirical Evaluation of Gradient-Free Editing in YOLO26 Object Detection",
-      "url": "https://arxiv.org/abs/2611.17789"
+      "text": "Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next",
+      "url": "https://arxiv.org/abs/2611.21408"
     }
   ],
   "centerColumn": [
     {
-      "text": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
-      "url": "https://arxiv.org/abs/2611.18439"
+      "text": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
+      "url": "https://arxiv.org/abs/2605.07194"
     },
     {
-      "text": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-      "url": "https://arxiv.org/abs/2611.18531"
+      "text": "Grounding Driving VLA via Inverse Kinematics",
+      "url": "https://arxiv.org/abs/2605.21061"
     },
     {
-      "text": "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations",
-      "url": "https://arxiv.org/abs/2604.14586"
+      "text": "Phase Transitions in Heavy-Tailed Mean Estimation under $\\ell_p$ Norms",
+      "url": "https://arxiv.org/abs/2611.20176"
     },
     {
-      "text": "Pruning Extensions and Efficiency Trade-Offs for Sustainable Time Series Classification",
-      "url": "https://arxiv.org/abs/2604.07953"
+      "text": "Constrained latent state modeling: A unifying perspective on representation learning under competing constraints",
+      "url": "https://arxiv.org/abs/2605.15995"
     },
     {
-      "text": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
-      "url": "https://arxiv.org/abs/2610.21025"
+      "text": "PAIR-CI: Calibrated Conditional Independence Testing for Causal Discovery with Incomplete Data",
+      "url": "https://arxiv.org/abs/2605.04838"
     },
     {
-      "text": "FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI",
-      "url": "https://arxiv.org/abs/2610.24349"
+      "text": "Coherence-Guided Pyramid Self-Contrastive Disentanglement for Adaptive IQ Signal Denoising in Synthetic Aperture Ultrasound",
+      "url": "https://arxiv.org/abs/2605.12567"
     },
     {
-      "text": "E0: Expressive Fine-Grained Discrete Action Prediction for Vision-Language-Action Models via Tweedie Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2511.21542"
+      "text": "HospitalBench: Diagnosing Where and Why Embodied Agents Fail on Long Hospital Task Chains",
+      "url": "https://arxiv.org/abs/2611.19274"
     },
     {
-      "text": "CoTTAGE: An Explainable Judge for Text-to-Audio Generation",
-      "url": "https://arxiv.org/abs/2611.17644"
+      "text": "VoxSafeBench: Not Just What Is Said, but Who, How, and Where",
+      "url": "https://arxiv.org/abs/2604.14548"
     }
   ],
   "rightColumn": [
     {
-      "text": "DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery",
-      "url": "https://arxiv.org/abs/2611.17878"
+      "text": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2607.26057"
     },
     {
-      "text": "Active Learning of Temporal Specifications through Distinguishing Queries",
-      "url": "https://arxiv.org/abs/2611.17866"
+      "text": "QA-CMIF:Accurate and Lightweight Cross-Modal Latent Imputation and Fusion for Fault-Tolerant sEMG-Inertial Hand Gesture Recognition",
+      "url": "https://arxiv.org/abs/2611.20124"
     },
     {
-      "text": "SceneAgent: A Multi-Agent Framework for Portable Game Scene Generation",
-      "url": "https://arxiv.org/abs/2611.17821"
+      "text": "OrganLens: Organ-Specific Representation Learning for CT Foundation Models",
+      "url": "https://arxiv.org/abs/2607.25164"
     },
     {
-      "text": "Multimodal Person Concept Model for Person Identification under Varying Observation Conditions",
-      "url": "https://arxiv.org/abs/2611.17802"
+      "text": "ETAS: An Effect-Typed Language for Agent Systems",
+      "url": "https://arxiv.org/abs/2607.17780"
     },
     {
-      "text": "LEGAL-UQA: Testing Constitutional Question-Answering Systems for Urdu Speakers with a Parallel English-Urdu Benchmark",
-      "url": "https://arxiv.org/abs/2410.13013"
+      "text": "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry",
+      "url": "https://arxiv.org/abs/2611.20180"
     },
     {
-      "text": "Towards Seconds-level Video Representation: Quadratically Gated Feature Grid with Adaptive, Prediction-free Sampling",
-      "url": "https://arxiv.org/abs/2611.17786"
+      "text": "Orbis 2: A Hierarchical World Model for Driving",
+      "url": "https://arxiv.org/abs/2607.15898"
     },
     {
-      "text": "Activation Steering the Nan-Shan in Typhoon",
-      "url": "https://arxiv.org/abs/2611.17768"
+      "text": "Proxy OPD: On-Policy Distillation with Transferable Relative Proxy Update for Large Language Models",
+      "url": "https://arxiv.org/abs/2607.11505"
     },
     {
-      "text": "Graph Your Own Prompt",
-      "url": "https://arxiv.org/abs/2509.23373"
+      "text": "Scaling large language model-assisted line-of-therapy adjudication with human-in-the-loop evidence-calibrated selection",
+      "url": "https://arxiv.org/abs/2611.20259"
     }
   ],
-  "lastUpdated": "2026-11-17T06:35:55Z"
+  "lastUpdated": "2026-11-17T09:32:01Z"
 }

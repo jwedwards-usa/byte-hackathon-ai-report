@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Emergent and Conditional Misalignment in LLM Planner Agents",
+    "url": "https://www.lesswrong.com/posts/qtZjBtuMgyvbTwtmF/emergent-and-conditional-misalignment-in-llm-planner-agents"
+  },
+  "topStories": [
+    {
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
+    },
+    {
+      "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
+      "url": "https://arxiv.org/abs/2611.18802"
+    },
+    {
+      "text": "The Metacognitive Profile Atlas: Domain-level confidence discrimination in 33 frontier LLMs on MMLU",
+      "url": "https://arxiv.org/abs/2605.06673"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "TrainExplorer: Autonomous LLM Post-Training via Plan-and-Decouple Exploration",
+      "url": "https://arxiv.org/abs/2611.20430"
+    },
+    {
+      "text": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
+      "url": "https://arxiv.org/abs/2611.20608"
+    },
+    {
+      "text": "On the effects of emulated quantum layers on CNN performance and explainability for OCT and dementia imaging",
+      "url": "https://arxiv.org/abs/2607.21186"
+    },
+    {
+      "text": "The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training",
+      "url": "https://arxiv.org/abs/2502.19002"
+    },
+    {
+      "text": "Deep Learning for Physicists: From Linear Regression to Reasoning Models",
+      "url": "https://arxiv.org/abs/2611.21295"
+    },
+    {
+      "text": "But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors",
+      "url": "https://arxiv.org/abs/2505.17760"
+    },
+    {
+      "text": "Parkinson's Disease Freezing of Gait (FoG) Symptom Detection Using Machine Learning from Wearable Sensor Data",
+      "url": "https://arxiv.org/abs/2506.12561"
+    },
+    {
+      "text": "Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next",
+      "url": "https://arxiv.org/abs/2611.21408"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
+      "url": "https://arxiv.org/abs/2605.07194"
+    },
+    {
+      "text": "Grounding Driving VLA via Inverse Kinematics",
+      "url": "https://arxiv.org/abs/2605.21061"
+    },
+    {
+      "text": "Phase Transitions in Heavy-Tailed Mean Estimation under $\\ell_p$ Norms",
+      "url": "https://arxiv.org/abs/2611.20176"
+    },
+    {
+      "text": "Constrained latent state modeling: A unifying perspective on representation learning under competing constraints",
+      "url": "https://arxiv.org/abs/2605.15995"
+    },
+    {
+      "text": "PAIR-CI: Calibrated Conditional Independence Testing for Causal Discovery with Incomplete Data",
+      "url": "https://arxiv.org/abs/2605.04838"
+    },
+    {
+      "text": "Coherence-Guided Pyramid Self-Contrastive Disentanglement for Adaptive IQ Signal Denoising in Synthetic Aperture Ultrasound",
+      "url": "https://arxiv.org/abs/2605.12567"
+    },
+    {
+      "text": "HospitalBench: Diagnosing Where and Why Embodied Agents Fail on Long Hospital Task Chains",
+      "url": "https://arxiv.org/abs/2611.19274"
+    },
+    {
+      "text": "VoxSafeBench: Not Just What Is Said, but Who, How, and Where",
+      "url": "https://arxiv.org/abs/2604.14548"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2607.26057"
+    },
+    {
+      "text": "QA-CMIF:Accurate and Lightweight Cross-Modal Latent Imputation and Fusion for Fault-Tolerant sEMG-Inertial Hand Gesture Recognition",
+      "url": "https://arxiv.org/abs/2611.20124"
+    },
+    {
+      "text": "OrganLens: Organ-Specific Representation Learning for CT Foundation Models",
+      "url": "https://arxiv.org/abs/2607.25164"
+    },
+    {
+      "text": "ETAS: An Effect-Typed Language for Agent Systems",
+      "url": "https://arxiv.org/abs/2607.17780"
+    },
+    {
+      "text": "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry",
+      "url": "https://arxiv.org/abs/2611.20180"
+    },
+    {
+      "text": "Orbis 2: A Hierarchical World Model for Driving",
+      "url": "https://arxiv.org/abs/2607.15898"
+    },
+    {
+      "text": "Proxy OPD: On-Policy Distillation with Transferable Relative Proxy Update for Large Language Models",
+      "url": "https://arxiv.org/abs/2607.11505"
+    },
+    {
+      "text": "Scaling large language model-assisted line-of-therapy adjudication with human-in-the-loop evidence-calibrated selection",
+      "url": "https://arxiv.org/abs/2611.20259"
+    }
+  ],
+  "lastUpdated": "2026-11-17T09:32:01Z"
+}
