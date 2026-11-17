@@ -1,9 +1,27 @@
 {
   "mainHeadline": {
-    "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
-    "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+    "text": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+    "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips"
   },
   "topStories": [
+    {
+      "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
+      "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+    },
+    {
+      "text": "Making sense of Recursive Self Improvement",
+      "url": "https://www.lesswrong.com/posts/aPc93AWibTygEbRTh/making-sense-of-recursive-self-improvement"
+    },
+    {
+      "text": "Why do AIFP forecasters disagree so much on the gap between SARs and TED-AIs?",
+      "url": "https://www.lesswrong.com/posts/8wEAJtLRA3YtaQDxj/why-do-aifp-forecasters-disagree-so-much-on-the-gap-between"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
+    },
     {
       "text": "AI models tell anxious renters less directly that new apartments lower rents",
       "url": "https://www.lesswrong.com/posts/Czsa9a9mnDb6WwXhw/ai-models-tell-anxious-renters-less-directly-that-new"
@@ -11,16 +29,6 @@
     {
       "text": "Emergent and Conditional Misalignment in LLM Planner Agents",
       "url": "https://www.lesswrong.com/posts/qtZjBtuMgyvbTwtmF/emergent-and-conditional-misalignment-in-llm-planner-agents"
-    },
-    {
-      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
-      "url": "https://arxiv.org/abs/2506.02479"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "AI safety should outsource more work",
-      "url": "https://www.lesswrong.com/posts/e7xGEYEHBgadD9Rzy/ai-safety-should-outsource-more-work"
     },
     {
       "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
@@ -31,72 +39,64 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership"
     },
     {
-      "text": "California Sues OpenAI for Losing Control of AI Agents 80 Times",
-      "url": "https://dailyai.com/2026/11/california-sues-openai-over-80-agent-loss-of-control-incidents/"
+      "text": "OPENAI LETS 4 OUTSIDE LABS INSPECT ITS MODELS ON SITE",
+      "url": "https://dailyai.com/2026/11/openai-lets-4-outside-labs-inspect-its-models-on-site/"
     },
     {
-      "text": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
-      "url": "https://arxiv.org/abs/2611.20608"
+      "text": "AI safety should outsource more work",
+      "url": "https://www.lesswrong.com/posts/e7xGEYEHBgadD9Rzy/ai-safety-should-outsource-more-work"
     },
     {
-      "text": "Deep Learning for Physicists: From Linear Regression to Reasoning Models",
-      "url": "https://arxiv.org/abs/2611.21295"
-    },
-    {
-      "text": "The Metacognitive Profile Atlas: Domain-level confidence discrimination in 33 frontier LLMs on MMLU",
-      "url": "https://arxiv.org/abs/2605.06673"
-    },
-    {
-      "text": "But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors",
-      "url": "https://arxiv.org/abs/2505.17760"
+      "text": "Parkinson's Disease Freezing of Gait (FoG) Symptom Detection Using Machine Learning from Wearable Sensor Data",
+      "url": "https://arxiv.org/abs/2506.12561"
     }
   ],
   "centerColumn": [
     {
-      "text": "RAS: Measuring LLM Safety Through Refusal Alignment",
-      "url": "https://arxiv.org/abs/2606.25750"
+      "text": "CRFCAN: A Complex-Valued Cross-Domain Residual Network for Joint Channel and Phase Noise Estimation in Sub-THz OFDM Systems",
+      "url": "https://arxiv.org/abs/2609.12244"
     },
     {
-      "text": "CardioLM: A multilingual suite of small language models for the cardiology domain",
-      "url": "https://arxiv.org/abs/2611.07940"
+      "text": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
+      "url": "https://arxiv.org/abs/2611.18971"
     },
     {
-      "text": "Neural Dual Bounds: Valid-by-Construction JGLP Warm-Starts for MAP and Constrained MAP",
-      "url": "https://arxiv.org/abs/2611.19218"
+      "text": "Quantum Computing-Based Wasserstein Generative Adversarial Networks for Airfoil Parameterization",
+      "url": "https://arxiv.org/abs/2611.20602"
     },
     {
-      "text": "Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks",
-      "url": "https://arxiv.org/abs/2501.13946"
+      "text": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
+      "url": "https://arxiv.org/abs/2611.18958"
     },
     {
-      "text": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
-      "url": "https://arxiv.org/abs/2611.08439"
+      "text": "ONAM: Fitting Orthogonal Neural Additive Models for Post-Hoc Interpretability of Black-Box Predictions",
+      "url": "https://arxiv.org/abs/2611.21550"
     },
     {
-      "text": "HospitalBench: Diagnosing Where and Why Embodied Agents Fail on Long Hospital Task Chains",
-      "url": "https://arxiv.org/abs/2611.19274"
+      "text": "ViSAR: Training-Free Adaptive-$k$ Retrieval for Document Visual Question Answering",
+      "url": "https://arxiv.org/abs/2609.02486"
     },
     {
-      "text": "AI Agents May Always Fall for Prompt Injections",
-      "url": "https://arxiv.org/abs/2605.17634"
+      "text": "Tensorized Automata: Algebraically Informed Representation Learning for Sequential Decision Making",
+      "url": "https://arxiv.org/abs/2611.21514"
     },
     {
-      "text": "Estimation of aboveground biomass in a tropical dry forest: An intercomparison of airborne, unmanned, and space laser scanning",
-      "url": "https://arxiv.org/abs/2510.27408"
+      "text": "Agent Authenticator: Passkey-Grade, Hardware-Bound Authentication for AI Agents",
+      "url": "https://arxiv.org/abs/2611.19536"
     }
   ],
   "rightColumn": [
     {
-      "text": "Scaling large language model-assisted line-of-therapy adjudication with human-in-the-loop evidence-calibrated selection",
-      "url": "https://arxiv.org/abs/2611.20259"
+      "text": "HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields",
+      "url": "https://arxiv.org/abs/2611.20368"
     },
     {
       "text": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
       "url": "https://arxiv.org/abs/2611.17048"
     },
     {
-      "text": "Syllable- and Word-Level Evaluation of Tibetan OCR",
-      "url": "https://arxiv.org/abs/2611.21303"
+      "text": "Intrinsic Attention as Navigator: A Non-Generative Retrieval Method for Multi-Hop Queries",
+      "url": "https://arxiv.org/abs/2611.18617"
     },
     {
       "text": "Reframing Video Inverse Tone Mapping as Blind Posterior Inference via Latent Luminance Supervision",
@@ -115,9 +115,9 @@
       "url": "https://arxiv.org/abs/2611.12508"
     },
     {
-      "text": "Flow Matching for Sampled-Data Control of Angular Distributions",
-      "url": "https://arxiv.org/abs/2611.20360"
+      "text": "RGFC: Registry Grounded Function Calling with stage-decomposed evaluation",
+      "url": "https://arxiv.org/abs/2611.18622"
     }
   ],
-  "lastUpdated": "2026-11-17T12:35:16Z"
+  "lastUpdated": "2026-11-17T15:25:08Z"
 }
