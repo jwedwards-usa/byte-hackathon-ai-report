@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  "topStories": [
+    {
+      "text": "OREGON SUES OPENAI FOR $2.035 BILLION OVER HARM TO CHILDREN",
+      "url": "https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/"
+    },
+    {
+      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
+      "url": "https://arxiv.org/abs/2507.02844"
+    },
+    {
+      "text": "AI Takeoff: Complex Tasks and Pacing",
+      "url": "https://www.lesswrong.com/posts/K7jgPBhQSgwpmv8DT/ai-takeoff-complex-tasks-and-pacing"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Where is all the AI persuasion?",
+      "url": "https://www.lesswrong.com/posts/7FQMM394P4D7ZAsBj/where-is-all-the-ai-persuasion"
+    },
+    {
+      "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
+      "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+    },
+    {
+      "text": "I'm worried about LLMs accelerating hardware for cheap ASI",
+      "url": "https://www.lesswrong.com/posts/yQmzPMMeBLmGuZokr/i-m-worried-about-llms-accelerating-hardware-for-cheap-asi"
+    },
+    {
+      "text": "GPTZero: Robust Detection of LLM-Generated Texts",
+      "url": "https://arxiv.org/abs/2602.13042"
+    },
+    {
+      "text": "Uncertainty Quantification for Large Language Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.14570"
+    },
+    {
+      "text": "Can AI Help Explain AI? Effects of Multimodal LLM-Generated Explanations on Perceived Understanding and Perceived Trust in XAI Visualizations",
+      "url": "https://arxiv.org/abs/2611.21638"
+    },
+    {
+      "text": "Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning",
+      "url": "https://arxiv.org/abs/2606.05046"
+    },
+    {
+      "text": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "url": "https://arxiv.org/abs/2611.22177"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Forecasting How RLHF Responds to Reward-Model Edits Before Training",
+      "url": "https://arxiv.org/abs/2611.03244"
+    },
+    {
+      "text": "When the tail is earned by its companions: measuring label dependence in long-tailed multi-label classification",
+      "url": "https://arxiv.org/abs/2611.22859"
+    },
+    {
+      "text": "CrossEnv: Synthesizing Verifiable Cross-Environment Tasks for Long-Horizon Agent Training",
+      "url": "https://arxiv.org/abs/2611.22777"
+    },
+    {
+      "text": "Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions",
+      "url": "https://arxiv.org/abs/2611.22136"
+    },
+    {
+      "text": "Video recordings and play behaviour annotations of group-housed dairy calves on two Dutch farms",
+      "url": "https://arxiv.org/abs/2611.21706"
+    },
+    {
+      "text": "AI4Plasma I: Data-Efficient Surrogate Modeling of Capacitively Coupled Plasma Fields",
+      "url": "https://arxiv.org/abs/2611.15002"
+    },
+    {
+      "text": "When Agent Skills Go Stale: Runtime Behavior and Selective Maintenance in Evolving Environments",
+      "url": "https://arxiv.org/abs/2611.22525"
+    },
+    {
+      "text": "AI4Plasma II: Geometry-Aware Surrogate Modeling for Variable Electrode Gap GEC Plasmas",
+      "url": "https://arxiv.org/abs/2611.15584"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents",
+      "url": "https://arxiv.org/abs/2611.22169"
+    },
+    {
+      "text": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
+      "url": "https://arxiv.org/abs/2611.22148"
+    },
+    {
+      "text": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
+      "url": "https://arxiv.org/abs/2611.22131"
+    },
+    {
+      "text": "Marimba: A System One Model for Speech",
+      "url": "https://arxiv.org/abs/2611.18330"
+    },
+    {
+      "text": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "url": "https://arxiv.org/abs/2611.22115"
+    },
+    {
+      "text": "EvoDisco: Strategy Discovery for Evolving Agent Memory",
+      "url": "https://arxiv.org/abs/2611.22102"
+    },
+    {
+      "text": "When Lower Harm Misleads: Auditing Concept Corrections",
+      "url": "https://arxiv.org/abs/2611.22084"
+    },
+    {
+      "text": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
+      "url": "https://arxiv.org/abs/2611.22043"
+    }
+  ],
+  "lastUpdated": "2026-11-18T09:26:55Z"
+}
