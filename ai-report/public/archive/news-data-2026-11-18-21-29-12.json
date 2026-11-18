@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  "topStories": [
+    {
+      "text": "Reddit, AI, and the Era of Data Silos",
+      "url": "https://www.lesswrong.com/posts/sDEZXH986YPkru7Cp/reddit-ai-and-the-era-of-data-silos"
+    },
+    {
+      "text": "Pacing AI via Compute Reallocation",
+      "url": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"
+    },
+    {
+      "text": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Quickly, There’s No Time",
+      "url": "https://www.lesswrong.com/posts/KyEuyNAoz3AsJf6RW/quickly-there-s-no-time"
+    },
+    {
+      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
+      "url": "https://arxiv.org/abs/2507.02844"
+    },
+    {
+      "text": "ADVANCING CHIP DESIGN WITH OPENAI MODELS",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    },
+    {
+      "text": "OREGON SUES OPENAI FOR $2.035 BILLION OVER HARM TO CHILDREN",
+      "url": "https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/"
+    },
+    {
+      "text": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "text": "Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning",
+      "url": "https://arxiv.org/abs/2606.05046"
+    },
+    {
+      "text": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "url": "https://arxiv.org/abs/2611.22177"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "SeasonRainBench: Global Seasonal Precipitation",
+      "url": "https://arxiv.org/abs/2611.22281"
+    },
+    {
+      "text": "PromptPack: Training-Free Augmentation of Diffusion Editors for Intent-Aligned Spatial and Semantic Control",
+      "url": "https://arxiv.org/abs/2611.21865"
+    },
+    {
+      "text": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
+      "url": "https://arxiv.org/abs/2611.22238"
+    },
+    {
+      "text": "Domain-Tuned Diffusion Super-Resolution for 4K Facial Asset Maps",
+      "url": "https://arxiv.org/abs/2611.21890"
+    },
+    {
+      "text": "V2V Communications Using Blockchain-Enabled 6G Technology and Federated Learning",
+      "url": "https://arxiv.org/abs/2611.21932"
+    },
+    {
+      "text": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+      "url": "https://arxiv.org/abs/2611.16728"
+    },
+    {
+      "text": "Does the Model Use What It Cites? Counterfactual Tests of Grounded Reasoning Chains in Small Video-Language Models",
+      "url": "https://arxiv.org/abs/2611.21940"
+    },
+    {
+      "text": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
+      "url": "https://arxiv.org/abs/2611.21701"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Projected Penalty-Gradient Tracking for Communication-Efficient Byzantine-Resilient Federated Learning",
+      "url": "https://arxiv.org/abs/2611.22929"
+    },
+    {
+      "text": "ResoLUT: Distilling Residual Networks into Lookup-Table Networks",
+      "url": "https://arxiv.org/abs/2611.22955"
+    },
+    {
+      "text": "PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs",
+      "url": "https://arxiv.org/abs/2611.23012"
+    },
+    {
+      "text": "MillBill: A Machining Agent with Geometric Feedback",
+      "url": "https://arxiv.org/abs/2611.22565"
+    },
+    {
+      "text": "FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond",
+      "url": "https://arxiv.org/abs/2611.23055"
+    },
+    {
+      "text": "Deep Reinforcement Learning for Heat Pump and Underfloor Heating Control: An End-to-End Case Study",
+      "url": "https://arxiv.org/abs/2611.23063"
+    },
+    {
+      "text": "Values Shape What Self-Improving Coding Agents Build",
+      "url": "https://arxiv.org/abs/2611.23067"
+    },
+    {
+      "text": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
+      "url": "https://arxiv.org/abs/2611.22563"
+    }
+  ],
+  "lastUpdated": "2026-11-18T21:29:12Z"
+}
