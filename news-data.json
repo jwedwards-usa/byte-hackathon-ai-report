@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
+      "text": "Pacing AI via Compute Reallocation",
+      "url": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"
+    },
+    {
+      "text": "Reddit, AI, and the Era of Data Silos",
+      "url": "https://www.lesswrong.com/posts/sDEZXH986YPkru7Cp/reddit-ai-and-the-era-of-data-silos"
+    },
+    {
       "text": "Quickly, There’s No Time",
       "url": "https://www.lesswrong.com/posts/KyEuyNAoz3AsJf6RW/quickly-there-s-no-time"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A question about sharing novel search tool (an \"epistemic linter\" of sorts)",
+      "url": "https://www.lesswrong.com/posts/8XPEpoiH3aZCqTKrg/a-question-about-sharing-novel-search-tool-an-epistemic-1"
+    },
+    {
+      "text": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+    },
+    {
+      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
+      "url": "https://arxiv.org/abs/2507.02844"
+    },
+    {
+      "text": "ADVANCING CHIP DESIGN WITH OPENAI MODELS",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
     },
     {
       "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
       "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
     },
     {
-      "text": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
-      "url": "https://arxiv.org/abs/2507.02844"
+      "text": "DailyAI Briefing: Nvidia’s $115.8bn quarter, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-nvidias-115-8bn-quarter-plus-4-more/"
     },
     {
-      "text": "AI Takeoff: Complex Tasks and Pacing",
-      "url": "https://www.lesswrong.com/posts/K7jgPBhQSgwpmv8DT/ai-takeoff-complex-tasks-and-pacing"
-    },
-    {
-      "text": "I am not making time to grieve",
-      "url": "https://www.lesswrong.com/posts/Zbqb3DLYwGTHFcWwH/i-am-not-making-time-to-grieve"
+      "text": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/"
     },
     {
       "text": "Wiz Finds Only 3 Victims in 55-Minute Microsoft AI Toolkit Hack",
       "url": "https://dailyai.com/2026/11/wiz-finds-only-3-victims-in-55-minute-microsoft-ai-toolkit-hack/"
-    },
-    {
-      "text": "OREGON SUES OPENAI FOR $2.035 BILLION OVER HARM TO CHILDREN",
-      "url": "https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/"
-    },
-    {
-      "text": "I'm worried about LLMs accelerating hardware for cheap ASI",
-      "url": "https://www.lesswrong.com/posts/yQmzPMMeBLmGuZokr/i-m-worried-about-llms-accelerating-hardware-for-cheap-asi"
-    },
-    {
-      "text": "Can AI Help Explain AI? Effects of Multimodal LLM-Generated Explanations on Perceived Understanding and Perceived Trust in XAI Visualizations",
-      "url": "https://arxiv.org/abs/2611.21638"
-    },
-    {
-      "text": "Uncertainty Quantification for Large Language Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.14570"
     }
   ],
   "centerColumn": [
-    {
-      "text": "Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?",
-      "url": "https://arxiv.org/abs/2611.22283"
-    },
-    {
-      "text": "The Economics of AI Foundation Models: Openness, Competition, and Governance",
-      "url": "https://arxiv.org/abs/2510.15200"
-    },
-    {
-      "text": "TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding",
-      "url": "https://arxiv.org/abs/2508.07683"
-    },
-    {
-      "text": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
-      "url": "https://arxiv.org/abs/2611.22069"
-    },
     {
       "text": "SeasonRainBench: Global Seasonal Precipitation",
       "url": "https://arxiv.org/abs/2611.22281"
     },
     {
-      "text": "The Safeguard Worked. Is the LLM System Safer?",
-      "url": "https://arxiv.org/abs/2609.00519"
+      "text": "WM-Quant: Rollout-Aware Post-Training Quantization for JEPA-Style World Models",
+      "url": "https://arxiv.org/abs/2611.21882"
     },
     {
-      "text": "The Shared Word: Evaluating Language Models on Dutch Word Puzzles",
-      "url": "https://arxiv.org/abs/2611.22935"
+      "text": "Cancellation-Free Constrained SquareCB for Safe Controller Selection",
+      "url": "https://arxiv.org/abs/2611.21880"
     },
     {
-      "text": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
-      "url": "https://arxiv.org/abs/2611.22238"
+      "text": "ScAn-Bench: Evaluating Scaling Analysis Methodology",
+      "url": "https://arxiv.org/abs/2609.35707"
+    },
+    {
+      "text": "Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?",
+      "url": "https://arxiv.org/abs/2611.22283"
+    },
+    {
+      "text": "Edge-Adaptive Hiera-Seg Model for Building-Integrated Photovoltaic Power Forecasting",
+      "url": "https://arxiv.org/abs/2611.21680"
+    },
+    {
+      "text": "Video recordings and play behaviour annotations of group-housed dairy calves on two Dutch farms",
+      "url": "https://arxiv.org/abs/2611.21706"
+    },
+    {
+      "text": "Skill erosion, individual memory and the reversibility of AI adoption",
+      "url": "https://arxiv.org/abs/2611.04886"
     }
   ],
   "rightColumn": [
     {
-      "text": "EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary",
-      "url": "https://arxiv.org/abs/2611.21690"
+      "text": "Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2611.22438"
     },
     {
-      "text": "From Preference Data to Personalization: Tracing Sycophancy in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.21650"
+      "text": "Encoding, Decodability, and Use: A Five-Layer Framework for Benchmark Measurement Audits with Evidence from UAV Intent Recognition",
+      "url": "https://arxiv.org/abs/2611.22434"
     },
     {
-      "text": "Marimba: A System One Model for Speech",
-      "url": "https://arxiv.org/abs/2611.18330"
+      "text": "Projected Penalty-Gradient Tracking for Communication-Efficient Byzantine-Resilient Federated Learning",
+      "url": "https://arxiv.org/abs/2611.22929"
     },
     {
-      "text": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
-      "url": "https://arxiv.org/abs/2611.23192"
+      "text": "Scaling Laws for Vision-Language Fusion",
+      "url": "https://arxiv.org/abs/2611.22351"
     },
     {
-      "text": "ARC-2: Continuous Compliance Through Delta Management",
-      "url": "https://arxiv.org/abs/2611.21811"
+      "text": "BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.22334"
     },
     {
-      "text": "TUSI: A Citation-Grounded Graph-Based Benchmark",
-      "url": "https://arxiv.org/abs/2611.21823"
+      "text": "ResoLUT: Distilling Residual Networks into Lookup-Table Networks",
+      "url": "https://arxiv.org/abs/2611.22955"
     },
     {
-      "text": "Hidden-State Similarity Predicts Re-Elicitation After Inoculation Prompting",
-      "url": "https://arxiv.org/abs/2611.23096"
+      "text": "Similar Is Not Useful: Selecting In-Context Demonstrations by Closed-Loop Utility",
+      "url": "https://arxiv.org/abs/2611.22295"
     },
     {
-      "text": "EmbedGym: Letting Coding Agents Develop and Debug Embedded Firmware Without Physical Hardware",
-      "url": "https://arxiv.org/abs/2611.21845"
+      "text": "PCGRL for Complex Platformers: Synthesizing Playable and Diverse Levels via Inflated Envelopes and Forward Curricula",
+      "url": "https://arxiv.org/abs/2611.22250"
     }
   ],
-  "lastUpdated": "2026-11-18T15:32:03Z"
+  "lastUpdated": "2026-11-18T18:43:53Z"
 }
