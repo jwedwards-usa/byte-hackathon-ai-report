@@ -53,71 +53,71 @@
   ],
   "centerColumn": [
     {
-      "text": "Agent Authenticator: Passkey-Grade, Hardware-Bound Authentication for AI Agents",
-      "url": "https://arxiv.org/abs/2611.19536"
+      "text": "Tensorized Automata: Algebraically Informed Representation Learning for Sequential Decision Making",
+      "url": "https://arxiv.org/abs/2611.21514"
     },
     {
-      "text": "VeruSAGE-Bench: A Benchmark Suite for Rust System Verification",
-      "url": "https://arxiv.org/abs/2512.18436"
+      "text": "GPromptShield: Elevating Resilience in Graph Prompt Tuning against Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2611.20621"
     },
     {
-      "text": "Do Rule-Based Tools Help LLMs Translate Endangered Uralic Languages in the Prompt or over MCP?",
-      "url": "https://arxiv.org/abs/2611.19439"
+      "text": "Chameleon: Dynamic Format Adapter for Efficient Diffusion",
+      "url": "https://arxiv.org/abs/2609.33496"
     },
     {
-      "text": "MHRC-Bench: A Multilingual Hardware Repository-Level Code Completion benchmark",
-      "url": "https://arxiv.org/abs/2601.03708"
+      "text": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+      "url": "https://arxiv.org/abs/2611.21597"
     },
     {
-      "text": "Skeleton-to-Image Encoding: Enabling Skeleton Representation Learning via Vision-Pretrained Models",
-      "url": "https://arxiv.org/abs/2603.05963"
+      "text": "How Much Determinism Can Fine-Tuning Buy? Margin Regularisation Against Batch-Induced Token Flips",
+      "url": "https://arxiv.org/abs/2611.19135"
     },
     {
-      "text": "Dynamic Spatio-Temporal Graph Attention Networks with Nested Clustered Optimization for Multi-Asset Portfolios",
-      "url": "https://arxiv.org/abs/2611.19903"
+      "text": "Cited Web Sources in LLM Answers about Brands: A Multilingual Audit",
+      "url": "https://arxiv.org/abs/2606.25787"
     },
     {
-      "text": "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts",
-      "url": "https://arxiv.org/abs/2606.02404"
+      "text": "Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?",
+      "url": "https://arxiv.org/abs/2611.19123"
     },
     {
-      "text": "Illusion of Explainability: A Sanity Check for Spectral Band Attribution in Satellite Time-Series Crop Classification",
-      "url": "https://arxiv.org/abs/2611.19889"
+      "text": "Data Attribution Should Steer Pretraining",
+      "url": "https://arxiv.org/abs/2611.19698"
     }
   ],
   "rightColumn": [
     {
-      "text": "A Comparative Study of UMAP and Other Dimensionality Reduction Methods",
-      "url": "https://arxiv.org/abs/2603.02275"
+      "text": "GRAFT: Cross-Backbone LoRA Reuse for Continual Language and Multimodal Learning",
+      "url": "https://arxiv.org/abs/2611.18638"
     },
     {
-      "text": "Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data",
-      "url": "https://arxiv.org/abs/2611.20631"
+      "text": "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry",
+      "url": "https://arxiv.org/abs/2611.20180"
     },
     {
-      "text": "Trustworthy Calibration or Vulnerability? Unveiling the Over-Calibration Paradox and Attack Surface in Rashomon Sets",
-      "url": "https://arxiv.org/abs/2603.11750"
+      "text": "Mechanistic Interpretability of Mambas Selective Gate in Financial Markets: A Leakage-Controlled Study",
+      "url": "https://arxiv.org/abs/2611.18599"
     },
     {
-      "text": "High-probability Uniform Mixing via Dobrushin Contraction and Accelerated Hamiltonian Monte Carlo",
-      "url": "https://arxiv.org/abs/2611.21305"
+      "text": "Not All Data Leakage Is Equal: A Controlled Benchmark of Evaluation Inflation in Tabular Classification",
+      "url": "https://arxiv.org/abs/2611.18598"
     },
     {
-      "text": "Memory-Efficient Speculative Decoding with Quantized Draft KV Cache",
-      "url": "https://arxiv.org/abs/2611.20565"
+      "text": "Scaling large language model-assisted line-of-therapy adjudication with human-in-the-loop evidence-calibrated selection",
+      "url": "https://arxiv.org/abs/2611.20259"
     },
     {
-      "text": "Teaching Language Models to Adapt Answer Granularity to Their Confidence",
-      "url": "https://arxiv.org/abs/2611.21211"
+      "text": "Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living",
+      "url": "https://arxiv.org/abs/2611.17466"
     },
     {
-      "text": "One-Shot Calibration via Model Editing",
-      "url": "https://arxiv.org/abs/2611.20562"
+      "text": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
+      "url": "https://arxiv.org/abs/2611.17048"
     },
     {
-      "text": "AsymEEF: Bimanual Manipulation with Asymmetric End Effectors",
-      "url": "https://arxiv.org/abs/2611.20557"
+      "text": "Internal Verdicts Track Evidence: A Template-Controlled Neutrosophic Reading of Epistemic States in Large Language Models via the Jacobian Lens",
+      "url": "https://arxiv.org/abs/2611.18602"
     }
   ],
-  "lastUpdated": "2026-11-18T00:46:04Z"
+  "lastUpdated": "2026-11-18T03:31:55Z"
 }

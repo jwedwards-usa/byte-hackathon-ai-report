@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
+    "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+  },
+  "topStories": [
+    {
+      "text": "How should we define “capabilities activities” for the purpose of pacing?",
+      "url": "https://www.lesswrong.com/posts/Lxk79qD7DdRYv9Ri7/how-should-we-define-capabilities-activities-for-the-purpose"
+    },
+    {
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
+    },
+    {
+      "text": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    },
+    {
+      "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
+      "url": "https://arxiv.org/abs/2611.18802"
+    },
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "text": "[Research Note] Detecting Research Sabotage with Debate \u0026 Slopvestigators",
+      "url": "https://www.lesswrong.com/posts/Wr3bSxDmuLjcFBpxY/research-note-detecting-research-sabotage-with-debate-and"
+    },
+    {
+      "text": "It seems like misleading responses are mostly not intentional - Benchmarking LLM sophistry",
+      "url": "https://www.lesswrong.com/posts/k6EyvrDjgvmcjFzbi/it-seems-like-misleading-responses-are-mostly-not"
+    },
+    {
+      "text": "DailyAI Briefing: GPT-6.2 Astra and Sol arrive, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-gpt-6-2-astra-sol-arrive-plus-4-more/"
+    },
+    {
+      "text": "A lab employee's guide to raising concerns",
+      "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
+    },
+    {
+      "text": "INTRODUCING CHATGPT FOR SALES",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Tensorized Automata: Algebraically Informed Representation Learning for Sequential Decision Making",
+      "url": "https://arxiv.org/abs/2611.21514"
+    },
+    {
+      "text": "GPromptShield: Elevating Resilience in Graph Prompt Tuning against Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2611.20621"
+    },
+    {
+      "text": "Chameleon: Dynamic Format Adapter for Efficient Diffusion",
+      "url": "https://arxiv.org/abs/2609.33496"
+    },
+    {
+      "text": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+      "url": "https://arxiv.org/abs/2611.21597"
+    },
+    {
+      "text": "How Much Determinism Can Fine-Tuning Buy? Margin Regularisation Against Batch-Induced Token Flips",
+      "url": "https://arxiv.org/abs/2611.19135"
+    },
+    {
+      "text": "Cited Web Sources in LLM Answers about Brands: A Multilingual Audit",
+      "url": "https://arxiv.org/abs/2606.25787"
+    },
+    {
+      "text": "Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?",
+      "url": "https://arxiv.org/abs/2611.19123"
+    },
+    {
+      "text": "Data Attribution Should Steer Pretraining",
+      "url": "https://arxiv.org/abs/2611.19698"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "GRAFT: Cross-Backbone LoRA Reuse for Continual Language and Multimodal Learning",
+      "url": "https://arxiv.org/abs/2611.18638"
+    },
+    {
+      "text": "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry",
+      "url": "https://arxiv.org/abs/2611.20180"
+    },
+    {
+      "text": "Mechanistic Interpretability of Mambas Selective Gate in Financial Markets: A Leakage-Controlled Study",
+      "url": "https://arxiv.org/abs/2611.18599"
+    },
+    {
+      "text": "Not All Data Leakage Is Equal: A Controlled Benchmark of Evaluation Inflation in Tabular Classification",
+      "url": "https://arxiv.org/abs/2611.18598"
+    },
+    {
+      "text": "Scaling large language model-assisted line-of-therapy adjudication with human-in-the-loop evidence-calibrated selection",
+      "url": "https://arxiv.org/abs/2611.20259"
+    },
+    {
+      "text": "Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living",
+      "url": "https://arxiv.org/abs/2611.17466"
+    },
+    {
+      "text": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
+      "url": "https://arxiv.org/abs/2611.17048"
+    },
+    {
+      "text": "Internal Verdicts Track Evidence: A Template-Controlled Neutrosophic Reading of Epistemic States in Large Language Models via the Jacobian Lens",
+      "url": "https://arxiv.org/abs/2611.18602"
+    }
+  ],
+  "lastUpdated": "2026-11-18T03:31:55Z"
+}
