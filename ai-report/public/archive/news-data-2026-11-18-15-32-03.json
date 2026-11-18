@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  "topStories": [
+    {
+      "text": "Quickly, There’s No Time",
+      "url": "https://www.lesswrong.com/posts/KyEuyNAoz3AsJf6RW/quickly-there-s-no-time"
+    },
+    {
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    },
+    {
+      "text": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
+      "url": "https://arxiv.org/abs/2507.02844"
+    },
+    {
+      "text": "AI Takeoff: Complex Tasks and Pacing",
+      "url": "https://www.lesswrong.com/posts/K7jgPBhQSgwpmv8DT/ai-takeoff-complex-tasks-and-pacing"
+    },
+    {
+      "text": "I am not making time to grieve",
+      "url": "https://www.lesswrong.com/posts/Zbqb3DLYwGTHFcWwH/i-am-not-making-time-to-grieve"
+    },
+    {
+      "text": "Wiz Finds Only 3 Victims in 55-Minute Microsoft AI Toolkit Hack",
+      "url": "https://dailyai.com/2026/11/wiz-finds-only-3-victims-in-55-minute-microsoft-ai-toolkit-hack/"
+    },
+    {
+      "text": "OREGON SUES OPENAI FOR $2.035 BILLION OVER HARM TO CHILDREN",
+      "url": "https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/"
+    },
+    {
+      "text": "I'm worried about LLMs accelerating hardware for cheap ASI",
+      "url": "https://www.lesswrong.com/posts/yQmzPMMeBLmGuZokr/i-m-worried-about-llms-accelerating-hardware-for-cheap-asi"
+    },
+    {
+      "text": "Can AI Help Explain AI? Effects of Multimodal LLM-Generated Explanations on Perceived Understanding and Perceived Trust in XAI Visualizations",
+      "url": "https://arxiv.org/abs/2611.21638"
+    },
+    {
+      "text": "Uncertainty Quantification for Large Language Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.14570"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?",
+      "url": "https://arxiv.org/abs/2611.22283"
+    },
+    {
+      "text": "The Economics of AI Foundation Models: Openness, Competition, and Governance",
+      "url": "https://arxiv.org/abs/2510.15200"
+    },
+    {
+      "text": "TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding",
+      "url": "https://arxiv.org/abs/2508.07683"
+    },
+    {
+      "text": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
+      "url": "https://arxiv.org/abs/2611.22069"
+    },
+    {
+      "text": "SeasonRainBench: Global Seasonal Precipitation",
+      "url": "https://arxiv.org/abs/2611.22281"
+    },
+    {
+      "text": "The Safeguard Worked. Is the LLM System Safer?",
+      "url": "https://arxiv.org/abs/2609.00519"
+    },
+    {
+      "text": "The Shared Word: Evaluating Language Models on Dutch Word Puzzles",
+      "url": "https://arxiv.org/abs/2611.22935"
+    },
+    {
+      "text": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
+      "url": "https://arxiv.org/abs/2611.22238"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary",
+      "url": "https://arxiv.org/abs/2611.21690"
+    },
+    {
+      "text": "From Preference Data to Personalization: Tracing Sycophancy in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21650"
+    },
+    {
+      "text": "Marimba: A System One Model for Speech",
+      "url": "https://arxiv.org/abs/2611.18330"
+    },
+    {
+      "text": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+      "url": "https://arxiv.org/abs/2611.23192"
+    },
+    {
+      "text": "ARC-2: Continuous Compliance Through Delta Management",
+      "url": "https://arxiv.org/abs/2611.21811"
+    },
+    {
+      "text": "TUSI: A Citation-Grounded Graph-Based Benchmark",
+      "url": "https://arxiv.org/abs/2611.21823"
+    },
+    {
+      "text": "Hidden-State Similarity Predicts Re-Elicitation After Inoculation Prompting",
+      "url": "https://arxiv.org/abs/2611.23096"
+    },
+    {
+      "text": "EmbedGym: Letting Coding Agents Develop and Debug Embedded Firmware Without Physical Hardware",
+      "url": "https://arxiv.org/abs/2611.21845"
+    }
+  ],
+  "lastUpdated": "2026-11-18T15:32:03Z"
+}
