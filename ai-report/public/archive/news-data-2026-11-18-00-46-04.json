@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "OPENAI OFFERS 50,000 NEW GRANTS OF FREE CHATGPT PLUS",
+    "url": "https://dailyai.com/2026/11/openai-offers-50000-new-grants-of-free-chatgpt-plus/"
+  },
+  "topStories": [
+    {
+      "text": "How should we define “capabilities activities” for the purpose of pacing?",
+      "url": "https://www.lesswrong.com/posts/Lxk79qD7DdRYv9Ri7/how-should-we-define-capabilities-activities-for-the-purpose"
+    },
+    {
+      "text": "BITBYPASS: A NEW DIRECTION IN JAILBREAKING ALIGNED LARGE LANGUAGE MODELS WITH BITSTREAM CAMOUFLAGE",
+      "url": "https://arxiv.org/abs/2506.02479"
+    },
+    {
+      "text": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    },
+    {
+      "text": "Actuarial-Informed Neural Networks: Constrained Deep Learning for Sex-Specific Multi-Population Longevity Forecasting",
+      "url": "https://arxiv.org/abs/2611.18802"
+    },
+    {
+      "text": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "text": "[Research Note] Detecting Research Sabotage with Debate \u0026 Slopvestigators",
+      "url": "https://www.lesswrong.com/posts/Wr3bSxDmuLjcFBpxY/research-note-detecting-research-sabotage-with-debate-and"
+    },
+    {
+      "text": "It seems like misleading responses are mostly not intentional - Benchmarking LLM sophistry",
+      "url": "https://www.lesswrong.com/posts/k6EyvrDjgvmcjFzbi/it-seems-like-misleading-responses-are-mostly-not"
+    },
+    {
+      "text": "DailyAI Briefing: GPT-6.2 Astra and Sol arrive, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-gpt-6-2-astra-sol-arrive-plus-4-more/"
+    },
+    {
+      "text": "A lab employee's guide to raising concerns",
+      "url": "https://www.lesswrong.com/posts/JPwYH3hEfLhEDaNFp/a-lab-employee-s-guide-to-raising-concerns"
+    },
+    {
+      "text": "INTRODUCING CHATGPT FOR SALES",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Agent Authenticator: Passkey-Grade, Hardware-Bound Authentication for AI Agents",
+      "url": "https://arxiv.org/abs/2611.19536"
+    },
+    {
+      "text": "VeruSAGE-Bench: A Benchmark Suite for Rust System Verification",
+      "url": "https://arxiv.org/abs/2512.18436"
+    },
+    {
+      "text": "Do Rule-Based Tools Help LLMs Translate Endangered Uralic Languages in the Prompt or over MCP?",
+      "url": "https://arxiv.org/abs/2611.19439"
+    },
+    {
+      "text": "MHRC-Bench: A Multilingual Hardware Repository-Level Code Completion benchmark",
+      "url": "https://arxiv.org/abs/2601.03708"
+    },
+    {
+      "text": "Skeleton-to-Image Encoding: Enabling Skeleton Representation Learning via Vision-Pretrained Models",
+      "url": "https://arxiv.org/abs/2603.05963"
+    },
+    {
+      "text": "Dynamic Spatio-Temporal Graph Attention Networks with Nested Clustered Optimization for Multi-Asset Portfolios",
+      "url": "https://arxiv.org/abs/2611.19903"
+    },
+    {
+      "text": "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts",
+      "url": "https://arxiv.org/abs/2606.02404"
+    },
+    {
+      "text": "Illusion of Explainability: A Sanity Check for Spectral Band Attribution in Satellite Time-Series Crop Classification",
+      "url": "https://arxiv.org/abs/2611.19889"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "A Comparative Study of UMAP and Other Dimensionality Reduction Methods",
+      "url": "https://arxiv.org/abs/2603.02275"
+    },
+    {
+      "text": "Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data",
+      "url": "https://arxiv.org/abs/2611.20631"
+    },
+    {
+      "text": "Trustworthy Calibration or Vulnerability? Unveiling the Over-Calibration Paradox and Attack Surface in Rashomon Sets",
+      "url": "https://arxiv.org/abs/2603.11750"
+    },
+    {
+      "text": "High-probability Uniform Mixing via Dobrushin Contraction and Accelerated Hamiltonian Monte Carlo",
+      "url": "https://arxiv.org/abs/2611.21305"
+    },
+    {
+      "text": "Memory-Efficient Speculative Decoding with Quantized Draft KV Cache",
+      "url": "https://arxiv.org/abs/2611.20565"
+    },
+    {
+      "text": "Teaching Language Models to Adapt Answer Granularity to Their Confidence",
+      "url": "https://arxiv.org/abs/2611.21211"
+    },
+    {
+      "text": "One-Shot Calibration via Model Editing",
+      "url": "https://arxiv.org/abs/2611.20562"
+    },
+    {
+      "text": "AsymEEF: Bimanual Manipulation with Asymmetric End Effectors",
+      "url": "https://arxiv.org/abs/2611.20557"
+    }
+  ],
+  "lastUpdated": "2026-11-18T00:46:04Z"
+}
