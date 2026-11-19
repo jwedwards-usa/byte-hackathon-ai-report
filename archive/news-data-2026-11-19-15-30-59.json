@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #195: Opening Bell",
+    "url": "https://www.lesswrong.com/posts/De5LBagrSCKd3Q9cs/ai-195-opening-bell"
+  },
+  "topStories": [
+    {
+      "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+    },
+    {
+      "text": "CHATGPT CAN TRANSCRIBE AS YOU SPEAK NOW WITH LIVE DICTATION",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    },
+    {
+      "text": "Anthropic is not living up to its ideals",
+      "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Opus 5.5 Forecast: The Road to an AI Deal",
+      "url": "https://www.lesswrong.com/posts/dPXq2hPhZZo7P28fm/opus-5-5-forecast-the-road-to-an-ai-deal-1"
+    },
+    {
+      "text": "One of Anthropic’s Biggest I.P.O. Winners Feels a Bit Uneasy About the Whole Thing",
+      "url": "https://www.lesswrong.com/posts/wzgQ7gopzWMeaEoE9/one-of-anthropic-s-biggest-i-p-o-winners-feels-a-bit-uneasy"
+    },
+    {
+      "text": "\"Prosaic AI alignment\": 10 years later",
+      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later"
+    },
+    {
+      "text": "UK MPs Say AI Safety Gaps Risk a £400bn Economic Gain",
+      "url": "https://dailyai.com/2026/11/uk-mps-say-ai-safety-gaps-risk-a-400bn-growth-prize/"
+    },
+    {
+      "text": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
+    },
+    {
+      "text": "ADVANCING CHIP DESIGN WITH OPENAI MODELS",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "How to Run Claude Code and Other Coding Agents in the Cloud 24/7",
+      "url": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "How Uncertain Is My Action? Self-Correcting Visual Planning with Frozen World Models",
+      "url": "https://arxiv.org/abs/2611.23620"
+    },
+    {
+      "text": "Toward Out-of-Distribution Generalization in Neural AC Power Flow",
+      "url": "https://arxiv.org/abs/2611.23729"
+    },
+    {
+      "text": "Benchmarking LLM abilities on postdoc-level natural science problems",
+      "url": "https://arxiv.org/abs/2611.24321"
+    },
+    {
+      "text": "HealthCLBench:Evaluating Context Learning in Health Conversations through Controlled Case Clusters",
+      "url": "https://arxiv.org/abs/2611.22362"
+    },
+    {
+      "text": "automodel: A Skill for Agentic Model Discovery",
+      "url": "https://arxiv.org/abs/2611.24347"
+    },
+    {
+      "text": "AGAMOTTO: An AI-Enabled Framework for Time-Critical Tactical Course-of-Action Evaluation and Generation",
+      "url": "https://arxiv.org/abs/2611.24568"
+    },
+    {
+      "text": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
+      "url": "https://arxiv.org/abs/2611.23570"
+    },
+    {
+      "text": "OracleZoom: Reference-Constrained Recursive Image Super-Resolution Beyond Ground Truth",
+      "url": "https://arxiv.org/abs/2609.06490"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MoE-Context: Show the Model Only What It Needs",
+      "url": "https://arxiv.org/abs/2611.24379"
+    },
+    {
+      "text": "CriticHack: Evaluating Visual Rewards Under Robot Policy Optimization",
+      "url": "https://arxiv.org/abs/2610.02527"
+    },
+    {
+      "text": "Risk-Triggered Search: Behavior-Preserving Safe Control",
+      "url": "https://arxiv.org/abs/2611.24409"
+    },
+    {
+      "text": "Distill What You Trust: Reliability-Aware Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.23697"
+    },
+    {
+      "text": "Swiss-Knife: A Framework for Reconfigurable Externalised Multi-Objective Alignment at Decode Time",
+      "url": "https://arxiv.org/abs/2609.22226"
+    },
+    {
+      "text": "Study and Improvement of Search Algorithms in Stochastic Perfect-Information",
+      "url": "https://arxiv.org/abs/2611.24486"
+    },
+    {
+      "text": "Formal Adequacy Index (based on Polish-language material)",
+      "url": "https://arxiv.org/abs/2611.23482"
+    },
+    {
+      "text": "Beyond Replacement: Levenshtein Editing for Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.23750"
+    }
+  ],
+  "lastUpdated": "2026-11-19T15:30:59Z"
+}
