@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #195: Opening Bell",
+    "url": "https://www.lesswrong.com/posts/De5LBagrSCKd3Q9cs/ai-195-opening-bell"
+  },
+  "topStories": [
+    {
+      "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+    },
+    {
+      "text": "\"Prosaic AI alignment\": 10 years later",
+      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later"
+    },
+    {
+      "text": "No one ever intends to raise a serial killer",
+      "url": "https://www.lesswrong.com/posts/tiLJs4mo2D2aSgXzr/no-one-ever-intends-to-raise-a-serial-killer"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Blue-teaming AI Through Safety Hillclimbing",
+      "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
+    },
+    {
+      "text": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
+    },
+    {
+      "text": "ADVANCING CHIP DESIGN WITH OPENAI MODELS",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
+    },
+    {
+      "text": "Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)",
+      "url": "https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow"
+    },
+    {
+      "text": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+      "url": "https://arxiv.org/abs/2607.10059"
+    },
+    {
+      "text": "From Arraignment to Resolution: Transformer Models of Court Cases",
+      "url": "https://arxiv.org/abs/2611.23518"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Evaluating the Effectiveness of Location Encoding Methods for Species Distribution Modelling",
+      "url": "https://arxiv.org/abs/2611.24622"
+    },
+    {
+      "text": "Transferring an analysis of human brain organization to language models",
+      "url": "https://arxiv.org/abs/2611.24626"
+    },
+    {
+      "text": "How K-12 Teachers Adapt Generative AI to Local Classroom Demands: Cultural Distance Between GenAI Defaults and Everyday Teaching Practices",
+      "url": "https://arxiv.org/abs/2509.10780"
+    },
+    {
+      "text": "Training-free motion statistics match self-supervised behavior encoders",
+      "url": "https://arxiv.org/abs/2611.24792"
+    },
+    {
+      "text": "FedS2R: One-Shot Federated Domain Generalization for Synthetic-to-Real Semantic Segmentation in Autonomous Driving",
+      "url": "https://arxiv.org/abs/2507.19881"
+    },
+    {
+      "text": "Stealing Exact Training Data from Other Clients during Federated Learning",
+      "url": "https://arxiv.org/abs/2611.24689"
+    },
+    {
+      "text": "Sex Differences in the Detection of Parkinson's Disease from Speech",
+      "url": "https://arxiv.org/abs/2611.24741"
+    },
+    {
+      "text": "How Generative Models Generate: A Concise Guide to the Generative AI Landscape",
+      "url": "https://arxiv.org/abs/2611.24728"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Improving Cross-Lingual Token Representations by Adding a Pinch of SALT",
+      "url": "https://arxiv.org/abs/2609.09953"
+    },
+    {
+      "text": "How do features act in an individual prediction? Separating standalone and interaction effects with a case-based taxonomy",
+      "url": "https://arxiv.org/abs/2608.27821"
+    },
+    {
+      "text": "Scrouting: Cost-Aware Routing of Coding Agents by Scouting the Repository First",
+      "url": "https://arxiv.org/abs/2608.04804"
+    },
+    {
+      "text": "Towards Reliable Scaling Laws for Tabular Foundation Models",
+      "url": "https://arxiv.org/abs/2611.24214"
+    },
+    {
+      "text": "TRESS: A Fixed-Size History Representation for Irregular Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2611.24257"
+    },
+    {
+      "text": "MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping",
+      "url": "https://arxiv.org/abs/2608.02014"
+    },
+    {
+      "text": "Supervised Hebbian Class Networks: Learning Without Backpropagation",
+      "url": "https://arxiv.org/abs/2611.24314"
+    },
+    {
+      "text": "SciFigQual-Bench: Scientific Figure Quality Assessment with Manuscript-Linked Context",
+      "url": "https://arxiv.org/abs/2607.27084"
+    }
+  ],
+  "lastUpdated": "2026-11-19T12:34:21Z"
+}
