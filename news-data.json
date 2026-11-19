@@ -5,16 +5,16 @@
   },
   "topStories": [
     {
-      "text": "Blue-teaming AI Through Safety Hillclimbing",
-      "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
-    },
-    {
-      "text": "GPT-6 Astra glues text during inter-agent communication",
-      "url": "https://www.lesswrong.com/posts/qXooyt55SbYjgP8aS/gpt-6-astra-glues-text-during-inter-agent-communication"
+      "text": "\"Prosaic AI alignment\": 10 years later",
+      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later"
     },
     {
       "text": "Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)",
       "url": "https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow"
+    },
+    {
+      "text": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+      "url": "https://arxiv.org/abs/2607.10059"
     }
   ],
   "leftColumn": [
@@ -27,97 +27,97 @@
       "url": "https://arxiv.org/abs/2611.23518"
     },
     {
-      "text": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
-      "url": "https://arxiv.org/abs/2611.24049"
-    },
-    {
       "text": "Graph-of-Thoughts for LLM Causal Discovery with a Fairness-Pathway Case Study",
       "url": "https://arxiv.org/abs/2608.02877"
     },
     {
-      "text": "AgentAbstain: Do LLM Agents Know When Not to Act?",
-      "url": "https://arxiv.org/abs/2607.10059"
+      "text": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.24049"
     },
     {
-      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
-      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+      "text": "Blue-teaming AI Through Safety Hillclimbing",
+      "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
     },
     {
-      "text": "Slides on Solomonoff induction \u0026 AIXI",
-      "url": "https://www.lesswrong.com/posts/cuDt57dmmbYwf9ECe/slides-on-solomonoff-induction-and-aixi"
+      "text": "MedExAgent: Training LLM Agents to Ask, Examine, and Diagnose in Noisy Clinical Environments",
+      "url": "https://arxiv.org/abs/2605.07058"
     },
     {
-      "text": "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction",
-      "url": "https://arxiv.org/abs/2611.23638"
+      "text": "Disentangling generalization and memorization in large language models using chess",
+      "url": "https://arxiv.org/abs/2601.16823"
+    },
+    {
+      "text": "Anticipating or Speculating? Making Futures Pay in AI Ethics",
+      "url": "https://arxiv.org/abs/2611.22268"
     }
   ],
   "centerColumn": [
     {
-      "text": "Weight Space Programming for Vision Language Model Repair",
-      "url": "https://arxiv.org/abs/2611.23615"
+      "text": "Taming the Tails of Stochastic Gradient Descent in the Interpolation Regime",
+      "url": "https://arxiv.org/abs/2611.24562"
     },
     {
-      "text": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
-      "url": "https://arxiv.org/abs/2611.23588"
+      "text": "How Reward Gain Imbalance Shapes Ranking: Rethinking Rubric-Based Reward Aggregation",
+      "url": "https://arxiv.org/abs/2611.24005"
     },
     {
-      "text": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
-      "url": "https://arxiv.org/abs/2611.23835"
+      "text": "Intent Contracts: Taking Tools Away from Agents",
+      "url": "https://arxiv.org/abs/2611.24025"
     },
     {
-      "text": "How Complete Must an Environment Be to Train a Capable GUI Agent?",
-      "url": "https://arxiv.org/abs/2611.23946"
+      "text": "FormalFixer: Intent-Aligned Automated Hardware Repair via Joint Refinement of Specifications, Assertions, and RTL Implementations",
+      "url": "https://arxiv.org/abs/2611.24037"
     },
     {
       "text": "META$^N$: RECURSIVE SELF-IMPROVEMENT THROUGH EMERGENT DEPTH",
       "url": "https://arxiv.org/abs/2608.24735"
     },
     {
-      "text": "Rethinking Contrastive Targets in Radiology Language-Image Pretraining",
-      "url": "https://arxiv.org/abs/2611.24016"
+      "text": "What competing constraints reveal about representation learning",
+      "url": "https://arxiv.org/abs/2605.15995"
     },
     {
-      "text": "Calibrated Uncertainty Quantification on TDC ADMET: What Can Be Resolved Across 22 Datasets?",
-      "url": "https://arxiv.org/abs/2611.09373"
+      "text": "Learning to Decide with AI Assistance under Human-Alignment",
+      "url": "https://arxiv.org/abs/2605.12646"
     },
     {
-      "text": "Training Autoregressive Language Models on Rounded, Bounded, and Censored Numerical Labels via Exact Likelihood",
-      "url": "https://arxiv.org/abs/2611.02461"
+      "text": "MOLT: A Hugging Face-Native, Minimal, and Scalable Framework for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.21653"
     }
   ],
   "rightColumn": [
     {
-      "text": "MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping",
-      "url": "https://arxiv.org/abs/2608.02014"
+      "text": "FedE2E: One-Shot Federated Learning for End-to-End Autonomous Driving with Closed-Loop Evaluation",
+      "url": "https://arxiv.org/abs/2611.24254"
     },
     {
-      "text": "SciFigQual-Bench: Scientific Figure Quality Assessment with Manuscript-Linked Context",
-      "url": "https://arxiv.org/abs/2607.27084"
+      "text": "Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning",
+      "url": "https://arxiv.org/abs/2611.24718"
     },
     {
-      "text": "Operational Proto-Introspection in Looped Language Models: Reading Correctness Before the Answer",
-      "url": "https://arxiv.org/abs/2607.18553"
+      "text": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2611.24840"
     },
     {
-      "text": "Beyond Corpus-Driven Imitation: Evolving Musical Mindsets in the Agentic Orchestra via Quantum Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.24290"
+      "text": "Disagreement-Guided Agentic Data Curation for Multimodal Safety",
+      "url": "https://arxiv.org/abs/2607.14256"
     },
     {
-      "text": "Rational Sparse Autoencoder",
-      "url": "https://arxiv.org/abs/2606.14990"
+      "text": "GALA: Gallery-Level Alignment for Real-Life Vision Decoding from EEG",
+      "url": "https://arxiv.org/abs/2611.24206"
     },
     {
-      "text": "Measuring What Matters: Synthetic Benchmarks for Concept Bottleneck Models",
-      "url": "https://arxiv.org/abs/2606.04326"
+      "text": "Variance-Optimal Counterfactual Policy Design for Sample-Efficient Online A/B Testing",
+      "url": "https://arxiv.org/abs/2611.24757"
     },
     {
-      "text": "Equal Steps, Unequal Curvature: Where Muon's Update Goes Wrong",
-      "url": "https://arxiv.org/abs/2611.24644"
+      "text": "Elysium: Simulation-Free Unbalanced Schr\\\"odinger Bridges",
+      "url": "https://arxiv.org/abs/2611.24763"
     },
     {
-      "text": "EasyOPD: An Easy-to-use On-Policy Distillation Framework for Large Language Models",
-      "url": "https://arxiv.org/abs/2607.11012"
+      "text": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+      "url": "https://arxiv.org/abs/2611.24764"
     }
   ],
-  "lastUpdated": "2026-11-19T06:36:07Z"
+  "lastUpdated": "2026-11-19T09:26:14Z"
 }
