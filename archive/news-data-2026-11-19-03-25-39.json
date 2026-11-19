@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  "topStories": [
+    {
+      "text": "Blue-teaming AI Through Safety Hillclimbing",
+      "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
+    },
+    {
+      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
+      "url": "https://arxiv.org/abs/2507.02844"
+    },
+    {
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "GPT-6.2 Astra scores below chance on TASTE; GPT-6 Astra and Fable 5.2 near chance",
+      "url": "https://www.lesswrong.com/posts/4LpsoPeQTaFsZfC8H/gpt-6-2-astra-scores-below-chance-on-taste-gpt-6-astra-and"
+    },
+    {
+      "text": "Pacing AI via Compute Reallocation",
+      "url": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"
+    },
+    {
+      "text": "OREGON SUES OPENAI FOR $2.035 BILLION OVER HARM TO CHILDREN",
+      "url": "https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/"
+    },
+    {
+      "text": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life"
+    },
+    {
+      "text": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "text": "Uncertainty Quantification for Large Language Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.14570"
+    },
+    {
+      "text": "Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning",
+      "url": "https://arxiv.org/abs/2606.05046"
+    },
+    {
+      "text": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "url": "https://arxiv.org/abs/2611.22177"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding",
+      "url": "https://arxiv.org/abs/2508.07683"
+    },
+    {
+      "text": "Seeing Is Not Enough: Knowledge-Grounded Active Inquiry from Uncertain Visual Evidence",
+      "url": "https://arxiv.org/abs/2610.38774"
+    },
+    {
+      "text": "Forecasting How RLHF Responds to Reward-Model Edits Before Training",
+      "url": "https://arxiv.org/abs/2611.03244"
+    },
+    {
+      "text": "The Economics of AI Foundation Models: Openness, Competition, and Governance",
+      "url": "https://arxiv.org/abs/2510.15200"
+    },
+    {
+      "text": "PromptPack: Training-Free Augmentation of Diffusion Editors for Intent-Aligned Spatial and Semantic Control",
+      "url": "https://arxiv.org/abs/2611.21865"
+    },
+    {
+      "text": "Cancellation-Free Constrained SquareCB for Safe Controller Selection",
+      "url": "https://arxiv.org/abs/2611.21880"
+    },
+    {
+      "text": "FailureGen: Scalable Robot Failure Data Generation with World Models",
+      "url": "https://arxiv.org/abs/2611.22367"
+    },
+    {
+      "text": "An AI-Driven Assistant for Human-Centric Building Digital Twin Systems: Design, Implementation, and Comparative User Evaluation",
+      "url": "https://arxiv.org/abs/2611.22350"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Alternating Abduction and Planning over Temporal Dynamic Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2607.27287"
+    },
+    {
+      "text": "Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios",
+      "url": "https://arxiv.org/abs/2608.08077"
+    },
+    {
+      "text": "NS-Gym: A Comprehensive and Open-Source Simulation Framework for Non-Stationary Markov Decision Processes",
+      "url": "https://arxiv.org/abs/2501.09646"
+    },
+    {
+      "text": "Higher-Scoring Coding Models Did Not Get More Work Done",
+      "url": "https://arxiv.org/abs/2611.23216"
+    },
+    {
+      "text": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+      "url": "https://arxiv.org/abs/2611.23205"
+    },
+    {
+      "text": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.23179"
+    },
+    {
+      "text": "Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks",
+      "url": "https://arxiv.org/abs/2610.02001"
+    },
+    {
+      "text": "Inference after coding agents",
+      "url": "https://arxiv.org/abs/2611.23174"
+    }
+  ],
+  "lastUpdated": "2026-11-19T03:25:39Z"
+}
