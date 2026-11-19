@@ -9,18 +9,30 @@
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     {
-      "text": "\"Prosaic AI alignment\": 10 years later",
-      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later"
+      "text": "CHATGPT CAN TRANSCRIBE AS YOU SPEAK NOW WITH LIVE DICTATION",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
     },
     {
-      "text": "No one ever intends to raise a serial killer",
-      "url": "https://www.lesswrong.com/posts/tiLJs4mo2D2aSgXzr/no-one-ever-intends-to-raise-a-serial-killer"
+      "text": "Anthropic is not living up to its ideals",
+      "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals"
     }
   ],
   "leftColumn": [
     {
-      "text": "Blue-teaming AI Through Safety Hillclimbing",
-      "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
+      "text": "Opus 5.5 Forecast: The Road to an AI Deal",
+      "url": "https://www.lesswrong.com/posts/dPXq2hPhZZo7P28fm/opus-5-5-forecast-the-road-to-an-ai-deal-1"
+    },
+    {
+      "text": "One of Anthropic’s Biggest I.P.O. Winners Feels a Bit Uneasy About the Whole Thing",
+      "url": "https://www.lesswrong.com/posts/wzgQ7gopzWMeaEoE9/one-of-anthropic-s-biggest-i-p-o-winners-feels-a-bit-uneasy"
+    },
+    {
+      "text": "\"Prosaic AI alignment\": 10 years later",
+      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later"
+    },
+    {
+      "text": "UK MPs Say AI Safety Gaps Risk a £400bn Economic Gain",
+      "url": "https://dailyai.com/2026/11/uk-mps-say-ai-safety-gaps-risk-a-400bn-growth-prize/"
     },
     {
       "text": "llm-gemini 0.38",
@@ -35,89 +47,77 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "A human liver has been kept alive outside the body for a record seven weeks",
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
-    },
-    {
-      "text": "Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)",
-      "url": "https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow"
-    },
-    {
-      "text": "AgentAbstain: Do LLM Agents Know When Not to Act?",
-      "url": "https://arxiv.org/abs/2607.10059"
-    },
-    {
-      "text": "From Arraignment to Resolution: Transformer Models of Court Cases",
-      "url": "https://arxiv.org/abs/2611.23518"
+      "text": "How to Run Claude Code and Other Coding Agents in the Cloud 24/7",
+      "url": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/"
     }
   ],
   "centerColumn": [
     {
-      "text": "Evaluating the Effectiveness of Location Encoding Methods for Species Distribution Modelling",
-      "url": "https://arxiv.org/abs/2611.24622"
+      "text": "How Uncertain Is My Action? Self-Correcting Visual Planning with Frozen World Models",
+      "url": "https://arxiv.org/abs/2611.23620"
     },
     {
-      "text": "Transferring an analysis of human brain organization to language models",
-      "url": "https://arxiv.org/abs/2611.24626"
+      "text": "Toward Out-of-Distribution Generalization in Neural AC Power Flow",
+      "url": "https://arxiv.org/abs/2611.23729"
     },
     {
-      "text": "How K-12 Teachers Adapt Generative AI to Local Classroom Demands: Cultural Distance Between GenAI Defaults and Everyday Teaching Practices",
-      "url": "https://arxiv.org/abs/2509.10780"
+      "text": "Benchmarking LLM abilities on postdoc-level natural science problems",
+      "url": "https://arxiv.org/abs/2611.24321"
     },
     {
-      "text": "Training-free motion statistics match self-supervised behavior encoders",
-      "url": "https://arxiv.org/abs/2611.24792"
+      "text": "HealthCLBench:Evaluating Context Learning in Health Conversations through Controlled Case Clusters",
+      "url": "https://arxiv.org/abs/2611.22362"
     },
     {
-      "text": "FedS2R: One-Shot Federated Domain Generalization for Synthetic-to-Real Semantic Segmentation in Autonomous Driving",
-      "url": "https://arxiv.org/abs/2507.19881"
+      "text": "automodel: A Skill for Agentic Model Discovery",
+      "url": "https://arxiv.org/abs/2611.24347"
     },
     {
-      "text": "Stealing Exact Training Data from Other Clients during Federated Learning",
-      "url": "https://arxiv.org/abs/2611.24689"
+      "text": "AGAMOTTO: An AI-Enabled Framework for Time-Critical Tactical Course-of-Action Evaluation and Generation",
+      "url": "https://arxiv.org/abs/2611.24568"
     },
     {
-      "text": "Sex Differences in the Detection of Parkinson's Disease from Speech",
-      "url": "https://arxiv.org/abs/2611.24741"
+      "text": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
+      "url": "https://arxiv.org/abs/2611.23570"
     },
     {
-      "text": "How Generative Models Generate: A Concise Guide to the Generative AI Landscape",
-      "url": "https://arxiv.org/abs/2611.24728"
+      "text": "OracleZoom: Reference-Constrained Recursive Image Super-Resolution Beyond Ground Truth",
+      "url": "https://arxiv.org/abs/2609.06490"
     }
   ],
   "rightColumn": [
     {
-      "text": "Improving Cross-Lingual Token Representations by Adding a Pinch of SALT",
-      "url": "https://arxiv.org/abs/2609.09953"
+      "text": "MoE-Context: Show the Model Only What It Needs",
+      "url": "https://arxiv.org/abs/2611.24379"
     },
     {
-      "text": "How do features act in an individual prediction? Separating standalone and interaction effects with a case-based taxonomy",
-      "url": "https://arxiv.org/abs/2608.27821"
+      "text": "CriticHack: Evaluating Visual Rewards Under Robot Policy Optimization",
+      "url": "https://arxiv.org/abs/2610.02527"
     },
     {
-      "text": "Scrouting: Cost-Aware Routing of Coding Agents by Scouting the Repository First",
-      "url": "https://arxiv.org/abs/2608.04804"
+      "text": "Risk-Triggered Search: Behavior-Preserving Safe Control",
+      "url": "https://arxiv.org/abs/2611.24409"
     },
     {
-      "text": "Towards Reliable Scaling Laws for Tabular Foundation Models",
-      "url": "https://arxiv.org/abs/2611.24214"
+      "text": "Distill What You Trust: Reliability-Aware Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.23697"
     },
     {
-      "text": "TRESS: A Fixed-Size History Representation for Irregular Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2611.24257"
+      "text": "Swiss-Knife: A Framework for Reconfigurable Externalised Multi-Objective Alignment at Decode Time",
+      "url": "https://arxiv.org/abs/2609.22226"
     },
     {
-      "text": "MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping",
-      "url": "https://arxiv.org/abs/2608.02014"
+      "text": "Study and Improvement of Search Algorithms in Stochastic Perfect-Information",
+      "url": "https://arxiv.org/abs/2611.24486"
     },
     {
-      "text": "Supervised Hebbian Class Networks: Learning Without Backpropagation",
-      "url": "https://arxiv.org/abs/2611.24314"
+      "text": "Formal Adequacy Index (based on Polish-language material)",
+      "url": "https://arxiv.org/abs/2611.23482"
     },
     {
-      "text": "SciFigQual-Bench: Scientific Figure Quality Assessment with Manuscript-Linked Context",
-      "url": "https://arxiv.org/abs/2607.27084"
+      "text": "Beyond Replacement: Levenshtein Editing for Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.23750"
     }
   ],
-  "lastUpdated": "2026-11-19T12:34:21Z"
+  "lastUpdated": "2026-11-19T15:30:59Z"
 }
