@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "AI #195: Opening Bell",
-    "url": "https://www.lesswrong.com/posts/De5LBagrSCKd3Q9cs/ai-195-opening-bell"
+    "text": "HOW OPENAI’S PERFORMANCE FACTORY KEEPS CHATGPT FAST",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
   },
   "topStories": [
-    {
-      "text": "HOW OPENAI’S PERFORMANCE FACTORY KEEPS CHATGPT FAST",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-    },
     {
       "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     {
-      "text": "Opus 5.5 Forecast: The Road to an AI Deal",
-      "url": "https://www.lesswrong.com/posts/dPXq2hPhZZo7P28fm/opus-5-5-forecast-the-road-to-an-ai-deal-1"
+      "text": "Frontier Clock: Tracking the US-China AI Gap",
+      "url": "https://www.lesswrong.com/posts/emigsbmpWiJxRkDvw/frontier-clock-tracking-the-us-china-ai-gap"
+    },
+    {
+      "text": "One unbroken Claude, or a thousand glued together?",
+      "url": "https://www.lesswrong.com/posts/qT9fXatfzrmM4xJjr/one-unbroken-claude-or-a-thousand-glued-together"
     }
   ],
   "leftColumn": [
     {
-      "text": "One unbroken Claude, or a thousand glued together?",
-      "url": "https://www.lesswrong.com/posts/qT9fXatfzrmM4xJjr/one-unbroken-claude-or-a-thousand-glued-together"
-    },
-    {
       "text": "CHATGPT DICTATION NO LONGER HAS A 10-MINUTE TIME LIMIT",
       "url": "https://dailyai.com/2026/11/chatgpt-dictation-no-longer-has-a-10-minute-time-limit/"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic IPO at $83 a share, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-83-ipo-plus-4-more/"
     },
     {
       "text": "Towards embedded evaluations for AI monitoring",
       "url": "https://www.lesswrong.com/posts/pXnwQ3ESp3wXhLzNa/towards-embedded-evaluations-for-ai-monitoring"
     },
     {
-      "text": "CHATGPT CAN TRANSCRIBE AS YOU SPEAK NOW WITH LIVE DICTATION",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+      "text": "Opus 5.5 Forecast: The Road to an AI Deal",
+      "url": "https://www.lesswrong.com/posts/dPXq2hPhZZo7P28fm/opus-5-5-forecast-the-road-to-an-ai-deal-1"
     },
     {
-      "text": "Anthropic is not living up to its ideals",
-      "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals"
+      "text": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
     },
     {
-      "text": "\"Prosaic AI alignment\": 10 years later",
-      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later"
+      "text": "ADVANCING CHIP DESIGN WITH OPENAI MODELS",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
     },
     {
-      "text": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
-      "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "One of Anthropic’s Biggest I.P.O. Winners Feels a Bit Uneasy About the Whole Thing",
-      "url": "https://www.lesswrong.com/posts/wzgQ7gopzWMeaEoE9/one-of-anthropic-s-biggest-i-p-o-winners-feels-a-bit-uneasy"
+      "text": "Does most AI x-risk come from mostly-aligned models?",
+      "url": "https://www.lesswrong.com/posts/KBjLwPHk4A65xkZmZ/does-most-ai-x-risk-come-from-mostly-aligned-models"
     }
   ],
   "centerColumn": [
     {
-      "text": "Taming the Tails of Stochastic Gradient Descent in the Interpolation Regime",
-      "url": "https://arxiv.org/abs/2611.24562"
+      "text": "ExiST: Existence-Aware Self-Training for Semi-Supervised Multi-Organ Segmentation",
+      "url": "https://arxiv.org/abs/2611.23581"
     },
     {
-      "text": "Fast Bayesian Methods for Uncertainty Quantification in Sparse AI Evaluation",
-      "url": "https://arxiv.org/abs/2611.24159"
+      "text": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+      "url": "https://arxiv.org/abs/2611.23601"
     },
     {
-      "text": "Risk-Calibrated Intent Routing for Conversational AI via Signed Lexical Evidence",
-      "url": "https://arxiv.org/abs/2610.00262"
-    },
-    {
-      "text": "Adaptive Action Horizon Selection via Flow-Field Uncertainty",
-      "url": "https://arxiv.org/abs/2611.24178"
-    },
-    {
-      "text": "Learning with Unlearning: Synaptic Role Partitioning for Simultaneous Continual Learning and Machine Unlearning",
-      "url": "https://arxiv.org/abs/2611.24205"
-    },
-    {
-      "text": "Recurrent Domain Incremental Adaptation of Time-Series Foundation Models",
-      "url": "https://arxiv.org/abs/2611.24075"
+      "text": "Rethinking Contrastive Targets in Radiology Language-Image Pretraining",
+      "url": "https://arxiv.org/abs/2611.24016"
     },
     {
       "text": "BOS Summary: The First Token Matters",
       "url": "https://arxiv.org/abs/2611.23508"
     },
     {
-      "text": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
-      "url": "https://arxiv.org/abs/2611.23570"
+      "text": "Weight Space Programming for Vision Language Model Repair",
+      "url": "https://arxiv.org/abs/2611.23615"
+    },
+    {
+      "text": "Worth Another Look:Constrained World-Model Planning for Visual Inspection",
+      "url": "https://arxiv.org/abs/2611.24187"
+    },
+    {
+      "text": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "url": "https://arxiv.org/abs/2611.23398"
+    },
+    {
+      "text": "Training Language Models for Introspective Oversight",
+      "url": "https://arxiv.org/abs/2611.23365"
     }
   ],
   "rightColumn": [
     {
-      "text": "PhoneValue-Bench: A Dual-Ground-Truth Scorecard Benchmark for Smartphone Recommerce Inspection",
-      "url": "https://arxiv.org/abs/2611.00791"
+      "text": "Vibe-Trading: Towards Agent-Native Trading",
+      "url": "https://arxiv.org/abs/2611.24845"
     },
     {
-      "text": "The Digital-Energy Recomposition of the Kitchin Cycle: Exploratory Evidence from U.S. IT and Irish Data-Centre Series (1995-2025)",
-      "url": "https://arxiv.org/abs/2610.33122"
+      "text": "F$^3$: What Makes Good Experience in World-Action Models?",
+      "url": "https://arxiv.org/abs/2611.24708"
     },
     {
-      "text": "CriticHack: Evaluating Visual Rewards Under Robot Policy Optimization",
-      "url": "https://arxiv.org/abs/2610.02527"
+      "text": "Panini- Feasible Grammar For Robot Designs",
+      "url": "https://arxiv.org/abs/2611.23567"
     },
     {
-      "text": "Orbits as Strong Models: Kolmogorov Structure Function under Symmetry",
-      "url": "https://arxiv.org/abs/2609.40290"
+      "text": "Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small Language Models",
+      "url": "https://arxiv.org/abs/2611.24650"
     },
     {
-      "text": "Hearsay: Who Can Audit the Record a Deployed Agent Harness Writes?",
-      "url": "https://arxiv.org/abs/2609.32495"
+      "text": "Toaster: Nonlinear Memory from Cascaded Linear Memories and Target Propagation",
+      "url": "https://arxiv.org/abs/2611.23648"
     },
     {
-      "text": "Passable for Whom? Few-Shot Learning for Personal Calibration of Sidewalk Accessibility Perception for Human-Centered Autonomous Driving",
-      "url": "https://arxiv.org/abs/2611.19839"
+      "text": "Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code",
+      "url": "https://arxiv.org/abs/2611.24590"
     },
     {
-      "text": "Ambiguous Examples Help, But Full Data Wins: Revisiting Dataset Cartography for Extractive Adversarial QA",
-      "url": "https://arxiv.org/abs/2611.19763"
+      "text": "Idempotency Is Not Recovery: A Fault-Injection Study of Language-Model Agent Tool Actions",
+      "url": "https://arxiv.org/abs/2611.23353"
     },
     {
-      "text": "FlashREINFORCE: Critic-Free Single-Rollout Asynchronous RL for Agentic Language Models",
-      "url": "https://arxiv.org/abs/2611.18627"
+      "text": "DyNA-Mixer: Decoupling Time and Topology for Scalable Dynamic Node Affinity Prediction",
+      "url": "https://arxiv.org/abs/2611.24426"
     }
   ],
-  "lastUpdated": "2026-11-19T18:27:50Z"
+  "lastUpdated": "2026-11-19T21:24:19Z"
 }
