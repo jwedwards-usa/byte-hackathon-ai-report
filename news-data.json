@@ -9,115 +9,115 @@
       "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
     },
     {
-      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
-      "url": "https://arxiv.org/abs/2507.02844"
+      "text": "GPT-6 Astra glues text during inter-agent communication",
+      "url": "https://www.lesswrong.com/posts/qXooyt55SbYjgP8aS/gpt-6-astra-glues-text-during-inter-agent-communication"
     },
     {
-      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
-      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+      "text": "Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)",
+      "url": "https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow"
     }
   ],
   "leftColumn": [
     {
-      "text": "GPT-6.2 Astra scores below chance on TASTE; GPT-6 Astra and Fable 5.2 near chance",
-      "url": "https://www.lesswrong.com/posts/4LpsoPeQTaFsZfC8H/gpt-6-2-astra-scores-below-chance-on-taste-gpt-6-astra-and"
+      "text": "MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection",
+      "url": "https://arxiv.org/abs/2608.25903"
     },
     {
-      "text": "Pacing AI via Compute Reallocation",
-      "url": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"
+      "text": "From Arraignment to Resolution: Transformer Models of Court Cases",
+      "url": "https://arxiv.org/abs/2611.23518"
     },
     {
-      "text": "OREGON SUES OPENAI FOR $2.035 BILLION OVER HARM TO CHILDREN",
-      "url": "https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/"
+      "text": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.24049"
     },
     {
-      "text": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life"
+      "text": "Graph-of-Thoughts for LLM Causal Discovery with a Fairness-Pathway Case Study",
+      "url": "https://arxiv.org/abs/2608.02877"
     },
     {
-      "text": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk"
+      "text": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+      "url": "https://arxiv.org/abs/2607.10059"
     },
     {
-      "text": "Uncertainty Quantification for Large Language Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.14570"
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
     },
     {
-      "text": "Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning",
-      "url": "https://arxiv.org/abs/2606.05046"
+      "text": "Slides on Solomonoff induction \u0026 AIXI",
+      "url": "https://www.lesswrong.com/posts/cuDt57dmmbYwf9ECe/slides-on-solomonoff-induction-and-aixi"
     },
     {
-      "text": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
-      "url": "https://arxiv.org/abs/2611.22177"
+      "text": "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction",
+      "url": "https://arxiv.org/abs/2611.23638"
     }
   ],
   "centerColumn": [
     {
-      "text": "TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding",
-      "url": "https://arxiv.org/abs/2508.07683"
+      "text": "Weight Space Programming for Vision Language Model Repair",
+      "url": "https://arxiv.org/abs/2611.23615"
     },
     {
-      "text": "Seeing Is Not Enough: Knowledge-Grounded Active Inquiry from Uncertain Visual Evidence",
-      "url": "https://arxiv.org/abs/2610.38774"
+      "text": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+      "url": "https://arxiv.org/abs/2611.23588"
     },
     {
-      "text": "Forecasting How RLHF Responds to Reward-Model Edits Before Training",
-      "url": "https://arxiv.org/abs/2611.03244"
+      "text": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.23835"
     },
     {
-      "text": "The Economics of AI Foundation Models: Openness, Competition, and Governance",
-      "url": "https://arxiv.org/abs/2510.15200"
+      "text": "How Complete Must an Environment Be to Train a Capable GUI Agent?",
+      "url": "https://arxiv.org/abs/2611.23946"
     },
     {
-      "text": "PromptPack: Training-Free Augmentation of Diffusion Editors for Intent-Aligned Spatial and Semantic Control",
-      "url": "https://arxiv.org/abs/2611.21865"
+      "text": "META$^N$: RECURSIVE SELF-IMPROVEMENT THROUGH EMERGENT DEPTH",
+      "url": "https://arxiv.org/abs/2608.24735"
     },
     {
-      "text": "Cancellation-Free Constrained SquareCB for Safe Controller Selection",
-      "url": "https://arxiv.org/abs/2611.21880"
+      "text": "Rethinking Contrastive Targets in Radiology Language-Image Pretraining",
+      "url": "https://arxiv.org/abs/2611.24016"
     },
     {
-      "text": "FailureGen: Scalable Robot Failure Data Generation with World Models",
-      "url": "https://arxiv.org/abs/2611.22367"
+      "text": "Calibrated Uncertainty Quantification on TDC ADMET: What Can Be Resolved Across 22 Datasets?",
+      "url": "https://arxiv.org/abs/2611.09373"
     },
     {
-      "text": "An AI-Driven Assistant for Human-Centric Building Digital Twin Systems: Design, Implementation, and Comparative User Evaluation",
-      "url": "https://arxiv.org/abs/2611.22350"
+      "text": "Training Autoregressive Language Models on Rounded, Bounded, and Censored Numerical Labels via Exact Likelihood",
+      "url": "https://arxiv.org/abs/2611.02461"
     }
   ],
   "rightColumn": [
     {
-      "text": "Alternating Abduction and Planning over Temporal Dynamic Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2607.27287"
+      "text": "MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping",
+      "url": "https://arxiv.org/abs/2608.02014"
     },
     {
-      "text": "Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios",
-      "url": "https://arxiv.org/abs/2608.08077"
+      "text": "SciFigQual-Bench: Scientific Figure Quality Assessment with Manuscript-Linked Context",
+      "url": "https://arxiv.org/abs/2607.27084"
     },
     {
-      "text": "NS-Gym: A Comprehensive and Open-Source Simulation Framework for Non-Stationary Markov Decision Processes",
-      "url": "https://arxiv.org/abs/2501.09646"
+      "text": "Operational Proto-Introspection in Looped Language Models: Reading Correctness Before the Answer",
+      "url": "https://arxiv.org/abs/2607.18553"
     },
     {
-      "text": "Higher-Scoring Coding Models Did Not Get More Work Done",
-      "url": "https://arxiv.org/abs/2611.23216"
+      "text": "Beyond Corpus-Driven Imitation: Evolving Musical Mindsets in the Agentic Orchestra via Quantum Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.24290"
     },
     {
-      "text": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
-      "url": "https://arxiv.org/abs/2611.23205"
+      "text": "Rational Sparse Autoencoder",
+      "url": "https://arxiv.org/abs/2606.14990"
     },
     {
-      "text": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.23179"
+      "text": "Measuring What Matters: Synthetic Benchmarks for Concept Bottleneck Models",
+      "url": "https://arxiv.org/abs/2606.04326"
     },
     {
-      "text": "Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks",
-      "url": "https://arxiv.org/abs/2610.02001"
+      "text": "Equal Steps, Unequal Curvature: Where Muon's Update Goes Wrong",
+      "url": "https://arxiv.org/abs/2611.24644"
     },
     {
-      "text": "Inference after coding agents",
-      "url": "https://arxiv.org/abs/2611.23174"
+      "text": "EasyOPD: An Easy-to-use On-Policy Distillation Framework for Large Language Models",
+      "url": "https://arxiv.org/abs/2607.11012"
     }
   ],
-  "lastUpdated": "2026-11-19T03:25:39Z"
+  "lastUpdated": "2026-11-19T06:36:07Z"
 }

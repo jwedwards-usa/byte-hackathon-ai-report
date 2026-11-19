@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  "topStories": [
+    {
+      "text": "Blue-teaming AI Through Safety Hillclimbing",
+      "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
+    },
+    {
+      "text": "GPT-6 Astra glues text during inter-agent communication",
+      "url": "https://www.lesswrong.com/posts/qXooyt55SbYjgP8aS/gpt-6-astra-glues-text-during-inter-agent-communication"
+    },
+    {
+      "text": "Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)",
+      "url": "https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection",
+      "url": "https://arxiv.org/abs/2608.25903"
+    },
+    {
+      "text": "From Arraignment to Resolution: Transformer Models of Court Cases",
+      "url": "https://arxiv.org/abs/2611.23518"
+    },
+    {
+      "text": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.24049"
+    },
+    {
+      "text": "Graph-of-Thoughts for LLM Causal Discovery with a Fairness-Pathway Case Study",
+      "url": "https://arxiv.org/abs/2608.02877"
+    },
+    {
+      "text": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+      "url": "https://arxiv.org/abs/2607.10059"
+    },
+    {
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    },
+    {
+      "text": "Slides on Solomonoff induction \u0026 AIXI",
+      "url": "https://www.lesswrong.com/posts/cuDt57dmmbYwf9ECe/slides-on-solomonoff-induction-and-aixi"
+    },
+    {
+      "text": "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction",
+      "url": "https://arxiv.org/abs/2611.23638"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Weight Space Programming for Vision Language Model Repair",
+      "url": "https://arxiv.org/abs/2611.23615"
+    },
+    {
+      "text": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+      "url": "https://arxiv.org/abs/2611.23588"
+    },
+    {
+      "text": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.23835"
+    },
+    {
+      "text": "How Complete Must an Environment Be to Train a Capable GUI Agent?",
+      "url": "https://arxiv.org/abs/2611.23946"
+    },
+    {
+      "text": "META$^N$: RECURSIVE SELF-IMPROVEMENT THROUGH EMERGENT DEPTH",
+      "url": "https://arxiv.org/abs/2608.24735"
+    },
+    {
+      "text": "Rethinking Contrastive Targets in Radiology Language-Image Pretraining",
+      "url": "https://arxiv.org/abs/2611.24016"
+    },
+    {
+      "text": "Calibrated Uncertainty Quantification on TDC ADMET: What Can Be Resolved Across 22 Datasets?",
+      "url": "https://arxiv.org/abs/2611.09373"
+    },
+    {
+      "text": "Training Autoregressive Language Models on Rounded, Bounded, and Censored Numerical Labels via Exact Likelihood",
+      "url": "https://arxiv.org/abs/2611.02461"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping",
+      "url": "https://arxiv.org/abs/2608.02014"
+    },
+    {
+      "text": "SciFigQual-Bench: Scientific Figure Quality Assessment with Manuscript-Linked Context",
+      "url": "https://arxiv.org/abs/2607.27084"
+    },
+    {
+      "text": "Operational Proto-Introspection in Looped Language Models: Reading Correctness Before the Answer",
+      "url": "https://arxiv.org/abs/2607.18553"
+    },
+    {
+      "text": "Beyond Corpus-Driven Imitation: Evolving Musical Mindsets in the Agentic Orchestra via Quantum Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.24290"
+    },
+    {
+      "text": "Rational Sparse Autoencoder",
+      "url": "https://arxiv.org/abs/2606.14990"
+    },
+    {
+      "text": "Measuring What Matters: Synthetic Benchmarks for Concept Bottleneck Models",
+      "url": "https://arxiv.org/abs/2606.04326"
+    },
+    {
+      "text": "Equal Steps, Unequal Curvature: Where Muon's Update Goes Wrong",
+      "url": "https://arxiv.org/abs/2611.24644"
+    },
+    {
+      "text": "EasyOPD: An Easy-to-use On-Policy Distillation Framework for Large Language Models",
+      "url": "https://arxiv.org/abs/2607.11012"
+    }
+  ],
+  "lastUpdated": "2026-11-19T06:36:07Z"
+}
