@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  "topStories": [
+    {
+      "text": "\"Prosaic AI alignment\": 10 years later",
+      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later"
+    },
+    {
+      "text": "Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)",
+      "url": "https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow"
+    },
+    {
+      "text": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+      "url": "https://arxiv.org/abs/2607.10059"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection",
+      "url": "https://arxiv.org/abs/2608.25903"
+    },
+    {
+      "text": "From Arraignment to Resolution: Transformer Models of Court Cases",
+      "url": "https://arxiv.org/abs/2611.23518"
+    },
+    {
+      "text": "Graph-of-Thoughts for LLM Causal Discovery with a Fairness-Pathway Case Study",
+      "url": "https://arxiv.org/abs/2608.02877"
+    },
+    {
+      "text": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.24049"
+    },
+    {
+      "text": "Blue-teaming AI Through Safety Hillclimbing",
+      "url": "https://www.lesswrong.com/posts/adDkJvCzeBimXXxLs/blue-teaming-ai-through-safety-hillclimbing"
+    },
+    {
+      "text": "MedExAgent: Training LLM Agents to Ask, Examine, and Diagnose in Noisy Clinical Environments",
+      "url": "https://arxiv.org/abs/2605.07058"
+    },
+    {
+      "text": "Disentangling generalization and memorization in large language models using chess",
+      "url": "https://arxiv.org/abs/2601.16823"
+    },
+    {
+      "text": "Anticipating or Speculating? Making Futures Pay in AI Ethics",
+      "url": "https://arxiv.org/abs/2611.22268"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Taming the Tails of Stochastic Gradient Descent in the Interpolation Regime",
+      "url": "https://arxiv.org/abs/2611.24562"
+    },
+    {
+      "text": "How Reward Gain Imbalance Shapes Ranking: Rethinking Rubric-Based Reward Aggregation",
+      "url": "https://arxiv.org/abs/2611.24005"
+    },
+    {
+      "text": "Intent Contracts: Taking Tools Away from Agents",
+      "url": "https://arxiv.org/abs/2611.24025"
+    },
+    {
+      "text": "FormalFixer: Intent-Aligned Automated Hardware Repair via Joint Refinement of Specifications, Assertions, and RTL Implementations",
+      "url": "https://arxiv.org/abs/2611.24037"
+    },
+    {
+      "text": "META$^N$: RECURSIVE SELF-IMPROVEMENT THROUGH EMERGENT DEPTH",
+      "url": "https://arxiv.org/abs/2608.24735"
+    },
+    {
+      "text": "What competing constraints reveal about representation learning",
+      "url": "https://arxiv.org/abs/2605.15995"
+    },
+    {
+      "text": "Learning to Decide with AI Assistance under Human-Alignment",
+      "url": "https://arxiv.org/abs/2605.12646"
+    },
+    {
+      "text": "MOLT: A Hugging Face-Native, Minimal, and Scalable Framework for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.21653"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "FedE2E: One-Shot Federated Learning for End-to-End Autonomous Driving with Closed-Loop Evaluation",
+      "url": "https://arxiv.org/abs/2611.24254"
+    },
+    {
+      "text": "Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning",
+      "url": "https://arxiv.org/abs/2611.24718"
+    },
+    {
+      "text": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2611.24840"
+    },
+    {
+      "text": "Disagreement-Guided Agentic Data Curation for Multimodal Safety",
+      "url": "https://arxiv.org/abs/2607.14256"
+    },
+    {
+      "text": "GALA: Gallery-Level Alignment for Real-Life Vision Decoding from EEG",
+      "url": "https://arxiv.org/abs/2611.24206"
+    },
+    {
+      "text": "Variance-Optimal Counterfactual Policy Design for Sample-Efficient Online A/B Testing",
+      "url": "https://arxiv.org/abs/2611.24757"
+    },
+    {
+      "text": "Elysium: Simulation-Free Unbalanced Schr\\\"odinger Bridges",
+      "url": "https://arxiv.org/abs/2611.24763"
+    },
+    {
+      "text": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+      "url": "https://arxiv.org/abs/2611.24764"
+    }
+  ],
+  "lastUpdated": "2026-11-19T09:26:14Z"
+}
