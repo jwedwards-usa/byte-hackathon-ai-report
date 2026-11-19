@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+  },
+  "topStories": [
+    {
+      "text": "Evaluation Awareness is Probably Distorting Monitor Evaluations",
+      "url": "https://www.lesswrong.com/posts/cZPQsTKDwgtvF8sjt/evaluation-awareness-is-probably-distorting-monitor"
+    },
+    {
+      "text": "Reddit, AI, and the Era of Data Silos",
+      "url": "https://www.lesswrong.com/posts/sDEZXH986YPkru7Cp/reddit-ai-and-the-era-of-data-silos"
+    },
+    {
+      "text": "VISUAL CONTEXTUAL ATTACK: JAILBREAKING MLLMS WITH IMAGE-DRIVEN CONTEXT INJECTION",
+      "url": "https://arxiv.org/abs/2507.02844"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+      "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    },
+    {
+      "text": "The Ethics of Training Corrigible AIs",
+      "url": "https://www.lesswrong.com/posts/eeyWHFmkHfb59bgXQ/the-ethics-of-training-corrigible-ais"
+    },
+    {
+      "text": "Pacing AI via Compute Reallocation",
+      "url": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation"
+    },
+    {
+      "text": "OREGON SUES OPENAI FOR $2.035 BILLION OVER HARM TO CHILDREN",
+      "url": "https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/"
+    },
+    {
+      "text": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life"
+    },
+    {
+      "text": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "text": "Uncertainty Quantification for Large Language Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.14570"
+    },
+    {
+      "text": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "url": "https://arxiv.org/abs/2611.22177"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Action-outcome coupling: a pre-investment feasibility audit for offline reinforcement learning in supply chain operations",
+      "url": "https://arxiv.org/abs/2611.22921"
+    },
+    {
+      "text": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
+      "url": "https://arxiv.org/abs/2611.22238"
+    },
+    {
+      "text": "Literary Language Mashup: Curating Fictions with Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21649"
+    },
+    {
+      "text": "Consistency Is Not Correction: Separating Confidence, Abstention, and Recovery in LLM Agents",
+      "url": "https://arxiv.org/abs/2611.21651"
+    },
+    {
+      "text": "Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions",
+      "url": "https://arxiv.org/abs/2611.22136"
+    },
+    {
+      "text": "FCP: Formal Context Protocol for Verifying LLM-Generated Artifacts",
+      "url": "https://arxiv.org/abs/2611.21679"
+    },
+    {
+      "text": "AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data",
+      "url": "https://arxiv.org/abs/2611.21691"
+    },
+    {
+      "text": "Can You Undo It? Reversibility Classes for AI Agent Actions",
+      "url": "https://arxiv.org/abs/2611.22075"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
+      "url": "https://arxiv.org/abs/2611.22563"
+    },
+    {
+      "text": "DARWIN: a Geospatial Foundation Model for Marine Intelligence",
+      "url": "https://arxiv.org/abs/2611.22496"
+    },
+    {
+      "text": "OICycle: Observe, Infer, and Intervene Cycle for Belief-State Learning in Longitudinal Clinical Decision Making",
+      "url": "https://arxiv.org/abs/2611.22826"
+    },
+    {
+      "text": "Synergizing Evidence Retrieval and Utilization for Self-Improving Multimodal Scientific Document Reasoning",
+      "url": "https://arxiv.org/abs/2611.22837"
+    },
+    {
+      "text": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
+      "url": "https://arxiv.org/abs/2611.22148"
+    },
+    {
+      "text": "From Ideal to Real: Integrating Language Models into Smart Home for Human-Centric IoT Safety and Security Fuzzing",
+      "url": "https://arxiv.org/abs/2611.22457"
+    },
+    {
+      "text": "Outcome-Balanced PPO and Policy-Induced Flow Rectification for Flow-Based VLA Policies",
+      "url": "https://arxiv.org/abs/2611.22878"
+    },
+    {
+      "text": "Done, But Still Working: Anytime Evaluation of When Coding Agents Should Stop",
+      "url": "https://arxiv.org/abs/2611.22901"
+    }
+  ],
+  "lastUpdated": "2026-11-19T00:47:31Z"
+}
