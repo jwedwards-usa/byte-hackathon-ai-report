@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "ARENA 10.0: Call for Applicants",
+    "url": "https://www.lesswrong.com/posts/AqeCfBTi42vu4j3CW/arena-10-0-call-for-applicants"
+  },
+  "topStories": [
+    {
+      "text": "HOW OPENAI’S PERFORMANCE FACTORY KEEPS CHATGPT FAST",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "CHATGPT DICTATION NO LONGER HAS A 10-MINUTE TIME LIMIT",
+      "url": "https://dailyai.com/2026/11/chatgpt-dictation-no-longer-has-a-10-minute-time-limit/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Five Guardrails That Limit the Damage an AI Agent Can Do",
+      "url": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/"
+    },
+    {
+      "text": "Four Chatbots Gave GAO Viable Attack Plans in Under 12 Hours",
+      "url": "https://dailyai.com/2026/11/four-chatbots-gave-gao-viable-attack-plans-in-under-12-hours/"
+    },
+    {
+      "text": "The Coziness Problem",
+      "url": "https://www.lesswrong.com/posts/dFbFdFfPvtRjo9bns/the-coziness-problem"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare",
+      "url": "https://arxiv.org/abs/2606.28666"
+    },
+    {
+      "text": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+      "url": "https://arxiv.org/abs/2611.25433"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
+      "url": "https://arxiv.org/abs/2611.25100"
+    },
+    {
+      "text": "Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games",
+      "url": "https://arxiv.org/abs/2611.25238"
+    },
+    {
+      "text": "Can World Models Predict Rice Growth? Toward Agricultural World Models",
+      "url": "https://arxiv.org/abs/2611.26145"
+    },
+    {
+      "text": "Learning to Think with Images Faithfully via Adaptive Data Selection",
+      "url": "https://arxiv.org/abs/2611.26199"
+    },
+    {
+      "text": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+      "url": "https://arxiv.org/abs/2611.26398"
+    },
+    {
+      "text": "REACT: Representational Early Analysis and Control of Chain-of-Thought Trajectories",
+      "url": "https://arxiv.org/abs/2610.32113"
+    },
+    {
+      "text": "A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps",
+      "url": "https://arxiv.org/abs/2611.25469"
+    },
+    {
+      "text": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+      "url": "https://arxiv.org/abs/2611.21579"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+      "url": "https://arxiv.org/abs/2611.26557"
+    },
+    {
+      "text": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
+      "url": "https://arxiv.org/abs/2611.26586"
+    },
+    {
+      "text": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.26590"
+    },
+    {
+      "text": "Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines",
+      "url": "https://arxiv.org/abs/2608.11770"
+    },
+    {
+      "text": "D\\'ej\\`a Cue: Localizing States in Object Histories via Vocabulary-Relative Coordinates",
+      "url": "https://arxiv.org/abs/2608.02044"
+    },
+    {
+      "text": "What Does a Temporal Benchmark Score Measure? Decomposing Channel Use in Video VLM Evaluation",
+      "url": "https://arxiv.org/abs/2607.12304"
+    },
+    {
+      "text": "Supportive Token Revealing for Fast Diffusion Language Model Decoding",
+      "url": "https://arxiv.org/abs/2606.04236"
+    },
+    {
+      "text": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+      "url": "https://arxiv.org/abs/2605.29486"
+    }
+  ],
+  "lastUpdated": "2026-11-20T12:28:01Z"
+}

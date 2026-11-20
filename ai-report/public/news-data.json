@@ -19,97 +19,73 @@
   ],
   "leftColumn": [
     {
-      "text": "Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare",
-      "url": "https://arxiv.org/abs/2606.28666"
+      "text": "CHATGPT DICTATION NO LONGER HAS A 10-MINUTE TIME LIMIT",
+      "url": "https://dailyai.com/2026/11/chatgpt-dictation-no-longer-has-a-10-minute-time-limit/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Five Guardrails That Limit the Damage an AI Agent Can Do",
+      "url": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/"
+    },
+    {
+      "text": "Four Chatbots Gave GAO Viable Attack Plans in Under 12 Hours",
+      "url": "https://dailyai.com/2026/11/four-chatbots-gave-gao-viable-attack-plans-in-under-12-hours/"
+    },
+    {
+      "text": "The Coziness Problem",
+      "url": "https://www.lesswrong.com/posts/dFbFdFfPvtRjo9bns/the-coziness-problem"
     },
     {
       "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
       "url": "https://arxiv.org/abs/2606.26185"
     },
     {
+      "text": "Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare",
+      "url": "https://arxiv.org/abs/2606.28666"
+    },
+    {
       "text": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
       "url": "https://arxiv.org/abs/2611.25433"
-    },
-    {
-      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
-      "url": "https://arxiv.org/abs/2611.25733"
-    },
-    {
-      "text": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
-      "url": "https://arxiv.org/abs/2611.25360"
-    },
-    {
-      "text": "xAppGen: LLM-driven Natural Language Programming for Agile xApp Development",
-      "url": "https://arxiv.org/abs/2603.18604"
-    },
-    {
-      "text": "Can an LLM Fix a Language Model Without Training It?",
-      "url": "https://arxiv.org/abs/2611.25613"
-    },
-    {
-      "text": "A Quasi-experimental Study of Conversational AI-supported Engagement in Large CS Courses",
-      "url": "https://arxiv.org/abs/2506.18941"
     }
   ],
   "centerColumn": [
     {
-      "text": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
-      "url": "https://arxiv.org/abs/2611.26569"
-    },
-    {
-      "text": "CAIMS: Scalable Cross-Array In-Memory Search",
-      "url": "https://arxiv.org/abs/2611.25141"
-    },
-    {
-      "text": "Deterministic Temporal Embedding for Calcium Imaging Trace Extraction",
-      "url": "https://arxiv.org/abs/2611.26522"
-    },
-    {
-      "text": "Wieszcz-XIX: A 3.1-Billion-Word Corpus of Pre-1918 Polish and Temporally Bounded Language Models Trained From Scratch",
-      "url": "https://arxiv.org/abs/2610.10592"
-    },
-    {
-      "text": "Verifying Before Enhancing: Target Evidence Chain Verification for Infrared Small Target Detection",
-      "url": "https://arxiv.org/abs/2611.25724"
-    },
-    {
-      "text": "From Self-Play RL to Constrained Control: Distilling DiffMPC Students with DAgger",
-      "url": "https://arxiv.org/abs/2611.25197"
-    },
-    {
-      "text": "From Portraits to Pathology: Probing Diagnostic Overreach in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2609.05540"
+      "text": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
+      "url": "https://arxiv.org/abs/2611.25100"
     },
     {
       "text": "Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games",
       "url": "https://arxiv.org/abs/2611.25238"
+    },
+    {
+      "text": "Can World Models Predict Rice Growth? Toward Agricultural World Models",
+      "url": "https://arxiv.org/abs/2611.26145"
+    },
+    {
+      "text": "Learning to Think with Images Faithfully via Adaptive Data Selection",
+      "url": "https://arxiv.org/abs/2611.26199"
+    },
+    {
+      "text": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+      "url": "https://arxiv.org/abs/2611.26398"
+    },
+    {
+      "text": "REACT: Representational Early Analysis and Control of Chain-of-Thought Trajectories",
+      "url": "https://arxiv.org/abs/2610.32113"
+    },
+    {
+      "text": "A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps",
+      "url": "https://arxiv.org/abs/2611.25469"
+    },
+    {
+      "text": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+      "url": "https://arxiv.org/abs/2611.21579"
     }
   ],
   "rightColumn": [
-    {
-      "text": "Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models",
-      "url": "https://arxiv.org/abs/2610.23862"
-    },
-    {
-      "text": "Monte Carlo Pass Search for Setpieces",
-      "url": "https://arxiv.org/abs/2611.26464"
-    },
-    {
-      "text": "FLUID: Flexible, Evidence-Grounded Situated Task Guidance",
-      "url": "https://arxiv.org/abs/2611.26491"
-    },
-    {
-      "text": "Refined Topology-Pass Scheduling: Damped Trust-Region Compensation for Dynamic k-NN Graphs in SE(3)-Equivariant Structure Prediction",
-      "url": "https://arxiv.org/abs/2610.19246"
-    },
-    {
-      "text": "Cross-Behavior Policy Optimization: Unified Learning from Offline Demonstrations and On- and Off-Policy Rollouts via a Shared Regression Target",
-      "url": "https://arxiv.org/abs/2610.12830"
-    },
-    {
-      "text": "ArrivalBench: Agent-Generated Data Pipelines Are Correct Once and Wrong Under Time",
-      "url": "https://arxiv.org/abs/2610.02363"
-    },
     {
       "text": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
       "url": "https://arxiv.org/abs/2611.26557"
@@ -117,7 +93,31 @@
     {
       "text": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
       "url": "https://arxiv.org/abs/2611.26586"
+    },
+    {
+      "text": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.26590"
+    },
+    {
+      "text": "Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines",
+      "url": "https://arxiv.org/abs/2608.11770"
+    },
+    {
+      "text": "D\\'ej\\`a Cue: Localizing States in Object Histories via Vocabulary-Relative Coordinates",
+      "url": "https://arxiv.org/abs/2608.02044"
+    },
+    {
+      "text": "What Does a Temporal Benchmark Score Measure? Decomposing Channel Use in Video VLM Evaluation",
+      "url": "https://arxiv.org/abs/2607.12304"
+    },
+    {
+      "text": "Supportive Token Revealing for Fast Diffusion Language Model Decoding",
+      "url": "https://arxiv.org/abs/2606.04236"
+    },
+    {
+      "text": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+      "url": "https://arxiv.org/abs/2605.29486"
     }
   ],
-  "lastUpdated": "2026-11-20T09:31:33Z"
+  "lastUpdated": "2026-11-20T12:28:01Z"
 }
