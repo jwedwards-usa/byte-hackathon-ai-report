@@ -13,22 +13,22 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
     },
     {
-      "text": "Linkpost: Anthropic's Alpoge (along with Claude) claims to have solved the Riemann Hypothesis",
-      "url": "https://www.lesswrong.com/posts/hxHt8NaQeFADrfeAp/linkpost-anthropic-s-alpoge-along-with-claude-claims-to-have"
+      "text": "Model deprecations are corrosive to alignment",
+      "url": "https://www.lesswrong.com/posts/ycMoffGPsb8dkCLqm/model-deprecations-are-corrosive-to-alignment"
     }
   ],
   "leftColumn": [
-    {
-      "text": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-    },
     {
       "text": "Making Qwen 3.8 27b think it is Claude with one prompt",
       "url": "https://www.lesswrong.com/posts/AoHkDfoxzXwrvTFzp/making-qwen-3-8-27b-think-it-is-claude-with-one-prompt-1"
     },
     {
-      "text": "Being close to an AI singularity is not anthropic evidence for the simulation hypothesis",
-      "url": "https://www.lesswrong.com/posts/E9GdSRwh4Am7AZQmq/being-close-to-an-ai-singularity-is-not-anthropic-evidence"
+      "text": "Linkpost: Anthropic's Alpoge (along with Claude) claims to have solved the Riemann Hypothesis",
+      "url": "https://www.lesswrong.com/posts/hxHt8NaQeFADrfeAp/linkpost-anthropic-s-alpoge-along-with-claude-claims-to-have"
+    },
+    {
+      "text": "I went on a night walk with Mythos",
+      "url": "https://www.lesswrong.com/posts/QywdbyTq7cm6JKwqS/i-went-on-a-night-walk-with-mythos"
     },
     {
       "text": "Frontier models need only one text to unmask its human or AI author",
@@ -43,81 +43,81 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "CLR's 2027 SPI agenda plans",
-      "url": "https://www.lesswrong.com/posts/MkXHmbQ8jmnBKBT6S/clr-s-2027-spi-agenda-plans"
+      "text": "New approach enables physically consistent AI models of chaotic systems",
+      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120"
     },
     {
-      "text": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
-      "url": "https://arxiv.org/abs/2611.25433"
+      "text": "Against Compute Reallocation",
+      "url": "https://www.lesswrong.com/posts/TCvngNB5eSJ8jkEtQ/against-compute-reallocation"
     }
   ],
   "centerColumn": [
     {
-      "text": "Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure",
-      "url": "https://arxiv.org/abs/2611.25514"
+      "text": "Keystone: Judging Previews at Key Steps for Test-Time Search in Diffusion Models",
+      "url": "https://arxiv.org/abs/2611.25530"
     },
     {
-      "text": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
-      "url": "https://arxiv.org/abs/2611.21579"
+      "text": "FlexTSF: A Flexible Forecasting Model for Time Series with Variable Regularities",
+      "url": "https://arxiv.org/abs/2410.23160"
     },
     {
-      "text": "OpenTME: An Open Dataset of AI-powered H\u0026E Tumor Microenvironment Profiles from TCGA",
-      "url": "https://arxiv.org/abs/2604.12075"
+      "text": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+      "url": "https://arxiv.org/abs/2611.26414"
     },
     {
-      "text": "Weight Space Programming for Vision Language Model Repair",
-      "url": "https://arxiv.org/abs/2611.23615"
+      "text": "MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control",
+      "url": "https://arxiv.org/abs/2611.25526"
     },
     {
-      "text": "VLRS-Bench: A Vision-Language Reasoning Benchmark for Remote Sensing",
-      "url": "https://arxiv.org/abs/2602.07045"
+      "text": "Scientific Coding with Large Language Models: Evidence from Finite Element Analysis",
+      "url": "https://arxiv.org/abs/2611.21176"
     },
     {
-      "text": "The Value of Information in Resource-Constrained Pricing",
-      "url": "https://arxiv.org/abs/2603.24974"
+      "text": "From Portraits to Pathology: Probing Diagnostic Overreach in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.05540"
     },
     {
-      "text": "SimVLA: Attributing Gains in VLA Models Through Controlled Ablation",
-      "url": "https://arxiv.org/abs/2602.18224"
+      "text": "Neural Conditional Gaussian Model: Efficient Data Assimilation with Sequential Uncertainty Quantification for Nonlinear Dynamics",
+      "url": "https://arxiv.org/abs/2611.26463"
     },
     {
-      "text": "Virasoro Symmetry in Neural Network Field Theories",
-      "url": "https://arxiv.org/abs/2512.24420"
+      "text": "LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits",
+      "url": "https://arxiv.org/abs/2611.26538"
     }
   ],
   "rightColumn": [
     {
-      "text": "Budget Internalization: Fixed-Budget RLVR Trades Test-Time Scaling for In-Budget Accuracy",
-      "url": "https://arxiv.org/abs/2611.26172"
+      "text": "System-One RSI: Building Muscle Memory for Interactive Agents through Guided Practice",
+      "url": "https://arxiv.org/abs/2611.26007"
     },
     {
-      "text": "SenseAlign: Learning Decision-Aligned Predictive Representations for Active Urban Sensing with UAVs",
-      "url": "https://arxiv.org/abs/2611.26109"
+      "text": "When Agents Play Differently: Localizing Human--Agent Behavioral Divergence with Conditional Distributional Testing",
+      "url": "https://arxiv.org/abs/2611.26012"
     },
     {
-      "text": "Invertible Transport Between Sample-Only Distributions via Projected Characteristic Functions",
-      "url": "https://arxiv.org/abs/2611.26187"
+      "text": "Enhancing Understanding of Language Models with Varied Explanations",
+      "url": "https://arxiv.org/abs/2611.25314"
     },
     {
-      "text": "Attention Head Specialization: Phase Transitions in Sample Complexity",
-      "url": "https://arxiv.org/abs/2611.26228"
+      "text": "Serialization Tax in Shared-Latent Exchangeable Decisions",
+      "url": "https://arxiv.org/abs/2611.26029"
     },
     {
-      "text": "Time Series Structure Learning with Local Causal Parent Discovery",
-      "url": "https://arxiv.org/abs/2611.26232"
+      "text": "Gradient Regularized Newton Boosting Trees with Global Convergence",
+      "url": "https://arxiv.org/abs/2605.00581"
     },
     {
-      "text": "The Stability Gap in Continual Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.26252"
+      "text": "Learning Curves and Prediction Persistence to Under-Regularization of Spectral Algorithms in Large Dimensions",
+      "url": "https://arxiv.org/abs/2604.23212"
     },
     {
-      "text": "Similarity-based OSF Logic for Flexible SPARQL Query Answering",
-      "url": "https://arxiv.org/abs/2611.26261"
+      "text": "Optimal algorithmic complexity of inference in quantum kernel methods",
+      "url": "https://arxiv.org/abs/2604.15214"
     },
     {
-      "text": "Dimension-Free Buffer Bounds for Compressed-Momentum Error Feedback",
-      "url": "https://arxiv.org/abs/2611.25463"
+      "text": "SynthDCB: World Distillation for Scalable Device Control Benchmarking",
+      "url": "https://arxiv.org/abs/2611.18639"
     }
   ],
-  "lastUpdated": "2026-11-20T18:33:24Z"
+  "lastUpdated": "2026-11-20T21:29:29Z"
 }

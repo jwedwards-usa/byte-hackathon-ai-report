@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "HOW OPENAI’S PERFORMANCE FACTORY KEEPS CHATGPT FAST",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+  },
+  "topStories": [
+    {
+      "text": "We need to start slowing down AI immediately",
+      "url": "https://www.lesswrong.com/posts/JDL9gGTAYkm2e3HK4/we-need-to-start-slowing-down-ai-immediately"
+    },
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "text": "Model deprecations are corrosive to alignment",
+      "url": "https://www.lesswrong.com/posts/ycMoffGPsb8dkCLqm/model-deprecations-are-corrosive-to-alignment"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Making Qwen 3.8 27b think it is Claude with one prompt",
+      "url": "https://www.lesswrong.com/posts/AoHkDfoxzXwrvTFzp/making-qwen-3-8-27b-think-it-is-claude-with-one-prompt-1"
+    },
+    {
+      "text": "Linkpost: Anthropic's Alpoge (along with Claude) claims to have solved the Riemann Hypothesis",
+      "url": "https://www.lesswrong.com/posts/hxHt8NaQeFADrfeAp/linkpost-anthropic-s-alpoge-along-with-claude-claims-to-have"
+    },
+    {
+      "text": "I went on a night walk with Mythos",
+      "url": "https://www.lesswrong.com/posts/QywdbyTq7cm6JKwqS/i-went-on-a-night-walk-with-mythos"
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "New approach enables physically consistent AI models of chaotic systems",
+      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120"
+    },
+    {
+      "text": "Against Compute Reallocation",
+      "url": "https://www.lesswrong.com/posts/TCvngNB5eSJ8jkEtQ/against-compute-reallocation"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Keystone: Judging Previews at Key Steps for Test-Time Search in Diffusion Models",
+      "url": "https://arxiv.org/abs/2611.25530"
+    },
+    {
+      "text": "FlexTSF: A Flexible Forecasting Model for Time Series with Variable Regularities",
+      "url": "https://arxiv.org/abs/2410.23160"
+    },
+    {
+      "text": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+      "url": "https://arxiv.org/abs/2611.26414"
+    },
+    {
+      "text": "MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control",
+      "url": "https://arxiv.org/abs/2611.25526"
+    },
+    {
+      "text": "Scientific Coding with Large Language Models: Evidence from Finite Element Analysis",
+      "url": "https://arxiv.org/abs/2611.21176"
+    },
+    {
+      "text": "From Portraits to Pathology: Probing Diagnostic Overreach in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.05540"
+    },
+    {
+      "text": "Neural Conditional Gaussian Model: Efficient Data Assimilation with Sequential Uncertainty Quantification for Nonlinear Dynamics",
+      "url": "https://arxiv.org/abs/2611.26463"
+    },
+    {
+      "text": "LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits",
+      "url": "https://arxiv.org/abs/2611.26538"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "System-One RSI: Building Muscle Memory for Interactive Agents through Guided Practice",
+      "url": "https://arxiv.org/abs/2611.26007"
+    },
+    {
+      "text": "When Agents Play Differently: Localizing Human--Agent Behavioral Divergence with Conditional Distributional Testing",
+      "url": "https://arxiv.org/abs/2611.26012"
+    },
+    {
+      "text": "Enhancing Understanding of Language Models with Varied Explanations",
+      "url": "https://arxiv.org/abs/2611.25314"
+    },
+    {
+      "text": "Serialization Tax in Shared-Latent Exchangeable Decisions",
+      "url": "https://arxiv.org/abs/2611.26029"
+    },
+    {
+      "text": "Gradient Regularized Newton Boosting Trees with Global Convergence",
+      "url": "https://arxiv.org/abs/2605.00581"
+    },
+    {
+      "text": "Learning Curves and Prediction Persistence to Under-Regularization of Spectral Algorithms in Large Dimensions",
+      "url": "https://arxiv.org/abs/2604.23212"
+    },
+    {
+      "text": "Optimal algorithmic complexity of inference in quantum kernel methods",
+      "url": "https://arxiv.org/abs/2604.15214"
+    },
+    {
+      "text": "SynthDCB: World Distillation for Scalable Device Control Benchmarking",
+      "url": "https://arxiv.org/abs/2611.18639"
+    }
+  ],
+  "lastUpdated": "2026-11-20T21:29:29Z"
+}
