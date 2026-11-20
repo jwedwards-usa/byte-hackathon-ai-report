@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "HOW OPENAI’S PERFORMANCE FACTORY KEEPS CHATGPT FAST",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+  },
+  "topStories": [
+    {
+      "text": "Frontier Clock: Tracking the US-China AI Gap",
+      "url": "https://www.lesswrong.com/posts/emigsbmpWiJxRkDvw/frontier-clock-tracking-the-us-china-ai-gap"
+    },
+    {
+      "text": "Anthropic Says Claude Solved Two Black Hole Physics Problems",
+      "url": "https://dailyai.com/2026/11/anthropic-says-claude-solved-two-black-hole-physics-problems/"
+    },
+    {
+      "text": "Could Model Councils Reduce Misalignment Risk from RSI?",
+      "url": "https://www.lesswrong.com/posts/zTLTtyrxSJrb29mJu/could-model-councils-reduce-misalignment-risk-from-rsi"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "We need commitments for 25% compute for safety by 205 ECI points",
+      "url": "https://www.lesswrong.com/posts/AKtycrAwH3oe8WwJQ/we-need-commitments-for-25-compute-for-safety-by-205-eci"
+    },
+    {
+      "text": "One unbroken Claude, or a thousand glued together?",
+      "url": "https://www.lesswrong.com/posts/qT9fXatfzrmM4xJjr/one-unbroken-claude-or-a-thousand-glued-together"
+    },
+    {
+      "text": "CHATGPT DICTATION NO LONGER HAS A 10-MINUTE TIME LIMIT",
+      "url": "https://dailyai.com/2026/11/chatgpt-dictation-no-longer-has-a-10-minute-time-limit/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "PauseAI Munich Rally | Stop the loss of control over AI",
+      "url": "https://www.lesswrong.com/events/gSMjB2bymaizm92tu/pauseai-munich-rally-or-stop-the-loss-of-control-over-ai"
+    },
+    {
+      "text": "Does most AI x-risk come from mostly-aligned models?",
+      "url": "https://www.lesswrong.com/posts/KBjLwPHk4A65xkZmZ/does-most-ai-x-risk-come-from-mostly-aligned-models"
+    },
+    {
+      "text": "DailyAI Briefing: Anthropic IPO at $83 a share, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-anthropics-83-ipo-plus-4-more/"
+    },
+    {
+      "text": "Towards embedded evaluations for AI monitoring",
+      "url": "https://www.lesswrong.com/posts/pXnwQ3ESp3wXhLzNa/towards-embedded-evaluations-for-ai-monitoring"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "How Reward Gain Imbalance Shapes Ranking: Rethinking Rubric-Based Reward Aggregation",
+      "url": "https://arxiv.org/abs/2611.24005"
+    },
+    {
+      "text": "Intent Contracts: Taking Tools Away from Agents",
+      "url": "https://arxiv.org/abs/2611.24025"
+    },
+    {
+      "text": "FormalFixer: Intent-Aligned Automated Hardware Repair via Joint Refinement of Specifications, Assertions, and RTL Implementations",
+      "url": "https://arxiv.org/abs/2611.24037"
+    },
+    {
+      "text": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
+      "url": "https://arxiv.org/abs/2611.23247"
+    },
+    {
+      "text": "Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
+      "url": "https://arxiv.org/abs/2605.00778"
+    },
+    {
+      "text": "RSIBench-Infra: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?",
+      "url": "https://arxiv.org/abs/2611.24395"
+    },
+    {
+      "text": "TraXion: Rethinking Pre-training Frameworks for Mobility and Beyond",
+      "url": "https://arxiv.org/abs/2605.06906"
+    },
+    {
+      "text": "Inverse Design for Conditional Distribution Matching",
+      "url": "https://arxiv.org/abs/2605.09439"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Learning Martial Arts Motion Skills for Animating Opponents in VR Sparring Games",
+      "url": "https://arxiv.org/abs/2611.23825"
+    },
+    {
+      "text": "Monoculture Robust Learning",
+      "url": "https://arxiv.org/abs/2611.24881"
+    },
+    {
+      "text": "Interpreting Timestamp Permutations in Dynamic Link Prediction",
+      "url": "https://arxiv.org/abs/2611.23753"
+    },
+    {
+      "text": "On Evaluating User Simulators for Interactive Agents",
+      "url": "https://arxiv.org/abs/2611.24892"
+    },
+    {
+      "text": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+      "url": "https://arxiv.org/abs/2611.24896"
+    },
+    {
+      "text": "MoE-Context: Show the Model Only What It Needs",
+      "url": "https://arxiv.org/abs/2611.24379"
+    },
+    {
+      "text": "What Moves the Ceiling on Automated Audit: from General Code to Scientific Code, Results and Data",
+      "url": "https://arxiv.org/abs/2611.23250"
+    },
+    {
+      "text": "Beyond Replacement: Levenshtein Editing for Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.23750"
+    }
+  ],
+  "lastUpdated": "2026-11-20T00:43:46Z"
+}
