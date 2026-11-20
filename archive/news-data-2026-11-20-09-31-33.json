@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "ARENA 10.0: Call for Applicants",
+    "url": "https://www.lesswrong.com/posts/AqeCfBTi42vu4j3CW/arena-10-0-call-for-applicants"
+  },
+  "topStories": [
+    {
+      "text": "HOW OPENAI’S PERFORMANCE FACTORY KEEPS CHATGPT FAST",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare",
+      "url": "https://arxiv.org/abs/2606.28666"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+      "url": "https://arxiv.org/abs/2611.25433"
+    },
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
+    },
+    {
+      "text": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
+      "url": "https://arxiv.org/abs/2611.25360"
+    },
+    {
+      "text": "xAppGen: LLM-driven Natural Language Programming for Agile xApp Development",
+      "url": "https://arxiv.org/abs/2603.18604"
+    },
+    {
+      "text": "Can an LLM Fix a Language Model Without Training It?",
+      "url": "https://arxiv.org/abs/2611.25613"
+    },
+    {
+      "text": "A Quasi-experimental Study of Conversational AI-supported Engagement in Large CS Courses",
+      "url": "https://arxiv.org/abs/2506.18941"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+      "url": "https://arxiv.org/abs/2611.26569"
+    },
+    {
+      "text": "CAIMS: Scalable Cross-Array In-Memory Search",
+      "url": "https://arxiv.org/abs/2611.25141"
+    },
+    {
+      "text": "Deterministic Temporal Embedding for Calcium Imaging Trace Extraction",
+      "url": "https://arxiv.org/abs/2611.26522"
+    },
+    {
+      "text": "Wieszcz-XIX: A 3.1-Billion-Word Corpus of Pre-1918 Polish and Temporally Bounded Language Models Trained From Scratch",
+      "url": "https://arxiv.org/abs/2610.10592"
+    },
+    {
+      "text": "Verifying Before Enhancing: Target Evidence Chain Verification for Infrared Small Target Detection",
+      "url": "https://arxiv.org/abs/2611.25724"
+    },
+    {
+      "text": "From Self-Play RL to Constrained Control: Distilling DiffMPC Students with DAgger",
+      "url": "https://arxiv.org/abs/2611.25197"
+    },
+    {
+      "text": "From Portraits to Pathology: Probing Diagnostic Overreach in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.05540"
+    },
+    {
+      "text": "Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games",
+      "url": "https://arxiv.org/abs/2611.25238"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models",
+      "url": "https://arxiv.org/abs/2610.23862"
+    },
+    {
+      "text": "Monte Carlo Pass Search for Setpieces",
+      "url": "https://arxiv.org/abs/2611.26464"
+    },
+    {
+      "text": "FLUID: Flexible, Evidence-Grounded Situated Task Guidance",
+      "url": "https://arxiv.org/abs/2611.26491"
+    },
+    {
+      "text": "Refined Topology-Pass Scheduling: Damped Trust-Region Compensation for Dynamic k-NN Graphs in SE(3)-Equivariant Structure Prediction",
+      "url": "https://arxiv.org/abs/2610.19246"
+    },
+    {
+      "text": "Cross-Behavior Policy Optimization: Unified Learning from Offline Demonstrations and On- and Off-Policy Rollouts via a Shared Regression Target",
+      "url": "https://arxiv.org/abs/2610.12830"
+    },
+    {
+      "text": "ArrivalBench: Agent-Generated Data Pipelines Are Correct Once and Wrong Under Time",
+      "url": "https://arxiv.org/abs/2610.02363"
+    },
+    {
+      "text": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+      "url": "https://arxiv.org/abs/2611.26557"
+    },
+    {
+      "text": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
+      "url": "https://arxiv.org/abs/2611.26586"
+    }
+  ],
+  "lastUpdated": "2026-11-20T09:31:33Z"
+}
