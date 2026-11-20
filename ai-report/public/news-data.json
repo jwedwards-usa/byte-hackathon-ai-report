@@ -1,7 +1,7 @@
 {
   "mainHeadline": {
-    "text": "ARENA 10.0: Call for Applicants",
-    "url": "https://www.lesswrong.com/posts/AqeCfBTi42vu4j3CW/arena-10-0-call-for-applicants"
+    "text": "Linkpost: Anthropic's Alpoge (along with Claude) claims to have solved the Riemann Hypothesis",
+    "url": "https://www.lesswrong.com/posts/hxHt8NaQeFADrfeAp/linkpost-anthropic-s-alpoge-along-with-claude-claims-to-have"
   },
   "topStories": [
     {
@@ -9,15 +9,27 @@
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
     },
     {
-      "text": "Frontier models need only one text to unmask its human or AI author",
-      "url": "https://arxiv.org/abs/2611.26216"
+      "text": "ARENA 10.0: Call for Applicants",
+      "url": "https://www.lesswrong.com/posts/AqeCfBTi42vu4j3CW/arena-10-0-call-for-applicants"
+    },
+    {
+      "text": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+      "url": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Being close to an AI singularity is not anthropic evidence for the simulation hypothesis",
+      "url": "https://www.lesswrong.com/posts/E9GdSRwh4Am7AZQmq/being-close-to-an-ai-singularity-is-not-anthropic-evidence"
     },
     {
       "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
       "url": "https://arxiv.org/abs/2611.25219"
-    }
-  ],
-  "leftColumn": [
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
     {
       "text": "CHATGPT DICTATION NO LONGER HAS A 10-MINUTE TIME LIMIT",
       "url": "https://dailyai.com/2026/11/chatgpt-dictation-no-longer-has-a-10-minute-time-limit/"
@@ -27,97 +39,85 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Five Guardrails That Limit the Damage an AI Agent Can Do",
-      "url": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/"
+      "text": "Following the “mathocalypse,” mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"
     },
     {
-      "text": "Four Chatbots Gave GAO Viable Attack Plans in Under 12 Hours",
-      "url": "https://dailyai.com/2026/11/four-chatbots-gave-gao-viable-attack-plans-in-under-12-hours/"
+      "text": "CLR's 2027 SPI agenda plans",
+      "url": "https://www.lesswrong.com/posts/MkXHmbQ8jmnBKBT6S/clr-s-2027-spi-agenda-plans"
     },
     {
-      "text": "The Coziness Problem",
-      "url": "https://www.lesswrong.com/posts/dFbFdFfPvtRjo9bns/the-coziness-problem"
-    },
-    {
-      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
-      "url": "https://arxiv.org/abs/2606.26185"
-    },
-    {
-      "text": "Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare",
-      "url": "https://arxiv.org/abs/2606.28666"
-    },
-    {
-      "text": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
-      "url": "https://arxiv.org/abs/2611.25433"
+      "text": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
     }
   ],
   "centerColumn": [
     {
-      "text": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
-      "url": "https://arxiv.org/abs/2611.25100"
+      "text": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+      "url": "https://arxiv.org/abs/2611.26569"
     },
     {
-      "text": "Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games",
-      "url": "https://arxiv.org/abs/2611.25238"
+      "text": "Represented but misread: Post-training changes how language models read out what they represent",
+      "url": "https://arxiv.org/abs/2611.26584"
     },
     {
-      "text": "Can World Models Predict Rice Growth? Toward Agricultural World Models",
-      "url": "https://arxiv.org/abs/2611.26145"
+      "text": "Whose Risks Count? What 1,901 AI Incidents Reveal About Corporate Disclosures",
+      "url": "https://arxiv.org/abs/2611.25841"
     },
     {
-      "text": "Learning to Think with Images Faithfully via Adaptive Data Selection",
-      "url": "https://arxiv.org/abs/2611.26199"
+      "text": "VLRS-Bench: A Vision-Language Reasoning Benchmark for Remote Sensing",
+      "url": "https://arxiv.org/abs/2602.07045"
     },
     {
-      "text": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
-      "url": "https://arxiv.org/abs/2611.26398"
+      "text": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+      "url": "https://arxiv.org/abs/2611.26617"
     },
     {
-      "text": "REACT: Representational Early Analysis and Control of Chain-of-Thought Trajectories",
-      "url": "https://arxiv.org/abs/2610.32113"
+      "text": "FlexTSF: A Flexible Forecasting Model for Time Series with Variable Regularities",
+      "url": "https://arxiv.org/abs/2410.23160"
     },
     {
-      "text": "A Wolf in Sheep's Pixels: Visual Camouflage Attacks via HDR Gain Maps",
-      "url": "https://arxiv.org/abs/2611.25469"
+      "text": "SCAR: State-Space Compression for AI-Based Radio Resource Management of Vehicular Services",
+      "url": "https://arxiv.org/abs/2508.06243"
     },
     {
-      "text": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
-      "url": "https://arxiv.org/abs/2611.21579"
+      "text": "AudioTurbo: Fast Text-to-Audio Generation with Rectified Diffusion",
+      "url": "https://arxiv.org/abs/2505.22106"
     }
   ],
   "rightColumn": [
     {
-      "text": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
-      "url": "https://arxiv.org/abs/2611.26557"
+      "text": "FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving",
+      "url": "https://arxiv.org/abs/2611.26242"
     },
     {
-      "text": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
-      "url": "https://arxiv.org/abs/2611.26586"
+      "text": "Learning Networked Dynamical Systems via Neural ODE-based Graph Structure Inference",
+      "url": "https://arxiv.org/abs/2611.25586"
     },
     {
-      "text": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.26590"
+      "text": "The Stability Gap in Continual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.26252"
     },
     {
-      "text": "Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines",
-      "url": "https://arxiv.org/abs/2608.11770"
+      "text": "AeroBelief: Budgeted First-Action Verification for Evidence-Guided Aerial Sensing",
+      "url": "https://arxiv.org/abs/2611.25568"
     },
     {
-      "text": "D\\'ej\\`a Cue: Localizing States in Object Histories via Vocabulary-Relative Coordinates",
-      "url": "https://arxiv.org/abs/2608.02044"
+      "text": "Diagnosis is not a policy: a state-transition audit of caoability-conditioned test-time inference",
+      "url": "https://arxiv.org/abs/2611.25566"
     },
     {
-      "text": "What Does a Temporal Benchmark Score Measure? Decomposing Channel Use in Video VLM Evaluation",
-      "url": "https://arxiv.org/abs/2607.12304"
+      "text": "System-One RSI: Building Muscle Memory for Interactive Agents through Guided Practice",
+      "url": "https://arxiv.org/abs/2611.26007"
     },
     {
-      "text": "Supportive Token Revealing for Fast Diffusion Language Model Decoding",
-      "url": "https://arxiv.org/abs/2606.04236"
+      "text": "Efficient Multimodal Agents for Auditing 3D Worlds",
+      "url": "https://arxiv.org/abs/2611.25543"
     },
     {
-      "text": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
-      "url": "https://arxiv.org/abs/2605.29486"
+      "text": "How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study",
+      "url": "https://arxiv.org/abs/2611.25534"
     }
   ],
-  "lastUpdated": "2026-11-20T12:28:01Z"
+  "lastUpdated": "2026-11-20T15:26:33Z"
 }
