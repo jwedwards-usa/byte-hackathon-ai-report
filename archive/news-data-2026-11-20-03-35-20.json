@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "HOW OPENAI’S PERFORMANCE FACTORY KEEPS CHATGPT FAST",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+  },
+  "topStories": [
+    {
+      "text": "Could Model Councils Reduce Misalignment Risk from RSI?",
+      "url": "https://www.lesswrong.com/posts/zTLTtyrxSJrb29mJu/could-model-councils-reduce-misalignment-risk-from-rsi"
+    },
+    {
+      "text": "We need commitments for 25% compute for safety by 205 ECI points",
+      "url": "https://www.lesswrong.com/posts/AKtycrAwH3oe8WwJQ/we-need-commitments-for-25-compute-for-safety-by-205-eci"
+    },
+    {
+      "text": "Frontier Clock: Tracking the US-China AI Gap",
+      "url": "https://www.lesswrong.com/posts/emigsbmpWiJxRkDvw/frontier-clock-tracking-the-us-china-ai-gap"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "One unbroken Claude, or a thousand glued together?",
+      "url": "https://www.lesswrong.com/posts/qT9fXatfzrmM4xJjr/one-unbroken-claude-or-a-thousand-glued-together"
+    },
+    {
+      "text": "CHATGPT DICTATION NO LONGER HAS A 10-MINUTE TIME LIMIT",
+      "url": "https://dailyai.com/2026/11/chatgpt-dictation-no-longer-has-a-10-minute-time-limit/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
+    },
+    {
+      "text": "Performative faux-sophisticated hedging and minor reflexive disagreeableness in frontier models.  ",
+      "url": "https://www.lesswrong.com/posts/r7Re65qDTEdLsPCPq/performative-faux-sophisticated-hedging-and-minor-reflexive"
+    },
+    {
+      "text": "AI Safety Reading Group 352: Roko Mijic on Plan R",
+      "url": "https://www.lesswrong.com/posts/NNTxSSpjm29NMjBhL/ai-safety-reading-group-352-roko-mijic-on-plan-r"
+    },
+    {
+      "text": "PauseAI Munich Rally | Stop the loss of control over AI",
+      "url": "https://www.lesswrong.com/events/gSMjB2bymaizm92tu/pauseai-munich-rally-or-stop-the-loss-of-control-over-ai"
+    },
+    {
+      "text": "Anthropic Says Claude Solved Two Black Hole Physics Problems",
+      "url": "https://dailyai.com/2026/11/anthropic-says-claude-solved-two-black-hole-physics-problems/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "From Data to Action: Accelerating Refinery Optimization with AI",
+      "url": "https://arxiv.org/abs/2605.15085"
+    },
+    {
+      "text": "Isthmus: Bridging Supervision Islands Restores Uncertainty and Stability in One-Step Flows",
+      "url": "https://arxiv.org/abs/2611.23616"
+    },
+    {
+      "text": "How Uncertain Is My Action? Self-Correcting Visual Planning with Frozen World Models",
+      "url": "https://arxiv.org/abs/2611.23620"
+    },
+    {
+      "text": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+      "url": "https://arxiv.org/abs/2611.23588"
+    },
+    {
+      "text": "Imitation Learning from Human Motion Alone Does Not Guarantee Biomechanically Plausible Gait Kinetics",
+      "url": "https://arxiv.org/abs/2603.12408"
+    },
+    {
+      "text": "General progress substitutes for specific training data in language models",
+      "url": "https://arxiv.org/abs/2611.24844"
+    },
+    {
+      "text": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+      "url": "https://arxiv.org/abs/2611.24887"
+    },
+    {
+      "text": "BOS Summary: The First Token Matters",
+      "url": "https://arxiv.org/abs/2611.23508"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "F$^3$: What Makes Good Experience in World-Action Models?",
+      "url": "https://arxiv.org/abs/2611.24708"
+    },
+    {
+      "text": "ElephantAgent: Contextual State Continuity in Agentic Systems",
+      "url": "https://arxiv.org/abs/2607.01919"
+    },
+    {
+      "text": "Towards Reliable Scaling Laws for Tabular Foundation Models",
+      "url": "https://arxiv.org/abs/2611.24214"
+    },
+    {
+      "text": "TRESS: A Fixed-Size History Representation for Irregular Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2611.24257"
+    },
+    {
+      "text": "Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small Language Models",
+      "url": "https://arxiv.org/abs/2611.24650"
+    },
+    {
+      "text": "Supervised Hebbian Class Networks: Learning Without Backpropagation",
+      "url": "https://arxiv.org/abs/2611.24314"
+    },
+    {
+      "text": "Lodestone: Automated Semantic Discovery of Datacenter Hardware Specialization",
+      "url": "https://arxiv.org/abs/2611.23663"
+    },
+    {
+      "text": "Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code",
+      "url": "https://arxiv.org/abs/2611.24590"
+    }
+  ],
+  "lastUpdated": "2026-11-20T03:35:20Z"
+}
