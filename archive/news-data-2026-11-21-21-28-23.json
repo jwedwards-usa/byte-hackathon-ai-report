@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "GPT-6.2 Astra and Sol: The System Card",
+    "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card"
+  },
+  "topStories": [
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    },
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "DailyAI Briefing: A Lean-checked Riemann proof, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-a-lean-checked-riemann-proof-plus-4-more/"
+    },
+    {
+      "text": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/35CZA49noWaqipCglcFvI9/079df4aa38c7459b490e6c9d40ec4eb3/D32BEC7C-3F4B-4F24-9080-50B9D2F80A11.png?w=1200\u0026q=80",
+        "alt": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Human organisations as an intuition pump for AI's unit of agency",
+      "url": "https://www.lesswrong.com/posts/SGiNxS6vLeffbWhqo/human-organisations-as-an-intuition-pump-for-ai-s-unit-of"
+    },
+    {
+      "text": "The pro-Anthropic protest",
+      "url": "https://www.lesswrong.com/posts/goyeoEnJ7dLpsvfSw/the-pro-anthropic-protest"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
+    },
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+    },
+    {
+      "text": "Decision-Focused Reinforcement Learning for LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.25597"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Chameleon: Dynamic Format Adapter for Efficient Diffusion",
+      "url": "https://arxiv.org/abs/2609.33496"
+    },
+    {
+      "text": "Can Computation from Earlier Problems Help LLMs Solve New Ones?",
+      "url": "https://arxiv.org/abs/2609.39394"
+    },
+    {
+      "text": "Giving its AI more to read made T-Mobile's answers worse",
+      "url": "https://venturebeat.com/orchestration/giving-its-ai-more-to-read-made-t-mobiles-answers-worse"
+    },
+    {
+      "text": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    },
+    {
+      "text": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+      "url": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/"
+    },
+    {
+      "text": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "text": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
+    },
+    {
+      "text": "Being right is not a strategy: Make them feel something",
+      "url": "https://www.lesswrong.com/posts/TvdRkp6spZtSbf44H/being-right-is-not-a-strategy-make-them-feel-something"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "FRInGe: Distribution-Space Integrated Gradients with Fisher--Rao Geometry",
+      "url": "https://arxiv.org/abs/2605.06404"
+    },
+    {
+      "text": "Spherical Boltzmann machines: a solvable theory of learning and generation in energy-based models",
+      "url": "https://arxiv.org/abs/2605.09031"
+    },
+    {
+      "text": "TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks",
+      "url": "https://arxiv.org/abs/2605.17170"
+    },
+    {
+      "text": "AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals",
+      "url": "https://arxiv.org/abs/2605.20643"
+    },
+    {
+      "text": "Learning Which Evidence-Seeking Decisions Matter: Calibrated Counterfactual Replay for Language Agents",
+      "url": "https://arxiv.org/abs/2606.05263"
+    },
+    {
+      "text": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.26504"
+    },
+    {
+      "text": "Sequential Anytime Valid Tests for Efficient Inference-Time Alignment",
+      "url": "https://arxiv.org/abs/2611.26413"
+    },
+    {
+      "text": "Implicit Neural Representations of Individual Behavior",
+      "url": "https://arxiv.org/abs/2606.12200"
+    }
+  ],
+  "lastUpdated": "2026-11-21T21:28:23Z"
+}
