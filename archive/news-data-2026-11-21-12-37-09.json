@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Human organisations as an intuition pump for AI's unit of agency",
+    "url": "https://www.lesswrong.com/posts/SGiNxS6vLeffbWhqo/human-organisations-as-an-intuition-pump-for-ai-s-unit-of"
+  },
+  "topStories": [
+    {
+      "text": "The pro-Anthropic protest",
+      "url": "https://www.lesswrong.com/posts/goyeoEnJ7dLpsvfSw/the-pro-anthropic-protest"
+    },
+    {
+      "text": "A Behavioral Study of Gemini 3.1 Pro During an AI Village Research Project",
+      "url": "https://www.lesswrong.com/posts/uwh7jnn4eaGj2jZsJ/a-behavioral-study-of-gemini-3-1-pro-during-an-ai-village-1"
+    },
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
+    },
+    {
+      "text": "CHATGPT DICTATION NO LONGER HAS A 10-MINUTE TIME LIMIT",
+      "url": "https://dailyai.com/2026/11/chatgpt-dictation-no-longer-has-a-10-minute-time-limit/"
+    },
+    {
+      "text": "When and why can integral constraints improve the accuracy of physics-informed neural networks?",
+      "url": "https://arxiv.org/abs/2611.25515"
+    },
+    {
+      "text": "Decision-Focused Reinforcement Learning for LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.25597"
+    },
+    {
+      "text": "X Hedging: towards an eXplainable artificial intelligence option Hedging framework",
+      "url": "https://arxiv.org/abs/2611.25870"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "text": "Following the “mathocalypse,” mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"
+    },
+    {
+      "text": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+    },
+    {
+      "text": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "text": "CHATGPT FOR SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/"
+    },
+    {
+      "text": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
+    },
+    {
+      "text": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2611.25001"
+    },
+    {
+      "text": "SplitReAlign: Partition-Aware Representation Realignment for Split Federated Unlearning",
+      "url": "https://arxiv.org/abs/2611.25301"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks",
+      "url": "https://arxiv.org/abs/2605.17170"
+    },
+    {
+      "text": "AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals",
+      "url": "https://arxiv.org/abs/2605.20643"
+    },
+    {
+      "text": "Learning Which Evidence-Seeking Decisions Matter: Calibrated Counterfactual Replay for Language Agents",
+      "url": "https://arxiv.org/abs/2606.05263"
+    },
+    {
+      "text": "Active Feature Acquisition by Distilling an Oracle Teacher",
+      "url": "https://arxiv.org/abs/2611.26598"
+    },
+    {
+      "text": "ConDR: Conservative Reachability through Neural Hamilton-Jacobi Subsolutions",
+      "url": "https://arxiv.org/abs/2611.06802"
+    },
+    {
+      "text": "Implicit Neural Representations of Individual Behavior",
+      "url": "https://arxiv.org/abs/2606.12200"
+    },
+    {
+      "text": "Rational Sparse Autoencoder",
+      "url": "https://arxiv.org/abs/2606.14990"
+    },
+    {
+      "text": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.26504"
+    }
+  ],
+  "lastUpdated": "2026-11-21T12:37:09Z"
+}
