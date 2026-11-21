@@ -5,8 +5,26 @@
   },
   "topStories": [
     {
+      "text": "A Behavioral Study of Gemini 3.1 Pro During an AI Village Research Project",
+      "url": "https://www.lesswrong.com/posts/uwh7jnn4eaGj2jZsJ/a-behavioral-study-of-gemini-3-1-pro-during-an-ai-village-1"
+    },
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    },
+    {
       "text": "The most famous hard open problem in mathematics has just been solved. Now what? [Linkpost]",
       "url": "https://www.lesswrong.com/posts/gSQcdKtRtNpbai5TR/the-most-famous-hard-open-problem-in-mathematics-has-just"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
     },
     {
       "text": "Auditors Struggle to Catch Sabotage in End-to-End Transcripts of AI Safety Research",
@@ -15,109 +33,91 @@
     {
       "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
-      "url": "https://arxiv.org/abs/2611.25219"
     },
     {
-      "text": "Frontier models need only one text to unmask its human or AI author",
-      "url": "https://arxiv.org/abs/2611.26216"
+      "text": "Power Setpoint Tracking for Large-Scale EV Charging: Transformer-Constrained Charging Policy Learning with Self-Tuning Constraint Prices",
+      "url": "https://arxiv.org/abs/2611.25965"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+      "url": "https://arxiv.org/abs/2611.26627"
     },
     {
-      "text": "If you had faith in humanity, would you still pray to a machine god?",
-      "url": "https://www.lesswrong.com/posts/jxEvGjPnCiT4LKHmp/if-you-had-faith-in-humanity-would-you-still-pray-to-a"
+      "text": "Decision-Focused Reinforcement Learning for LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.25597"
     },
     {
-      "text": "xAppGen: LLM-driven Natural Language Programming for Agile xApp Development",
-      "url": "https://arxiv.org/abs/2603.18604"
-    },
-    {
-      "text": "Can an LLM Fix a Language Model Without Training It?",
-      "url": "https://arxiv.org/abs/2611.25613"
-    },
-    {
-      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
-      "url": "https://arxiv.org/abs/2606.26185"
-    },
-    {
-      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
-      "url": "https://arxiv.org/abs/2611.25733"
+      "text": "Towards Autoregressive Neural Network Parameter Generation",
+      "url": "https://arxiv.org/abs/2611.25538"
     }
   ],
   "centerColumn": [
     {
-      "text": "CAIMS: Scalable Cross-Array In-Memory Search",
-      "url": "https://arxiv.org/abs/2611.25141"
+      "text": "Deviations from the NTK Regime in CNNs under Joint Depth-Width Scaling",
+      "url": "https://arxiv.org/abs/2611.25624"
     },
     {
-      "text": "From Self-Play RL to Constrained Control: Distilling DiffMPC Students with DAgger",
-      "url": "https://arxiv.org/abs/2611.25197"
+      "text": "Variance-Adaptive Upper Confidence Bounds for Multi-Armed Bandits with Kaplan--Meier Survival Estimation",
+      "url": "https://arxiv.org/abs/2611.24988"
     },
     {
-      "text": "HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure",
-      "url": "https://arxiv.org/abs/2611.24970"
+      "text": "A Control-Theoretic Approximation to Predictive Coding Dynamics",
+      "url": "https://arxiv.org/abs/2611.26319"
     },
     {
-      "text": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
-      "url": "https://arxiv.org/abs/2609.39601"
+      "text": "Predicting Surface Displacement Fields of Laser Powder Bed Fusion Parts Using STL-Derived Graphs and Part-Level Descriptors",
+      "url": "https://arxiv.org/abs/2611.26323"
     },
     {
-      "text": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
-      "url": "https://arxiv.org/abs/2611.24943"
+      "text": "Learning with Local Search MCMC Layers",
+      "url": "https://arxiv.org/abs/2505.14240"
     },
     {
-      "text": "Noise Steering: Exploiting Wake Steering and Acoustic Directivity for Noise-Constrained Wind Farm Control via Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.36888"
+      "text": "Xaurora: Generative Weather Forecasting with Denoising Stochastic Interpolants from a Foundation Model Prior",
+      "url": "https://arxiv.org/abs/2610.06509"
     },
     {
-      "text": "LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits",
-      "url": "https://arxiv.org/abs/2611.26538"
+      "text": "Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model",
+      "url": "https://arxiv.org/abs/2611.26018"
     },
     {
-      "text": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
-      "url": "https://arxiv.org/abs/2611.18372"
+      "text": "From Data Alignment to Parameter Generation: Few-Shot Cross-City Traffic Prediction with Conditional Diffusion",
+      "url": "https://arxiv.org/abs/2611.25592"
     }
   ],
   "rightColumn": [
     {
-      "text": "FamilySpace: From Emergent Chemical Semantics to Controllable Crystal Generation",
-      "url": "https://arxiv.org/abs/2611.25452"
+      "text": "Revealing Pathway Interactions in Network Computations with Complete Path Contribution",
+      "url": "https://arxiv.org/abs/2611.26101"
     },
     {
-      "text": "Dimension-Free Buffer Bounds for Compressed-Momentum Error Feedback",
-      "url": "https://arxiv.org/abs/2611.25463"
+      "text": "Approximate Adjoint Models for Memory and Compute-Efficient Online Learning of Hybrid Models",
+      "url": "https://arxiv.org/abs/2611.26095"
     },
     {
-      "text": "EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents",
-      "url": "https://arxiv.org/abs/2608.30429"
+      "text": "Implicit Neural Representations of Individual Behavior",
+      "url": "https://arxiv.org/abs/2606.12200"
     },
     {
-      "text": "Planning Width Is Hard to Approximate Even Given the Unique Optimal Plan",
-      "url": "https://arxiv.org/abs/2611.25484"
+      "text": "Rational Sparse Autoencoder",
+      "url": "https://arxiv.org/abs/2606.14990"
     },
     {
-      "text": "Demonstration-Free Skill Composition for Navigation and Manipulation",
-      "url": "https://arxiv.org/abs/2611.25462"
+      "text": "RL Can Only Reinforce What It Sees Succeed",
+      "url": "https://arxiv.org/abs/2611.26084"
     },
     {
-      "text": "Balance of Benchmarks: Evidence Retention and Multiplicity-Aware Model Comparison",
-      "url": "https://arxiv.org/abs/2608.30044"
+      "text": "Iterative Scarcity-Guided Exploration: Bootstrapping Generative Auto-bidding from Narrow Support",
+      "url": "https://arxiv.org/abs/2611.26060"
     },
     {
-      "text": "Raptor: Rejection-aware Adaptive Tree based on Speculative Decoding",
-      "url": "https://arxiv.org/abs/2611.25436"
+      "text": "When Do Rankings Beat Signs? Gradient Direction Recovery under Even Nuisance",
+      "url": "https://arxiv.org/abs/2611.26055"
     },
     {
-      "text": "Tokengeist: Multi-Turn Attribution Tracing in Agentic Conversations",
-      "url": "https://arxiv.org/abs/2607.22610"
+      "text": "FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models",
+      "url": "https://arxiv.org/abs/2611.26020"
     }
   ],
-  "lastUpdated": "2026-11-21T03:33:38Z"
+  "lastUpdated": "2026-11-21T06:36:18Z"
 }
