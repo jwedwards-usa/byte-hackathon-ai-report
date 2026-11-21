@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "A Behavioral Study of Gemini 3.1 Pro During an AI Village Research Project",
+    "url": "https://www.lesswrong.com/posts/uwh7jnn4eaGj2jZsJ/a-behavioral-study-of-gemini-3-1-pro-during-an-ai-village-1"
+  },
+  "topStories": [
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    },
+    {
+      "text": "The pro-Anthropic protest",
+      "url": "https://www.lesswrong.com/posts/goyeoEnJ7dLpsvfSw/the-pro-anthropic-protest"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
+    },
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "text": "X Hedging: towards an eXplainable artificial intelligence option Hedging framework",
+      "url": "https://arxiv.org/abs/2611.25870"
+    },
+    {
+      "text": "Power Setpoint Tracking for Large-Scale EV Charging: Transformer-Constrained Charging Policy Learning with Self-Tuning Constraint Prices",
+      "url": "https://arxiv.org/abs/2611.25965"
+    },
+    {
+      "text": "Towards Autoregressive Neural Network Parameter Generation",
+      "url": "https://arxiv.org/abs/2611.25538"
+    },
+    {
+      "text": "Decision-Focused Reinforcement Learning for LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.25597"
+    },
+    {
+      "text": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+      "url": "https://arxiv.org/abs/2611.26627"
+    },
+    {
+      "text": "When and why can integral constraints improve the accuracy of physics-informed neural networks?",
+      "url": "https://arxiv.org/abs/2611.25515"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "On the Informativeness of Structural Stability Bounds for GNNs: GINs versus GATs",
+      "url": "https://arxiv.org/abs/2611.25603"
+    },
+    {
+      "text": "Where Global Context and Weight Sharing Work in Compact Vision Backbones",
+      "url": "https://arxiv.org/abs/2611.23446"
+    },
+    {
+      "text": "From Data Alignment to Parameter Generation: Few-Shot Cross-City Traffic Prediction with Conditional Diffusion",
+      "url": "https://arxiv.org/abs/2611.25592"
+    },
+    {
+      "text": "Probing the limits of materials design via a comprehensive crystal database of 14.6 million structures with 140 properties",
+      "url": "https://arxiv.org/abs/2610.32678"
+    },
+    {
+      "text": "EgoHand: Monocular 3D Hand Reconstruction from Egocentric Video",
+      "url": "https://arxiv.org/abs/2610.30293"
+    },
+    {
+      "text": "Learn, Freeze, and Transfer an Activation Function Across Architectures",
+      "url": "https://arxiv.org/abs/2611.26201"
+    },
+    {
+      "text": "Learning to Defer under Expert Drift",
+      "url": "https://arxiv.org/abs/2611.26440"
+    },
+    {
+      "text": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+      "url": "https://arxiv.org/abs/2610.05608"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "{\\phi}TD: Distributional Reinforcement Learning using Characteristic Functions",
+      "url": "https://arxiv.org/abs/2611.25208"
+    },
+    {
+      "text": "Persistent Sparse Autoencoders: Learning Feature-Specific Timescales in Language Model Representations",
+      "url": "https://arxiv.org/abs/2607.17117"
+    },
+    {
+      "text": "Game-Theoretic Data Allocation for Expert Specialization and Routing",
+      "url": "https://arxiv.org/abs/2611.25167"
+    },
+    {
+      "text": "Learning from Context: Leave-One-Out Prediction in Jump Diffusions",
+      "url": "https://arxiv.org/abs/2611.26359"
+    },
+    {
+      "text": "Attention Head Specialization: Phase Transitions in Sample Complexity",
+      "url": "https://arxiv.org/abs/2611.26228"
+    },
+    {
+      "text": "Fast Gauss Sums via Flash Attention",
+      "url": "https://arxiv.org/abs/2609.04910"
+    },
+    {
+      "text": "Causal Discovery with False Positive Error Control",
+      "url": "https://arxiv.org/abs/2611.25376"
+    },
+    {
+      "text": "Learning from Transients: Linear RNN Scaling Laws in Stationary Prediction",
+      "url": "https://arxiv.org/abs/2609.27964"
+    }
+  ],
+  "lastUpdated": "2026-11-21T09:25:26Z"
+}
