@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "GPT-6.2 Astra and Sol: The System Card",
+    "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card"
+  },
+  "topStories": [
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+    },
+    {
+      "text": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "text": "Human organisations as an intuition pump for AI's unit of agency",
+      "url": "https://www.lesswrong.com/posts/SGiNxS6vLeffbWhqo/human-organisations-as-an-intuition-pump-for-ai-s-unit-of"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A Behavioral Study of Gemini 3.1 Pro During an AI Village Research Project",
+      "url": "https://www.lesswrong.com/posts/uwh7jnn4eaGj2jZsJ/a-behavioral-study-of-gemini-3-1-pro-during-an-ai-village-1"
+    },
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Contra Oster on Alcohol in Pregnancy. Part 2. Is Europe really superior? ",
+      "url": "https://www.lesswrong.com/posts/Scqv57kAADjJCouRA/contra-oster-on-alcohol-in-pregnancy-part-2-is-europe-really"
+    },
+    {
+      "text": "The pro-Anthropic protest",
+      "url": "https://www.lesswrong.com/posts/goyeoEnJ7dLpsvfSw/the-pro-anthropic-protest"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "From field-scale to large-scale spectral libraries: Tabular foundation models in soil spectroscopy",
+      "url": "https://arxiv.org/abs/2608.00608"
+    },
+    {
+      "text": "A human-in-the-loop Bayesian optimization framework for constraint-aware bioprocess development",
+      "url": "https://arxiv.org/abs/2606.19230"
+    },
+    {
+      "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "text": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+      "url": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/"
+    },
+    {
+      "text": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "text": "CHATGPT FOR SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/"
+    },
+    {
+      "text": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
+    },
+    {
+      "text": "Soulposting seems pretty pointless not gonna lie",
+      "url": "https://www.lesswrong.com/posts/CmzBvzNpb4GXXSXpR/soulposting-seems-pretty-pointless-not-gonna-lie"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Hierarchical Latent Structure Learning through Online Inference",
+      "url": "https://arxiv.org/abs/2603.19139"
+    },
+    {
+      "text": "Evidence from a Multi-Regime Causal Discovery Benchmark: UCMT Algorithms, Comparative Performance, and Controlled Ablation Studies",
+      "url": "https://arxiv.org/abs/2611.26383"
+    },
+    {
+      "text": "FRInGe: Distribution-Space Integrated Gradients with Fisher--Rao Geometry",
+      "url": "https://arxiv.org/abs/2605.06404"
+    },
+    {
+      "text": "Spherical Boltzmann machines: a solvable theory of learning and generation in energy-based models",
+      "url": "https://arxiv.org/abs/2605.09031"
+    },
+    {
+      "text": "TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks",
+      "url": "https://arxiv.org/abs/2605.17170"
+    },
+    {
+      "text": "AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals",
+      "url": "https://arxiv.org/abs/2605.20643"
+    },
+    {
+      "text": "Learning Which Evidence-Seeking Decisions Matter: Calibrated Counterfactual Replay for Language Agents",
+      "url": "https://arxiv.org/abs/2606.05263"
+    },
+    {
+      "text": "From Benchmarks to the Bench: Preference, Correspondence and Selectivity in Bidirectional Drug-Target Screening",
+      "url": "https://arxiv.org/abs/2611.26369"
+    }
+  ],
+  "lastUpdated": "2026-11-21T15:30:32Z"
+}
