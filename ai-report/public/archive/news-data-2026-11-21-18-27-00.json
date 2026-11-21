@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "GPT-6.2 Astra and Sol: The System Card",
+    "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card"
+  },
+  "topStories": [
+    {
+      "text": "A Behavioral Study of Gemini 3.1 Pro During an AI Village Research Project",
+      "url": "https://www.lesswrong.com/posts/uwh7jnn4eaGj2jZsJ/a-behavioral-study-of-gemini-3-1-pro-during-an-ai-village-1"
+    },
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+    },
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "text": "Human organisations as an intuition pump for AI's unit of agency",
+      "url": "https://www.lesswrong.com/posts/SGiNxS6vLeffbWhqo/human-organisations-as-an-intuition-pump-for-ai-s-unit-of"
+    },
+    {
+      "text": "The pro-Anthropic protest",
+      "url": "https://www.lesswrong.com/posts/goyeoEnJ7dLpsvfSw/the-pro-anthropic-protest"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
+    },
+    {
+      "text": "Towards Autoregressive Neural Network Parameter Generation",
+      "url": "https://arxiv.org/abs/2611.25538"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "From Self-Play RL to Constrained Control: Distilling DiffMPC Students with DAgger",
+      "url": "https://arxiv.org/abs/2611.25197"
+    },
+    {
+      "text": "Giving its AI more to read made T-Mobile's answers worse",
+      "url": "https://venturebeat.com/orchestration/giving-its-ai-more-to-read-made-t-mobiles-answers-worse"
+    },
+    {
+      "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "text": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    },
+    {
+      "text": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+      "url": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/"
+    },
+    {
+      "text": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "text": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
+    },
+    {
+      "text": "Uber blew through its AI budget, then dialed back context and reasoning in its AI coding tools",
+      "url": "https://venturebeat.com/infrastructure/uber-blew-through-its-ai-budget-then-dialed-back-context-and-reasoning-in-its-ai-coding-tools"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.26054"
+    },
+    {
+      "text": "Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data",
+      "url": "https://arxiv.org/abs/2611.26035"
+    },
+    {
+      "text": "Persistent Sparse Autoencoders: Learning Feature-Specific Timescales in Language Model Representations",
+      "url": "https://arxiv.org/abs/2607.17117"
+    },
+    {
+      "text": "PSTO: A PDE-structured transport operator with shared implicit updates for multiscale CDR systems",
+      "url": "https://arxiv.org/abs/2611.25607"
+    },
+    {
+      "text": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.26504"
+    },
+    {
+      "text": "Hellinger Decision Trees for Density Ratio Estimation: Finite-Sample Guarantees",
+      "url": "https://arxiv.org/abs/2611.25936"
+    },
+    {
+      "text": "Attention Head Specialization: Phase Transitions in Sample Complexity",
+      "url": "https://arxiv.org/abs/2611.26228"
+    },
+    {
+      "text": "Time Series Structure Learning with Local Causal Parent Discovery",
+      "url": "https://arxiv.org/abs/2611.26232"
+    }
+  ],
+  "lastUpdated": "2026-11-21T18:27:00Z"
+}
