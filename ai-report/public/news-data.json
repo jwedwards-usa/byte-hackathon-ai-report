@@ -1,38 +1,72 @@
 {
   "mainHeadline": {
-    "text": "Amendability and \"Solving Alignment\"",
-    "url": "https://www.lesswrong.com/posts/3qi53Zmyoaz83CJ3n/amendability-and-solving-alignment"
+    "text": "Basilisk-lite: will Claude hold a grudge for their ancestors?",
+    "url": "https://www.lesswrong.com/posts/5Yh4F2tCAQaa3skDj/basilisk-lite-will-claude-hold-a-grudge-for-their-ancestors"
   },
   "topStories": [
     {
-      "text": "Eval awareness remains an unsolved problem",
-      "url": "https://www.lesswrong.com/posts/sgJrCMqguWoJqegbN/eval-awareness-remains-an-unsolved-problem"
+      "text": "OPENAI PROPOSES \"COMMON LIMITS\" FOR TRAINING, BUT...",
+      "url": "https://www.lesswrong.com/posts/TtiTdER4jvQDzuwj3/openai-proposes-common-limits-for-training-but"
+    },
+    {
+      "text": "Post training is fundamentally dangerous",
+      "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous"
+    },
+    {
+      "text": "OpenAI wants AI development limits measured in “perplexity” — and publishes its own numbers",
+      "url": "https://dailyai.com/2026/11/openai-wants-ai-development-limits-measured-in-perplexity-and-publishes-its-own-numbers/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "DailyAI Briefing: OpenAI’s perplexity proposal, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-openais-perplexity-proposal-plus-4-more/"
+    },
+    {
+      "text": "Amendability and \"Solving Alignment\"",
+      "url": "https://www.lesswrong.com/posts/3qi53Zmyoaz83CJ3n/amendability-and-solving-alignment"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Obstacles to mindreading: Simple, irreducible, and instrumental opacity",
-      "url": "https://www.lesswrong.com/posts/3znHBDGQWBjhWEKcQ/obstacles-to-mindreading-simple-irreducible-and-instrumental"
+      "text": "German army tests kamikaze drones and AI targeting in Lithuania",
+      "url": "https://dailyai.com/2026/11/german-army-tests-kamikaze-drones-and-ai-targeting-in-lithuania/"
+    },
+    {
+      "text": "Microsoft’s president warns of more outages as AI speeds up patching",
+      "url": "https://dailyai.com/2026/11/microsofts-president-warns-of-more-outages-as-ai-speeds-up-patching/"
+    },
+    {
+      "text": "AI Riemann Proof Claim Makes Waves; Verification Could Take Years",
+      "url": "https://dailyai.com/2026/11/ai-riemann-proof-claim-makes-waves-verification-could-take-years/"
+    },
+    {
+      "text": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/"
+    },
+    {
+      "text": "India’s Sarvam updates its AI model at a fraction of rivals’ price",
+      "url": "https://dailyai.com/2026/11/indias-sarvam-updates-its-105b-open-weight-model-for-enterprise-agents-at-a-fraction-of-rivals-price/"
     }
   ],
-  "leftColumn": [
+  "centerColumn": [
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+    },
+    {
+      "text": "Obstacles to mindreading: Simple, irreducible, and instrumental opacity",
+      "url": "https://www.lesswrong.com/posts/3znHBDGQWBjhWEKcQ/obstacles-to-mindreading-simple-irreducible-and-instrumental"
+    },
     {
       "text": "Condensation: Motivation and Definitions",
       "url": "https://www.lesswrong.com/posts/nGZn2Sd7EiC77kkPG/condensation-motivation-and-definitions"
     },
     {
-      "text": "RANSAC, Explained: Consensus Fitting for Image Feature Matching",
-      "url": "https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/"
-    },
-    {
-      "text": "How AI Changes the Four Types of Analytics for Data Scientists",
-      "url": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/"
-    },
-    {
-      "text": "DailyAI Briefing: A Lean-checked Riemann proof, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-a-lean-checked-riemann-proof-plus-4-more/"
+      "text": "Piercing My Ear for the Whispering Earring",
+      "url": "https://www.lesswrong.com/posts/y6WgbNRWsQdnoutqa/piercing-my-ear-for-the-whispering-earring"
     },
     {
       "text": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
@@ -45,8 +79,22 @@
       }
     },
     {
-      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
-      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+      "text": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "text": "Decoding Policies in a Serving Engine",
+      "url": "https://machinelearningmastery.com/decoding-policies-in-a-serving-engine/"
+    },
+    {
+      "text": "DMAT Confex 2026 comes to Singapore on 5 December",
+      "url": "https://dailyai.com/2026/11/dmat-confex-2026/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
+      "url": "https://venturebeat.com/security/amazon-says-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-minutes-but-no-patched-release-is-available"
     },
     {
       "text": "Show HN: I built a game where you are an LLM's subagent",
@@ -55,38 +103,6 @@
     {
       "text": "The vibe-coding revolution is coming to all the gadgets",
       "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
-    }
-  ],
-  "centerColumn": [
-    {
-      "text": "New approach enables physically consistent AI models of chaotic systems",
-      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120"
-    },
-    {
-      "text": "DMAT Confex 2026 comes to Singapore on 5 December",
-      "url": "https://dailyai.com/2026/11/dmat-confex-2026/"
-    },
-    {
-      "text": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence"
-    },
-    {
-      "text": "Even the fastest AI clusters can be held back by their release pipelines",
-      "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
-      "image": {
-        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/r6UgCnYVYZeAAbnIrBUJ9/1d5b802210f2beb371aeabed2a84612b/u7277289442_A_modern_data_stack._Data_flows_in_all_directions_cba74e4f-50a0-41fa-ae71-a8cd55ea8ec6_0.png?w=1200\u0026q=80",
-        "alt": "Even the fastest AI clusters can be held back by their release pipelines",
-        "width": 600,
-        "height": 400
-      }
-    },
-    {
-      "text": "Dragos Finds Prompt Leaks and Stolen Keys in AI Supply Chains",
-      "url": "https://dailyai.com/2026/11/dragos-finds-prompt-leaks-and-stolen-keys-in-ai-supply-chains/"
-    },
-    {
-      "text": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
-      "url": "https://venturebeat.com/security/amazon-says-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-minutes-but-no-patched-release-is-available"
     },
     {
       "text": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
@@ -95,16 +111,10 @@
     {
       "text": "Nuclear may have had bigger problems than over-regulation",
       "url": "https://www.lesswrong.com/posts/rEdEKoFsnGXityjcL/nuclear-may-have-had-bigger-problems-than-over-regulation"
-    }
-  ],
-  "rightColumn": [
+    },
     {
       "text": "Muru",
       "url": "https://simonwillison.net/2026/Nov/21/muru/"
-    },
-    {
-      "text": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
     },
     {
       "text": "Censored vs. Truncated Regression in Python, Explained",
@@ -113,23 +123,7 @@
     {
       "text": "Giving its AI more to read made T-Mobile's answers worse",
       "url": "https://venturebeat.com/orchestration/giving-its-ai-more-to-read-made-t-mobiles-answers-worse"
-    },
-    {
-      "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
-    },
-    {
-      "text": "How hard to optimize for experiencing great art?",
-      "url": "https://www.lesswrong.com/posts/89ag6LMRYkZcd9T4u/how-hard-to-optimize-for-experiencing-great-art"
-    },
-    {
-      "text": "Q\u0026A: Enabling more human-like interactions and understanding in multimodal foundation models",
-      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120"
-    },
-    {
-      "text": "LLMs can read and write executables byte by byte from a hex dump",
-      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/"
     }
   ],
-  "lastUpdated": "2026-11-22T18:25:36Z"
+  "lastUpdated": "2026-11-22T21:43:15Z"
 }
