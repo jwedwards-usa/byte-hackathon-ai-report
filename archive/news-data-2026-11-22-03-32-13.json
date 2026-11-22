@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Eval awareness remains an unsolved problem",
+    "url": "https://www.lesswrong.com/posts/sgJrCMqguWoJqegbN/eval-awareness-remains-an-unsolved-problem"
+  },
+  "topStories": [
+    {
+      "text": "Hillclimbing AISafetyResearchBench",
+      "url": "https://www.lesswrong.com/posts/amsCvdYFQibumL4wm/hillclimbing-aisafetyresearchbench"
+    },
+    {
+      "text": "Trump on superintelligence: “It may be too super.” What is China saying?",
+      "url": "https://www.lesswrong.com/posts/yyz2LAptjWgR7PKBD/trump-on-superintelligence-it-may-be-too-super-what-is-china"
+    },
+    {
+      "text": "Why models believe in skepticism",
+      "url": "https://www.lesswrong.com/posts/r2aAGgfFcFfRikEdb/why-models-believe-in-skepticism"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2611.25219"
+    },
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls",
+      "url": "https://arxiv.org/abs/2606.26185"
+    },
+    {
+      "text": "Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?",
+      "url": "https://arxiv.org/abs/2611.25733"
+    },
+    {
+      "text": "The Obsolescence of the Horse",
+      "url": "https://www.lesswrong.com/posts/chCiZKcRZtndu58AD/the-obsolescence-of-the-horse-1"
+    },
+    {
+      "text": "A Letter To Mr. Shannon (Unanswered)",
+      "url": "https://www.lesswrong.com/posts/XQxv8Jnn8WxTmKPSB/a-letter-to-mr-shannon-unanswered"
+    },
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "From Self-Play RL to Constrained Control: Distilling DiffMPC Students with DAgger",
+      "url": "https://arxiv.org/abs/2611.25197"
+    },
+    {
+      "text": "Can Computation from Earlier Problems Help LLMs Solve New Ones?",
+      "url": "https://arxiv.org/abs/2609.39394"
+    },
+    {
+      "text": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
+      "url": "https://venturebeat.com/security/amazon-says-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-minutes-but-no-patched-release-is-available"
+    },
+    {
+      "text": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    },
+    {
+      "text": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+      "url": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/"
+    },
+    {
+      "text": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "text": "Mass-Printing Hero Licenses",
+      "url": "https://www.lesswrong.com/posts/FCTtHf839fctjCtTf/mass-printing-hero-licenses"
+    },
+    {
+      "text": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Learning Which Evidence-Seeking Decisions Matter: Calibrated Counterfactual Replay for Language Agents",
+      "url": "https://arxiv.org/abs/2606.05263"
+    },
+    {
+      "text": "One Schedule Does Not Fit All: Adaptive Inference Schedules for Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.25895"
+    },
+    {
+      "text": "A Complete Geometric Message-Passing Architecture for Point Clouds",
+      "url": "https://arxiv.org/abs/2611.26384"
+    },
+    {
+      "text": "Implicit Neural Representations of Individual Behavior",
+      "url": "https://arxiv.org/abs/2606.12200"
+    },
+    {
+      "text": "Rational Sparse Autoencoder",
+      "url": "https://arxiv.org/abs/2606.14990"
+    },
+    {
+      "text": "PSTO: A PDE-structured transport operator with shared implicit updates for multiscale CDR systems",
+      "url": "https://arxiv.org/abs/2611.25607"
+    },
+    {
+      "text": "Limits of local curvature for constructing search subspaces in segmentation models",
+      "url": "https://arxiv.org/abs/2611.25822"
+    },
+    {
+      "text": "Invertible Transport Between Sample-Only Distributions via Projected Characteristic Functions",
+      "url": "https://arxiv.org/abs/2611.26187"
+    }
+  ],
+  "lastUpdated": "2026-11-22T03:32:13Z"
+}
