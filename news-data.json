@@ -9,18 +9,18 @@
       "url": "https://www.lesswrong.com/posts/sgJrCMqguWoJqegbN/eval-awareness-remains-an-unsolved-problem"
     },
     {
-      "text": "Why models believe in skepticism",
-      "url": "https://www.lesswrong.com/posts/r2aAGgfFcFfRikEdb/why-models-believe-in-skepticism"
-    },
-    {
       "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     }
   ],
   "leftColumn": [
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Why models believe in skepticism",
+      "url": "https://www.lesswrong.com/posts/r2aAGgfFcFfRikEdb/why-models-believe-in-skepticism"
     },
     {
       "text": "Piercing My Ear for the Whispering Earring",
@@ -29,10 +29,6 @@
     {
       "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
       "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
-    },
-    {
-      "text": "How hard to optimize for experiencing great art?",
-      "url": "https://www.lesswrong.com/posts/89ag6LMRYkZcd9T4u/how-hard-to-optimize-for-experiencing-great-art"
     },
     {
       "text": "DailyAI Briefing: A Lean-checked Riemann proof, plus 4 more",
@@ -53,23 +49,15 @@
       "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
     },
     {
+      "text": "Nuclear may have had bigger problems than over-regulation",
+      "url": "https://www.lesswrong.com/posts/rEdEKoFsnGXityjcL/nuclear-may-have-had-bigger-problems-than-over-regulation"
+    },
+    {
       "text": "Succession (2018-2023) Review",
       "url": "https://www.lesswrong.com/posts/RsXiNkodNZgsbQPC7/succession-2018-2023-review"
     }
   ],
   "centerColumn": [
-    {
-      "text": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
-    },
-    {
-      "text": "Four Chatbots Gave GAO Viable Attack Plans in Under 12 Hours",
-      "url": "https://dailyai.com/2026/11/four-chatbots-gave-gao-viable-attack-plans-in-under-12-hours/"
-    },
-    {
-      "text": "Incomplete agents want to become complete",
-      "url": "https://www.lesswrong.com/posts/QbZ69gQh6hqakCHay/incomplete-agents-want-to-become-complete"
-    },
     {
       "text": "Even the fastest AI clusters can be held back by their release pipelines",
       "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
@@ -95,17 +83,21 @@
     {
       "text": "Quoting Levent Alpöge",
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    },
+    {
+      "text": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+      "url": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/"
+    },
+    {
+      "text": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "text": "The Obsolescence of the Horse",
+      "url": "https://www.lesswrong.com/posts/chCiZKcRZtndu58AD/the-obsolescence-of-the-horse-1"
     }
   ],
   "rightColumn": [
-    {
-      "text": "Giving its AI more to read made T-Mobile's answers worse",
-      "url": "https://venturebeat.com/orchestration/giving-its-ai-more-to-read-made-t-mobiles-answers-worse"
-    },
-    {
-      "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
-    },
     {
       "text": "Following the “mathocalypse,” mathematicians consider the future",
       "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"
@@ -129,7 +121,15 @@
     {
       "text": "Q\u0026A: Enabling more human-like interactions and understanding in multimodal foundation models",
       "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120"
+    },
+    {
+      "text": "7 Ways AI Agents Fail in Production (and How to Catch Each One)",
+      "url": "https://machinelearningmastery.com/7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one/"
+    },
+    {
+      "text": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/"
     }
   ],
-  "lastUpdated": "2026-11-22T06:35:04Z"
+  "lastUpdated": "2026-11-22T09:31:24Z"
 }
