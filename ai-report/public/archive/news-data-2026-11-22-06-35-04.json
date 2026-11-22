@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "Hillclimbing AISafetyResearchBench",
+    "url": "https://www.lesswrong.com/posts/amsCvdYFQibumL4wm/hillclimbing-aisafetyresearchbench"
+  },
+  "topStories": [
+    {
+      "text": "Eval awareness remains an unsolved problem",
+      "url": "https://www.lesswrong.com/posts/sgJrCMqguWoJqegbN/eval-awareness-remains-an-unsolved-problem"
+    },
+    {
+      "text": "Why models believe in skepticism",
+      "url": "https://www.lesswrong.com/posts/r2aAGgfFcFfRikEdb/why-models-believe-in-skepticism"
+    },
+    {
+      "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Piercing My Ear for the Whispering Earring",
+      "url": "https://www.lesswrong.com/posts/y6WgbNRWsQdnoutqa/piercing-my-ear-for-the-whispering-earring"
+    },
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+    },
+    {
+      "text": "How hard to optimize for experiencing great art?",
+      "url": "https://www.lesswrong.com/posts/89ag6LMRYkZcd9T4u/how-hard-to-optimize-for-experiencing-great-art"
+    },
+    {
+      "text": "DailyAI Briefing: A Lean-checked Riemann proof, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-a-lean-checked-riemann-proof-plus-4-more/"
+    },
+    {
+      "text": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/35CZA49noWaqipCglcFvI9/079df4aa38c7459b490e6c9d40ec4eb3/D32BEC7C-3F4B-4F24-9080-50B9D2F80A11.png?w=1200\u0026q=80",
+        "alt": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "text": "Succession (2018-2023) Review",
+      "url": "https://www.lesswrong.com/posts/RsXiNkodNZgsbQPC7/succession-2018-2023-review"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    },
+    {
+      "text": "Four Chatbots Gave GAO Viable Attack Plans in Under 12 Hours",
+      "url": "https://dailyai.com/2026/11/four-chatbots-gave-gao-viable-attack-plans-in-under-12-hours/"
+    },
+    {
+      "text": "Incomplete agents want to become complete",
+      "url": "https://www.lesswrong.com/posts/QbZ69gQh6hqakCHay/incomplete-agents-want-to-become-complete"
+    },
+    {
+      "text": "Even the fastest AI clusters can be held back by their release pipelines",
+      "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/r6UgCnYVYZeAAbnIrBUJ9/1d5b802210f2beb371aeabed2a84612b/u7277289442_A_modern_data_stack._Data_flows_in_all_directions_cba74e4f-50a0-41fa-ae71-a8cd55ea8ec6_0.png?w=1200\u0026q=80",
+        "alt": "Even the fastest AI clusters can be held back by their release pipelines",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Dragos Finds Prompt Leaks and Stolen Keys in AI Supply Chains",
+      "url": "https://dailyai.com/2026/11/dragos-finds-prompt-leaks-and-stolen-keys-in-ai-supply-chains/"
+    },
+    {
+      "text": "Censored vs. Truncated Regression in Python, Explained",
+      "url": "https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/"
+    },
+    {
+      "text": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
+      "url": "https://venturebeat.com/security/amazon-says-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-minutes-but-no-patched-release-is-available"
+    },
+    {
+      "text": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Giving its AI more to read made T-Mobile's answers worse",
+      "url": "https://venturebeat.com/orchestration/giving-its-ai-more-to-read-made-t-mobiles-answers-worse"
+    },
+    {
+      "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "text": "Following the “mathocalypse,” mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"
+    },
+    {
+      "text": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+    },
+    {
+      "text": "Five Guardrails That Limit the Damage an AI Agent Can Do",
+      "url": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/"
+    },
+    {
+      "text": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    },
+    {
+      "text": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models"
+    },
+    {
+      "text": "Q\u0026A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120"
+    }
+  ],
+  "lastUpdated": "2026-11-22T06:35:04Z"
+}
