@@ -1,9 +1,13 @@
 {
   "mainHeadline": {
-    "text": "GPT-6.2 Astra and Sol: The System Card",
-    "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card"
+    "text": "Trump on superintelligence: “It may be too super.” What is China saying?",
+    "url": "https://www.lesswrong.com/posts/yyz2LAptjWgR7PKBD/trump-on-superintelligence-it-may-be-too-super-what-is-china"
   },
   "topStories": [
+    {
+      "text": "GPT-6.2 Astra and Sol: The System Card",
+      "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card"
+    },
     {
       "text": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
       "url": "https://arxiv.org/abs/2611.25219"
@@ -11,26 +15,12 @@
     {
       "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-    },
-    {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
     }
   ],
   "leftColumn": [
     {
-      "text": "DailyAI Briefing: A Lean-checked Riemann proof, plus 4 more",
-      "url": "https://dailyai.com/2026/11/dailyai-briefing-a-lean-checked-riemann-proof-plus-4-more/"
-    },
-    {
-      "text": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
-      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
-      "image": {
-        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/35CZA49noWaqipCglcFvI9/079df4aa38c7459b490e6c9d40ec4eb3/D32BEC7C-3F4B-4F24-9080-50B9D2F80A11.png?w=1200\u0026q=80",
-        "alt": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
-        "width": 600,
-        "height": 400
-      }
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
       "text": "Human organisations as an intuition pump for AI's unit of agency",
@@ -49,26 +39,34 @@
       "url": "https://arxiv.org/abs/2611.25733"
     },
     {
-      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
-      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+      "text": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/"
     },
     {
-      "text": "Decision-Focused Reinforcement Learning for LLM Post-Training",
-      "url": "https://arxiv.org/abs/2611.25597"
+      "text": "A Letter To Mr. Shannon (Unanswered)",
+      "url": "https://www.lesswrong.com/posts/XQxv8Jnn8WxTmKPSB/a-letter-to-mr-shannon-unanswered"
+    },
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
     }
   ],
   "centerColumn": [
     {
-      "text": "Chameleon: Dynamic Format Adapter for Efficient Diffusion",
-      "url": "https://arxiv.org/abs/2609.33496"
+      "text": "CAIMS: Scalable Cross-Array In-Memory Search",
+      "url": "https://arxiv.org/abs/2611.25141"
     },
     {
-      "text": "Can Computation from Earlier Problems Help LLMs Solve New Ones?",
-      "url": "https://arxiv.org/abs/2609.39394"
+      "text": "NIMIS: A Structure-Agnostic, Chemically Informed Slot-Attention Framework for Demixing 1D $^1$H-NMR Mixture Spectra",
+      "url": "https://arxiv.org/abs/2611.25629"
     },
     {
-      "text": "Giving its AI more to read made T-Mobile's answers worse",
-      "url": "https://venturebeat.com/orchestration/giving-its-ai-more-to-read-made-t-mobiles-answers-worse"
+      "text": "Differentially Private Score Estimation with Applications to Score-Based Generative Models",
+      "url": "https://arxiv.org/abs/2611.25536"
+    },
+    {
+      "text": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+      "url": "https://arxiv.org/abs/2609.39601"
     },
     {
       "text": "Quoting Levent Alpöge",
@@ -83,47 +81,43 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation"
     },
     {
-      "text": "AI helps researchers investigate how thousands of medical studies share code",
-      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
-    },
-    {
-      "text": "Being right is not a strategy: Make them feel something",
-      "url": "https://www.lesswrong.com/posts/TvdRkp6spZtSbf44H/being-right-is-not-a-strategy-make-them-feel-something"
+      "text": "GrapheneOS made a proof of concept RCS messaging app without Google Messages",
+      "url": "https://twitter.com/GrapheneOS/status/2124158267123233056"
     }
   ],
   "rightColumn": [
     {
-      "text": "FRInGe: Distribution-Space Integrated Gradients with Fisher--Rao Geometry",
-      "url": "https://arxiv.org/abs/2605.06404"
+      "text": "Physical Laws without Physics Loss? Probing Learned Dynamics in Video World Models through Forced Response",
+      "url": "https://arxiv.org/abs/2611.25626"
     },
     {
-      "text": "Spherical Boltzmann machines: a solvable theory of learning and generation in energy-based models",
-      "url": "https://arxiv.org/abs/2605.09031"
+      "text": "Dynamics of Protected State Evolution",
+      "url": "https://arxiv.org/abs/2611.25541"
     },
     {
-      "text": "TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks",
-      "url": "https://arxiv.org/abs/2605.17170"
+      "text": "Cross-Behavior Policy Optimization: Unified Learning from Offline Demonstrations and On- and Off-Policy Rollouts via a Shared Regression Target",
+      "url": "https://arxiv.org/abs/2610.12830"
     },
     {
-      "text": "AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals",
-      "url": "https://arxiv.org/abs/2605.20643"
+      "text": "Learning Generative Ranking Policies for Whole-Page Optimization",
+      "url": "https://arxiv.org/abs/2611.25527"
     },
     {
-      "text": "Learning Which Evidence-Seeking Decisions Matter: Calibrated Counterfactual Replay for Language Agents",
-      "url": "https://arxiv.org/abs/2606.05263"
+      "text": "Refined Topology-Pass Scheduling: Damped Trust-Region Compensation for Dynamic k-NN Graphs in SE(3)-Equivariant Structure Prediction",
+      "url": "https://arxiv.org/abs/2610.19246"
     },
     {
-      "text": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.26504"
+      "text": "Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models",
+      "url": "https://arxiv.org/abs/2610.23862"
     },
     {
-      "text": "Sequential Anytime Valid Tests for Efficient Inference-Time Alignment",
-      "url": "https://arxiv.org/abs/2611.26413"
+      "text": "ActMem: From Latent Memory Reasoning to Grounded Robotic Action",
+      "url": "https://arxiv.org/abs/2611.25461"
     },
     {
-      "text": "Implicit Neural Representations of Individual Behavior",
-      "url": "https://arxiv.org/abs/2606.12200"
+      "text": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+      "url": "https://arxiv.org/abs/2610.42126"
     }
   ],
-  "lastUpdated": "2026-11-21T21:28:23Z"
+  "lastUpdated": "2026-11-22T00:48:30Z"
 }
