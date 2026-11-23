@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Heroism in AI Safety",
+    "url": "https://www.lesswrong.com/posts/TGq5mnsWFWz5i2ATD/heroism-in-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "Moderately cursed questions of AI safety",
+      "url": "https://www.lesswrong.com/posts/FXGukrjX3bWCi7ycR/moderately-cursed-questions-of-ai-safety"
+    },
+    {
+      "text": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
+      "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/"
+    },
+    {
+      "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
+      "url": "https://arxiv.org/abs/2611.27721"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "ANCHORS THAT MOVE WITHOUT COLLAPSING: EXCLUSIVE-REGION ANCHOR ROUTING FOR VISION TRANSFORMERS",
+      "url": "https://arxiv.org/abs/2611.27855"
+    },
+    {
+      "text": "Can an LLM Repair a Language Model in Weight Space Without Gradient Training?",
+      "url": "https://arxiv.org/abs/2611.25613"
+    },
+    {
+      "text": "Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs",
+      "url": "https://arxiv.org/abs/2611.26913"
+    },
+    {
+      "text": "OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs",
+      "url": "https://arxiv.org/abs/2309.03876"
+    },
+    {
+      "text": "Free Decompression with Algebraic Spectral Curves",
+      "url": "https://arxiv.org/abs/2605.03634"
+    },
+    {
+      "text": "Model Carving: Training Transformers That Optimize Their Own Topology",
+      "url": "https://arxiv.org/abs/2611.27962"
+    },
+    {
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
+    },
+    {
+      "text": "Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration",
+      "url": "https://arxiv.org/abs/2609.33586"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Writing Weights or Training Them? Spatial Reasoning through Weight-Space Programming and Low-Rank Adaptation",
+      "url": "https://arxiv.org/abs/2611.27089"
+    },
+    {
+      "text": "Growing a Neural Network in Breadth, Depth, and Time",
+      "url": "https://arxiv.org/abs/2605.25174"
+    },
+    {
+      "text": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2611.27056"
+    },
+    {
+      "text": "An Analytically Trained Variational Quantum Circuit using the Output Probability Distribution of Quantum Phase Estimation on NISQ Hardware",
+      "url": "https://arxiv.org/abs/2607.20943"
+    },
+    {
+      "text": "Alignment without Transfer: Tokenization Impacts Cross-lingual Representations during Multilingual Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2611.27491"
+    },
+    {
+      "text": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+      "url": "https://arxiv.org/abs/2608.00101"
+    },
+    {
+      "text": "FM4SAR-Bench 1.0: Towards A Fair Benchmark for Evaluating Foundation Models for SAR Image Interpretation",
+      "url": "https://arxiv.org/abs/2611.27158"
+    },
+    {
+      "text": "Git History Is a Pangenome: Repetition in Code Training Corpora and What Deduplication Removes, Keeps and Misses",
+      "url": "https://arxiv.org/abs/2611.27154"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention",
+      "url": "https://arxiv.org/abs/2611.26637"
+    },
+    {
+      "text": "Enhancing Attention with Higher-Order Attention",
+      "url": "https://arxiv.org/abs/2611.27764"
+    },
+    {
+      "text": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
+      "url": "https://arxiv.org/abs/2611.26919"
+    },
+    {
+      "text": "Beyond Linear Decodability: Understanding and Improving Instruction Following in World Action Models",
+      "url": "https://arxiv.org/abs/2611.27401"
+    },
+    {
+      "text": "Geometry-Preserving Neural Architectures on Manifolds with Boundary",
+      "url": "https://arxiv.org/abs/2602.03082"
+    },
+    {
+      "text": "ReActWAM: Action-Consistent Caching for Efficient World-Action Models",
+      "url": "https://arxiv.org/abs/2611.27372"
+    },
+    {
+      "text": "MG-EDA: Maturity-Gated Skew-Normal Estimation of Distribution Algorithms",
+      "url": "https://arxiv.org/abs/2611.26938"
+    },
+    {
+      "text": "GRACE: Controlled Evidence Interventions for Diagnosing and Improving Knowledge Integration in GraphRAG",
+      "url": "https://arxiv.org/abs/2611.27350"
+    }
+  ],
+  "lastUpdated": "2026-11-23T09:37:44Z"
+}
