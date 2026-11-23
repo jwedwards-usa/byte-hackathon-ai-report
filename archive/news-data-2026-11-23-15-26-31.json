@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Heroism in AI Safety",
+    "url": "https://www.lesswrong.com/posts/TGq5mnsWFWz5i2ATD/heroism-in-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "AI Math Proofs Aren't Knowledge Until Someone Explains Them",
+      "url": "https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/"
+    },
+    {
+      "text": "US banks are reining in their own AI agents after the OpenAI and Hugging Face incidents",
+      "url": "https://dailyai.com/2026/11/us-banks-rein-in-ai-agents-after-openai-and-hugging-face-incidents/"
+    },
+    {
+      "text": "Anthropic’s record $81 billion IPO is the biggest ever — and it did not calm the AI sell-off",
+      "url": "https://dailyai.com/2026/11/anthropics-record-81-billion-ipo-did-not-calm-the-ai-sell-off/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
+      "url": "https://arxiv.org/abs/2611.27721"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Human empowerment in a few fake graphs",
+      "url": "https://www.lesswrong.com/posts/Goq6ZJmD9oFfHKmhu/human-empowerment-in-a-few-fake-graphs"
+    },
+    {
+      "text": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+    },
+    {
+      "text": "Cohere’s Qwen incident: giving the suspected backdoor a way out",
+      "url": "https://www.lesswrong.com/posts/g4jpJjLdWaxQFrhrP/cohere-s-qwen-incident-giving-the-suspected-backdoor-a-way"
+    },
+    {
+      "text": "Free Decompression with Algebraic Spectral Curves",
+      "url": "https://arxiv.org/abs/2605.03634"
+    },
+    {
+      "text": "Can an LLM Repair a Language Model in Weight Space Without Gradient Training?",
+      "url": "https://arxiv.org/abs/2611.25613"
+    },
+    {
+      "text": "Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration",
+      "url": "https://arxiv.org/abs/2609.33586"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "What Does the Visual Encoder Buy? Visual Information Gain in Encoder-Free Multimodal Pretraining",
+      "url": "https://arxiv.org/abs/2611.26917"
+    },
+    {
+      "text": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+      "url": "https://arxiv.org/abs/2608.00101"
+    },
+    {
+      "text": "Learning When to Ask: Advisor-Aware Post-Training for SLM Agents",
+      "url": "https://arxiv.org/abs/2611.27443"
+    },
+    {
+      "text": "Spectral Estimation with Deformed Decompression",
+      "url": "https://arxiv.org/abs/2611.26945"
+    },
+    {
+      "text": "ScrapMem: A Bio-Inspired Framework for On-Device Personalized Agent Memory via Optical Forgetting",
+      "url": "https://arxiv.org/abs/2605.03804"
+    },
+    {
+      "text": "VerifiQuant: Governance-by-Execution for Financial LLM Workflows",
+      "url": "https://arxiv.org/abs/2611.26649"
+    },
+    {
+      "text": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "url": "https://arxiv.org/abs/2611.26663"
+    },
+    {
+      "text": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2611.27056"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Recoverable Symbols, Unstable Execution: Auditing Internal Pathways and Decision Identity in Visual State Tracking",
+      "url": "https://arxiv.org/abs/2611.27715"
+    },
+    {
+      "text": "MemT-1.0: Towards Memory-Native Evolution",
+      "url": "https://arxiv.org/abs/2610.26825"
+    },
+    {
+      "text": "Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on Greek texts",
+      "url": "https://arxiv.org/abs/2609.37755"
+    },
+    {
+      "text": "GaLF-ST: Gaussian Latent Fields for Spatial Transcriptomics Reconstruction",
+      "url": "https://arxiv.org/abs/2611.27143"
+    },
+    {
+      "text": "When Copying Is Hard to Beat: A Negative Result in Clinical Assessment Forecasting",
+      "url": "https://arxiv.org/abs/2611.18142"
+    },
+    {
+      "text": "Formalizing Formal Semantics: The Formal Atlas",
+      "url": "https://arxiv.org/abs/2611.19509"
+    },
+    {
+      "text": "Perceive Once, Escalate on Demand: Handing Off Visual KV Memory from Small to Large VLMs",
+      "url": "https://arxiv.org/abs/2611.26902"
+    },
+    {
+      "text": "Structure Over Scale: Rethinking Adaptation for Reinforcement Learning with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2611.27148"
+    }
+  ],
+  "lastUpdated": "2026-11-23T15:26:31Z"
+}

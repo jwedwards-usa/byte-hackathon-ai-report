@@ -5,8 +5,8 @@
   },
   "topStories": [
     {
-      "text": "Moderately cursed questions of AI safety",
-      "url": "https://www.lesswrong.com/posts/FXGukrjX3bWCi7ycR/moderately-cursed-questions-of-ai-safety"
+      "text": "AI Math Proofs Aren't Knowledge Until Someone Explains Them",
+      "url": "https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/"
     },
     {
       "text": "US banks are reining in their own AI agents after the OpenAI and Hugging Face incidents",
@@ -19,10 +19,6 @@
   ],
   "leftColumn": [
     {
-      "text": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
-      "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/"
-    },
-    {
       "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
       "url": "https://arxiv.org/abs/2611.27721"
     },
@@ -31,93 +27,97 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "The NHS has begun the world’s largest trial of AI-assisted breast screening",
-      "url": "https://dailyai.com/2026/11/nhs-begins-recruiting-for-edith-worlds-largest-ai-breast-screening-trial/"
+      "text": "Human empowerment in a few fake graphs",
+      "url": "https://www.lesswrong.com/posts/Goq6ZJmD9oFfHKmhu/human-empowerment-in-a-few-fake-graphs"
     },
     {
-      "text": "Rats just wanna have fun!",
-      "url": "https://www.lesswrong.com/posts/9EJJrKiYEAmaP2TcL/rats-just-wanna-have-fun"
+      "text": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+    },
+    {
+      "text": "Cohere’s Qwen incident: giving the suspected backdoor a way out",
+      "url": "https://www.lesswrong.com/posts/g4jpJjLdWaxQFrhrP/cohere-s-qwen-incident-giving-the-suspected-backdoor-a-way"
+    },
+    {
+      "text": "Free Decompression with Algebraic Spectral Curves",
+      "url": "https://arxiv.org/abs/2605.03634"
     },
     {
       "text": "Can an LLM Repair a Language Model in Weight Space Without Gradient Training?",
       "url": "https://arxiv.org/abs/2611.25613"
     },
     {
-      "text": "Model Carving: Training Transformers That Optimize Their Own Topology",
-      "url": "https://arxiv.org/abs/2611.27962"
-    },
-    {
-      "text": "Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs",
-      "url": "https://arxiv.org/abs/2611.26913"
+      "text": "Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration",
+      "url": "https://arxiv.org/abs/2609.33586"
     }
   ],
   "centerColumn": [
     {
-      "text": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "url": "https://arxiv.org/abs/2611.26722"
+      "text": "What Does the Visual Encoder Buy? Visual Information Gain in Encoder-Free Multimodal Pretraining",
+      "url": "https://arxiv.org/abs/2611.26917"
     },
     {
-      "text": "Schema-Validated LLM Workflows: A Benchmark Protocol and Comparative Evaluation Across Six Python Implementations",
-      "url": "https://arxiv.org/abs/2611.27106"
+      "text": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+      "url": "https://arxiv.org/abs/2608.00101"
     },
     {
-      "text": "Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation",
-      "url": "https://arxiv.org/abs/2611.27495"
+      "text": "Learning When to Ask: Advisor-Aware Post-Training for SLM Agents",
+      "url": "https://arxiv.org/abs/2611.27443"
     },
     {
-      "text": "From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation Generation",
-      "url": "https://arxiv.org/abs/2611.27483"
+      "text": "Spectral Estimation with Deformed Decompression",
+      "url": "https://arxiv.org/abs/2611.26945"
     },
     {
-      "text": "What Does a Zoom Actually Add? Decomposing Fine-Grained Perception Failures in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.26904"
+      "text": "ScrapMem: A Bio-Inspired Framework for On-Device Personalized Agent Memory via Optical Forgetting",
+      "url": "https://arxiv.org/abs/2605.03804"
     },
     {
-      "text": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-      "url": "https://arxiv.org/abs/2611.26910"
+      "text": "VerifiQuant: Governance-by-Execution for Financial LLM Workflows",
+      "url": "https://arxiv.org/abs/2611.26649"
     },
     {
-      "text": "A Frugal AI Framework for India: Responsible and Right-sized AI",
-      "url": "https://arxiv.org/abs/2611.27189"
+      "text": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "url": "https://arxiv.org/abs/2611.26663"
     },
     {
-      "text": "DepthMSA: Combinatorial Training and Budget-Aware Depth Allocation for Multimodal Sentiment Analysis",
-      "url": "https://arxiv.org/abs/2611.27198"
+      "text": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2611.27056"
     }
   ],
   "rightColumn": [
     {
-      "text": "Mechanism Parity for Simulation-Based Validation of Autonomous-Driving Perception",
-      "url": "https://arxiv.org/abs/2611.27447"
+      "text": "Recoverable Symbols, Unstable Execution: Auditing Internal Pathways and Decision Identity in Visual State Tracking",
+      "url": "https://arxiv.org/abs/2611.27715"
     },
     {
-      "text": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
-      "url": "https://arxiv.org/abs/2611.27193"
+      "text": "MemT-1.0: Towards Memory-Native Evolution",
+      "url": "https://arxiv.org/abs/2610.26825"
     },
     {
-      "text": "Audit Before You Merge: Provenance, Probing, and Continual LoRA Composition",
-      "url": "https://arxiv.org/abs/2611.10684"
+      "text": "Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on Greek texts",
+      "url": "https://arxiv.org/abs/2609.37755"
     },
     {
-      "text": "Late-Time Dynamics of Flow Matching: Distance Geometry and Learning",
-      "url": "https://arxiv.org/abs/2611.27653"
+      "text": "GaLF-ST: Gaussian Latent Fields for Spatial Transcriptomics Reconstruction",
+      "url": "https://arxiv.org/abs/2611.27143"
     },
     {
-      "text": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells",
-      "url": "https://arxiv.org/abs/2611.13223"
+      "text": "When Copying Is Hard to Beat: A Negative Result in Clinical Assessment Forecasting",
+      "url": "https://arxiv.org/abs/2611.18142"
     },
     {
-      "text": "SMSD: A Semantic Misinformation Spreader Detection Approach",
-      "url": "https://arxiv.org/abs/2611.27661"
+      "text": "Formalizing Formal Semantics: The Formal Atlas",
+      "url": "https://arxiv.org/abs/2611.19509"
+    },
+    {
+      "text": "Perceive Once, Escalate on Demand: Handing Off Visual KV Memory from Small to Large VLMs",
+      "url": "https://arxiv.org/abs/2611.26902"
     },
     {
       "text": "Structure Over Scale: Rethinking Adaptation for Reinforcement Learning with Verifiable Rewards",
       "url": "https://arxiv.org/abs/2611.27148"
-    },
-    {
-      "text": "Solving the pre-image problem in kernel PCA: The reproducing property is all you need",
-      "url": "https://arxiv.org/abs/2611.27718"
     }
   ],
-  "lastUpdated": "2026-11-23T12:37:38Z"
+  "lastUpdated": "2026-11-23T15:26:31Z"
 }
