@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Heroism in AI Safety",
+    "url": "https://www.lesswrong.com/posts/TGq5mnsWFWz5i2ATD/heroism-in-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "Moderately cursed questions of AI safety",
+      "url": "https://www.lesswrong.com/posts/FXGukrjX3bWCi7ycR/moderately-cursed-questions-of-ai-safety"
+    },
+    {
+      "text": "US banks are reining in their own AI agents after the OpenAI and Hugging Face incidents",
+      "url": "https://dailyai.com/2026/11/us-banks-rein-in-ai-agents-after-openai-and-hugging-face-incidents/"
+    },
+    {
+      "text": "Anthropic’s record $81 billion IPO is the biggest ever — and it did not calm the AI sell-off",
+      "url": "https://dailyai.com/2026/11/anthropics-record-81-billion-ipo-did-not-calm-the-ai-sell-off/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
+      "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/"
+    },
+    {
+      "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
+      "url": "https://arxiv.org/abs/2611.27721"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "The NHS has begun the world’s largest trial of AI-assisted breast screening",
+      "url": "https://dailyai.com/2026/11/nhs-begins-recruiting-for-edith-worlds-largest-ai-breast-screening-trial/"
+    },
+    {
+      "text": "Rats just wanna have fun!",
+      "url": "https://www.lesswrong.com/posts/9EJJrKiYEAmaP2TcL/rats-just-wanna-have-fun"
+    },
+    {
+      "text": "Can an LLM Repair a Language Model in Weight Space Without Gradient Training?",
+      "url": "https://arxiv.org/abs/2611.25613"
+    },
+    {
+      "text": "Model Carving: Training Transformers That Optimize Their Own Topology",
+      "url": "https://arxiv.org/abs/2611.27962"
+    },
+    {
+      "text": "Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs",
+      "url": "https://arxiv.org/abs/2611.26913"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "url": "https://arxiv.org/abs/2611.26722"
+    },
+    {
+      "text": "Schema-Validated LLM Workflows: A Benchmark Protocol and Comparative Evaluation Across Six Python Implementations",
+      "url": "https://arxiv.org/abs/2611.27106"
+    },
+    {
+      "text": "Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation",
+      "url": "https://arxiv.org/abs/2611.27495"
+    },
+    {
+      "text": "From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation Generation",
+      "url": "https://arxiv.org/abs/2611.27483"
+    },
+    {
+      "text": "What Does a Zoom Actually Add? Decomposing Fine-Grained Perception Failures in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.26904"
+    },
+    {
+      "text": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+      "url": "https://arxiv.org/abs/2611.26910"
+    },
+    {
+      "text": "A Frugal AI Framework for India: Responsible and Right-sized AI",
+      "url": "https://arxiv.org/abs/2611.27189"
+    },
+    {
+      "text": "DepthMSA: Combinatorial Training and Budget-Aware Depth Allocation for Multimodal Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2611.27198"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Mechanism Parity for Simulation-Based Validation of Autonomous-Driving Perception",
+      "url": "https://arxiv.org/abs/2611.27447"
+    },
+    {
+      "text": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+      "url": "https://arxiv.org/abs/2611.27193"
+    },
+    {
+      "text": "Audit Before You Merge: Provenance, Probing, and Continual LoRA Composition",
+      "url": "https://arxiv.org/abs/2611.10684"
+    },
+    {
+      "text": "Late-Time Dynamics of Flow Matching: Distance Geometry and Learning",
+      "url": "https://arxiv.org/abs/2611.27653"
+    },
+    {
+      "text": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells",
+      "url": "https://arxiv.org/abs/2611.13223"
+    },
+    {
+      "text": "SMSD: A Semantic Misinformation Spreader Detection Approach",
+      "url": "https://arxiv.org/abs/2611.27661"
+    },
+    {
+      "text": "Structure Over Scale: Rethinking Adaptation for Reinforcement Learning with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2611.27148"
+    },
+    {
+      "text": "Solving the pre-image problem in kernel PCA: The reproducing property is all you need",
+      "url": "https://arxiv.org/abs/2611.27718"
+    }
+  ],
+  "lastUpdated": "2026-11-23T12:37:38Z"
+}
