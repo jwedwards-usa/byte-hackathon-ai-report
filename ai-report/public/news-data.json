@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Moderately cursed questions of AI safety",
-    "url": "https://www.lesswrong.com/posts/FXGukrjX3bWCi7ycR/moderately-cursed-questions-of-ai-safety"
+    "text": "Heroism in AI Safety",
+    "url": "https://www.lesswrong.com/posts/TGq5mnsWFWz5i2ATD/heroism-in-ai-safety"
   },
   "topStories": [
     {
+      "text": "Moderately cursed questions of AI safety",
+      "url": "https://www.lesswrong.com/posts/FXGukrjX3bWCi7ycR/moderately-cursed-questions-of-ai-safety"
+    },
+    {
+      "text": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
+      "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/"
+    },
+    {
       "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
       "url": "https://arxiv.org/abs/2611.27721"
-    },
-    {
-      "text": "Double counting in LLM evidence fusion: exact posteriors separate rule compliance from posterior gain",
-      "url": "https://arxiv.org/abs/2611.27138"
-    },
-    {
-      "text": "Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs",
-      "url": "https://arxiv.org/abs/2611.26913"
     }
   ],
   "leftColumn": [
     {
-      "text": "Model Carving: Training Transformers That Optimize Their Own Topology",
-      "url": "https://arxiv.org/abs/2611.27962"
-    },
-    {
       "text": "ANCHORS THAT MOVE WITHOUT COLLAPSING: EXCLUSIVE-REGION ANCHOR ROUTING FOR VISION TRANSFORMERS",
       "url": "https://arxiv.org/abs/2611.27855"
-    },
-    {
-      "text": "Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration",
-      "url": "https://arxiv.org/abs/2609.33586"
-    },
-    {
-      "text": "Free Decompression with Algebraic Spectral Curves",
-      "url": "https://arxiv.org/abs/2605.03634"
-    },
-    {
-      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
-      "url": "https://arxiv.org/abs/2611.22113"
     },
     {
       "text": "Can an LLM Repair a Language Model in Weight Space Without Gradient Training?",
       "url": "https://arxiv.org/abs/2611.25613"
     },
     {
+      "text": "Surface Cues Over Structure: Probing LLM Behavior on Brain Connectivity Graphs",
+      "url": "https://arxiv.org/abs/2611.26913"
+    },
+    {
       "text": "OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs",
       "url": "https://arxiv.org/abs/2309.03876"
     },
     {
-      "text": "Green = Life - Rectangle",
-      "url": "https://www.lesswrong.com/posts/MkGL9jrMnZtu68oha/green-life-rectangle"
+      "text": "Free Decompression with Algebraic Spectral Curves",
+      "url": "https://arxiv.org/abs/2605.03634"
+    },
+    {
+      "text": "Model Carving: Training Transformers That Optimize Their Own Topology",
+      "url": "https://arxiv.org/abs/2611.27962"
+    },
+    {
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
+    },
+    {
+      "text": "Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration",
+      "url": "https://arxiv.org/abs/2609.33586"
     }
   ],
   "centerColumn": [
     {
-      "text": "When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\\ell_1$-norm Lower Bounds",
-      "url": "https://arxiv.org/abs/2605.06615"
+      "text": "Writing Weights or Training Them? Spatial Reasoning through Weight-Space Programming and Low-Rank Adaptation",
+      "url": "https://arxiv.org/abs/2611.27089"
     },
     {
-      "text": "R3D: Quantitative 3D Spatial Reasoning for Egocentric Wearables",
-      "url": "https://arxiv.org/abs/2607.02921"
+      "text": "Growing a Neural Network in Breadth, Depth, and Time",
+      "url": "https://arxiv.org/abs/2605.25174"
     },
     {
-      "text": "Bel: Step-Level Policy Improvement of Visual Agents Without Training",
-      "url": "https://arxiv.org/abs/2611.27222"
+      "text": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2611.27056"
     },
     {
-      "text": "Protecting Private Values in Tool-Using LLM Agents via Recoverable Context Projection",
-      "url": "https://arxiv.org/abs/2609.15011"
+      "text": "An Analytically Trained Variational Quantum Circuit using the Output Probability Distribution of Quantum Phase Estimation on NISQ Hardware",
+      "url": "https://arxiv.org/abs/2607.20943"
     },
     {
-      "text": "Alliance Rupture and Repair in Simulating Cognitive Behavioral Therapy Dialogues",
-      "url": "https://arxiv.org/abs/2611.27544"
+      "text": "Alignment without Transfer: Tokenization Impacts Cross-lingual Representations during Multilingual Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2611.27491"
     },
     {
-      "text": "Git History Is a Pangenome: Repetition in Code Training Corpora and What Deduplication Removes, Keeps and Misses",
-      "url": "https://arxiv.org/abs/2611.27154"
+      "text": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+      "url": "https://arxiv.org/abs/2608.00101"
     },
     {
       "text": "FM4SAR-Bench 1.0: Towards A Fair Benchmark for Evaluating Foundation Models for SAR Image Interpretation",
       "url": "https://arxiv.org/abs/2611.27158"
     },
     {
-      "text": "Represented but misread: Post-training changes how language models read out what they represent",
-      "url": "https://arxiv.org/abs/2611.26584"
+      "text": "Git History Is a Pangenome: Repetition in Code Training Corpora and What Deduplication Removes, Keeps and Misses",
+      "url": "https://arxiv.org/abs/2611.27154"
     }
   ],
   "rightColumn": [
     {
-      "text": "WEIR: Watershed Exploration and Drift-Aware Prefix Shrinkage for Multi-Turn Agent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.27570"
+      "text": "SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention",
+      "url": "https://arxiv.org/abs/2611.26637"
     },
     {
-      "text": "On the Limits of Observability for Evaluating Coverage in Machine Unlearning",
-      "url": "https://arxiv.org/abs/2611.27543"
+      "text": "Enhancing Attention with Higher-Order Attention",
+      "url": "https://arxiv.org/abs/2611.27764"
     },
     {
-      "text": "Neural Geometry as a Learning Signal",
-      "url": "https://arxiv.org/abs/2611.26832"
-    },
-    {
-      "text": "A Broader Look at Model Merging: Rethinking Implicit Regularization Induced by Task Arithmetic",
-      "url": "https://arxiv.org/abs/2610.07990"
+      "text": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
+      "url": "https://arxiv.org/abs/2611.26919"
     },
     {
       "text": "Beyond Linear Decodability: Understanding and Improving Instruction Following in World Action Models",
       "url": "https://arxiv.org/abs/2611.27401"
     },
     {
-      "text": "Privacy Protection in Self-Evolving Personal Agents: Persistent Memory and Cross-Carrier Transfer",
-      "url": "https://arxiv.org/abs/2611.26983"
+      "text": "Geometry-Preserving Neural Architectures on Manifolds with Boundary",
+      "url": "https://arxiv.org/abs/2602.03082"
     },
     {
-      "text": "JevRisk: Zero-Shot Financial Risk Assessment with a Language Decision Model",
-      "url": "https://arxiv.org/abs/2611.26999"
+      "text": "ReActWAM: Action-Consistent Caching for Efficient World-Action Models",
+      "url": "https://arxiv.org/abs/2611.27372"
     },
     {
-      "text": "FoRe: A Force-Guided Framework for Autonomous Grasp Recovery in Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2611.27011"
+      "text": "MG-EDA: Maturity-Gated Skew-Normal Estimation of Distribution Algorithms",
+      "url": "https://arxiv.org/abs/2611.26938"
+    },
+    {
+      "text": "GRACE: Controlled Evidence Interventions for Diagnosing and Improving Knowledge Integration in GraphRAG",
+      "url": "https://arxiv.org/abs/2611.27350"
     }
   ],
-  "lastUpdated": "2026-11-23T06:45:42Z"
+  "lastUpdated": "2026-11-23T09:37:44Z"
 }
