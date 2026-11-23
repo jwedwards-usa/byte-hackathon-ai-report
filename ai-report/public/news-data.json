@@ -1,12 +1,26 @@
 {
   "mainHeadline": {
-    "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    "text": "Everyone in AI safety gets FOMO",
+    "url": "https://www.lesswrong.com/posts/4eXof4KR6d4edmcJ2/everyone-in-ai-safety-gets-fomo"
   },
   "topStories": [
     {
+      "text": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    },
+    {
+      "text": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
+      "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/"
+    },
+    {
       "text": "Two Ideas for Promoting an AI Security Mindset",
       "url": "https://www.lesswrong.com/posts/apofKE9eCMBzD2bHE/two-ideas-for-promoting-an-ai-security-mindset"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
     },
     {
       "text": "A MORE TAILORED GOOGLE SEARCH THAT’S UNIQUELY YOURS",
@@ -15,109 +29,95 @@
     {
       "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
       "url": "https://arxiv.org/abs/2611.27721"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+      "text": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
     },
     {
-      "text": "Cohere’s Qwen incident: giving the suspected backdoor a way out",
-      "url": "https://www.lesswrong.com/posts/g4jpJjLdWaxQFrhrP/cohere-s-qwen-incident-giving-the-suspected-backdoor-a-way"
+      "text": "Persona Space Seems Blind to Cheating",
+      "url": "https://www.lesswrong.com/posts/uovDC22en2iirta4h/persona-space-seems-blind-to-cheating"
     },
     {
-      "text": "Double counting in LLM evidence fusion: exact posteriors separate rule compliance from posterior gain",
-      "url": "https://arxiv.org/abs/2611.27138"
+      "text": "Thinking is Hard (for Humans)",
+      "url": "https://www.lesswrong.com/posts/NyCFKxR74RgRbs7SM/thinking-is-hard-for-humans"
     },
     {
-      "text": "OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs",
-      "url": "https://arxiv.org/abs/2309.03876"
-    },
-    {
-      "text": "Free Decompression with Algebraic Spectral Curves",
-      "url": "https://arxiv.org/abs/2605.03634"
-    },
-    {
-      "text": "Can an LLM Repair a Language Model in Weight Space Without Gradient Training?",
-      "url": "https://arxiv.org/abs/2611.25613"
-    },
-    {
-      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
-      "url": "https://arxiv.org/abs/2611.22113"
+      "text": "Joseph Miller Actually Tried. Is that enough?",
+      "url": "https://www.lesswrong.com/posts/nWRps3zxN7isngSsT/joseph-miller-actually-tried-is-that-enough"
     }
   ],
   "centerColumn": [
     {
-      "text": "Do DeepONet Trunk-Basis Preconditioners Need Training?",
-      "url": "https://arxiv.org/abs/2611.27582"
+      "text": "A Benchmark Protocol and Fairness Analysis Towards Open-Set EEG Seizure Type Classification",
+      "url": "https://arxiv.org/abs/2611.27783"
     },
     {
-      "text": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
-      "url": "https://arxiv.org/abs/2608.00101"
+      "text": "Mind World Models: Joint Learning of Motor EEG Representations and Action-Conditioned World Dynamics",
+      "url": "https://arxiv.org/abs/2611.27029"
     },
     {
-      "text": "INCISE: Training-Free In-Context Segmentation of Surgical Videos",
-      "url": "https://arxiv.org/abs/2611.26734"
+      "text": "Spectral Estimation with Deformed Decompression",
+      "url": "https://arxiv.org/abs/2611.26945"
     },
     {
-      "text": "Model the Annotation, Not the Noise: Semantic Annotation-Channel Prompt Learning against Noisy Labels",
-      "url": "https://arxiv.org/abs/2611.26702"
+      "text": "Fair Property Tax: Reducing Regressivity in Machine-Learning Valuation",
+      "url": "https://arxiv.org/abs/2611.27009"
     },
     {
-      "text": "MemOnce: A Scalable Memory Architecture for Large Language Models",
-      "url": "https://arxiv.org/abs/2611.27973"
+      "text": "ScrapMem: A Bio-Inspired Framework for On-Device Personalized Agent Memory via Optical Forgetting",
+      "url": "https://arxiv.org/abs/2605.03804"
     },
     {
-      "text": "DepthMSA: Combinatorial Training and Budget-Aware Depth Allocation for Multimodal Sentiment Analysis",
-      "url": "https://arxiv.org/abs/2611.27198"
+      "text": "Abstract What Varies, Reuse Longer Patterns: Efficient Offline Chain-of-Thought Compression",
+      "url": "https://arxiv.org/abs/2611.27710"
     },
     {
-      "text": "Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs",
-      "url": "https://arxiv.org/abs/2611.27686"
+      "text": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2611.27056"
     },
     {
-      "text": "Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
-      "url": "https://arxiv.org/abs/2608.17202"
+      "text": "Rethinking Cross-Sensor Domain Adaptation for Bridge Point Cloud Semantic Segmentation",
+      "url": "https://arxiv.org/abs/2611.27060"
     }
   ],
   "rightColumn": [
     {
-      "text": "Co-Evolving Behavioral Agents and Detectors for Adaptive Information Operations",
-      "url": "https://arxiv.org/abs/2611.27156"
+      "text": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.26504"
     },
     {
-      "text": "Spatiotemporal Landslide Runout Reconstruction from Sparse Observations with LAPIS-SHRED",
-      "url": "https://arxiv.org/abs/2611.27132"
+      "text": "Perceive Once, Escalate on Demand: Handing Off Visual KV Memory from Small to Large VLMs",
+      "url": "https://arxiv.org/abs/2611.26902"
     },
     {
-      "text": "GEG-SAM: Gaze Exploration-Guided Segment Anything Model for Weakly Supervised Polyp Segmentation",
-      "url": "https://arxiv.org/abs/2611.27183"
+      "text": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
+      "url": "https://arxiv.org/abs/2611.27919"
     },
     {
-      "text": "FedQCal: Quadratic Programming with Dual-Space Calibration for One-Shot Federated Learning",
-      "url": "https://arxiv.org/abs/2611.27170"
+      "text": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
+      "url": "https://arxiv.org/abs/2611.26919"
     },
     {
-      "text": "CADENCE:Temporally Coherent Whole-Body Human Mesh Recovery that Preserves Expressive Hand Motion",
-      "url": "https://arxiv.org/abs/2611.26783"
+      "text": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+      "url": "https://arxiv.org/abs/2611.27924"
     },
     {
-      "text": "Backbone-Specific LoRA Geometry: Orthogonality, Superposition, and Provenance",
-      "url": "https://arxiv.org/abs/2611.27201"
+      "text": "Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models",
+      "url": "https://arxiv.org/abs/2611.26825"
     },
     {
-      "text": "EAF-TTS: Rethinking Codec-Latent Coordinates for Flow TTS",
-      "url": "https://arxiv.org/abs/2611.27214"
+      "text": "Speculative Decoding Is Less Speculative Than You Think",
+      "url": "https://arxiv.org/abs/2611.27891"
     },
     {
-      "text": "Neural Defend Ranks #1 in Global Audio Deepfake Detection Benchmark - ARCAS on the Podonos Independent Leaderboard",
-      "url": "https://arxiv.org/abs/2611.27215"
+      "text": "MG-EDA: Maturity-Gated Skew-Normal Estimation of Distribution Algorithms",
+      "url": "https://arxiv.org/abs/2611.26938"
     }
   ],
-  "lastUpdated": "2026-11-23T18:26:56Z"
+  "lastUpdated": "2026-11-23T21:27:21Z"
 }
