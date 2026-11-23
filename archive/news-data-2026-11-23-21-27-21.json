@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Everyone in AI safety gets FOMO",
+    "url": "https://www.lesswrong.com/posts/4eXof4KR6d4edmcJ2/everyone-in-ai-safety-gets-fomo"
+  },
+  "topStories": [
+    {
+      "text": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    },
+    {
+      "text": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
+      "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/"
+    },
+    {
+      "text": "Two Ideas for Promoting an AI Security Mindset",
+      "url": "https://www.lesswrong.com/posts/apofKE9eCMBzD2bHE/two-ideas-for-promoting-an-ai-security-mindset"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    },
+    {
+      "text": "A MORE TAILORED GOOGLE SEARCH THAT’S UNIQUELY YOURS",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
+      "url": "https://arxiv.org/abs/2611.27721"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+    },
+    {
+      "text": "Persona Space Seems Blind to Cheating",
+      "url": "https://www.lesswrong.com/posts/uovDC22en2iirta4h/persona-space-seems-blind-to-cheating"
+    },
+    {
+      "text": "Thinking is Hard (for Humans)",
+      "url": "https://www.lesswrong.com/posts/NyCFKxR74RgRbs7SM/thinking-is-hard-for-humans"
+    },
+    {
+      "text": "Joseph Miller Actually Tried. Is that enough?",
+      "url": "https://www.lesswrong.com/posts/nWRps3zxN7isngSsT/joseph-miller-actually-tried-is-that-enough"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "A Benchmark Protocol and Fairness Analysis Towards Open-Set EEG Seizure Type Classification",
+      "url": "https://arxiv.org/abs/2611.27783"
+    },
+    {
+      "text": "Mind World Models: Joint Learning of Motor EEG Representations and Action-Conditioned World Dynamics",
+      "url": "https://arxiv.org/abs/2611.27029"
+    },
+    {
+      "text": "Spectral Estimation with Deformed Decompression",
+      "url": "https://arxiv.org/abs/2611.26945"
+    },
+    {
+      "text": "Fair Property Tax: Reducing Regressivity in Machine-Learning Valuation",
+      "url": "https://arxiv.org/abs/2611.27009"
+    },
+    {
+      "text": "ScrapMem: A Bio-Inspired Framework for On-Device Personalized Agent Memory via Optical Forgetting",
+      "url": "https://arxiv.org/abs/2605.03804"
+    },
+    {
+      "text": "Abstract What Varies, Reuse Longer Patterns: Efficient Offline Chain-of-Thought Compression",
+      "url": "https://arxiv.org/abs/2611.27710"
+    },
+    {
+      "text": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2611.27056"
+    },
+    {
+      "text": "Rethinking Cross-Sensor Domain Adaptation for Bridge Point Cloud Semantic Segmentation",
+      "url": "https://arxiv.org/abs/2611.27060"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.26504"
+    },
+    {
+      "text": "Perceive Once, Escalate on Demand: Handing Off Visual KV Memory from Small to Large VLMs",
+      "url": "https://arxiv.org/abs/2611.26902"
+    },
+    {
+      "text": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
+      "url": "https://arxiv.org/abs/2611.27919"
+    },
+    {
+      "text": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
+      "url": "https://arxiv.org/abs/2611.26919"
+    },
+    {
+      "text": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+      "url": "https://arxiv.org/abs/2611.27924"
+    },
+    {
+      "text": "Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models",
+      "url": "https://arxiv.org/abs/2611.26825"
+    },
+    {
+      "text": "Speculative Decoding Is Less Speculative Than You Think",
+      "url": "https://arxiv.org/abs/2611.27891"
+    },
+    {
+      "text": "MG-EDA: Maturity-Gated Skew-Normal Estimation of Distribution Algorithms",
+      "url": "https://arxiv.org/abs/2611.26938"
+    }
+  ],
+  "lastUpdated": "2026-11-23T21:27:21Z"
+}
