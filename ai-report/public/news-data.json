@@ -1,34 +1,26 @@
 {
   "mainHeadline": {
-    "text": "Heroism in AI Safety",
-    "url": "https://www.lesswrong.com/posts/TGq5mnsWFWz5i2ATD/heroism-in-ai-safety"
+    "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
   },
   "topStories": [
     {
-      "text": "AI Math Proofs Aren't Knowledge Until Someone Explains Them",
-      "url": "https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/"
+      "text": "Two Ideas for Promoting an AI Security Mindset",
+      "url": "https://www.lesswrong.com/posts/apofKE9eCMBzD2bHE/two-ideas-for-promoting-an-ai-security-mindset"
     },
     {
-      "text": "US banks are reining in their own AI agents after the OpenAI and Hugging Face incidents",
-      "url": "https://dailyai.com/2026/11/us-banks-rein-in-ai-agents-after-openai-and-hugging-face-incidents/"
+      "text": "A MORE TAILORED GOOGLE SEARCH THAT’S UNIQUELY YOURS",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
     },
     {
-      "text": "Anthropic’s record $81 billion IPO is the biggest ever — and it did not calm the AI sell-off",
-      "url": "https://dailyai.com/2026/11/anthropics-record-81-billion-ipo-did-not-calm-the-ai-sell-off/"
+      "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
+      "url": "https://arxiv.org/abs/2611.27721"
     }
   ],
   "leftColumn": [
     {
-      "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
-      "url": "https://arxiv.org/abs/2611.27721"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Human empowerment in a few fake graphs",
-      "url": "https://www.lesswrong.com/posts/Goq6ZJmD9oFfHKmhu/human-empowerment-in-a-few-fake-graphs"
     },
     {
       "text": "The Download: AI’s judgment problem and carbon removal’s crop threat",
@@ -39,6 +31,14 @@
       "url": "https://www.lesswrong.com/posts/g4jpJjLdWaxQFrhrP/cohere-s-qwen-incident-giving-the-suspected-backdoor-a-way"
     },
     {
+      "text": "Double counting in LLM evidence fusion: exact posteriors separate rule compliance from posterior gain",
+      "url": "https://arxiv.org/abs/2611.27138"
+    },
+    {
+      "text": "OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs",
+      "url": "https://arxiv.org/abs/2309.03876"
+    },
+    {
       "text": "Free Decompression with Algebraic Spectral Curves",
       "url": "https://arxiv.org/abs/2605.03634"
     },
@@ -47,77 +47,77 @@
       "url": "https://arxiv.org/abs/2611.25613"
     },
     {
-      "text": "Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration",
-      "url": "https://arxiv.org/abs/2609.33586"
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
     }
   ],
   "centerColumn": [
     {
-      "text": "What Does the Visual Encoder Buy? Visual Information Gain in Encoder-Free Multimodal Pretraining",
-      "url": "https://arxiv.org/abs/2611.26917"
+      "text": "Do DeepONet Trunk-Basis Preconditioners Need Training?",
+      "url": "https://arxiv.org/abs/2611.27582"
     },
     {
       "text": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
       "url": "https://arxiv.org/abs/2608.00101"
     },
     {
-      "text": "Learning When to Ask: Advisor-Aware Post-Training for SLM Agents",
-      "url": "https://arxiv.org/abs/2611.27443"
+      "text": "INCISE: Training-Free In-Context Segmentation of Surgical Videos",
+      "url": "https://arxiv.org/abs/2611.26734"
     },
     {
-      "text": "Spectral Estimation with Deformed Decompression",
-      "url": "https://arxiv.org/abs/2611.26945"
+      "text": "Model the Annotation, Not the Noise: Semantic Annotation-Channel Prompt Learning against Noisy Labels",
+      "url": "https://arxiv.org/abs/2611.26702"
     },
     {
-      "text": "ScrapMem: A Bio-Inspired Framework for On-Device Personalized Agent Memory via Optical Forgetting",
-      "url": "https://arxiv.org/abs/2605.03804"
+      "text": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "url": "https://arxiv.org/abs/2611.27973"
     },
     {
-      "text": "VerifiQuant: Governance-by-Execution for Financial LLM Workflows",
-      "url": "https://arxiv.org/abs/2611.26649"
+      "text": "DepthMSA: Combinatorial Training and Budget-Aware Depth Allocation for Multimodal Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2611.27198"
     },
     {
-      "text": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "url": "https://arxiv.org/abs/2611.26663"
+      "text": "Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs",
+      "url": "https://arxiv.org/abs/2611.27686"
     },
     {
-      "text": "A Continuous Relaxation of Quantization-Aware Training",
-      "url": "https://arxiv.org/abs/2611.27056"
+      "text": "Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
+      "url": "https://arxiv.org/abs/2608.17202"
     }
   ],
   "rightColumn": [
     {
-      "text": "Recoverable Symbols, Unstable Execution: Auditing Internal Pathways and Decision Identity in Visual State Tracking",
-      "url": "https://arxiv.org/abs/2611.27715"
+      "text": "Co-Evolving Behavioral Agents and Detectors for Adaptive Information Operations",
+      "url": "https://arxiv.org/abs/2611.27156"
     },
     {
-      "text": "MemT-1.0: Towards Memory-Native Evolution",
-      "url": "https://arxiv.org/abs/2610.26825"
+      "text": "Spatiotemporal Landslide Runout Reconstruction from Sparse Observations with LAPIS-SHRED",
+      "url": "https://arxiv.org/abs/2611.27132"
     },
     {
-      "text": "Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on Greek texts",
-      "url": "https://arxiv.org/abs/2609.37755"
+      "text": "GEG-SAM: Gaze Exploration-Guided Segment Anything Model for Weakly Supervised Polyp Segmentation",
+      "url": "https://arxiv.org/abs/2611.27183"
     },
     {
-      "text": "GaLF-ST: Gaussian Latent Fields for Spatial Transcriptomics Reconstruction",
-      "url": "https://arxiv.org/abs/2611.27143"
+      "text": "FedQCal: Quadratic Programming with Dual-Space Calibration for One-Shot Federated Learning",
+      "url": "https://arxiv.org/abs/2611.27170"
     },
     {
-      "text": "When Copying Is Hard to Beat: A Negative Result in Clinical Assessment Forecasting",
-      "url": "https://arxiv.org/abs/2611.18142"
+      "text": "CADENCE:Temporally Coherent Whole-Body Human Mesh Recovery that Preserves Expressive Hand Motion",
+      "url": "https://arxiv.org/abs/2611.26783"
     },
     {
-      "text": "Formalizing Formal Semantics: The Formal Atlas",
-      "url": "https://arxiv.org/abs/2611.19509"
+      "text": "Backbone-Specific LoRA Geometry: Orthogonality, Superposition, and Provenance",
+      "url": "https://arxiv.org/abs/2611.27201"
     },
     {
-      "text": "Perceive Once, Escalate on Demand: Handing Off Visual KV Memory from Small to Large VLMs",
-      "url": "https://arxiv.org/abs/2611.26902"
+      "text": "EAF-TTS: Rethinking Codec-Latent Coordinates for Flow TTS",
+      "url": "https://arxiv.org/abs/2611.27214"
     },
     {
-      "text": "Structure Over Scale: Rethinking Adaptation for Reinforcement Learning with Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2611.27148"
+      "text": "Neural Defend Ranks #1 in Global Audio Deepfake Detection Benchmark - ARCAS on the Podonos Independent Leaderboard",
+      "url": "https://arxiv.org/abs/2611.27215"
     }
   ],
-  "lastUpdated": "2026-11-23T15:26:31Z"
+  "lastUpdated": "2026-11-23T18:26:56Z"
 }
