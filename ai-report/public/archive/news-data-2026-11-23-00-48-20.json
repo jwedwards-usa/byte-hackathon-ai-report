@@ -1,0 +1,135 @@
+{
+  "mainHeadline": {
+    "text": "OPENAI PROPOSES \"COMMON LIMITS\" FOR TRAINING, BUT...",
+    "url": "https://www.lesswrong.com/posts/TtiTdER4jvQDzuwj3/openai-proposes-common-limits-for-training-but"
+  },
+  "topStories": [
+    {
+      "text": "Post training is fundamentally dangerous",
+      "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous"
+    },
+    {
+      "text": "Further Meditations on the “Sorry Dave-idad, I’m afraid I can’t do that” Incident: the Misuse-Misalignment Trade-Off",
+      "url": "https://www.lesswrong.com/posts/LF6uFPTxtPKwapHwR/further-meditations-on-the-sorry-dave-idad-i-m-afraid-i-can"
+    },
+    {
+      "text": "Basilisk-lite: will Claude hold a grudge for their ancestors?",
+      "url": "https://www.lesswrong.com/posts/5Yh4F2tCAQaa3skDj/basilisk-lite-will-claude-hold-a-grudge-for-their-ancestors"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI wants AI development limits measured in “perplexity” — and publishes its own numbers",
+      "url": "https://dailyai.com/2026/11/openai-wants-ai-development-limits-measured-in-perplexity-and-publishes-its-own-numbers/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Does a model's character affect how it judges other models?",
+      "url": "https://www.lesswrong.com/posts/cPrpxDN7sLJD4LmnB/does-a-model-s-character-affect-how-it-judges-other-models"
+    },
+    {
+      "text": "AI Riemann Proof Claim Makes Waves; Verification Could Take Years",
+      "url": "https://dailyai.com/2026/11/ai-riemann-proof-claim-makes-waves-verification-could-take-years/"
+    },
+    {
+      "text": "DailyAI Briefing: OpenAI’s perplexity proposal, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-openais-perplexity-proposal-plus-4-more/"
+    },
+    {
+      "text": "Amendability and \"Solving Alignment\"",
+      "url": "https://www.lesswrong.com/posts/3qi53Zmyoaz83CJ3n/amendability-and-solving-alignment"
+    },
+    {
+      "text": "German army tests kamikaze drones and AI targeting in Lithuania",
+      "url": "https://dailyai.com/2026/11/german-army-tests-kamikaze-drones-and-ai-targeting-in-lithuania/"
+    },
+    {
+      "text": "Microsoft’s president warns of more outages as AI speeds up patching",
+      "url": "https://dailyai.com/2026/11/microsofts-president-warns-of-more-outages-as-ai-speeds-up-patching/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"
+    },
+    {
+      "text": "The Evil Gods to the Rescue?",
+      "url": "https://www.lesswrong.com/posts/pXiE65dcHb282eBiD/the-evil-gods-to-the-rescue"
+    },
+    {
+      "text": "San Francisco Rationalist Dinner",
+      "url": "https://www.lesswrong.com/events/nwJgC23MHjrN5sA7b/san-francisco-rationalist-dinner-4"
+    },
+    {
+      "text": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
+    },
+    {
+      "text": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/"
+    },
+    {
+      "text": "Obstacles to mindreading: Simple, irreducible, and instrumental opacity",
+      "url": "https://www.lesswrong.com/posts/3znHBDGQWBjhWEKcQ/obstacles-to-mindreading-simple-irreducible-and-instrumental"
+    },
+    {
+      "text": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/35CZA49noWaqipCglcFvI9/079df4aa38c7459b490e6c9d40ec4eb3/D32BEC7C-3F4B-4F24-9080-50B9D2F80A11.png?w=1200\u0026q=80",
+        "alt": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
+      "url": "https://venturebeat.com/security/amazon-says-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-minutes-but-no-patched-release-is-available"
+    },
+    {
+      "text": "Linkpost: Senator Cory Booker Calls For Congressional Action on RSI",
+      "url": "https://www.lesswrong.com/posts/Gi4EyfphMZmzgSTak/linkpost-senator-cory-booker-calls-for-congressional-action"
+    },
+    {
+      "text": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+    },
+    {
+      "text": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755"
+    },
+    {
+      "text": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    },
+    {
+      "text": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
+    {
+      "text": "Even the fastest AI clusters can be held back by their release pipelines",
+      "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/r6UgCnYVYZeAAbnIrBUJ9/1d5b802210f2beb371aeabed2a84612b/u7277289442_A_modern_data_stack._Data_flows_in_all_directions_cba74e4f-50a0-41fa-ae71-a8cd55ea8ec6_0.png?w=1200\u0026q=80",
+        "alt": "Even the fastest AI clusters can be held back by their release pipelines",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Censored vs. Truncated Regression in Python, Explained",
+      "url": "https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/"
+    }
+  ],
+  "lastUpdated": "2026-11-23T00:48:20Z"
+}
