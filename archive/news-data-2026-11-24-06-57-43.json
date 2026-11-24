@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Misguided power-seeking  ",
+    "url": "https://www.lesswrong.com/posts/ubceFEqT6bQWKyAWb/misguided-power-seeking"
+  },
+  "topStories": [
+    {
+      "text": "California politics seems like a real hope for an AI slowdown",
+      "url": "https://www.lesswrong.com/posts/WgGdtPEjNniPAReWW/california-politics-seems-like-a-real-hope-for-an-ai"
+    },
+    {
+      "text": "Two Kinds of Test-Time Scaling",
+      "url": "https://www.lesswrong.com/posts/AebihZrTgg5tPdSd7/two-kinds-of-test-time-scaling-1"
+    },
+    {
+      "text": "Memo: Firebell",
+      "url": "https://www.lesswrong.com/posts/zzGf853ZbsuZ5tpEs/memo-firebell"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
+      "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Lightcone Co-Conspirators The Universe Should Give Me",
+      "url": "https://www.lesswrong.com/posts/8zwoPn9ubC267NiCx/lightcone-co-conspirators-the-universe-should-give-me"
+    },
+    {
+      "text": "If it's not safe for the public, it's not safe for AI R\u0026D",
+      "url": "https://www.lesswrong.com/posts/Jtqux7K7N2sczpmQH/if-it-s-not-safe-for-the-public-it-s-not-safe-for-ai-r-and-d"
+    },
+    {
+      "text": "Most attempts at measuring eval awareness overestimate it",
+      "url": "https://www.lesswrong.com/posts/7Zvs6w7BzLFYoGzDH/most-attempts-at-measuring-eval-awareness-overestimate-it"
+    },
+    {
+      "text": "Comparing AI R\u0026D compute caps and deployment lags",
+      "url": "https://www.alignmentforum.org/posts/e758PJCpwAwyodvEj/comparing-ai-r-and-d-compute-caps-and-deployment-lags"
+    },
+    {
+      "text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+    },
+    {
+      "text": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+    },
+    {
+      "text": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    },
+    {
+      "text": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/"
+    },
+    {
+      "text": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/"
+    },
+    {
+      "text": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+    },
+    {
+      "text": "How Jensen Huang ended up as Nvidia CEO again",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+    },
+    {
+      "text": "AWS's Strands Decider v2 targets the agent decisions that hinge on a single detail",
+      "url": "https://venturebeat.com/data/awss-strands-decider-v2-targets-the-agent-decisions-that-hinge-on-a-single-detail",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5Ok8Doxp5kgCYnud2RbV9o/f0c8950d0f89d033a61670b5cf8601dd/decider-smk1.jpeg?w=1200\u0026q=80",
+        "alt": "AWS's Strands Decider v2 targets the agent decisions that hinge on a single detail",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "text": "datasette-charts 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
+    },
+    {
+      "text": "RANSAC, Explained: Consensus Fitting for Image Feature Matching",
+      "url": "https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/"
+    },
+    {
+      "text": "How AI Changes the Four Types of Analytics for Data Scientists",
+      "url": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/"
+    },
+    {
+      "text": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+    },
+    {
+      "text": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    },
+    {
+      "text": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+    },
+    {
+      "text": "Congress rounds on Nvidia’s decision to bring back Huang",
+      "url": "https://dailyai.com/2026/11/congress-rounds-on-nvidias-decision-to-bring-back-huang/"
+    }
+  ],
+  "lastUpdated": "2026-11-24T06:57:43Z"
+}
