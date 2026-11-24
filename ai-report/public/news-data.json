@@ -1,30 +1,40 @@
 {
   "mainHeadline": {
-    "text": "Everyone in AI safety gets FOMO",
-    "url": "https://www.lesswrong.com/posts/4eXof4KR6d4edmcJ2/everyone-in-ai-safety-gets-fomo"
+    "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
+    "url": "https://openai.com/index/introducing-shirudo"
   },
   "topStories": [
     {
+      "text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+    },
+    {
+      "text": "Scoring AI safety rally chants: results from a chant workshop",
+      "url": "https://www.lesswrong.com/posts/TcYiqoeTT4DWeGxLK/scoring-ai-safety-rally-chants-results-from-a-chant-workshop"
+    },
+    {
       "text": "Claude AI can review pull requests and ship fixes on its own now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
       "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/"
     },
     {
-      "text": "Two Ideas for Promoting an AI Security Mindset",
-      "url": "https://www.lesswrong.com/posts/apofKE9eCMBzD2bHE/two-ideas-for-promoting-an-ai-security-mindset"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+      "text": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/pfMEkKbCgZqPGlBFPN1Ik/61bb1d108afeb3cf9b8a4a8de4088d33/ai_transformer_loo_image-smk1.jpeg?w=1200\u0026q=80",
+        "alt": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+        "width": 600,
+        "height": 400
+      }
     },
     {
-      "text": "A MORE TAILORED GOOGLE SEARCH THAT’S UNIQUELY YOURS",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+      "text": "Everyone in AI safety gets FOMO",
+      "url": "https://www.lesswrong.com/posts/4eXof4KR6d4edmcJ2/everyone-in-ai-safety-gets-fomo"
     },
     {
       "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
@@ -33,10 +43,6 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Many languages, one common neural code",
-      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
     },
     {
       "text": "Persona Space Seems Blind to Cheating",
@@ -53,71 +59,71 @@
   ],
   "centerColumn": [
     {
-      "text": "A Benchmark Protocol and Fairness Analysis Towards Open-Set EEG Seizure Type Classification",
-      "url": "https://arxiv.org/abs/2611.27783"
-    },
-    {
-      "text": "Mind World Models: Joint Learning of Motor EEG Representations and Action-Conditioned World Dynamics",
-      "url": "https://arxiv.org/abs/2611.27029"
-    },
-    {
-      "text": "Spectral Estimation with Deformed Decompression",
-      "url": "https://arxiv.org/abs/2611.26945"
+      "text": "Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs",
+      "url": "https://arxiv.org/abs/2611.27686"
     },
     {
       "text": "Fair Property Tax: Reducing Regressivity in Machine-Learning Valuation",
       "url": "https://arxiv.org/abs/2611.27009"
     },
     {
-      "text": "ScrapMem: A Bio-Inspired Framework for On-Device Personalized Agent Memory via Optical Forgetting",
-      "url": "https://arxiv.org/abs/2605.03804"
+      "text": "Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation",
+      "url": "https://arxiv.org/abs/2611.27495"
     },
     {
-      "text": "Abstract What Varies, Reuse Longer Patterns: Efficient Offline Chain-of-Thought Compression",
-      "url": "https://arxiv.org/abs/2611.27710"
+      "text": "Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work",
+      "url": "https://arxiv.org/abs/2611.27746"
     },
     {
-      "text": "A Continuous Relaxation of Quantization-Aware Training",
-      "url": "https://arxiv.org/abs/2611.27056"
+      "text": "Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection",
+      "url": "https://arxiv.org/abs/2611.27784"
     },
     {
-      "text": "Rethinking Cross-Sensor Domain Adaptation for Bridge Point Cloud Semantic Segmentation",
-      "url": "https://arxiv.org/abs/2611.27060"
+      "text": "Large Reported CHB-MIT Adaptation Gains Disappear with Pretrained Encoders and Matched Probes",
+      "url": "https://arxiv.org/abs/2611.26929"
+    },
+    {
+      "text": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+      "url": "https://arxiv.org/abs/2611.26847"
+    },
+    {
+      "text": "From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation Generation",
+      "url": "https://arxiv.org/abs/2611.27483"
     }
   ],
   "rightColumn": [
     {
-      "text": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.26504"
+      "text": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+      "url": "https://arxiv.org/abs/2611.26776"
     },
     {
-      "text": "Perceive Once, Escalate on Demand: Handing Off Visual KV Memory from Small to Large VLMs",
-      "url": "https://arxiv.org/abs/2611.26902"
+      "text": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.27865"
     },
     {
-      "text": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
-      "url": "https://arxiv.org/abs/2611.27919"
+      "text": "Beyond Visual Fidelity: Comparing Categorical and Continuous World Models",
+      "url": "https://arxiv.org/abs/2611.27870"
     },
     {
-      "text": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
-      "url": "https://arxiv.org/abs/2611.26919"
+      "text": "To predict or to persist: how decoherence shapes learning in a spin-qubit quantum reservoir",
+      "url": "https://arxiv.org/abs/2611.26215"
     },
     {
-      "text": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
-      "url": "https://arxiv.org/abs/2611.27924"
+      "text": "SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention",
+      "url": "https://arxiv.org/abs/2611.26637"
     },
     {
-      "text": "Skill-JEPA: Learning Planner-Aligned Action Spaces for World Models",
-      "url": "https://arxiv.org/abs/2611.26825"
+      "text": "Distributional Deep Hedging",
+      "url": "https://arxiv.org/abs/2611.26652"
     },
     {
-      "text": "Speculative Decoding Is Less Speculative Than You Think",
-      "url": "https://arxiv.org/abs/2611.27891"
+      "text": "Mixture of Latent Recursions for Low-Rank Adaptation",
+      "url": "https://arxiv.org/abs/2611.27823"
     },
     {
-      "text": "MG-EDA: Maturity-Gated Skew-Normal Estimation of Distribution Algorithms",
-      "url": "https://arxiv.org/abs/2611.26938"
+      "text": "DPMA: Learning to Compress Mixture-of-Experts Models",
+      "url": "https://arxiv.org/abs/2611.27759"
     }
   ],
-  "lastUpdated": "2026-11-23T21:27:21Z"
+  "lastUpdated": "2026-11-24T00:46:03Z"
 }
