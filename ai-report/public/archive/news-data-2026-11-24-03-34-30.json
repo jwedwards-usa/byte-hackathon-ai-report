@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI Usage Transparency",
+    "url": "https://www.lesswrong.com/posts/ykgDvkPebaTckzeJy/ai-usage-transparency"
+  },
+  "topStories": [
+    {
+      "text": "Mikoshi: Open infrastructure for agent swarm alignment research",
+      "url": "https://www.lesswrong.com/posts/gsXkRoEKRnJyaFYEP/mikoshi-open-infrastructure-for-agent-swarm-alignment"
+    },
+    {
+      "text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+    },
+    {
+      "text": "Scoring AI safety rally chants: results from a chant workshop",
+      "url": "https://www.lesswrong.com/posts/TcYiqoeTT4DWeGxLK/scoring-ai-safety-rally-chants-results-from-a-chant-workshop"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
+      "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
+      "url": "https://arxiv.org/abs/2611.27721"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "$5,000 and other good things I got from FLF's Epistack contest",
+      "url": "https://www.lesswrong.com/posts/92NoKHCxP5HHv7mzv/usd5-000-and-other-good-things-i-got-from-flf-s-epistack"
+    },
+    {
+      "text": "Comparing AI R\u0026D compute caps and deployment lags",
+      "url": "https://www.lesswrong.com/posts/e758PJCpwAwyodvEj/comparing-ai-r-and-d-compute-caps-and-deployment-lags"
+    },
+    {
+      "text": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    },
+    {
+      "text": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
+      "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/"
+    },
+    {
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Represented but misread: Post-training changes how language models read out what they represent",
+      "url": "https://arxiv.org/abs/2611.26584"
+    },
+    {
+      "text": "Exercised, Rarely Recovered: What Public Reports Say About Recovery in 50 AI Agent Harnesses and Runtimes",
+      "url": "https://arxiv.org/abs/2611.27090"
+    },
+    {
+      "text": "Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training",
+      "url": "https://arxiv.org/abs/2611.27376"
+    },
+    {
+      "text": "Schema-Validated LLM Workflows: A Benchmark Protocol and Comparative Evaluation Across Six Python Implementations",
+      "url": "https://arxiv.org/abs/2611.27106"
+    },
+    {
+      "text": "Equivariant Deep Learning in Direct-Product Space for Electronic-Structure Hamiltonian Prediction",
+      "url": "https://arxiv.org/abs/2611.07695"
+    },
+    {
+      "text": "When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\\ell_1$-norm Lower Bounds",
+      "url": "https://arxiv.org/abs/2605.06615"
+    },
+    {
+      "text": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+      "url": "https://arxiv.org/abs/2611.26966"
+    },
+    {
+      "text": "Benchmarks Are Surprisingly Compaction-Friendly",
+      "url": "https://arxiv.org/abs/2610.31778"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Can Language Models See the Circuit in Pixelated RFIC Passives?",
+      "url": "https://arxiv.org/abs/2611.27559"
+    },
+    {
+      "text": "Windchime: an Audiovisual Installation with Audio-Language Model implementations",
+      "url": "https://arxiv.org/abs/2611.26759"
+    },
+    {
+      "text": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+      "url": "https://arxiv.org/abs/2611.26776"
+    },
+    {
+      "text": "Vega-Fafnir: Is Greedy Decoding the Same Decoding? Where Rounding Noise in Speculative Verification Comes From and What Removing It Costs",
+      "url": "https://arxiv.org/abs/2611.27554"
+    },
+    {
+      "text": "Beyond Linear Decodability: Understanding and Improving Instruction Following in World Action Models",
+      "url": "https://arxiv.org/abs/2611.27401"
+    },
+    {
+      "text": "ReActWAM: Action-Consistent Caching for Efficient World-Action Models",
+      "url": "https://arxiv.org/abs/2611.27372"
+    },
+    {
+      "text": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells",
+      "url": "https://arxiv.org/abs/2611.13223"
+    },
+    {
+      "text": "GRACE: Controlled Evidence Interventions for Diagnosing and Improving Knowledge Integration in GraphRAG",
+      "url": "https://arxiv.org/abs/2611.27350"
+    }
+  ],
+  "lastUpdated": "2026-11-24T03:34:30Z"
+}
