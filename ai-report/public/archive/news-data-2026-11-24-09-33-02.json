@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Weird Neurons Mimic Weird Data",
+    "url": "https://www.lesswrong.com/posts/wBTaEGxNTGAHxCcbD/weird-neurons-mimic-weird-data"
+  },
+  "topStories": [
+    {
+      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
+      "url": "https://arxiv.org/abs/2611.29859"
+    },
+    {
+      "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
+      "url": "https://arxiv.org/abs/2611.29151"
+    },
+    {
+      "text": "Misguided power-seeking  ",
+      "url": "https://www.lesswrong.com/posts/ubceFEqT6bQWKyAWb/misguided-power-seeking"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "California politics seems like a real hope for an AI slowdown",
+      "url": "https://www.lesswrong.com/posts/WgGdtPEjNniPAReWW/california-politics-seems-like-a-real-hope-for-an-ai"
+    },
+    {
+      "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
+      "url": "https://arxiv.org/abs/2611.28153"
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
+      "text": "Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data",
+      "url": "https://arxiv.org/abs/2601.05227"
+    },
+    {
+      "text": "Towards Global Counterfactual-Based Self-Explainable Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2611.29681"
+    },
+    {
+      "text": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
+      "url": "https://arxiv.org/abs/2611.25360"
+    },
+    {
+      "text": "Watermark Claims Under Test: Lessons from Auditing a Production LLM",
+      "url": "https://arxiv.org/abs/2611.29018"
+    },
+    {
+      "text": "Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?",
+      "url": "https://arxiv.org/abs/2606.32008"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "ARC: Adaptive Rollout Control for Efficient Synchronous LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.29156"
+    },
+    {
+      "text": "Which Failure Does an Intervention Repair? When Agent Interventions Help, and Where Self-Evolving Skills Stall",
+      "url": "https://arxiv.org/abs/2611.29290"
+    },
+    {
+      "text": "SchemaCaps: When a Compatible Tool Update Silently Widens an AI Agent's Authority",
+      "url": "https://arxiv.org/abs/2611.30750"
+    },
+    {
+      "text": "IteraSong: LLM-Guided Iterative Symbolic Music Creation in a Web DAW",
+      "url": "https://arxiv.org/abs/2611.29225"
+    },
+    {
+      "text": "FP-Prune: Rethinking Visual Token Pruning from an Information Gain Perspective",
+      "url": "https://arxiv.org/abs/2611.29327"
+    },
+    {
+      "text": "Direct Feedback Policy Optimization for AI Coding Agents",
+      "url": "https://arxiv.org/abs/2611.29193"
+    },
+    {
+      "text": "On the Convergence of Vanilla Adam under Heavy-Tailed Noise and Index Sampling",
+      "url": "https://arxiv.org/abs/2611.03201"
+    },
+    {
+      "text": "Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models",
+      "url": "https://arxiv.org/abs/2611.04571"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Task-Dependent Linguistic Measures in Aphasia Discourse: A Comparative Analysis of Narrative, Descriptive, and Procedural Speech",
+      "url": "https://arxiv.org/abs/2611.30826"
+    },
+    {
+      "text": "SayWhen: Set-Valued Semantic Commitment for Low-Regret Early Speech",
+      "url": "https://arxiv.org/abs/2611.31101"
+    },
+    {
+      "text": "Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation",
+      "url": "https://arxiv.org/abs/2611.30694"
+    },
+    {
+      "text": "Learn the Effects, Not the Examples: Implicit ICL via Attention Patching",
+      "url": "https://arxiv.org/abs/2611.30690"
+    },
+    {
+      "text": "Self-Upgrading Embodied Agents",
+      "url": "https://arxiv.org/abs/2611.31117"
+    },
+    {
+      "text": "Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences",
+      "url": "https://arxiv.org/abs/2611.31132"
+    },
+    {
+      "text": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
+      "url": "https://arxiv.org/abs/2611.31160"
+    },
+    {
+      "text": "When Does Overriding the Majority Vote Help?",
+      "url": "https://arxiv.org/abs/2611.31165"
+    }
+  ],
+  "lastUpdated": "2026-11-24T09:33:02Z"
+}
