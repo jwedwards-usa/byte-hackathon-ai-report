@@ -1,129 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Misguided power-seeking  ",
-    "url": "https://www.lesswrong.com/posts/ubceFEqT6bQWKyAWb/misguided-power-seeking"
+    "text": "Weird Neurons Mimic Weird Data",
+    "url": "https://www.lesswrong.com/posts/wBTaEGxNTGAHxCcbD/weird-neurons-mimic-weird-data"
   },
   "topStories": [
+    {
+      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
+      "url": "https://arxiv.org/abs/2611.29859"
+    },
+    {
+      "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
+      "url": "https://arxiv.org/abs/2611.29151"
+    },
+    {
+      "text": "Misguided power-seeking  ",
+      "url": "https://www.lesswrong.com/posts/ubceFEqT6bQWKyAWb/misguided-power-seeking"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "California politics seems like a real hope for an AI slowdown",
       "url": "https://www.lesswrong.com/posts/WgGdtPEjNniPAReWW/california-politics-seems-like-a-real-hope-for-an-ai"
     },
     {
-      "text": "Two Kinds of Test-Time Scaling",
-      "url": "https://www.lesswrong.com/posts/AebihZrTgg5tPdSd7/two-kinds-of-test-time-scaling-1"
+      "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
+      "url": "https://arxiv.org/abs/2611.28153"
     },
     {
-      "text": "Memo: Firebell",
-      "url": "https://www.lesswrong.com/posts/zzGf853ZbsuZ5tpEs/memo-firebell"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
-      "url": "https://openai.com/index/introducing-shirudo"
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data",
+      "url": "https://arxiv.org/abs/2601.05227"
     },
     {
-      "text": "Lightcone Co-Conspirators The Universe Should Give Me",
-      "url": "https://www.lesswrong.com/posts/8zwoPn9ubC267NiCx/lightcone-co-conspirators-the-universe-should-give-me"
+      "text": "Towards Global Counterfactual-Based Self-Explainable Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2611.29681"
     },
     {
-      "text": "If it's not safe for the public, it's not safe for AI R\u0026D",
-      "url": "https://www.lesswrong.com/posts/Jtqux7K7N2sczpmQH/if-it-s-not-safe-for-the-public-it-s-not-safe-for-ai-r-and-d"
+      "text": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
+      "url": "https://arxiv.org/abs/2611.25360"
     },
     {
-      "text": "Most attempts at measuring eval awareness overestimate it",
-      "url": "https://www.lesswrong.com/posts/7Zvs6w7BzLFYoGzDH/most-attempts-at-measuring-eval-awareness-overestimate-it"
+      "text": "Watermark Claims Under Test: Lessons from Auditing a Production LLM",
+      "url": "https://arxiv.org/abs/2611.29018"
     },
     {
-      "text": "Comparing AI R\u0026D compute caps and deployment lags",
-      "url": "https://www.alignmentforum.org/posts/e758PJCpwAwyodvEj/comparing-ai-r-and-d-compute-caps-and-deployment-lags"
-    },
-    {
-      "text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
-    },
-    {
-      "text": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+      "text": "Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?",
+      "url": "https://arxiv.org/abs/2606.32008"
     }
   ],
   "centerColumn": [
     {
-      "text": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+      "text": "ARC: Adaptive Rollout Control for Efficient Synchronous LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.29156"
     },
     {
-      "text": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+      "text": "Which Failure Does an Intervention Repair? When Agent Interventions Help, and Where Self-Evolving Skills Stall",
+      "url": "https://arxiv.org/abs/2611.29290"
     },
     {
-      "text": "datasette-charts 0.2a0",
-      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/"
+      "text": "SchemaCaps: When a Compatible Tool Update Silently Widens an AI Agent's Authority",
+      "url": "https://arxiv.org/abs/2611.30750"
     },
     {
-      "text": "Ladybird's first alpha release",
-      "url": "https://simonwillison.net/2026/Nov/23/ladybird/"
+      "text": "IteraSong: LLM-Guided Iterative Symbolic Music Creation in a Web DAW",
+      "url": "https://arxiv.org/abs/2611.29225"
     },
     {
-      "text": "Many languages, one common neural code",
-      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+      "text": "FP-Prune: Rethinking Visual Token Pruning from an Information Gain Perspective",
+      "url": "https://arxiv.org/abs/2611.29327"
     },
     {
-      "text": "How Jensen Huang ended up as Nvidia CEO again",
-      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+      "text": "Direct Feedback Policy Optimization for AI Coding Agents",
+      "url": "https://arxiv.org/abs/2611.29193"
     },
     {
-      "text": "AWS's Strands Decider v2 targets the agent decisions that hinge on a single detail",
-      "url": "https://venturebeat.com/data/awss-strands-decider-v2-targets-the-agent-decisions-that-hinge-on-a-single-detail",
-      "image": {
-        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5Ok8Doxp5kgCYnud2RbV9o/f0c8950d0f89d033a61670b5cf8601dd/decider-smk1.jpeg?w=1200\u0026q=80",
-        "alt": "AWS's Strands Decider v2 targets the agent decisions that hinge on a single detail",
-        "width": 600,
-        "height": 400
-      }
+      "text": "On the Convergence of Vanilla Adam under Heavy-Tailed Noise and Index Sampling",
+      "url": "https://arxiv.org/abs/2611.03201"
     },
     {
-      "text": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+      "text": "Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models",
+      "url": "https://arxiv.org/abs/2611.04571"
     }
   ],
   "rightColumn": [
     {
-      "text": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+      "text": "Task-Dependent Linguistic Measures in Aphasia Discourse: A Comparative Analysis of Narrative, Descriptive, and Procedural Speech",
+      "url": "https://arxiv.org/abs/2611.30826"
     },
     {
-      "text": "datasette-charts 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
+      "text": "SayWhen: Set-Valued Semantic Commitment for Low-Regret Early Speech",
+      "url": "https://arxiv.org/abs/2611.31101"
     },
     {
-      "text": "RANSAC, Explained: Consensus Fitting for Image Feature Matching",
-      "url": "https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/"
+      "text": "Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation",
+      "url": "https://arxiv.org/abs/2611.30694"
     },
     {
-      "text": "How AI Changes the Four Types of Analytics for Data Scientists",
-      "url": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/"
+      "text": "Learn the Effects, Not the Examples: Implicit ICL via Attention Patching",
+      "url": "https://arxiv.org/abs/2611.30690"
     },
     {
-      "text": "Trump engineered a risky comeback for Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+      "text": "Self-Upgrading Embodied Agents",
+      "url": "https://arxiv.org/abs/2611.31117"
     },
     {
-      "text": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+      "text": "Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences",
+      "url": "https://arxiv.org/abs/2611.31132"
     },
     {
-      "text": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+      "text": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
+      "url": "https://arxiv.org/abs/2611.31160"
     },
     {
-      "text": "Congress rounds on Nvidia’s decision to bring back Huang",
-      "url": "https://dailyai.com/2026/11/congress-rounds-on-nvidias-decision-to-bring-back-huang/"
+      "text": "When Does Overriding the Majority Vote Help?",
+      "url": "https://arxiv.org/abs/2611.31165"
     }
   ],
-  "lastUpdated": "2026-11-24T06:57:43Z"
+  "lastUpdated": "2026-11-24T09:33:02Z"
 }
