@@ -1,34 +1,38 @@
 {
   "mainHeadline": {
-    "text": "Linkpost: Anthropic and OpenAI staff say internal models too dangerous to ever release",
-    "url": "https://www.lesswrong.com/posts/skMwpBKWMNnvRMNsb/linkpost-anthropic-and-openai-staff-say-internal-models-too"
+    "text": "INSIGHTS ON ANTHROPIC VS. OPENAI FROM THEIR VP≠VNP PROOFS",
+    "url": "https://www.lesswrong.com/posts/b6ajZKrfmPLPuj6rZ/insights-on-anthropic-vs-openai-from-their-vp-vnp-proofs"
   },
   "topStories": [
     {
-      "text": "Weird Neurons Mimic Weird Data",
-      "url": "https://www.lesswrong.com/posts/wBTaEGxNTGAHxCcbD/weird-neurons-mimic-weird-data"
+      "text": "Ghost Hunt: a steering approach to model backdoors",
+      "url": "https://www.lesswrong.com/posts/QazdpnzTYqARAB8Ed/ghost-hunt-a-steering-approach-to-model-backdoors-1"
+    },
+    {
+      "text": "Linkpost: Anthropic and OpenAI staff say internal models too dangerous to ever release",
+      "url": "https://www.lesswrong.com/posts/skMwpBKWMNnvRMNsb/linkpost-anthropic-and-openai-staff-say-internal-models-too"
+    },
+    {
+      "text": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
+      "url": "https://arxiv.org/abs/2611.29859"
     },
     {
       "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
       "url": "https://arxiv.org/abs/2611.29151"
     },
     {
-      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
-      "url": "https://arxiv.org/abs/2611.29859"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Misguided power-seeking  ",
-      "url": "https://www.lesswrong.com/posts/ubceFEqT6bQWKyAWb/misguided-power-seeking"
+      "text": "Weird Neurons Mimic Weird Data",
+      "url": "https://www.lesswrong.com/posts/wBTaEGxNTGAHxCcbD/weird-neurons-mimic-weird-data"
     },
     {
-      "text": "An AI economy won't need humans to provide demand",
-      "url": "https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand"
-    },
-    {
-      "text": "OpenAI and Cisco launch Shirudo to shield live systems while patches catch up",
-      "url": "https://dailyai.com/2026/11/openai-and-cisco-launch-shirudo-to-shield-live-systems-while-patches-catch-up/"
+      "text": "Can forced refusals make models \"snap out\" of a jailbreak?",
+      "url": "https://www.lesswrong.com/posts/mENw8pznQANekHoz5/can-forced-refusals-make-models-snap-out-of-a-jailbreak"
     },
     {
       "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
@@ -45,79 +49,75 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "The new METR time horizon results: basic explainer",
-      "url": "https://www.lesswrong.com/posts/nCjAug5FgsCevAEGg/the-new-metr-time-horizon-results-basic-explainer"
     }
   ],
   "centerColumn": [
     {
-      "text": "UACR: Uncertainty-Aware Collaborative Routing for Explainable Industrial Anomaly Inspection",
-      "url": "https://arxiv.org/abs/2611.28655"
+      "text": "Intra-Option Fitted Q-Evaluation: Evaluating Hierarchical Policies from Non-Hierarchical Data",
+      "url": "https://arxiv.org/abs/2611.10543"
     },
     {
-      "text": "Feature Lottery? A Bifurcation Theory of Concept Emergence",
-      "url": "https://arxiv.org/abs/2605.24057"
+      "text": "THETA: Heat Diffusion as a Structural Prior for Cross-Domain Transfer in Graph Foundation Models",
+      "url": "https://arxiv.org/abs/2611.29210"
     },
     {
-      "text": "Training speech deepfake detectors against worst-case filters: Gains, Costs and Limits",
-      "url": "https://arxiv.org/abs/2611.28718"
+      "text": "NANO: Unifying Missingness and Input Uncertainty in Tabular Learning",
+      "url": "https://arxiv.org/abs/2611.29214"
     },
     {
-      "text": "UNIFY: Unified Learning with One Model via Batch Norm Switching",
-      "url": "https://arxiv.org/abs/2611.28746"
+      "text": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
+      "url": "https://arxiv.org/abs/2606.05557"
+    },
+    {
+      "text": "Predicting Inference-Time Scaling Gains from Labeled Validation-Set Output Statistics",
+      "url": "https://arxiv.org/abs/2606.02981"
+    },
+    {
+      "text": "Notes on Generative AI for Mathematical Research",
+      "url": "https://arxiv.org/abs/2611.29811"
     },
     {
       "text": "SocialMemBench: Are AI Memory Systems Ready for Social Group Settings?",
       "url": "https://arxiv.org/abs/2605.17789"
     },
     {
-      "text": "Parameter-Efficient Vocabulary Expansion via Cross-Lingual Embedding Alignment",
-      "url": "https://arxiv.org/abs/2611.30123"
-    },
-    {
-      "text": "Language Model Harnesses can be Compositional Generalizers",
-      "url": "https://arxiv.org/abs/2611.28298"
-    },
-    {
-      "text": "Towards Foundation Decision Models: Drex",
-      "url": "https://arxiv.org/abs/2611.07854"
+      "text": "Dually Constrained Parameter Projection for Continual Learning",
+      "url": "https://arxiv.org/abs/2611.29269"
     }
   ],
   "rightColumn": [
     {
-      "text": "On the Interplay between Backtracking and Latent Confidence Directions in Reasoning Models",
-      "url": "https://arxiv.org/abs/2611.29265"
+      "text": "Self-Upgrading Embodied Agents",
+      "url": "https://arxiv.org/abs/2611.31117"
     },
     {
-      "text": "OmniDecisionBench: Evaluating and Benchmarking the Multimodal Jev-Style System One Decision Models",
-      "url": "https://arxiv.org/abs/2611.28924"
-    },
-    {
-      "text": "When Do Better Visual World Models Make Better Plans? Decision-Aligned Selection for Latent Planning",
-      "url": "https://arxiv.org/abs/2611.28919"
-    },
-    {
-      "text": "The Social World Model Evaluation Gap",
-      "url": "https://arxiv.org/abs/2610.33014"
-    },
-    {
-      "text": "STRIDE: Strategy-to-Tactics Retrieval-Guided Skill Disclosure and Evolution for Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.28907"
+      "text": "Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences",
+      "url": "https://arxiv.org/abs/2611.31132"
     },
     {
       "text": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
       "url": "https://arxiv.org/abs/2611.31160"
     },
     {
-      "text": "Hybrid state-space and attention neural operators for nonlinear structural dynamics under environmental loading",
-      "url": "https://arxiv.org/abs/2611.29334"
+      "text": "When Does Overriding the Majority Vote Help?",
+      "url": "https://arxiv.org/abs/2611.31165"
     },
     {
-      "text": "DeciForm: Incorporating Task Structure into Decision Models",
-      "url": "https://arxiv.org/abs/2611.29340"
+      "text": "Reducing Order Sensitivity in Decision Models",
+      "url": "https://arxiv.org/abs/2611.31174"
+    },
+    {
+      "text": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+      "url": "https://arxiv.org/abs/2604.25850"
+    },
+    {
+      "text": "Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs",
+      "url": "https://arxiv.org/abs/2604.07518"
+    },
+    {
+      "text": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2611.31215"
     }
   ],
-  "lastUpdated": "2026-11-24T12:35:40Z"
+  "lastUpdated": "2026-11-24T15:33:50Z"
 }
