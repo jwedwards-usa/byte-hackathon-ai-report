@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Linkpost: Anthropic and OpenAI staff say internal models too dangerous to ever release",
+    "url": "https://www.lesswrong.com/posts/skMwpBKWMNnvRMNsb/linkpost-anthropic-and-openai-staff-say-internal-models-too"
+  },
+  "topStories": [
+    {
+      "text": "Weird Neurons Mimic Weird Data",
+      "url": "https://www.lesswrong.com/posts/wBTaEGxNTGAHxCcbD/weird-neurons-mimic-weird-data"
+    },
+    {
+      "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
+      "url": "https://arxiv.org/abs/2611.29151"
+    },
+    {
+      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
+      "url": "https://arxiv.org/abs/2611.29859"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Misguided power-seeking  ",
+      "url": "https://www.lesswrong.com/posts/ubceFEqT6bQWKyAWb/misguided-power-seeking"
+    },
+    {
+      "text": "An AI economy won't need humans to provide demand",
+      "url": "https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand"
+    },
+    {
+      "text": "OpenAI and Cisco launch Shirudo to shield live systems while patches catch up",
+      "url": "https://dailyai.com/2026/11/openai-and-cisco-launch-shirudo-to-shield-live-systems-while-patches-catch-up/"
+    },
+    {
+      "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
+      "url": "https://arxiv.org/abs/2611.28153"
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
+      "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
+      "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "The new METR time horizon results: basic explainer",
+      "url": "https://www.lesswrong.com/posts/nCjAug5FgsCevAEGg/the-new-metr-time-horizon-results-basic-explainer"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "UACR: Uncertainty-Aware Collaborative Routing for Explainable Industrial Anomaly Inspection",
+      "url": "https://arxiv.org/abs/2611.28655"
+    },
+    {
+      "text": "Feature Lottery? A Bifurcation Theory of Concept Emergence",
+      "url": "https://arxiv.org/abs/2605.24057"
+    },
+    {
+      "text": "Training speech deepfake detectors against worst-case filters: Gains, Costs and Limits",
+      "url": "https://arxiv.org/abs/2611.28718"
+    },
+    {
+      "text": "UNIFY: Unified Learning with One Model via Batch Norm Switching",
+      "url": "https://arxiv.org/abs/2611.28746"
+    },
+    {
+      "text": "SocialMemBench: Are AI Memory Systems Ready for Social Group Settings?",
+      "url": "https://arxiv.org/abs/2605.17789"
+    },
+    {
+      "text": "Parameter-Efficient Vocabulary Expansion via Cross-Lingual Embedding Alignment",
+      "url": "https://arxiv.org/abs/2611.30123"
+    },
+    {
+      "text": "Language Model Harnesses can be Compositional Generalizers",
+      "url": "https://arxiv.org/abs/2611.28298"
+    },
+    {
+      "text": "Towards Foundation Decision Models: Drex",
+      "url": "https://arxiv.org/abs/2611.07854"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "On the Interplay between Backtracking and Latent Confidence Directions in Reasoning Models",
+      "url": "https://arxiv.org/abs/2611.29265"
+    },
+    {
+      "text": "OmniDecisionBench: Evaluating and Benchmarking the Multimodal Jev-Style System One Decision Models",
+      "url": "https://arxiv.org/abs/2611.28924"
+    },
+    {
+      "text": "When Do Better Visual World Models Make Better Plans? Decision-Aligned Selection for Latent Planning",
+      "url": "https://arxiv.org/abs/2611.28919"
+    },
+    {
+      "text": "The Social World Model Evaluation Gap",
+      "url": "https://arxiv.org/abs/2610.33014"
+    },
+    {
+      "text": "STRIDE: Strategy-to-Tactics Retrieval-Guided Skill Disclosure and Evolution for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.28907"
+    },
+    {
+      "text": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
+      "url": "https://arxiv.org/abs/2611.31160"
+    },
+    {
+      "text": "Hybrid state-space and attention neural operators for nonlinear structural dynamics under environmental loading",
+      "url": "https://arxiv.org/abs/2611.29334"
+    },
+    {
+      "text": "DeciForm: Incorporating Task Structure into Decision Models",
+      "url": "https://arxiv.org/abs/2611.29340"
+    }
+  ],
+  "lastUpdated": "2026-11-24T12:35:40Z"
+}
