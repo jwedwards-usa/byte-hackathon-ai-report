@@ -1,9 +1,13 @@
 {
   "mainHeadline": {
-    "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
-    "url": "https://openai.com/index/introducing-shirudo"
+    "text": "AI Usage Transparency",
+    "url": "https://www.lesswrong.com/posts/ykgDvkPebaTckzeJy/ai-usage-transparency"
   },
   "topStories": [
+    {
+      "text": "Mikoshi: Open infrastructure for agent swarm alignment research",
+      "url": "https://www.lesswrong.com/posts/gsXkRoEKRnJyaFYEP/mikoshi-open-infrastructure-for-agent-swarm-alignment"
+    },
     {
       "text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
       "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
@@ -11,30 +15,12 @@
     {
       "text": "Scoring AI safety rally chants: results from a chant workshop",
       "url": "https://www.lesswrong.com/posts/TcYiqoeTT4DWeGxLK/scoring-ai-safety-rally-chants-results-from-a-chant-workshop"
-    },
-    {
-      "text": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
     }
   ],
   "leftColumn": [
     {
-      "text": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
-      "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/"
-    },
-    {
-      "text": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
-      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
-      "image": {
-        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/pfMEkKbCgZqPGlBFPN1Ik/61bb1d108afeb3cf9b8a4a8de4088d33/ai_transformer_loo_image-smk1.jpeg?w=1200\u0026q=80",
-        "alt": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
-        "width": 600,
-        "height": 400
-      }
-    },
-    {
-      "text": "Everyone in AI safety gets FOMO",
-      "url": "https://www.lesswrong.com/posts/4eXof4KR6d4edmcJ2/everyone-in-ai-safety-gets-fomo"
+      "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
+      "url": "https://openai.com/index/introducing-shirudo"
     },
     {
       "text": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
@@ -45,85 +31,93 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Persona Space Seems Blind to Cheating",
-      "url": "https://www.lesswrong.com/posts/uovDC22en2iirta4h/persona-space-seems-blind-to-cheating"
+      "text": "$5,000 and other good things I got from FLF's Epistack contest",
+      "url": "https://www.lesswrong.com/posts/92NoKHCxP5HHv7mzv/usd5-000-and-other-good-things-i-got-from-flf-s-epistack"
     },
     {
-      "text": "Thinking is Hard (for Humans)",
-      "url": "https://www.lesswrong.com/posts/NyCFKxR74RgRbs7SM/thinking-is-hard-for-humans"
+      "text": "Comparing AI R\u0026D compute caps and deployment lags",
+      "url": "https://www.lesswrong.com/posts/e758PJCpwAwyodvEj/comparing-ai-r-and-d-compute-caps-and-deployment-lags"
     },
     {
-      "text": "Joseph Miller Actually Tried. Is that enough?",
-      "url": "https://www.lesswrong.com/posts/nWRps3zxN7isngSsT/joseph-miller-actually-tried-is-that-enough"
+      "text": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    },
+    {
+      "text": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
+      "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/"
+    },
+    {
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
     }
   ],
   "centerColumn": [
     {
-      "text": "Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs",
-      "url": "https://arxiv.org/abs/2611.27686"
+      "text": "Represented but misread: Post-training changes how language models read out what they represent",
+      "url": "https://arxiv.org/abs/2611.26584"
     },
     {
-      "text": "Fair Property Tax: Reducing Regressivity in Machine-Learning Valuation",
-      "url": "https://arxiv.org/abs/2611.27009"
+      "text": "Exercised, Rarely Recovered: What Public Reports Say About Recovery in 50 AI Agent Harnesses and Runtimes",
+      "url": "https://arxiv.org/abs/2611.27090"
     },
     {
-      "text": "Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation",
-      "url": "https://arxiv.org/abs/2611.27495"
+      "text": "Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training",
+      "url": "https://arxiv.org/abs/2611.27376"
     },
     {
-      "text": "Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work",
-      "url": "https://arxiv.org/abs/2611.27746"
+      "text": "Schema-Validated LLM Workflows: A Benchmark Protocol and Comparative Evaluation Across Six Python Implementations",
+      "url": "https://arxiv.org/abs/2611.27106"
     },
     {
-      "text": "Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection",
-      "url": "https://arxiv.org/abs/2611.27784"
+      "text": "Equivariant Deep Learning in Direct-Product Space for Electronic-Structure Hamiltonian Prediction",
+      "url": "https://arxiv.org/abs/2611.07695"
     },
     {
-      "text": "Large Reported CHB-MIT Adaptation Gains Disappear with Pretrained Encoders and Matched Probes",
-      "url": "https://arxiv.org/abs/2611.26929"
+      "text": "When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\\ell_1$-norm Lower Bounds",
+      "url": "https://arxiv.org/abs/2605.06615"
     },
     {
-      "text": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
-      "url": "https://arxiv.org/abs/2611.26847"
+      "text": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+      "url": "https://arxiv.org/abs/2611.26966"
     },
     {
-      "text": "From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation Generation",
-      "url": "https://arxiv.org/abs/2611.27483"
+      "text": "Benchmarks Are Surprisingly Compaction-Friendly",
+      "url": "https://arxiv.org/abs/2610.31778"
     }
   ],
   "rightColumn": [
+    {
+      "text": "Can Language Models See the Circuit in Pixelated RFIC Passives?",
+      "url": "https://arxiv.org/abs/2611.27559"
+    },
+    {
+      "text": "Windchime: an Audiovisual Installation with Audio-Language Model implementations",
+      "url": "https://arxiv.org/abs/2611.26759"
+    },
     {
       "text": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
       "url": "https://arxiv.org/abs/2611.26776"
     },
     {
-      "text": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.27865"
+      "text": "Vega-Fafnir: Is Greedy Decoding the Same Decoding? Where Rounding Noise in Speculative Verification Comes From and What Removing It Costs",
+      "url": "https://arxiv.org/abs/2611.27554"
     },
     {
-      "text": "Beyond Visual Fidelity: Comparing Categorical and Continuous World Models",
-      "url": "https://arxiv.org/abs/2611.27870"
+      "text": "Beyond Linear Decodability: Understanding and Improving Instruction Following in World Action Models",
+      "url": "https://arxiv.org/abs/2611.27401"
     },
     {
-      "text": "To predict or to persist: how decoherence shapes learning in a spin-qubit quantum reservoir",
-      "url": "https://arxiv.org/abs/2611.26215"
+      "text": "ReActWAM: Action-Consistent Caching for Efficient World-Action Models",
+      "url": "https://arxiv.org/abs/2611.27372"
     },
     {
-      "text": "SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention",
-      "url": "https://arxiv.org/abs/2611.26637"
+      "text": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells",
+      "url": "https://arxiv.org/abs/2611.13223"
     },
     {
-      "text": "Distributional Deep Hedging",
-      "url": "https://arxiv.org/abs/2611.26652"
-    },
-    {
-      "text": "Mixture of Latent Recursions for Low-Rank Adaptation",
-      "url": "https://arxiv.org/abs/2611.27823"
-    },
-    {
-      "text": "DPMA: Learning to Compress Mixture-of-Experts Models",
-      "url": "https://arxiv.org/abs/2611.27759"
+      "text": "GRACE: Controlled Evidence Interventions for Diagnosing and Improving Knowledge Integration in GraphRAG",
+      "url": "https://arxiv.org/abs/2611.27350"
     }
   ],
-  "lastUpdated": "2026-11-24T00:46:03Z"
+  "lastUpdated": "2026-11-24T03:34:30Z"
 }
