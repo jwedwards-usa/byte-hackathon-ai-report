@@ -1,123 +1,129 @@
 {
   "mainHeadline": {
-    "text": "INSIGHTS ON ANTHROPIC VS. OPENAI FROM THEIR VP≠VNP PROOFS",
-    "url": "https://www.lesswrong.com/posts/b6ajZKrfmPLPuj6rZ/insights-on-anthropic-vs-openai-from-their-vp-vnp-proofs"
+    "text": "AI research agents crowd onto the same projects, and how to spread them out",
+    "url": "https://www.lesswrong.com/posts/4TpjkdL5Fed3vBioC/ai-research-agents-crowd-onto-the-same-projects-and-how-to"
   },
   "topStories": [
-    {
-      "text": "Ghost Hunt: a steering approach to model backdoors",
-      "url": "https://www.lesswrong.com/posts/QazdpnzTYqARAB8Ed/ghost-hunt-a-steering-approach-to-model-backdoors-1"
-    },
-    {
-      "text": "Linkpost: Anthropic and OpenAI staff say internal models too dangerous to ever release",
-      "url": "https://www.lesswrong.com/posts/skMwpBKWMNnvRMNsb/linkpost-anthropic-and-openai-staff-say-internal-models-too"
-    },
-    {
-      "text": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
-      "url": "https://arxiv.org/abs/2611.29859"
-    },
     {
       "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
       "url": "https://arxiv.org/abs/2611.29151"
     },
     {
-      "text": "Weird Neurons Mimic Weird Data",
-      "url": "https://www.lesswrong.com/posts/wBTaEGxNTGAHxCcbD/weird-neurons-mimic-weird-data"
+      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
+      "url": "https://arxiv.org/abs/2611.29859"
     },
     {
-      "text": "Can forced refusals make models \"snap out\" of a jailbreak?",
-      "url": "https://www.lesswrong.com/posts/mENw8pznQANekHoz5/can-forced-refusals-make-models-snap-out-of-a-jailbreak"
-    },
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
       "url": "https://arxiv.org/abs/2611.28153"
     },
     {
-      "text": "Frontier models need only one text to unmask its human or AI author",
-      "url": "https://arxiv.org/abs/2611.26216"
-    },
-    {
-      "text": "OPENAI AND CISCO INTRODUCE SHIRUDO",
-      "url": "https://openai.com/index/introducing-shirudo"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
+      "url": "https://venturebeat.com/security/crowdstrikes-zscaler-deal-aims-to-give-security-teams-a-single-kill-switch-for-rogue-ai-agents",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7zAlfclDW20nxFgDKhaKaU/0a7ac9c673941e3f9d5dc8649670c201/final_hero.png?w=1200\u0026q=80",
+        "alt": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
+    },
+    {
+      "text": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
+    {
+      "text": "CLAIR: Consistent LLM Adaptation via Index-free Reprogramming",
+      "url": "https://arxiv.org/abs/2611.28721"
+    },
+    {
+      "text": "GeoFusion: An Uncertain Machine Learning Framework for Sensor Fusion",
+      "url": "https://arxiv.org/abs/2611.29510"
+    },
+    {
+      "text": "Tenlai-TTS 2.0: Continuous-Representation LLM-Based TTS System with End-to-End Training",
+      "url": "https://arxiv.org/abs/2611.29226"
     }
   ],
   "centerColumn": [
     {
-      "text": "Intra-Option Fitted Q-Evaluation: Evaluating Hierarchical Policies from Non-Hierarchical Data",
-      "url": "https://arxiv.org/abs/2611.10543"
+      "text": "Ontology-Compiled 2D Clinical State Fields with Bidirectional Diffusion Encoders for Zero-Training Cross-Ontology Medical Coding",
+      "url": "https://arxiv.org/abs/2611.30218"
     },
     {
-      "text": "THETA: Heat Diffusion as a Structural Prior for Cross-Domain Transfer in Graph Foundation Models",
-      "url": "https://arxiv.org/abs/2611.29210"
+      "text": "FP-Prune: Rethinking Visual Token Pruning from an Information Gain Perspective",
+      "url": "https://arxiv.org/abs/2611.29327"
     },
     {
-      "text": "NANO: Unifying Missingness and Input Uncertainty in Tabular Learning",
-      "url": "https://arxiv.org/abs/2611.29214"
+      "text": "Ego-HMB: Human Motion Bridging from Egocentric Images via A Motion Bridge Diffusion Model",
+      "url": "https://arxiv.org/abs/2611.29218"
     },
     {
-      "text": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
-      "url": "https://arxiv.org/abs/2606.05557"
+      "text": "Interaction Retention and Output-Likelihood Training in Parallel Sampling",
+      "url": "https://arxiv.org/abs/2611.28858"
     },
     {
-      "text": "Predicting Inference-Time Scaling Gains from Labeled Validation-Set Output Statistics",
-      "url": "https://arxiv.org/abs/2606.02981"
+      "text": "Spatial Ensemble Logic for Biomedical Imaging: Geometric Element Ensembles in Euclidean Space",
+      "url": "https://arxiv.org/abs/2611.29105"
     },
     {
-      "text": "Notes on Generative AI for Mathematical Research",
-      "url": "https://arxiv.org/abs/2611.29811"
+      "text": "PhyMind: Physics-Informed Masked Autoencoding for EEG Foundation Models",
+      "url": "https://arxiv.org/abs/2611.28856"
     },
     {
-      "text": "SocialMemBench: Are AI Memory Systems Ready for Social Group Settings?",
-      "url": "https://arxiv.org/abs/2605.17789"
+      "text": "TesseraFlow: Scalable Video Diffusion for Dynamic Medical Imaging Inverse Problems",
+      "url": "https://arxiv.org/abs/2611.29099"
     },
     {
-      "text": "Dually Constrained Parameter Projection for Continual Learning",
-      "url": "https://arxiv.org/abs/2611.29269"
+      "text": "Who Gets Re-ranked When a Clinical Model Gains New Data?",
+      "url": "https://arxiv.org/abs/2611.28968"
     }
   ],
   "rightColumn": [
     {
-      "text": "Self-Upgrading Embodied Agents",
-      "url": "https://arxiv.org/abs/2611.31117"
+      "text": "Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2611.27689"
     },
     {
-      "text": "Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences",
-      "url": "https://arxiv.org/abs/2611.31132"
+      "text": "Automatic Occupational Coding through Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2611.31051"
     },
     {
-      "text": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
-      "url": "https://arxiv.org/abs/2611.31160"
+      "text": "Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories",
+      "url": "https://arxiv.org/abs/2611.28532"
     },
     {
-      "text": "When Does Overriding the Majority Vote Help?",
-      "url": "https://arxiv.org/abs/2611.31165"
+      "text": "When and Where to Transfer: Learning Transferable Historical Contexts for Short-History Multivariate Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2611.28567"
     },
     {
-      "text": "Reducing Order Sensitivity in Decision Models",
-      "url": "https://arxiv.org/abs/2611.31174"
+      "text": "Shoonya: Zero-Socket In-Process Small Language Models for Graph Databases with Schema-Epoch KV Caching, Live Catalog Logit Masking, and Verifier-Advantage Distillation",
+      "url": "https://arxiv.org/abs/2611.28502"
     },
     {
-      "text": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
-      "url": "https://arxiv.org/abs/2604.25850"
+      "text": "Seeing Is Locating: Spatial Awareness and Geographic Bias in Decision Language Models",
+      "url": "https://arxiv.org/abs/2611.30564"
     },
     {
-      "text": "Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs",
-      "url": "https://arxiv.org/abs/2604.07518"
+      "text": "CyberDualEval: Measuring Dual-Use Cyber Risks in Frontier Language Models",
+      "url": "https://arxiv.org/abs/2611.30533"
     },
     {
-      "text": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
-      "url": "https://arxiv.org/abs/2611.31215"
+      "text": "PackLoop: Row-Packed Self-Speculative Decoding for Looped Language Models under Concurrency",
+      "url": "https://arxiv.org/abs/2611.30205"
     }
   ],
-  "lastUpdated": "2026-11-24T15:33:50Z"
+  "lastUpdated": "2026-11-24T21:30:55Z"
 }
