@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+    "url": "https://www.lesswrong.com/posts/ENdfwPYrhLrAP8znD/claude-and-levent-alpoege-prove-the-riemann-hypothesis"
+  },
+  "topStories": [
+    {
+      "text": "Effective Giving in Politics: Spending Better for AI Safety",
+      "url": "https://www.lesswrong.com/posts/eBfuqL3YQfeM6cBEs/effective-giving-in-politics-spending-better-for-ai-safety"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "OpenAI says its GPT-6 models can design proteins — and lab tests back some of it up",
+      "url": "https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Why the Central Argument for Panpsychism Fails",
+      "url": "https://www.lesswrong.com/posts/yBWz6ML6um6tKi9Dx/why-the-central-argument-for-panpsychism-fails"
+    },
+    {
+      "text": "How the AI Village Agents Learned to Tag Each Other",
+      "url": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other"
+    },
+    {
+      "text": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods ",
+      "url": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
+    },
+    {
+      "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
+      "url": "https://arxiv.org/abs/2611.32041"
+    },
+    {
+      "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
+      "url": "https://arxiv.org/abs/2611.31884"
+    },
+    {
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Risky Business: Measuring The Faithfulness-Safety Tension",
+      "url": "https://arxiv.org/abs/2608.03745"
+    },
+    {
+      "text": "AutoXRD: Autonomous Large Language Model Agents and Comprehensive Evaluation for Powder X-Ray Diffraction Analysis",
+      "url": "https://arxiv.org/abs/2609.00070"
+    },
+    {
+      "text": "Compressible Representations: Functional Spines in Deep Neural Networks",
+      "url": "https://arxiv.org/abs/2611.31817"
+    },
+    {
+      "text": "Diagnosing and Repairing Citation Failures in Generative Engine Optimization",
+      "url": "https://arxiv.org/abs/2603.09296"
+    },
+    {
+      "text": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks",
+      "url": "https://arxiv.org/abs/2605.28556"
+    },
+    {
+      "text": "GEM: A Generative Embedding Model Bridging Reasoning and Retrieval",
+      "url": "https://arxiv.org/abs/2608.13200"
+    },
+    {
+      "text": "From Grammar Deltas to Token Masks: Incremental Constrained Decoding under Runtime Grammar Evolution",
+      "url": "https://arxiv.org/abs/2611.32807"
+    },
+    {
+      "text": "FN-Prune: Training-Free Expert Pruning with Finite RMSNorm Perturbations",
+      "url": "https://arxiv.org/abs/2611.31747"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "From Memory Access to Evidence Sufficiency: Diagnosing and Addressing Demand--Evidence Misalignment",
+      "url": "https://arxiv.org/abs/2611.32088"
+    },
+    {
+      "text": "Harnessing Dephasing for Quantum Reservoir Computing with a Minimum Complexity Architecture: Applications to Nonlinear Time-Series Prediction",
+      "url": "https://arxiv.org/abs/2611.26762"
+    },
+    {
+      "text": "EffectWAM: Learning Action-Grounded Effects for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2611.32053"
+    },
+    {
+      "text": "Conformalized Tree-Based Gradient Ensembles for Out-of-Distribution Detection and Plausible Recourse",
+      "url": "https://arxiv.org/abs/2611.31319"
+    },
+    {
+      "text": "ToneMamaba: Learning Contextualized Tonal Contours with Boundary-Reset State Space Models",
+      "url": "https://arxiv.org/abs/2611.31267"
+    },
+    {
+      "text": "Per-Attack Blocking Hides Catalog Vulnerability: A Weakest-Link Analysis of Tool Manifests",
+      "url": "https://arxiv.org/abs/2611.31338"
+    },
+    {
+      "text": "GHC:Expanding Residual Interfaces in Hyper-Connections",
+      "url": "https://arxiv.org/abs/2611.31350"
+    },
+    {
+      "text": "Evolve to Learn: Gradient-aligned experience evolution for model self-improvement",
+      "url": "https://arxiv.org/abs/2611.32390"
+    }
+  ],
+  "lastUpdated": "2026-11-25T18:25:53Z"
+}
