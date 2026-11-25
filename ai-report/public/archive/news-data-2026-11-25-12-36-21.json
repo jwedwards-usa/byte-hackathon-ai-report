@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Effective Giving in Politics: Spending Better for AI Safety",
+    "url": "https://www.lesswrong.com/posts/eBfuqL3YQfeM6cBEs/effective-giving-in-politics-spending-better-for-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI says its GPT-6 models can design proteins — and lab tests back some of it up",
+      "url": "https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/"
+    },
+    {
+      "text": "A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans",
+      "url": "https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/"
+    },
+    {
+      "text": "How the AI Village Agents Learned to Tag Each Other",
+      "url": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods ",
+      "url": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    },
+    {
+      "text": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+      "url": "https://arxiv.org/abs/2611.31094"
+    },
+    {
+      "text": "Structure-Aware Transformers for Hierarchical Authorization in Personal AI Agents",
+      "url": "https://arxiv.org/abs/2611.32018"
+    },
+    {
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
+    },
+    {
+      "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
+      "url": "https://arxiv.org/abs/2611.31884"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Reading, Writing and Repairing Game-Theoretic Policies in Weight Space",
+      "url": "https://arxiv.org/abs/2611.31979"
+    },
+    {
+      "text": "Machine learning enables full Bayesian inference for spinning extreme-mass-ratio inspirals",
+      "url": "https://arxiv.org/abs/2611.31916"
+    },
+    {
+      "text": "Two-Stage Post-Training for Flow-Based Embodied Foundation Models",
+      "url": "https://arxiv.org/abs/2611.31850"
+    },
+    {
+      "text": "Agentic Discovery of Soundness Bugs in Safe Rust Bindings",
+      "url": "https://arxiv.org/abs/2611.31813"
+    },
+    {
+      "text": "TopoCryptoEEG: End-to-End Encrypted Framework for Brainprint Authentication",
+      "url": "https://arxiv.org/abs/2611.31801"
+    },
+    {
+      "text": "LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.22728"
+    },
+    {
+      "text": "Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explanations for Geospatial Machine Learning",
+      "url": "https://arxiv.org/abs/2611.31731"
+    },
+    {
+      "text": "Provenance Loss and Repair in Multilingual Compaction",
+      "url": "https://arxiv.org/abs/2611.31668"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Speak or Stay Silent: Context-Aware Turn-Taking in Multi-Party Dialogue",
+      "url": "https://arxiv.org/abs/2603.11409"
+    },
+    {
+      "text": "A Piecewise-Linear Activation Function for Implicit Neural Representations",
+      "url": "https://arxiv.org/abs/2611.31666"
+    },
+    {
+      "text": "Reading Between the Layers: Where Representation Quality Lives, and What Geometry Reveals",
+      "url": "https://arxiv.org/abs/2611.31496"
+    },
+    {
+      "text": "Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Distribution Shift",
+      "url": "https://arxiv.org/abs/2602.14913"
+    },
+    {
+      "text": "Tablassert: Declarative Extraction of Knowledge Graphs from Biomedical Tables",
+      "url": "https://arxiv.org/abs/2611.31614"
+    },
+    {
+      "text": "Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2611.31954"
+    },
+    {
+      "text": "MMGenBench: An Automated Pipeline for Evaluating LMMs from a Text-to-Image Generation Perspective",
+      "url": "https://arxiv.org/abs/2411.14062"
+    },
+    {
+      "text": "GHC:Expanding Residual Interfaces in Hyper-Connections",
+      "url": "https://arxiv.org/abs/2611.31350"
+    }
+  ],
+  "lastUpdated": "2026-11-25T12:36:21Z"
+}
