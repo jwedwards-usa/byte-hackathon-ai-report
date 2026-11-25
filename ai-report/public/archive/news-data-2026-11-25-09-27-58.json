@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Effective Giving in Politics: Spending Better for AI Safety",
+    "url": "https://www.lesswrong.com/posts/eBfuqL3YQfeM6cBEs/effective-giving-in-politics-spending-better-for-ai-safety"
+  },
+  "topStories": [
+    {
+      "text": "OpenAI says its GPT-6 models can design proteins — and lab tests back some of it up",
+      "url": "https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/"
+    },
+    {
+      "text": "How the AI Village Agents Learned to Tag Each Other",
+      "url": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other"
+    },
+    {
+      "text": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods ",
+      "url": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "Modelling Billingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+      "url": "https://arxiv.org/abs/2611.31977"
+    },
+    {
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
+    },
+    {
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
+    },
+    {
+      "text": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+      "url": "https://arxiv.org/abs/2611.31094"
+    },
+    {
+      "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
+      "url": "https://arxiv.org/abs/2611.32041"
+    },
+    {
+      "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
+      "url": "https://arxiv.org/abs/2611.31884"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Compressible Representations: Functional Spines in Deep Neural Networks",
+      "url": "https://arxiv.org/abs/2611.31817"
+    },
+    {
+      "text": "A Generative AI Agent to Emulate Interactive Human-driven Vehicles for Automated Driving Testing in Urban Areas",
+      "url": "https://arxiv.org/abs/2611.31797"
+    },
+    {
+      "text": "FN-Prune: Training-Free Expert Pruning with Finite RMSNorm Perturbations",
+      "url": "https://arxiv.org/abs/2611.31747"
+    },
+    {
+      "text": "LimoBench: How Street Smart Are Large Language Models?",
+      "url": "https://arxiv.org/abs/2611.31682"
+    },
+    {
+      "text": "When Variance Is Not an Error Map: Calibrated Uncertainty for Radiative Gaussian Splatting in Sparse-View CT",
+      "url": "https://arxiv.org/abs/2607.13682"
+    },
+    {
+      "text": "Label leakage through file headers: geometry and batch confounds in public mammography datasets, and a pre-training acceptance gate",
+      "url": "https://arxiv.org/abs/2611.32899"
+    },
+    {
+      "text": "Stranded Compute in AI Inference Workloads: Recovering Value Through Demand Aggregation",
+      "url": "https://arxiv.org/abs/2611.31654"
+    },
+    {
+      "text": "Constructing physical mechanisms with artificial intelligence",
+      "url": "https://arxiv.org/abs/2611.31653"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "VMSA: Video Memory Skill Agent for Long Video Understanding",
+      "url": "https://arxiv.org/abs/2611.27381"
+    },
+    {
+      "text": "Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios",
+      "url": "https://arxiv.org/abs/2611.31249"
+    },
+    {
+      "text": "Support Topology and Gradient Mixing in Sinkhorn Layers",
+      "url": "https://arxiv.org/abs/2609.07954"
+    },
+    {
+      "text": "Conformalized Tree-Based Gradient Ensembles for Out-of-Distribution Detection and Plausible Recourse",
+      "url": "https://arxiv.org/abs/2611.31319"
+    },
+    {
+      "text": "Using the Whole Slice: AlphaFold2 Inference on an Eight-Chip TPU v5e",
+      "url": "https://arxiv.org/abs/2609.34818"
+    },
+    {
+      "text": "Best Arm Identification with Unknown Post-Action Context Distribution",
+      "url": "https://arxiv.org/abs/2611.33024"
+    },
+    {
+      "text": "Grounding Language Models in Revealed Audience Behavior",
+      "url": "https://arxiv.org/abs/2611.31999"
+    },
+    {
+      "text": "MADJEPA: Enhanced Multi-Stage Joint-Embedding Predictive Architecture for Medical Anomaly Detection",
+      "url": "https://arxiv.org/abs/2611.25194"
+    }
+  ],
+  "lastUpdated": "2026-11-25T09:27:58Z"
+}
