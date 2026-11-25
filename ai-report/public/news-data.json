@@ -1,9 +1,23 @@
 {
   "mainHeadline": {
-    "text": "AI research agents crowd onto the same projects, and how to spread them out",
-    "url": "https://www.lesswrong.com/posts/4TpjkdL5Fed3vBioC/ai-research-agents-crowd-onto-the-same-projects-and-how-to"
+    "text": "Three LLM inflection points in twelve months",
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
   },
   "topStories": [
+    {
+      "text": "AI research agents crowd onto the same projects, and how to spread them out",
+      "url": "https://www.lesswrong.com/posts/4TpjkdL5Fed3vBioC/ai-research-agents-crowd-onto-the-same-projects-and-how-to"
+    },
+    {
+      "text": "Levent is my favorite gender role",
+      "url": "https://www.lesswrong.com/posts/LrWJeEDCriLmAgFXr/levent-is-my-favorite-gender-role"
+    },
+    {
+      "text": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
+      "url": "https://www.lesswrong.com/posts/GrARsuPjWQL92hfxw/jensen-huang-reinstated-as-nvidia-ceo-at-behest-of-president"
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
       "url": "https://arxiv.org/abs/2611.29151"
@@ -13,117 +27,97 @@
       "url": "https://arxiv.org/abs/2611.29859"
     },
     {
-      "text": "Frontier models need only one text to unmask its human or AI author",
-      "url": "https://arxiv.org/abs/2611.26216"
-    }
-  ],
-  "leftColumn": [
+      "text": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut is Available\n",
+      "url": "https://www.lesswrong.com/posts/rXixzzScjLrnNZ4vo/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is"
+    },
+    {
+      "text": "How do I meet people?",
+      "url": "https://www.lesswrong.com/posts/WzyKeYnCSAGv2kT85/how-do-i-meet-people"
+    },
+    {
+      "text": "Open Weight Models are not the immediate problem ",
+      "url": "https://www.lesswrong.com/posts/jA4amFWxznNHFC3ZG/open-weight-models-are-not-the-immediate-problem"
+    },
     {
       "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
       "url": "https://arxiv.org/abs/2611.28153"
     },
     {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
-      "url": "https://venturebeat.com/security/crowdstrikes-zscaler-deal-aims-to-give-security-teams-a-single-kill-switch-for-rogue-ai-agents",
-      "image": {
-        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7zAlfclDW20nxFgDKhaKaU/0a7ac9c673941e3f9d5dc8649670c201/final_hero.png?w=1200\u0026q=80",
-        "alt": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
-        "width": 600,
-        "height": 400
-      }
-    },
-    {
-      "text": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
-    },
-    {
-      "text": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
-    },
-    {
-      "text": "CLAIR: Consistent LLM Adaptation via Index-free Reprogramming",
-      "url": "https://arxiv.org/abs/2611.28721"
-    },
-    {
-      "text": "GeoFusion: An Uncertain Machine Learning Framework for Sensor Fusion",
-      "url": "https://arxiv.org/abs/2611.29510"
-    },
-    {
-      "text": "Tenlai-TTS 2.0: Continuous-Representation LLM-Based TTS System with End-to-End Training",
-      "url": "https://arxiv.org/abs/2611.29226"
     }
   ],
   "centerColumn": [
     {
-      "text": "Ontology-Compiled 2D Clinical State Fields with Bidirectional Diffusion Encoders for Zero-Training Cross-Ontology Medical Coding",
-      "url": "https://arxiv.org/abs/2611.30218"
+      "text": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
+      "url": "https://arxiv.org/abs/2611.25146"
+    },
+    {
+      "text": "The Growth Path Is the Missing Half of Neural Networks",
+      "url": "https://arxiv.org/abs/2611.30081"
+    },
+    {
+      "text": "PsyDrift: Healthy-Reference Latent Diffusion for Anomaly Scoring in Autism Spectrum Disorder",
+      "url": "https://arxiv.org/abs/2611.30050"
+    },
+    {
+      "text": "Training Dynamics of Large State-Transition Models",
+      "url": "https://arxiv.org/abs/2611.30005"
+    },
+    {
+      "text": "Tracing Attacker Diversity Reduction in Adaptive LLM Red Teaming",
+      "url": "https://arxiv.org/abs/2611.29960"
     },
     {
       "text": "FP-Prune: Rethinking Visual Token Pruning from an Information Gain Perspective",
       "url": "https://arxiv.org/abs/2611.29327"
     },
     {
-      "text": "Ego-HMB: Human Motion Bridging from Egocentric Images via A Motion Bridge Diffusion Model",
-      "url": "https://arxiv.org/abs/2611.29218"
+      "text": "Every IVUS Frame in Its Place: A Zero-Install Browser Tool for Registering Intravascular Ultrasound to the Coronary Angiogram, and a Path to Angiography-Only Plaque Imaging",
+      "url": "https://arxiv.org/abs/2611.28089"
     },
     {
-      "text": "Interaction Retention and Output-Likelihood Training in Parallel Sampling",
-      "url": "https://arxiv.org/abs/2611.28858"
-    },
-    {
-      "text": "Spatial Ensemble Logic for Biomedical Imaging: Geometric Element Ensembles in Euclidean Space",
-      "url": "https://arxiv.org/abs/2611.29105"
-    },
-    {
-      "text": "PhyMind: Physics-Informed Masked Autoencoding for EEG Foundation Models",
-      "url": "https://arxiv.org/abs/2611.28856"
-    },
-    {
-      "text": "TesseraFlow: Scalable Video Diffusion for Dynamic Medical Imaging Inverse Problems",
-      "url": "https://arxiv.org/abs/2611.29099"
-    },
-    {
-      "text": "Who Gets Re-ranked When a Clinical Model Gains New Data?",
-      "url": "https://arxiv.org/abs/2611.28968"
+      "text": "When Source-Domain Validation Fails to Transfer: A Staged Study of Hyperparameter Selection",
+      "url": "https://arxiv.org/abs/2611.29846"
     }
   ],
   "rightColumn": [
     {
-      "text": "Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2611.27689"
+      "text": "Personalized Execution Time Optimization for Billion-Scale Scheduled Jobs",
+      "url": "https://arxiv.org/abs/2203.06158"
     },
     {
-      "text": "Automatic Occupational Coding through Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2611.31051"
+      "text": "From Tables to Time: Extending TabPFN-v2 to Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2501.02945"
     },
     {
-      "text": "Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories",
-      "url": "https://arxiv.org/abs/2611.28532"
+      "text": "Supervised Contrastive Learning of Environment-Invariant Representations",
+      "url": "https://arxiv.org/abs/2502.07281"
     },
     {
-      "text": "When and Where to Transfer: Learning Transferable Historical Contexts for Short-History Multivariate Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2611.28567"
+      "text": "A Closed-Form Temporal Readout for Surgical Triplet Recognition",
+      "url": "https://arxiv.org/abs/2611.28240"
     },
     {
-      "text": "Shoonya: Zero-Socket In-Process Small Language Models for Graph Databases with Schema-Epoch KV Caching, Live Catalog Logit Masking, and Verifier-Advantage Distillation",
-      "url": "https://arxiv.org/abs/2611.28502"
+      "text": "Video-as-Weights: Compiling a Video Once into Parametric and Token Memory",
+      "url": "https://arxiv.org/abs/2611.28221"
     },
     {
-      "text": "Seeing Is Locating: Spatial Awareness and Geographic Bias in Decision Language Models",
-      "url": "https://arxiv.org/abs/2611.30564"
+      "text": "Decision models for UAVBench and the viability of edge deployment",
+      "url": "https://arxiv.org/abs/2611.28331"
     },
     {
-      "text": "CyberDualEval: Measuring Dual-Use Cyber Risks in Frontier Language Models",
-      "url": "https://arxiv.org/abs/2611.30533"
+      "text": "Urban State Representation for Autonomous Mobility: A Survey of Multimodal Perception, Architectures, Datasets, and Benchmarks",
+      "url": "https://arxiv.org/abs/2611.28129"
     },
     {
-      "text": "PackLoop: Row-Packed Self-Speculative Decoding for Looped Language Models under Concurrency",
-      "url": "https://arxiv.org/abs/2611.30205"
+      "text": "Tangent incompleteness under coupled image transformations: margin reconstruction and decision consequences",
+      "url": "https://arxiv.org/abs/2611.28110"
     }
   ],
-  "lastUpdated": "2026-11-24T21:30:55Z"
+  "lastUpdated": "2026-11-25T00:43:22Z"
 }
