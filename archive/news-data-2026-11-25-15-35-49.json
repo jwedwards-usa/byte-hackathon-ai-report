@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "The End of Mathematics and the Last Man",
+    "url": "https://www.lesswrong.com/posts/yPTsRekjycoFhqszr/the-end-of-mathematics-and-the-last-man"
+  },
+  "topStories": [
+    {
+      "text": "Effective Giving in Politics: Spending Better for AI Safety",
+      "url": "https://www.lesswrong.com/posts/eBfuqL3YQfeM6cBEs/effective-giving-in-politics-spending-better-for-ai-safety"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "OpenAI says its GPT-6 models can design proteins — and lab tests back some of it up",
+      "url": "https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans",
+      "url": "https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/"
+    },
+    {
+      "text": "How the AI Village Agents Learned to Tag Each Other",
+      "url": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other"
+    },
+    {
+      "text": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods ",
+      "url": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "  Can you give AI agents live data without rebuilding your data stack?",
+      "url": "https://venturebeat.com/data/can-you-give-ai-agents-live-data-without-rebuilding-your-data-stack",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5mJS1X98bn0Ac3ogL4V0G0/f40379c1eb94b4a36c2cc816b1307a8e/Gemini_Generated_Image_z9wap0z9wap0z9wa.jpeg?w=1200\u0026q=80",
+        "alt": "  Can you give AI agents live data without rebuilding your data stack?",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
+      "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
+    },
+    {
+      "text": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
+    },
+    {
+      "text": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Demystifying Prompt Stealing Attacks against Synthetic Video",
+      "url": "https://arxiv.org/abs/2611.00102"
+    },
+    {
+      "text": "When Ink Meets Pixel: Intent-Aware OCR with VLMs for Human-Corrected Financial Documents When Ink Meets Pixel: Intent-Aware OCR with VLMs for Human-Corrected Financial Documents",
+      "url": "https://arxiv.org/abs/2611.32446"
+    },
+    {
+      "text": "When Variance Is Not an Error Map: Calibrated Uncertainty for Radiative Gaussian Splatting in Sparse-View CT",
+      "url": "https://arxiv.org/abs/2607.13682"
+    },
+    {
+      "text": "BREAKING THE JOINT ACTION SPACE DEPENDENCE IN DISTRIBUTIONALLY ROBUST MULTI-AGENT REINFORCEMENT LEARNING",
+      "url": "https://arxiv.org/abs/2611.32812"
+    },
+    {
+      "text": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "url": "https://arxiv.org/abs/2611.33153"
+    },
+    {
+      "text": "MargEmbed-Akan: Bridging Twi Questions and English Knowledge through Cross-Lingual Score Distillation",
+      "url": "https://arxiv.org/abs/2611.32630"
+    },
+    {
+      "text": "SWE-Proof: Can Language Models Resolve Real-World Issues with Machine-Checked Proofs?",
+      "url": "https://arxiv.org/abs/2609.21190"
+    },
+    {
+      "text": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
+      "url": "https://arxiv.org/abs/2611.33135"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Write Facts the Way Models Read Them: Lifting the Two-Hop Curse",
+      "url": "https://arxiv.org/abs/2611.01519"
+    },
+    {
+      "text": "Confidence-Aware Speed-over-Ground Estimation from Doppler Spectra via Reconstruction-Based Representation Learning",
+      "url": "https://arxiv.org/abs/2610.40253"
+    },
+    {
+      "text": "Find the Fungible: Variable-Resolution Tokenization that Compacts Semantics with a Granularity Dial as a VLM \"Catalyst\"",
+      "url": "https://arxiv.org/abs/2610.18690"
+    },
+    {
+      "text": "CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use",
+      "url": "https://arxiv.org/abs/2610.09127"
+    },
+    {
+      "text": "Agentic Systems Need Multi-Run Evaluation: A Study of Retrieval and Response Variability in a Deployed Enterprise RAG System",
+      "url": "https://arxiv.org/abs/2611.31266"
+    },
+    {
+      "text": "ToneMamaba: Learning Contextualized Tonal Contours with Boundary-Reset State Space Models",
+      "url": "https://arxiv.org/abs/2611.31267"
+    },
+    {
+      "text": "Lexical Tone and Word Order Matter in Translation: Prosodic Correspondence Across Languages",
+      "url": "https://arxiv.org/abs/2611.31276"
+    },
+    {
+      "text": "Using the Whole Slice: AlphaFold2 Inference on an Eight-Chip TPU v5e",
+      "url": "https://arxiv.org/abs/2609.34818"
+    }
+  ],
+  "lastUpdated": "2026-11-25T15:35:49Z"
+}
