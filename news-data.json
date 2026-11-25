@@ -9,42 +9,42 @@
       "url": "https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/"
     },
     {
-      "text": "How the AI Village Agents Learned to Tag Each Other",
-      "url": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other"
+      "text": "A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans",
+      "url": "https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/"
     },
     {
-      "text": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods ",
-      "url": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and"
+      "text": "How the AI Village Agents Learned to Tag Each Other",
+      "url": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other"
     }
   ],
   "leftColumn": [
+    {
+      "text": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods ",
+      "url": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and"
+    },
     {
       "text": "Three LLM inflection points in twelve months",
       "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
     },
     {
-      "text": "Modelling Billingual Learning Through LLM Training: A Critical-Period Exploration",
-      "url": "https://arxiv.org/abs/2611.32997"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
-      "url": "https://arxiv.org/abs/2611.31977"
-    },
-    {
-      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
-      "url": "https://arxiv.org/abs/2611.33031"
-    },
-    {
-      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
-      "url": "https://arxiv.org/abs/2611.22113"
+      "text": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
     },
     {
       "text": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
       "url": "https://arxiv.org/abs/2611.31094"
     },
     {
-      "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
-      "url": "https://arxiv.org/abs/2611.32041"
+      "text": "Structure-Aware Transformers for Hierarchical Authorization in Personal AI Agents",
+      "url": "https://arxiv.org/abs/2611.32018"
+    },
+    {
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
     },
     {
       "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
@@ -53,71 +53,71 @@
   ],
   "centerColumn": [
     {
-      "text": "Compressible Representations: Functional Spines in Deep Neural Networks",
-      "url": "https://arxiv.org/abs/2611.31817"
+      "text": "Reading, Writing and Repairing Game-Theoretic Policies in Weight Space",
+      "url": "https://arxiv.org/abs/2611.31979"
     },
     {
-      "text": "A Generative AI Agent to Emulate Interactive Human-driven Vehicles for Automated Driving Testing in Urban Areas",
-      "url": "https://arxiv.org/abs/2611.31797"
+      "text": "Machine learning enables full Bayesian inference for spinning extreme-mass-ratio inspirals",
+      "url": "https://arxiv.org/abs/2611.31916"
     },
     {
-      "text": "FN-Prune: Training-Free Expert Pruning with Finite RMSNorm Perturbations",
-      "url": "https://arxiv.org/abs/2611.31747"
+      "text": "Two-Stage Post-Training for Flow-Based Embodied Foundation Models",
+      "url": "https://arxiv.org/abs/2611.31850"
     },
     {
-      "text": "LimoBench: How Street Smart Are Large Language Models?",
-      "url": "https://arxiv.org/abs/2611.31682"
+      "text": "Agentic Discovery of Soundness Bugs in Safe Rust Bindings",
+      "url": "https://arxiv.org/abs/2611.31813"
     },
     {
-      "text": "When Variance Is Not an Error Map: Calibrated Uncertainty for Radiative Gaussian Splatting in Sparse-View CT",
-      "url": "https://arxiv.org/abs/2607.13682"
+      "text": "TopoCryptoEEG: End-to-End Encrypted Framework for Brainprint Authentication",
+      "url": "https://arxiv.org/abs/2611.31801"
     },
     {
-      "text": "Label leakage through file headers: geometry and batch confounds in public mammography datasets, and a pre-training acceptance gate",
-      "url": "https://arxiv.org/abs/2611.32899"
+      "text": "LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.22728"
     },
     {
-      "text": "Stranded Compute in AI Inference Workloads: Recovering Value Through Demand Aggregation",
-      "url": "https://arxiv.org/abs/2611.31654"
+      "text": "Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explanations for Geospatial Machine Learning",
+      "url": "https://arxiv.org/abs/2611.31731"
     },
     {
-      "text": "Constructing physical mechanisms with artificial intelligence",
-      "url": "https://arxiv.org/abs/2611.31653"
+      "text": "Provenance Loss and Repair in Multilingual Compaction",
+      "url": "https://arxiv.org/abs/2611.31668"
     }
   ],
   "rightColumn": [
     {
-      "text": "VMSA: Video Memory Skill Agent for Long Video Understanding",
-      "url": "https://arxiv.org/abs/2611.27381"
+      "text": "Speak or Stay Silent: Context-Aware Turn-Taking in Multi-Party Dialogue",
+      "url": "https://arxiv.org/abs/2603.11409"
     },
     {
-      "text": "Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios",
-      "url": "https://arxiv.org/abs/2611.31249"
+      "text": "A Piecewise-Linear Activation Function for Implicit Neural Representations",
+      "url": "https://arxiv.org/abs/2611.31666"
     },
     {
-      "text": "Support Topology and Gradient Mixing in Sinkhorn Layers",
-      "url": "https://arxiv.org/abs/2609.07954"
+      "text": "Reading Between the Layers: Where Representation Quality Lives, and What Geometry Reveals",
+      "url": "https://arxiv.org/abs/2611.31496"
     },
     {
-      "text": "Conformalized Tree-Based Gradient Ensembles for Out-of-Distribution Detection and Plausible Recourse",
-      "url": "https://arxiv.org/abs/2611.31319"
+      "text": "Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Distribution Shift",
+      "url": "https://arxiv.org/abs/2602.14913"
     },
     {
-      "text": "Using the Whole Slice: AlphaFold2 Inference on an Eight-Chip TPU v5e",
-      "url": "https://arxiv.org/abs/2609.34818"
+      "text": "Tablassert: Declarative Extraction of Knowledge Graphs from Biomedical Tables",
+      "url": "https://arxiv.org/abs/2611.31614"
     },
     {
-      "text": "Best Arm Identification with Unknown Post-Action Context Distribution",
-      "url": "https://arxiv.org/abs/2611.33024"
+      "text": "Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2611.31954"
     },
     {
-      "text": "Grounding Language Models in Revealed Audience Behavior",
-      "url": "https://arxiv.org/abs/2611.31999"
+      "text": "MMGenBench: An Automated Pipeline for Evaluating LMMs from a Text-to-Image Generation Perspective",
+      "url": "https://arxiv.org/abs/2411.14062"
     },
     {
-      "text": "MADJEPA: Enhanced Multi-Stage Joint-Embedding Predictive Architecture for Medical Anomaly Detection",
-      "url": "https://arxiv.org/abs/2611.25194"
+      "text": "GHC:Expanding Residual Interfaces in Hyper-Connections",
+      "url": "https://arxiv.org/abs/2611.31350"
     }
   ],
-  "lastUpdated": "2026-11-25T09:27:58Z"
+  "lastUpdated": "2026-11-25T12:36:21Z"
 }
