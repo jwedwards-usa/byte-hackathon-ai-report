@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI safety grassroots work needs funding and volunteers",
+    "url": "https://www.lesswrong.com/posts/MAiAapN7CWZpQcfmz/ai-safety-grassroots-work-needs-funding-and-volunteers"
+  },
+  "topStories": [
+    {
+      "text": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+      "url": "https://www.lesswrong.com/posts/ENdfwPYrhLrAP8znD/claude-and-levent-alpoege-prove-the-riemann-hypothesis"
+    },
+    {
+      "text": "Effective Giving in Politics: Spending Better for AI Safety",
+      "url": "https://www.lesswrong.com/posts/eBfuqL3YQfeM6cBEs/effective-giving-in-politics-spending-better-for-ai-safety"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI says its GPT-6 models can design proteins — and lab tests back some of it up",
+      "url": "https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/"
+    },
+    {
+      "text": "OpenAI’s AI maths trove adds claims on a famous unsolved problem",
+      "url": "https://dailyai.com/2026/11/openais-ai-maths-trove-adds-claims-on-a-famous-unsolved-problem/"
+    },
+    {
+      "text": "How the AI Village Agents Learned to Tag Each Other",
+      "url": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other"
+    },
+    {
+      "text": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods ",
+      "url": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
+    },
+    {
+      "text": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+      "url": "https://arxiv.org/abs/2611.31977"
+    },
+    {
+      "text": "Structure-Aware Transformers for Hierarchical Authorization in Personal AI Agents",
+      "url": "https://arxiv.org/abs/2611.32018"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "TopoCryptoEEG: End-to-End Encrypted Framework for Brainprint Authentication",
+      "url": "https://arxiv.org/abs/2611.31801"
+    },
+    {
+      "text": "Chain-of-Thought Is Not Explainability",
+      "url": "https://arxiv.org/abs/2611.31271"
+    },
+    {
+      "text": "A dataset of clinically similar image pairs from citation-linked case reports for medical image retrieval",
+      "url": "https://arxiv.org/abs/2611.31465"
+    },
+    {
+      "text": "Where Agent Defenses Fail: A Case Study of Policy Compositions and Measurement Limits",
+      "url": "https://arxiv.org/abs/2611.31541"
+    },
+    {
+      "text": "Below the Stopwatch: Checking the Performance Claims of Coding Agents in the Kernel",
+      "url": "https://arxiv.org/abs/2611.31460"
+    },
+    {
+      "text": "Evolutionary AI Control: Population-Level Safety Under Reproduction, Heredity, and Selection",
+      "url": "https://arxiv.org/abs/2611.31312"
+    },
+    {
+      "text": "LimoBench: How Street Smart Are Large Language Models?",
+      "url": "https://arxiv.org/abs/2611.31682"
+    },
+    {
+      "text": "Eliciting sandbagged LLM capability via structural interventions on attention-head functional networks",
+      "url": "https://arxiv.org/abs/2611.31615"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Learning from Human Corrections through Temporal Preferences",
+      "url": "https://arxiv.org/abs/2611.31446"
+    },
+    {
+      "text": "Factorized Context Attention: From Emulated to Native Grid Probing",
+      "url": "https://arxiv.org/abs/2611.32423"
+    },
+    {
+      "text": "LatentLens: Rethinking Latent Interface in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.31582"
+    },
+    {
+      "text": "UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding",
+      "url": "https://arxiv.org/abs/2605.04543"
+    },
+    {
+      "text": "How Far Apart Are Two Proofs? Measuring Proof Dissimilarity in a Proof Kernel and in Lean/Mathlib",
+      "url": "https://arxiv.org/abs/2611.31811"
+    },
+    {
+      "text": "Agent Collectives Should Not Detect Their Own Imposters: A Chess Case Study",
+      "url": "https://arxiv.org/abs/2605.09027"
+    },
+    {
+      "text": "Grounding Text Embeddings in Stakeholder Associations",
+      "url": "https://arxiv.org/abs/2605.27168"
+    },
+    {
+      "text": "One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.31588"
+    }
+  ],
+  "lastUpdated": "2026-11-25T21:42:16Z"
+}
