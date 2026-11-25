@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Three LLM inflection points in twelve months",
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+  },
+  "topStories": [
+    {
+      "text": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+      "url": "https://arxiv.org/abs/2611.31977"
+    },
+    {
+      "text": "Structure-Aware Transformers for Hierarchical Authorization in Personal AI Agents",
+      "url": "https://arxiv.org/abs/2611.32018"
+    },
+    {
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+      "url": "https://arxiv.org/abs/2611.31094"
+    },
+    {
+      "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
+      "url": "https://arxiv.org/abs/2611.32041"
+    },
+    {
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
+    },
+    {
+      "text": "From Rule-based to Agentic: LLM Agent based Real-time Control of Urban Drainage Systems for Flooding and Sewer Overflow Mitigation",
+      "url": "https://arxiv.org/abs/2611.32046"
+    },
+    {
+      "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
+      "url": "https://arxiv.org/abs/2611.31884"
+    },
+    {
+      "text": "Modelling Billingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "Hopkins Recent Events in AI Safety and Biosecurity Post-Event Report",
+      "url": "https://www.lesswrong.com/posts/kQeP7Cep4sgLdgYML/hopkins-recent-events-in-ai-safety-and-biosecurity-post"
+    },
+    {
+      "text": "Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems",
+      "url": "https://arxiv.org/abs/2611.33036"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
+      "url": "https://arxiv.org/abs/2611.32649"
+    },
+    {
+      "text": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+      "url": "https://arxiv.org/abs/2611.33111"
+    },
+    {
+      "text": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+      "url": "https://arxiv.org/abs/2611.23211"
+    },
+    {
+      "text": "LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.22728"
+    },
+    {
+      "text": "On the Efficiency of Structured Pruning in Small Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2503.05920"
+    },
+    {
+      "text": "How to build and train your recurrent-depth model: A fixed-point perspective",
+      "url": "https://arxiv.org/abs/2611.31513"
+    },
+    {
+      "text": "When Variance Is Not an Error Map: Calibrated Uncertainty for Radiative Gaussian Splatting in Sparse-View CT",
+      "url": "https://arxiv.org/abs/2607.13682"
+    },
+    {
+      "text": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "url": "https://arxiv.org/abs/2611.33153"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Reinforcement Learning Can Be Recovered From Its Own Rollouts",
+      "url": "https://arxiv.org/abs/2611.33102"
+    },
+    {
+      "text": "ReJEPA: Bounded Predictive Regulation for Latent World Models",
+      "url": "https://arxiv.org/abs/2611.31910"
+    },
+    {
+      "text": "Directly Maximizing On-policy Expected Accepted Length for Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.31256"
+    },
+    {
+      "text": "OrangeTree: A Linear and Tree-based Time Series Forecasting Model Supporting Multiple Input and Output Lengths",
+      "url": "https://arxiv.org/abs/2611.31905"
+    },
+    {
+      "text": "MIFLOW: Dynamic Recent-Behavior Priors for Reference-Calibrated Online Flow-Policy Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.31902"
+    },
+    {
+      "text": "Harnessing Dephasing for Quantum Reservoir Computing with a Minimum Complexity Architecture: Applications to Nonlinear Time-Series Prediction",
+      "url": "https://arxiv.org/abs/2611.26762"
+    },
+    {
+      "text": "Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds",
+      "url": "https://arxiv.org/abs/2611.31856"
+    },
+    {
+      "text": "When Should Decision Models Compare Candidates?",
+      "url": "https://arxiv.org/abs/2611.20335"
+    }
+  ],
+  "lastUpdated": "2026-11-25T06:33:18Z"
+}

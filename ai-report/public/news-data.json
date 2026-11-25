@@ -5,119 +5,119 @@
   },
   "topStories": [
     {
-      "text": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
-      "url": "https://www.lesswrong.com/posts/GrARsuPjWQL92hfxw/jensen-huang-reinstated-as-nvidia-ceo-at-behest-of-president"
+      "text": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+      "url": "https://arxiv.org/abs/2611.31977"
     },
     {
-      "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
-      "url": "https://arxiv.org/abs/2611.29151"
+      "text": "Structure-Aware Transformers for Hierarchical Authorization in Personal AI Agents",
+      "url": "https://arxiv.org/abs/2611.32018"
     },
     {
-      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
-      "url": "https://arxiv.org/abs/2611.29859"
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
     }
   ],
   "leftColumn": [
-    {
-      "text": "Levent is my favorite gender role",
-      "url": "https://www.lesswrong.com/posts/LrWJeEDCriLmAgFXr/levent-is-my-favorite-gender-role"
-    },
-    {
-      "text": "Open Weight Models are not the immediate problem ",
-      "url": "https://www.lesswrong.com/posts/jA4amFWxznNHFC3ZG/open-weight-models-are-not-the-immediate-problem"
-    },
-    {
-      "text": "Frontier models need only one text to unmask its human or AI author",
-      "url": "https://arxiv.org/abs/2611.26216"
-    },
-    {
-      "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
-      "url": "https://arxiv.org/abs/2611.28153"
-    },
-    {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut is Available\n",
-      "url": "https://www.lesswrong.com/posts/rXixzzScjLrnNZ4vo/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is"
-    },
     {
       "text": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
       "url": "https://arxiv.org/abs/2611.31094"
     },
     {
-      "text": "GTBench: A Curriculum-Grounded Benchmark for Evaluating LLMs as Mathematical Research Assistants in Graph Theory",
-      "url": "https://arxiv.org/abs/2606.03144"
+      "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
+      "url": "https://arxiv.org/abs/2611.32041"
+    },
+    {
+      "text": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113"
+    },
+    {
+      "text": "From Rule-based to Agentic: LLM Agent based Real-time Control of Urban Drainage Systems for Flooding and Sewer Overflow Mitigation",
+      "url": "https://arxiv.org/abs/2611.32046"
+    },
+    {
+      "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
+      "url": "https://arxiv.org/abs/2611.31884"
+    },
+    {
+      "text": "Modelling Billingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "Hopkins Recent Events in AI Safety and Biosecurity Post-Event Report",
+      "url": "https://www.lesswrong.com/posts/kQeP7Cep4sgLdgYML/hopkins-recent-events-in-ai-safety-and-biosecurity-post"
+    },
+    {
+      "text": "Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems",
+      "url": "https://arxiv.org/abs/2611.33036"
     }
   ],
   "centerColumn": [
     {
-      "text": "Parameter-Efficient Vocabulary Expansion via Cross-Lingual Embedding Alignment",
-      "url": "https://arxiv.org/abs/2611.30123"
+      "text": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
+      "url": "https://arxiv.org/abs/2611.32649"
     },
     {
-      "text": "A generative framework for unified representations bridging electrophysiological and haemodynamic brain activity",
-      "url": "https://arxiv.org/abs/2611.28507"
+      "text": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+      "url": "https://arxiv.org/abs/2611.33111"
     },
     {
-      "text": "LAF-ECG: Multi-Resolution Lead-Aware Fusion of Time-Series and Language Foundation Models for ECG Classification",
-      "url": "https://arxiv.org/abs/2611.29721"
+      "text": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+      "url": "https://arxiv.org/abs/2611.23211"
     },
     {
-      "text": "Improving the Improver: Semantic PID Control for Medical Agent Self-Improvement",
-      "url": "https://arxiv.org/abs/2611.28680"
+      "text": "LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.22728"
     },
     {
-      "text": "Predicting Inference-Time Scaling Gains from Labeled Validation-Set Output Statistics",
-      "url": "https://arxiv.org/abs/2606.02981"
+      "text": "On the Efficiency of Structured Pruning in Small Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2503.05920"
     },
     {
-      "text": "Counting Under Disagreement: Dollar-Weighted Measurement, Selective Machine Labelling and Budgeted Human Review from Disagreeing AI Readers of Administrative Text",
-      "url": "https://arxiv.org/abs/2611.13215"
+      "text": "How to build and train your recurrent-depth model: A fixed-point perspective",
+      "url": "https://arxiv.org/abs/2611.31513"
     },
     {
-      "text": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
-      "url": "https://arxiv.org/abs/2606.05557"
+      "text": "When Variance Is Not an Error Map: Calibrated Uncertainty for Radiative Gaussian Splatting in Sparse-View CT",
+      "url": "https://arxiv.org/abs/2607.13682"
     },
     {
-      "text": "When Simpler Beats Learned: Dual-Weighted Sampling vs. Machine Learning for the Pricing Subproblem in Graph Coloring",
-      "url": "https://arxiv.org/abs/2611.29769"
+      "text": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "url": "https://arxiv.org/abs/2611.33153"
     }
   ],
   "rightColumn": [
     {
-      "text": "Modeling Perceived Promptness in Simultaneous Interpreting from Quality, Structure, and Timing Signals",
-      "url": "https://arxiv.org/abs/2611.28566"
+      "text": "Reinforcement Learning Can Be Recovered From Its Own Rollouts",
+      "url": "https://arxiv.org/abs/2611.33102"
     },
     {
-      "text": "Attacking Tabular Foundation Models: An Experimental Taxonomy of Context Poisoning and Test-Time Evasion",
-      "url": "https://arxiv.org/abs/2611.29627"
+      "text": "ReJEPA: Bounded Predictive Regulation for Latent World Models",
+      "url": "https://arxiv.org/abs/2611.31910"
     },
     {
-      "text": "When Simpler Is Better: Evaluating Translation Pipelines for Medieval Latin Manuscripts",
-      "url": "https://arxiv.org/abs/2607.03836"
+      "text": "Directly Maximizing On-policy Expected Accepted Length for Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.31256"
     },
     {
-      "text": "One Checkpoint, Four Converters: Per Input Disagreement After On Device Conversion and a Probe Set That Catches It",
-      "url": "https://arxiv.org/abs/2611.29661"
+      "text": "OrangeTree: A Linear and Tree-based Time Series Forecasting Model Supporting Multiple Input and Output Lengths",
+      "url": "https://arxiv.org/abs/2611.31905"
     },
     {
-      "text": "MESA: Prioritizing Security-Critical Communication Channels in Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2606.30602"
+      "text": "MIFLOW: Dynamic Recent-Behavior Priors for Reference-Calibrated Online Flow-Policy Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.31902"
     },
     {
-      "text": "Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning",
-      "url": "https://arxiv.org/abs/2606.27095"
+      "text": "Harnessing Dephasing for Quantum Reservoir Computing with a Minimum Complexity Architecture: Applications to Nonlinear Time-Series Prediction",
+      "url": "https://arxiv.org/abs/2611.26762"
     },
     {
-      "text": "When to Commit and When to Defer: Maturing Markov Decision Processes under Refining Information and Expiring Opportunities",
-      "url": "https://arxiv.org/abs/2606.18820"
+      "text": "Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds",
+      "url": "https://arxiv.org/abs/2611.31856"
     },
     {
-      "text": "Entropy-Gated Latent Recursion",
-      "url": "https://arxiv.org/abs/2606.16620"
+      "text": "When Should Decision Models Compare Candidates?",
+      "url": "https://arxiv.org/abs/2611.20335"
     }
   ],
-  "lastUpdated": "2026-11-25T03:34:55Z"
+  "lastUpdated": "2026-11-25T06:33:18Z"
 }
