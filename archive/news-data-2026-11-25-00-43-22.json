@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Three LLM inflection points in twelve months",
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+  },
+  "topStories": [
+    {
+      "text": "AI research agents crowd onto the same projects, and how to spread them out",
+      "url": "https://www.lesswrong.com/posts/4TpjkdL5Fed3vBioC/ai-research-agents-crowd-onto-the-same-projects-and-how-to"
+    },
+    {
+      "text": "Levent is my favorite gender role",
+      "url": "https://www.lesswrong.com/posts/LrWJeEDCriLmAgFXr/levent-is-my-favorite-gender-role"
+    },
+    {
+      "text": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
+      "url": "https://www.lesswrong.com/posts/GrARsuPjWQL92hfxw/jensen-huang-reinstated-as-nvidia-ceo-at-behest-of-president"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
+      "url": "https://arxiv.org/abs/2611.29151"
+    },
+    {
+      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
+      "url": "https://arxiv.org/abs/2611.29859"
+    },
+    {
+      "text": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut is Available\n",
+      "url": "https://www.lesswrong.com/posts/rXixzzScjLrnNZ4vo/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is"
+    },
+    {
+      "text": "How do I meet people?",
+      "url": "https://www.lesswrong.com/posts/WzyKeYnCSAGv2kT85/how-do-i-meet-people"
+    },
+    {
+      "text": "Open Weight Models are not the immediate problem ",
+      "url": "https://www.lesswrong.com/posts/jA4amFWxznNHFC3ZG/open-weight-models-are-not-the-immediate-problem"
+    },
+    {
+      "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
+      "url": "https://arxiv.org/abs/2611.28153"
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
+      "url": "https://arxiv.org/abs/2611.25146"
+    },
+    {
+      "text": "The Growth Path Is the Missing Half of Neural Networks",
+      "url": "https://arxiv.org/abs/2611.30081"
+    },
+    {
+      "text": "PsyDrift: Healthy-Reference Latent Diffusion for Anomaly Scoring in Autism Spectrum Disorder",
+      "url": "https://arxiv.org/abs/2611.30050"
+    },
+    {
+      "text": "Training Dynamics of Large State-Transition Models",
+      "url": "https://arxiv.org/abs/2611.30005"
+    },
+    {
+      "text": "Tracing Attacker Diversity Reduction in Adaptive LLM Red Teaming",
+      "url": "https://arxiv.org/abs/2611.29960"
+    },
+    {
+      "text": "FP-Prune: Rethinking Visual Token Pruning from an Information Gain Perspective",
+      "url": "https://arxiv.org/abs/2611.29327"
+    },
+    {
+      "text": "Every IVUS Frame in Its Place: A Zero-Install Browser Tool for Registering Intravascular Ultrasound to the Coronary Angiogram, and a Path to Angiography-Only Plaque Imaging",
+      "url": "https://arxiv.org/abs/2611.28089"
+    },
+    {
+      "text": "When Source-Domain Validation Fails to Transfer: A Staged Study of Hyperparameter Selection",
+      "url": "https://arxiv.org/abs/2611.29846"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Personalized Execution Time Optimization for Billion-Scale Scheduled Jobs",
+      "url": "https://arxiv.org/abs/2203.06158"
+    },
+    {
+      "text": "From Tables to Time: Extending TabPFN-v2 to Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2501.02945"
+    },
+    {
+      "text": "Supervised Contrastive Learning of Environment-Invariant Representations",
+      "url": "https://arxiv.org/abs/2502.07281"
+    },
+    {
+      "text": "A Closed-Form Temporal Readout for Surgical Triplet Recognition",
+      "url": "https://arxiv.org/abs/2611.28240"
+    },
+    {
+      "text": "Video-as-Weights: Compiling a Video Once into Parametric and Token Memory",
+      "url": "https://arxiv.org/abs/2611.28221"
+    },
+    {
+      "text": "Decision models for UAVBench and the viability of edge deployment",
+      "url": "https://arxiv.org/abs/2611.28331"
+    },
+    {
+      "text": "Urban State Representation for Autonomous Mobility: A Survey of Multimodal Perception, Architectures, Datasets, and Benchmarks",
+      "url": "https://arxiv.org/abs/2611.28129"
+    },
+    {
+      "text": "Tangent incompleteness under coupled image transformations: margin reconstruction and decision consequences",
+      "url": "https://arxiv.org/abs/2611.28110"
+    }
+  ],
+  "lastUpdated": "2026-11-25T00:43:22Z"
+}
