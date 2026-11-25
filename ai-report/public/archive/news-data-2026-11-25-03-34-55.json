@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Three LLM inflection points in twelve months",
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+  },
+  "topStories": [
+    {
+      "text": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
+      "url": "https://www.lesswrong.com/posts/GrARsuPjWQL92hfxw/jensen-huang-reinstated-as-nvidia-ceo-at-behest-of-president"
+    },
+    {
+      "text": "Medical Specialty Prediction from Bangla Patient Narratives: A Comparative Study of ML, DL, Transformers, and LLMs",
+      "url": "https://arxiv.org/abs/2611.29151"
+    },
+    {
+      "text": "Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions",
+      "url": "https://arxiv.org/abs/2611.29859"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Levent is my favorite gender role",
+      "url": "https://www.lesswrong.com/posts/LrWJeEDCriLmAgFXr/levent-is-my-favorite-gender-role"
+    },
+    {
+      "text": "Open Weight Models are not the immediate problem ",
+      "url": "https://www.lesswrong.com/posts/jA4amFWxznNHFC3ZG/open-weight-models-are-not-the-immediate-problem"
+    },
+    {
+      "text": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://arxiv.org/abs/2611.26216"
+    },
+    {
+      "text": "From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair",
+      "url": "https://arxiv.org/abs/2611.28153"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut is Available\n",
+      "url": "https://www.lesswrong.com/posts/rXixzzScjLrnNZ4vo/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is"
+    },
+    {
+      "text": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+      "url": "https://arxiv.org/abs/2611.31094"
+    },
+    {
+      "text": "GTBench: A Curriculum-Grounded Benchmark for Evaluating LLMs as Mathematical Research Assistants in Graph Theory",
+      "url": "https://arxiv.org/abs/2606.03144"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Parameter-Efficient Vocabulary Expansion via Cross-Lingual Embedding Alignment",
+      "url": "https://arxiv.org/abs/2611.30123"
+    },
+    {
+      "text": "A generative framework for unified representations bridging electrophysiological and haemodynamic brain activity",
+      "url": "https://arxiv.org/abs/2611.28507"
+    },
+    {
+      "text": "LAF-ECG: Multi-Resolution Lead-Aware Fusion of Time-Series and Language Foundation Models for ECG Classification",
+      "url": "https://arxiv.org/abs/2611.29721"
+    },
+    {
+      "text": "Improving the Improver: Semantic PID Control for Medical Agent Self-Improvement",
+      "url": "https://arxiv.org/abs/2611.28680"
+    },
+    {
+      "text": "Predicting Inference-Time Scaling Gains from Labeled Validation-Set Output Statistics",
+      "url": "https://arxiv.org/abs/2606.02981"
+    },
+    {
+      "text": "Counting Under Disagreement: Dollar-Weighted Measurement, Selective Machine Labelling and Budgeted Human Review from Disagreeing AI Readers of Administrative Text",
+      "url": "https://arxiv.org/abs/2611.13215"
+    },
+    {
+      "text": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
+      "url": "https://arxiv.org/abs/2606.05557"
+    },
+    {
+      "text": "When Simpler Beats Learned: Dual-Weighted Sampling vs. Machine Learning for the Pricing Subproblem in Graph Coloring",
+      "url": "https://arxiv.org/abs/2611.29769"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Modeling Perceived Promptness in Simultaneous Interpreting from Quality, Structure, and Timing Signals",
+      "url": "https://arxiv.org/abs/2611.28566"
+    },
+    {
+      "text": "Attacking Tabular Foundation Models: An Experimental Taxonomy of Context Poisoning and Test-Time Evasion",
+      "url": "https://arxiv.org/abs/2611.29627"
+    },
+    {
+      "text": "When Simpler Is Better: Evaluating Translation Pipelines for Medieval Latin Manuscripts",
+      "url": "https://arxiv.org/abs/2607.03836"
+    },
+    {
+      "text": "One Checkpoint, Four Converters: Per Input Disagreement After On Device Conversion and a Probe Set That Catches It",
+      "url": "https://arxiv.org/abs/2611.29661"
+    },
+    {
+      "text": "MESA: Prioritizing Security-Critical Communication Channels in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.30602"
+    },
+    {
+      "text": "Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning",
+      "url": "https://arxiv.org/abs/2606.27095"
+    },
+    {
+      "text": "When to Commit and When to Defer: Maturing Markov Decision Processes under Refining Information and Expiring Opportunities",
+      "url": "https://arxiv.org/abs/2606.18820"
+    },
+    {
+      "text": "Entropy-Gated Latent Recursion",
+      "url": "https://arxiv.org/abs/2606.16620"
+    }
+  ],
+  "lastUpdated": "2026-11-25T03:34:55Z"
+}
