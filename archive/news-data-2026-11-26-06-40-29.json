@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Open questions in AI safety grantmaking",
+    "url": "https://www.lesswrong.com/posts/hFfaqR5xJRQEAcipP/open-questions-in-ai-safety-grantmaking"
+  },
+  "topStories": [
+    {
+      "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
+      "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+      "url": "https://arxiv.org/abs/2611.33454"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
+      "url": "https://arxiv.org/abs/2611.33407"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    },
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid",
+      "url": "https://arxiv.org/abs/2611.33828"
+    },
+    {
+      "text": "Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning",
+      "url": "https://arxiv.org/abs/2611.33749"
+    },
+    {
+      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "url": "https://arxiv.org/abs/2611.34035"
+    },
+    {
+      "text": "How to Enhance Downstream Adversarial Robustness (almost) without Touching the Pre-Trained Foundation Model?",
+      "url": "https://arxiv.org/abs/2504.10850"
+    },
+    {
+      "text": "Escaping Latent Traps by Remembering: Training-Free Episodic Kernel Repulsion for World-Model Planning",
+      "url": "https://arxiv.org/abs/2611.22470"
+    },
+    {
+      "text": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
+      "url": "https://arxiv.org/abs/2611.34222"
+    },
+    {
+      "text": "Lightweight Reasoning Transfer via Chain-of-Thought Vector Projection",
+      "url": "https://arxiv.org/abs/2611.34183"
+    },
+    {
+      "text": "Fine-Grained Instruction-Guided Graph Reasoning for Vision-and-Language Navigation",
+      "url": "https://arxiv.org/abs/2503.11006"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "An Information-Theoretic Analysis of Information Hiding in Semantic Communication",
+      "url": "https://arxiv.org/abs/2611.34550"
+    },
+    {
+      "text": "Not Every Input Needs Everything: Unifying Expert Gating, Model Cascades, and Agent Orchestration",
+      "url": "https://arxiv.org/abs/2611.34112"
+    },
+    {
+      "text": "Cell-Type-Specific Expression Is Hard to Predict from Bulk, but It Is Still Useful",
+      "url": "https://arxiv.org/abs/2611.34166"
+    },
+    {
+      "text": "Text-Conditioned Low-Rank Adaptation of Time-Series Foundation Models for Multimodal Forecasting",
+      "url": "https://arxiv.org/abs/2611.34206"
+    },
+    {
+      "text": "Compute-Aware Submodular Online Learning in Open Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.34211"
+    },
+    {
+      "text": "Change Point Detection with Generative Models",
+      "url": "https://arxiv.org/abs/2611.34228"
+    },
+    {
+      "text": "ConceptARC at Scale: Studying Conceptual Understanding in Reasoning Models",
+      "url": "https://arxiv.org/abs/2611.06732"
+    },
+    {
+      "text": "High-Order Gaussian Approximation of Besov Functions on Manifolds",
+      "url": "https://arxiv.org/abs/2610.27022"
+    }
+  ],
+  "lastUpdated": "2026-11-26T06:40:29Z"
+}
