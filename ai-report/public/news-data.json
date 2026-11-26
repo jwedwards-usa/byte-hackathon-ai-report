@@ -1,12 +1,30 @@
 {
   "mainHeadline": {
-    "text": "Open questions in AI safety grantmaking",
-    "url": "https://www.lesswrong.com/posts/hFfaqR5xJRQEAcipP/open-questions-in-ai-safety-grantmaking"
+    "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
+    "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
   },
   "topStories": [
     {
-      "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
-      "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
+      "text": "Open questions in AI safety grantmaking",
+      "url": "https://www.lesswrong.com/posts/hFfaqR5xJRQEAcipP/open-questions-in-ai-safety-grantmaking"
+    },
+    {
+      "text": "Operationalizing a pre-training R\u0026D pause",
+      "url": "https://www.lesswrong.com/posts/PPzdxdADERWTmHKuG/operationalizing-a-pre-training-r-and-d-pause"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Recursive Self Alignment: The Model is the Estimator",
+      "url": "https://www.lesswrong.com/posts/qvy8Tvhzg2PgfvHcs/recursive-self-alignment-the-model-is-the-estimator"
+    },
+    {
+      "text": "Paths to extreme power concentration",
+      "url": "https://www.lesswrong.com/posts/JgbQZ5xoi9qm2mWza/paths-to-extreme-power-concentration"
     },
     {
       "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
@@ -15,109 +33,91 @@
     {
       "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
       "url": "https://arxiv.org/abs/2611.34781"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
       "url": "https://arxiv.org/abs/2611.33339"
     },
     {
-      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
-      "url": "https://arxiv.org/abs/2611.32997"
+      "text": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+      "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
     },
     {
-      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
-      "url": "https://arxiv.org/abs/2601.12095"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
-      "url": "https://arxiv.org/abs/2611.33966"
-    },
-    {
-      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
-      "url": "https://arxiv.org/abs/2608.07437"
-    },
-    {
-      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "url": "https://arxiv.org/abs/2611.33161"
-    },
-    {
-      "text": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
-      "url": "https://arxiv.org/abs/2611.33407"
-    },
-    {
-      "text": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
-      "url": "https://arxiv.org/abs/2611.33454"
+      "text": "At least 25 court cases in England and Wales hit by undisclosed AI use",
+      "url": "https://dailyai.com/2026/11/uk-courts-undisclosed-ai-25-cases/"
     }
   ],
   "centerColumn": [
     {
-      "text": "Semantic Density Does Not Predict Agent-Memory Collapse",
-      "url": "https://arxiv.org/abs/2611.33184"
+      "text": "When Rerankers Work Together: Better and Faster Reranking without Joint Training",
+      "url": "https://arxiv.org/abs/2611.33844"
     },
     {
-      "text": "Minimax estimation of the pseudo-spectral gap of continuous Markov chains, with applications to empirical concentration bounds",
-      "url": "https://arxiv.org/abs/2610.20007"
+      "text": "ChemoMAE: Self-Supervised Spectral Representation Learning Reveals Chemical Heterogeneity in Historical Wood",
+      "url": "https://arxiv.org/abs/2611.34581"
     },
     {
-      "text": "Agentic Waterfall: An Intent-Driven Information Discovery Framework for Reclaiming User Control in the Attention Economy",
-      "url": "https://arxiv.org/abs/2611.34407"
+      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
+      "url": "https://arxiv.org/abs/2611.33925"
     },
     {
-      "text": "A Threshold Model of Fault Propagation in AI-Native Software Ecosystems",
-      "url": "https://arxiv.org/abs/2604.19827"
+      "text": "Connecting AI Agents to Live Discrete Element Simulations via the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2611.33926"
     },
     {
-      "text": "The Transformer as a Polar State Estimator",
-      "url": "https://arxiv.org/abs/2605.11007"
+      "text": "Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation",
+      "url": "https://arxiv.org/abs/2611.34393"
     },
     {
-      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
-      "url": "https://arxiv.org/abs/2611.33302"
+      "text": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
+      "url": "https://arxiv.org/abs/2611.34656"
     },
     {
-      "text": "SynVA: A Modular Toolkit for Vessel Generation and Aneurysm Editing",
-      "url": "https://arxiv.org/abs/2605.17620"
+      "text": "The Danger of Double Precision: Working Precision as a Hidden Constraint in Gaussian Process Maximum Likelihood",
+      "url": "https://arxiv.org/abs/2611.33647"
     },
     {
-      "text": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
-      "url": "https://arxiv.org/abs/2605.22940"
+      "text": "EPPC-CARE: Staged Hierarchical Annotation of Communication Behaviors in Secure Patient-Provider Messages",
+      "url": "https://arxiv.org/abs/2611.34539"
     }
   ],
   "rightColumn": [
     {
-      "text": "Sketching for First Order Method: Efficient Algorithm for Low-Bandwidth Channel and Vulnerability",
-      "url": "https://arxiv.org/abs/2210.08371"
+      "text": "A Geometric Perspective on Reward Function Updates in Inverse Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.14041"
     },
     {
-      "text": "DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement",
-      "url": "https://arxiv.org/abs/2611.34472"
+      "text": "Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank",
+      "url": "https://arxiv.org/abs/2610.06621"
     },
     {
-      "text": "Caravan MultiMet: Extending Caravan with Multiple Weather Nowcasts and Forecasts",
-      "url": "https://arxiv.org/abs/2411.09459"
+      "text": "LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees",
+      "url": "https://arxiv.org/abs/2611.34275"
     },
     {
-      "text": "Strong Starts, Simple Recipes: Unified Multi-Teacher On-Policy Distillation from Multimodal Specialists",
-      "url": "https://arxiv.org/abs/2611.34397"
+      "text": "VisionQ: Benchmarking VLM Judges on Criterion-Specific Comparisons of Computer Vision Method Outputs",
+      "url": "https://arxiv.org/abs/2610.00666"
     },
     {
-      "text": "Out-of-Distribution Detection on Graphs: A Survey",
-      "url": "https://arxiv.org/abs/2502.08105"
+      "text": "Large-scale factor analysis shows machine intelligence is only partially interpretable",
+      "url": "https://arxiv.org/abs/2609.36515"
     },
     {
-      "text": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL",
-      "url": "https://arxiv.org/abs/2611.34363"
-    },
-    {
-      "text": "Improving regional weather forecasts with neural interpolation",
-      "url": "https://arxiv.org/abs/2505.12040"
+      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+      "url": "https://arxiv.org/abs/2609.19569"
     },
     {
       "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
       "url": "https://arxiv.org/abs/2611.34351"
+    },
+    {
+      "text": "Reification as a Transferable Vocabulary: Zero-Shot Link Prediction with Vanilla GNNs",
+      "url": "https://arxiv.org/abs/2609.11347"
     }
   ],
-  "lastUpdated": "2026-11-26T09:34:41Z"
+  "lastUpdated": "2026-11-26T12:37:04Z"
 }

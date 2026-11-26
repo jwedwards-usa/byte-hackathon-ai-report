@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
+    "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
+  },
+  "topStories": [
+    {
+      "text": "Open questions in AI safety grantmaking",
+      "url": "https://www.lesswrong.com/posts/hFfaqR5xJRQEAcipP/open-questions-in-ai-safety-grantmaking"
+    },
+    {
+      "text": "Operationalizing a pre-training R\u0026D pause",
+      "url": "https://www.lesswrong.com/posts/PPzdxdADERWTmHKuG/operationalizing-a-pre-training-r-and-d-pause"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Recursive Self Alignment: The Model is the Estimator",
+      "url": "https://www.lesswrong.com/posts/qvy8Tvhzg2PgfvHcs/recursive-self-alignment-the-model-is-the-estimator"
+    },
+    {
+      "text": "Paths to extreme power concentration",
+      "url": "https://www.lesswrong.com/posts/JgbQZ5xoi9qm2mWza/paths-to-extreme-power-concentration"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
+    },
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+      "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "At least 25 court cases in England and Wales hit by undisclosed AI use",
+      "url": "https://dailyai.com/2026/11/uk-courts-undisclosed-ai-25-cases/"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "When Rerankers Work Together: Better and Faster Reranking without Joint Training",
+      "url": "https://arxiv.org/abs/2611.33844"
+    },
+    {
+      "text": "ChemoMAE: Self-Supervised Spectral Representation Learning Reveals Chemical Heterogeneity in Historical Wood",
+      "url": "https://arxiv.org/abs/2611.34581"
+    },
+    {
+      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
+      "url": "https://arxiv.org/abs/2611.33925"
+    },
+    {
+      "text": "Connecting AI Agents to Live Discrete Element Simulations via the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2611.33926"
+    },
+    {
+      "text": "Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation",
+      "url": "https://arxiv.org/abs/2611.34393"
+    },
+    {
+      "text": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
+      "url": "https://arxiv.org/abs/2611.34656"
+    },
+    {
+      "text": "The Danger of Double Precision: Working Precision as a Hidden Constraint in Gaussian Process Maximum Likelihood",
+      "url": "https://arxiv.org/abs/2611.33647"
+    },
+    {
+      "text": "EPPC-CARE: Staged Hierarchical Annotation of Communication Behaviors in Secure Patient-Provider Messages",
+      "url": "https://arxiv.org/abs/2611.34539"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "A Geometric Perspective on Reward Function Updates in Inverse Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.14041"
+    },
+    {
+      "text": "Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank",
+      "url": "https://arxiv.org/abs/2610.06621"
+    },
+    {
+      "text": "LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees",
+      "url": "https://arxiv.org/abs/2611.34275"
+    },
+    {
+      "text": "VisionQ: Benchmarking VLM Judges on Criterion-Specific Comparisons of Computer Vision Method Outputs",
+      "url": "https://arxiv.org/abs/2610.00666"
+    },
+    {
+      "text": "Large-scale factor analysis shows machine intelligence is only partially interpretable",
+      "url": "https://arxiv.org/abs/2609.36515"
+    },
+    {
+      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+      "url": "https://arxiv.org/abs/2609.19569"
+    },
+    {
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
+    },
+    {
+      "text": "Reification as a Transferable Vocabulary: Zero-Shot Link Prediction with Vanilla GNNs",
+      "url": "https://arxiv.org/abs/2609.11347"
+    }
+  ],
+  "lastUpdated": "2026-11-26T12:37:04Z"
+}
