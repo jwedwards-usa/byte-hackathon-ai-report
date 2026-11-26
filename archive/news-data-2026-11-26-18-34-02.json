@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "AI #196: The Return",
+    "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
+  },
+  "topStories": [
+    {
+      "text": "What makes a problem difficult for humans? What makes a problem difficult for AI?",
+      "url": "https://www.lesswrong.com/posts/y2Z9HPgYPuAgTxvD9/what-makes-a-problem-difficult-for-humans-what-makes-a"
+    },
+    {
+      "text": "Models probably should not know so much about how we train and evaluate them",
+      "url": "https://www.lesswrong.com/posts/5dJ2Bu9hZDQXxvADR/models-probably-should-not-know-so-much-about-how-we-train"
+    },
+    {
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Go seeking mysteries",
+      "url": "https://www.lesswrong.com/posts/f5r7FpLWiFQ7aeJu9/go-seeking-mysteries"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "SAP weighs cutting at least 10,000 jobs in an AI restructuring",
+      "url": "https://dailyai.com/2026/11/sap-weighs-cutting-at-least-10000-jobs-in-an-ai-restructuring/"
+    },
+    {
+      "text": "Why Not Moral Nihilism?",
+      "url": "https://www.lesswrong.com/posts/Z2trBsMWgmcQfhSi6/why-not-moral-nihilism"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts",
+      "url": "https://arxiv.org/abs/2611.34098"
+    },
+    {
+      "text": "JEPAhead: From Inpainting to Causal Forecasting for Urban Driving",
+      "url": "https://arxiv.org/abs/2611.08657"
+    },
+    {
+      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
+      "url": "https://arxiv.org/abs/2611.33302"
+    },
+    {
+      "text": "AliceAI-Foundation-80B-A3B-Base",
+      "url": "https://arxiv.org/abs/2611.34529"
+    },
+    {
+      "text": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "url": "https://arxiv.org/abs/2611.34934"
+    },
+    {
+      "text": "Search From the Start: Search-Native Pretraining for Language Models",
+      "url": "https://arxiv.org/abs/2611.26809"
+    },
+    {
+      "text": "Generalizable Equivariant Diffusion Models for Non-Abelian Lattice Gauge Theory: Analytical Foundations and Numerical Scaling Tests",
+      "url": "https://arxiv.org/abs/2611.03530"
+    },
+    {
+      "text": "A Cardiorespiratory Foundation Model Pretrained on Ten Physiological Signals for Perioperative and Critical Care",
+      "url": "https://arxiv.org/abs/2611.15004"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Compute-Aware Submodular Online Learning in Open Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.34211"
+    },
+    {
+      "text": "Text-Conditioned Low-Rank Adaptation of Time-Series Foundation Models for Multimodal Forecasting",
+      "url": "https://arxiv.org/abs/2611.34206"
+    },
+    {
+      "text": "vSFT: Learning to Verbally Tune Agents at Test Time",
+      "url": "https://arxiv.org/abs/2611.34440"
+    },
+    {
+      "text": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
+      "url": "https://arxiv.org/abs/2611.34466"
+    },
+    {
+      "text": "Cell-Type-Specific Expression Is Hard to Predict from Bulk, but It Is Still Useful",
+      "url": "https://arxiv.org/abs/2611.34166"
+    },
+    {
+      "text": "Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants",
+      "url": "https://arxiv.org/abs/2611.34576"
+    },
+    {
+      "text": "Transferring Architecture as an Optimization Prior",
+      "url": "https://arxiv.org/abs/2611.34816"
+    },
+    {
+      "text": "Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss",
+      "url": "https://arxiv.org/abs/2611.34818"
+    }
+  ],
+  "lastUpdated": "2026-11-26T18:34:02Z"
+}
