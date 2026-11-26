@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
+    "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
+  },
+  "topStories": [
+    {
+      "text": "AI safety grassroots work needs funding and volunteers",
+      "url": "https://www.lesswrong.com/posts/MAiAapN7CWZpQcfmz/ai-safety-grassroots-work-needs-funding-and-volunteers"
+    },
+    {
+      "text": "Operationalizing a pre-training R\u0026D pause",
+      "url": "https://www.lesswrong.com/posts/PPzdxdADERWTmHKuG/operationalizing-a-pre-training-r-and-d-pause"
+    },
+    {
+      "text": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+      "url": "https://www.lesswrong.com/posts/ENdfwPYrhLrAP8znD/claude-and-levent-alpoege-prove-the-riemann-hypothesis"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+      "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "To Read Sam Kriss is to Hurt Sam Kriss",
+      "url": "https://www.lesswrong.com/posts/TmLSELruftgknLafm/to-read-sam-kriss-is-to-hurt-sam-kriss"
+    },
+    {
+      "text": "OpenAI’s AI maths trove adds claims on a famous unsolved problem",
+      "url": "https://dailyai.com/2026/11/openais-ai-maths-trove-adds-claims-on-a-famous-unsolved-problem/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+      "url": "https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/1Z1k5LIXx1D8R3FBe4wwMK/cb26e88f59ffb7886bb541a9b389d4d0/mcp-skills-smk1.png?w=1200\u0026q=80",
+        "alt": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
+      "url": "https://arxiv.org/abs/2611.32041"
+    },
+    {
+      "text": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+      "url": "https://arxiv.org/abs/2611.31977"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Bradley-Terry Training Can Distort Outcome Probabilities of Initially Accurate Language World Models",
+      "url": "https://arxiv.org/abs/2611.25594"
+    },
+    {
+      "text": "Emergent Language as an Approach to Conscious AI",
+      "url": "https://arxiv.org/abs/2606.06380"
+    },
+    {
+      "text": "Diagnosing and Repairing Citation Failures in Generative Engine Optimization",
+      "url": "https://arxiv.org/abs/2603.09296"
+    },
+    {
+      "text": "Evolutionary AI Control: Population-Level Safety Under Reproduction, Heredity, and Selection",
+      "url": "https://arxiv.org/abs/2611.31312"
+    },
+    {
+      "text": "Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research",
+      "url": "https://arxiv.org/abs/2607.26352"
+    },
+    {
+      "text": "ASCENT: A Benchmark for Evaluating and Advancing Stepwise Diagnostic Reasoning in Large Language Models on Common Clinical Scenarios",
+      "url": "https://arxiv.org/abs/2611.32734"
+    },
+    {
+      "text": "Exploratory Midtraining for Robot Policies",
+      "url": "https://arxiv.org/abs/2611.33130"
+    },
+    {
+      "text": "LITMUS - Literature Informed Testbed for Mapping Usecases and Synthesizing Risk-Cards",
+      "url": "https://arxiv.org/abs/2611.29034"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "OrangeTree: A Linear and Tree-based Time Series Forecasting Model Supporting Multiple Input and Output Lengths",
+      "url": "https://arxiv.org/abs/2611.31905"
+    },
+    {
+      "text": "Agentic Systems Need Multi-Run Evaluation: A Study of Retrieval and Response Variability in a Deployed Enterprise RAG System",
+      "url": "https://arxiv.org/abs/2611.31266"
+    },
+    {
+      "text": "ReJEPA: Bounded Predictive Regulation for Latent World Models",
+      "url": "https://arxiv.org/abs/2611.31910"
+    },
+    {
+      "text": "SPLICE: Sparse Physics Library Identification and Compositional Expansion",
+      "url": "https://arxiv.org/abs/2610.17029"
+    },
+    {
+      "text": "Rethinking Universal Time Series Foundation Models from Unified Representations to Shared Dynamics (UniTFU)",
+      "url": "https://arxiv.org/abs/2611.31921"
+    },
+    {
+      "text": "Convex-Concave Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.09108"
+    },
+    {
+      "text": "Motion Without State: Probing Dynamical Consistency and Conditioning Bias in Video Models",
+      "url": "https://arxiv.org/abs/2610.05135"
+    },
+    {
+      "text": "On the Information Loss of Multi-Token Prediction: Origin and Solution",
+      "url": "https://arxiv.org/abs/2611.31966"
+    }
+  ],
+  "lastUpdated": "2026-11-26T00:47:50Z"
+}
