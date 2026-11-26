@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "What makes a problem difficult for humans? What makes a problem difficult for AI?",
+    "url": "https://www.lesswrong.com/posts/y2Z9HPgYPuAgTxvD9/what-makes-a-problem-difficult-for-humans-what-makes-a"
+  },
+  "topStories": [
+    {
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Understanding why 1 + 2 + 3 + 4 + 5 + ... = -1/12 (rather than ∞) ",
+      "url": "https://www.lesswrong.com/posts/F7DNBdoADqktjn2Hk/understanding-why-1-2-3-4-5-1-12-rather-than-infinity"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+      "url": "https://arxiv.org/abs/2611.33454"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
+      "url": "https://arxiv.org/abs/2605.22940"
+    },
+    {
+      "text": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "url": "https://arxiv.org/abs/2611.34934"
+    },
+    {
+      "text": "FEAST: Fair and Efficient Adaptive Sampling for Task-Free On-Policy Learning",
+      "url": "https://arxiv.org/abs/2611.33827"
+    },
+    {
+      "text": "Generalizable Equivariant Diffusion Models for Non-Abelian Lattice Gauge Theory: Analytical Foundations and Numerical Scaling Tests",
+      "url": "https://arxiv.org/abs/2611.03530"
+    },
+    {
+      "text": "Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids",
+      "url": "https://arxiv.org/abs/2605.23194"
+    },
+    {
+      "text": "Agent Calibration under Deployment Change: Acceptance Contracts, Trajectory Repair, and Adaptation Costs",
+      "url": "https://arxiv.org/abs/2609.35149"
+    },
+    {
+      "text": "SpecRead: A Benchmark for Measuring Whether Language Models Understand Hardware Specifications",
+      "url": "https://arxiv.org/abs/2609.33699"
+    },
+    {
+      "text": "A Semantics-First Approach to Multimodal Video Captioning with Frozen Encoders and Stabilized Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.33409"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Show Your Work: Can Small Open Models Read SEC Filings with Evidence a Machine Can Check?",
+      "url": "https://arxiv.org/abs/2611.24990"
+    },
+    {
+      "text": "Large-Scale Gaussian Splatting with a Multi-GPU PyTorch Backend",
+      "url": "https://arxiv.org/abs/2606.11390"
+    },
+    {
+      "text": "FrId\\'eo: French News Outlet Ideology Scoring via Multi-Source Evidence Fusion and Distancing-Aware Lexical Scoring",
+      "url": "https://arxiv.org/abs/2611.33266"
+    },
+    {
+      "text": "Psychophysics of Duration Perception in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2611.33176"
+    },
+    {
+      "text": "Hierarchical Two-Stage Framework for Environment-Aware Long-Horizon Vessel Trajectory Prediction",
+      "url": "https://arxiv.org/abs/2605.16442"
+    },
+    {
+      "text": "REI: Learning Ideation from Repository Evolution",
+      "url": "https://arxiv.org/abs/2611.33183"
+    },
+    {
+      "text": "Coreset-Induced Conditional Velocity Flow Matching",
+      "url": "https://arxiv.org/abs/2605.12951"
+    },
+    {
+      "text": "Mechanism-Based Intelligence: Differentiable Incentives for Rational Coordination and Equilibrium Alignment in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2512.20688"
+    }
+  ],
+  "lastUpdated": "2026-11-26T21:29:31Z"
+}

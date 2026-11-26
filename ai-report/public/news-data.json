@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "AI #196: The Return",
-    "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
+    "text": "What makes a problem difficult for humans? What makes a problem difficult for AI?",
+    "url": "https://www.lesswrong.com/posts/y2Z9HPgYPuAgTxvD9/what-makes-a-problem-difficult-for-humans-what-makes-a"
   },
   "topStories": [
     {
-      "text": "What makes a problem difficult for humans? What makes a problem difficult for AI?",
-      "url": "https://www.lesswrong.com/posts/y2Z9HPgYPuAgTxvD9/what-makes-a-problem-difficult-for-humans-what-makes-a"
-    },
-    {
-      "text": "Models probably should not know so much about how we train and evaluate them",
-      "url": "https://www.lesswrong.com/posts/5dJ2Bu9hZDQXxvADR/models-probably-should-not-know-so-much-about-how-we-train"
-    },
-    {
       "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
       "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Go seeking mysteries",
-      "url": "https://www.lesswrong.com/posts/f5r7FpLWiFQ7aeJu9/go-seeking-mysteries"
     },
     {
       "text": "Three LLM inflection points in twelve months",
       "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
     },
     {
-      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
-      "url": "https://arxiv.org/abs/2611.34781"
-    },
-    {
       "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
       "url": "https://arxiv.org/abs/2611.33806"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
       "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "SAP weighs cutting at least 10,000 jobs in an AI restructuring",
-      "url": "https://dailyai.com/2026/11/sap-weighs-cutting-at-least-10000-jobs-in-an-ai-restructuring/"
+      "text": "Understanding why 1 + 2 + 3 + 4 + 5 + ... = -1/12 (rather than ∞) ",
+      "url": "https://www.lesswrong.com/posts/F7DNBdoADqktjn2Hk/understanding-why-1-2-3-4-5-1-12-rather-than-infinity"
     },
     {
-      "text": "Why Not Moral Nihilism?",
-      "url": "https://www.lesswrong.com/posts/Z2trBsMWgmcQfhSi6/why-not-moral-nihilism"
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+      "url": "https://arxiv.org/abs/2611.33454"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
     }
   ],
   "centerColumn": [
     {
-      "text": "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts",
-      "url": "https://arxiv.org/abs/2611.34098"
-    },
-    {
-      "text": "JEPAhead: From Inpainting to Causal Forecasting for Urban Driving",
-      "url": "https://arxiv.org/abs/2611.08657"
-    },
-    {
-      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
-      "url": "https://arxiv.org/abs/2611.33302"
-    },
-    {
-      "text": "AliceAI-Foundation-80B-A3B-Base",
-      "url": "https://arxiv.org/abs/2611.34529"
+      "text": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
+      "url": "https://arxiv.org/abs/2605.22940"
     },
     {
       "text": "Attack Policy Selection can Mislead Monitor Evaluators",
       "url": "https://arxiv.org/abs/2611.34934"
     },
     {
-      "text": "Search From the Start: Search-Native Pretraining for Language Models",
-      "url": "https://arxiv.org/abs/2611.26809"
+      "text": "FEAST: Fair and Efficient Adaptive Sampling for Task-Free On-Policy Learning",
+      "url": "https://arxiv.org/abs/2611.33827"
     },
     {
       "text": "Generalizable Equivariant Diffusion Models for Non-Abelian Lattice Gauge Theory: Analytical Foundations and Numerical Scaling Tests",
       "url": "https://arxiv.org/abs/2611.03530"
     },
     {
-      "text": "A Cardiorespiratory Foundation Model Pretrained on Ten Physiological Signals for Perioperative and Critical Care",
-      "url": "https://arxiv.org/abs/2611.15004"
+      "text": "Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids",
+      "url": "https://arxiv.org/abs/2605.23194"
+    },
+    {
+      "text": "Agent Calibration under Deployment Change: Acceptance Contracts, Trajectory Repair, and Adaptation Costs",
+      "url": "https://arxiv.org/abs/2609.35149"
+    },
+    {
+      "text": "SpecRead: A Benchmark for Measuring Whether Language Models Understand Hardware Specifications",
+      "url": "https://arxiv.org/abs/2609.33699"
+    },
+    {
+      "text": "A Semantics-First Approach to Multimodal Video Captioning with Frozen Encoders and Stabilized Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.33409"
     }
   ],
   "rightColumn": [
     {
-      "text": "Compute-Aware Submodular Online Learning in Open Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2611.34211"
+      "text": "Show Your Work: Can Small Open Models Read SEC Filings with Evidence a Machine Can Check?",
+      "url": "https://arxiv.org/abs/2611.24990"
     },
     {
-      "text": "Text-Conditioned Low-Rank Adaptation of Time-Series Foundation Models for Multimodal Forecasting",
-      "url": "https://arxiv.org/abs/2611.34206"
+      "text": "Large-Scale Gaussian Splatting with a Multi-GPU PyTorch Backend",
+      "url": "https://arxiv.org/abs/2606.11390"
     },
     {
-      "text": "vSFT: Learning to Verbally Tune Agents at Test Time",
-      "url": "https://arxiv.org/abs/2611.34440"
+      "text": "FrId\\'eo: French News Outlet Ideology Scoring via Multi-Source Evidence Fusion and Distancing-Aware Lexical Scoring",
+      "url": "https://arxiv.org/abs/2611.33266"
     },
     {
-      "text": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
-      "url": "https://arxiv.org/abs/2611.34466"
+      "text": "Psychophysics of Duration Perception in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2611.33176"
     },
     {
-      "text": "Cell-Type-Specific Expression Is Hard to Predict from Bulk, but It Is Still Useful",
-      "url": "https://arxiv.org/abs/2611.34166"
+      "text": "Hierarchical Two-Stage Framework for Environment-Aware Long-Horizon Vessel Trajectory Prediction",
+      "url": "https://arxiv.org/abs/2605.16442"
     },
     {
-      "text": "Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants",
-      "url": "https://arxiv.org/abs/2611.34576"
+      "text": "REI: Learning Ideation from Repository Evolution",
+      "url": "https://arxiv.org/abs/2611.33183"
     },
     {
-      "text": "Transferring Architecture as an Optimization Prior",
-      "url": "https://arxiv.org/abs/2611.34816"
+      "text": "Coreset-Induced Conditional Velocity Flow Matching",
+      "url": "https://arxiv.org/abs/2605.12951"
     },
     {
-      "text": "Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss",
-      "url": "https://arxiv.org/abs/2611.34818"
+      "text": "Mechanism-Based Intelligence: Differentiable Incentives for Rational Coordination and Equilibrium Alignment in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2512.20688"
     }
   ],
-  "lastUpdated": "2026-11-26T18:34:02Z"
+  "lastUpdated": "2026-11-26T21:29:31Z"
 }
