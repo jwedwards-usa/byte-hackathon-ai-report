@@ -1,0 +1,129 @@
+{
+  "mainHeadline": {
+    "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
+    "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
+  },
+  "topStories": [
+    {
+      "text": "Operationalizing a pre-training R\u0026D pause",
+      "url": "https://www.lesswrong.com/posts/PPzdxdADERWTmHKuG/operationalizing-a-pre-training-r-and-d-pause"
+    },
+    {
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "To Read Sam Kriss is to Hurt Sam Kriss",
+      "url": "https://www.lesswrong.com/posts/TmLSELruftgknLafm/to-read-sam-kriss-is-to-hurt-sam-kriss"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+      "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+      "url": "https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one",
+      "image": {
+        "src": "https://images.ctfassets.net/jdtwqhzvc2n1/1Z1k5LIXx1D8R3FBe4wwMK/cb26e88f59ffb7886bb541a9b389d4d0/mcp-skills-smk1.png?w=1200\u0026q=80",
+        "alt": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+        "width": 600,
+        "height": 400
+      }
+    },
+    {
+      "text": "Ode to the Random Matrix",
+      "url": "https://www.lesswrong.com/posts/Jz5mwA9MAjeTurneY/ode-to-the-random-matrix"
+    },
+    {
+      "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
+      "url": "https://arxiv.org/abs/2611.31884"
+    },
+    {
+      "text": "Structure-Aware Transformers for Hierarchical Authorization in Personal AI Agents",
+      "url": "https://arxiv.org/abs/2611.32018"
+    },
+    {
+      "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
+      "url": "https://arxiv.org/abs/2611.32041"
+    },
+    {
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Offline-First Quantized AI: Design and Evaluation of an On-Device Maternal-Health Assistant for Low-Connectivity Environments",
+      "url": "https://arxiv.org/abs/2611.20012"
+    },
+    {
+      "text": "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?",
+      "url": "https://arxiv.org/abs/2611.32957"
+    },
+    {
+      "text": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
+      "url": "https://arxiv.org/abs/2611.33010"
+    },
+    {
+      "text": "LimoBench: How Street Smart Are Large Language Models?",
+      "url": "https://arxiv.org/abs/2611.31682"
+    },
+    {
+      "text": "Stranded Compute in AI Inference Workloads: Recovering Value Through Demand Aggregation",
+      "url": "https://arxiv.org/abs/2611.31654"
+    },
+    {
+      "text": "Constructing physical mechanisms with artificial intelligence",
+      "url": "https://arxiv.org/abs/2611.31653"
+    },
+    {
+      "text": "The Imperfective Paradox Is Not Necessarily in Large Language Models: A Benchmark Failure Before a Model Failure",
+      "url": "https://arxiv.org/abs/2608.25005"
+    },
+    {
+      "text": "Graph-model gains, edge dependence, and the value of correct claim structure in patent litigation prediction",
+      "url": "https://arxiv.org/abs/2608.21924"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "CriticJEPA: World Models Are Better Critics Than Optimizers",
+      "url": "https://arxiv.org/abs/2611.32357"
+    },
+    {
+      "text": "How Much Dependency Can a Marginal Rule See? Total Correlation in Diffusion LM Parallel Decoding",
+      "url": "https://arxiv.org/abs/2611.31990"
+    },
+    {
+      "text": "Beyond Hard Tokens: Predictive Memory for Multimodal Protein Generation",
+      "url": "https://arxiv.org/abs/2611.32347"
+    },
+    {
+      "text": "CoMNO: Commutator Memory Neural Operators for Long-Horizon PDE Prediction",
+      "url": "https://arxiv.org/abs/2611.32274"
+    },
+    {
+      "text": "Model-Based Reinforcement Learning with Double Oracle Efficiency in Policy Optimization and Offline Estimation",
+      "url": "https://arxiv.org/abs/2605.00393"
+    },
+    {
+      "text": "Seldon TFM family: Seldon-Mini, Seldon and Seldon+",
+      "url": "https://arxiv.org/abs/2611.32257"
+    },
+    {
+      "text": "Local Indices Are Not Enough: Synchrony and Global Information in Bandit Algorithms",
+      "url": "https://arxiv.org/abs/2611.33056"
+    },
+    {
+      "text": "Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2611.31954"
+    }
+  ],
+  "lastUpdated": "2026-11-26T03:26:50Z"
+}

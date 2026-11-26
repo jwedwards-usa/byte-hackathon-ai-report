@@ -5,22 +5,8 @@
   },
   "topStories": [
     {
-      "text": "AI safety grassroots work needs funding and volunteers",
-      "url": "https://www.lesswrong.com/posts/MAiAapN7CWZpQcfmz/ai-safety-grassroots-work-needs-funding-and-volunteers"
-    },
-    {
       "text": "Operationalizing a pre-training R\u0026D pause",
       "url": "https://www.lesswrong.com/posts/PPzdxdADERWTmHKuG/operationalizing-a-pre-training-r-and-d-pause"
-    },
-    {
-      "text": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
-      "url": "https://www.lesswrong.com/posts/ENdfwPYrhLrAP8znD/claude-and-levent-alpoege-prove-the-riemann-hypothesis"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
-      "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
     },
     {
       "text": "Three LLM inflection points in twelve months",
@@ -29,10 +15,12 @@
     {
       "text": "To Read Sam Kriss is to Hurt Sam Kriss",
       "url": "https://www.lesswrong.com/posts/TmLSELruftgknLafm/to-read-sam-kriss-is-to-hurt-sam-kriss"
-    },
+    }
+  ],
+  "leftColumn": [
     {
-      "text": "OpenAI’s AI maths trove adds claims on a famous unsolved problem",
-      "url": "https://dailyai.com/2026/11/openais-ai-maths-trove-adds-claims-on-a-famous-unsolved-problem/"
+      "text": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+      "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
     },
     {
       "text": "Sample Blog Post",
@@ -49,81 +37,93 @@
       }
     },
     {
+      "text": "Ode to the Random Matrix",
+      "url": "https://www.lesswrong.com/posts/Jz5mwA9MAjeTurneY/ode-to-the-random-matrix"
+    },
+    {
+      "text": "HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning",
+      "url": "https://arxiv.org/abs/2611.31884"
+    },
+    {
+      "text": "Structure-Aware Transformers for Hierarchical Authorization in Personal AI Agents",
+      "url": "https://arxiv.org/abs/2611.32018"
+    },
+    {
       "text": "Spec-CoFrGeNet: Reparametrizing Continued Fraction Networks for Stable and Accurate Training",
       "url": "https://arxiv.org/abs/2611.32041"
     },
     {
-      "text": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
-      "url": "https://arxiv.org/abs/2611.31977"
+      "text": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031"
     }
   ],
   "centerColumn": [
     {
-      "text": "Bradley-Terry Training Can Distort Outcome Probabilities of Initially Accurate Language World Models",
-      "url": "https://arxiv.org/abs/2611.25594"
+      "text": "Offline-First Quantized AI: Design and Evaluation of an On-Device Maternal-Health Assistant for Low-Connectivity Environments",
+      "url": "https://arxiv.org/abs/2611.20012"
     },
     {
-      "text": "Emergent Language as an Approach to Conscious AI",
-      "url": "https://arxiv.org/abs/2606.06380"
+      "text": "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?",
+      "url": "https://arxiv.org/abs/2611.32957"
     },
     {
-      "text": "Diagnosing and Repairing Citation Failures in Generative Engine Optimization",
-      "url": "https://arxiv.org/abs/2603.09296"
+      "text": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
+      "url": "https://arxiv.org/abs/2611.33010"
     },
     {
-      "text": "Evolutionary AI Control: Population-Level Safety Under Reproduction, Heredity, and Selection",
-      "url": "https://arxiv.org/abs/2611.31312"
+      "text": "LimoBench: How Street Smart Are Large Language Models?",
+      "url": "https://arxiv.org/abs/2611.31682"
     },
     {
-      "text": "Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research",
-      "url": "https://arxiv.org/abs/2607.26352"
+      "text": "Stranded Compute in AI Inference Workloads: Recovering Value Through Demand Aggregation",
+      "url": "https://arxiv.org/abs/2611.31654"
     },
     {
-      "text": "ASCENT: A Benchmark for Evaluating and Advancing Stepwise Diagnostic Reasoning in Large Language Models on Common Clinical Scenarios",
-      "url": "https://arxiv.org/abs/2611.32734"
+      "text": "Constructing physical mechanisms with artificial intelligence",
+      "url": "https://arxiv.org/abs/2611.31653"
     },
     {
-      "text": "Exploratory Midtraining for Robot Policies",
-      "url": "https://arxiv.org/abs/2611.33130"
+      "text": "The Imperfective Paradox Is Not Necessarily in Large Language Models: A Benchmark Failure Before a Model Failure",
+      "url": "https://arxiv.org/abs/2608.25005"
     },
     {
-      "text": "LITMUS - Literature Informed Testbed for Mapping Usecases and Synthesizing Risk-Cards",
-      "url": "https://arxiv.org/abs/2611.29034"
+      "text": "Graph-model gains, edge dependence, and the value of correct claim structure in patent litigation prediction",
+      "url": "https://arxiv.org/abs/2608.21924"
     }
   ],
   "rightColumn": [
     {
-      "text": "OrangeTree: A Linear and Tree-based Time Series Forecasting Model Supporting Multiple Input and Output Lengths",
-      "url": "https://arxiv.org/abs/2611.31905"
+      "text": "CriticJEPA: World Models Are Better Critics Than Optimizers",
+      "url": "https://arxiv.org/abs/2611.32357"
     },
     {
-      "text": "Agentic Systems Need Multi-Run Evaluation: A Study of Retrieval and Response Variability in a Deployed Enterprise RAG System",
-      "url": "https://arxiv.org/abs/2611.31266"
+      "text": "How Much Dependency Can a Marginal Rule See? Total Correlation in Diffusion LM Parallel Decoding",
+      "url": "https://arxiv.org/abs/2611.31990"
     },
     {
-      "text": "ReJEPA: Bounded Predictive Regulation for Latent World Models",
-      "url": "https://arxiv.org/abs/2611.31910"
+      "text": "Beyond Hard Tokens: Predictive Memory for Multimodal Protein Generation",
+      "url": "https://arxiv.org/abs/2611.32347"
     },
     {
-      "text": "SPLICE: Sparse Physics Library Identification and Compositional Expansion",
-      "url": "https://arxiv.org/abs/2610.17029"
+      "text": "CoMNO: Commutator Memory Neural Operators for Long-Horizon PDE Prediction",
+      "url": "https://arxiv.org/abs/2611.32274"
     },
     {
-      "text": "Rethinking Universal Time Series Foundation Models from Unified Representations to Shared Dynamics (UniTFU)",
-      "url": "https://arxiv.org/abs/2611.31921"
+      "text": "Model-Based Reinforcement Learning with Double Oracle Efficiency in Policy Optimization and Offline Estimation",
+      "url": "https://arxiv.org/abs/2605.00393"
     },
     {
-      "text": "Convex-Concave Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.09108"
+      "text": "Seldon TFM family: Seldon-Mini, Seldon and Seldon+",
+      "url": "https://arxiv.org/abs/2611.32257"
     },
     {
-      "text": "Motion Without State: Probing Dynamical Consistency and Conditioning Bias in Video Models",
-      "url": "https://arxiv.org/abs/2610.05135"
+      "text": "Local Indices Are Not Enough: Synchrony and Global Information in Bandit Algorithms",
+      "url": "https://arxiv.org/abs/2611.33056"
     },
     {
-      "text": "On the Information Loss of Multi-Token Prediction: Origin and Solution",
-      "url": "https://arxiv.org/abs/2611.31966"
+      "text": "Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2611.31954"
     }
   ],
-  "lastUpdated": "2026-11-26T00:47:50Z"
+  "lastUpdated": "2026-11-26T03:26:50Z"
 }
