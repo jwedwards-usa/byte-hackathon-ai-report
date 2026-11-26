@@ -23,101 +23,101 @@
       "url": "https://arxiv.org/abs/2611.33339"
     },
     {
-      "text": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
-      "url": "https://arxiv.org/abs/2611.33454"
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
     },
     {
       "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
       "url": "https://arxiv.org/abs/2601.12095"
     },
     {
-      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
-      "url": "https://arxiv.org/abs/2611.32997"
-    },
-    {
-      "text": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
-      "url": "https://arxiv.org/abs/2611.33407"
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
     },
     {
       "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
       "url": "https://arxiv.org/abs/2608.07437"
     },
     {
-      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
-      "url": "https://arxiv.org/abs/2510.22232"
-    },
-    {
       "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
       "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
+      "url": "https://arxiv.org/abs/2611.33407"
+    },
+    {
+      "text": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+      "url": "https://arxiv.org/abs/2611.33454"
     }
   ],
   "centerColumn": [
     {
-      "text": "Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid",
-      "url": "https://arxiv.org/abs/2611.33828"
+      "text": "Semantic Density Does Not Predict Agent-Memory Collapse",
+      "url": "https://arxiv.org/abs/2611.33184"
     },
     {
-      "text": "Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning",
-      "url": "https://arxiv.org/abs/2611.33749"
+      "text": "Minimax estimation of the pseudo-spectral gap of continuous Markov chains, with applications to empirical concentration bounds",
+      "url": "https://arxiv.org/abs/2610.20007"
     },
     {
-      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
-      "url": "https://arxiv.org/abs/2611.34035"
+      "text": "Agentic Waterfall: An Intent-Driven Information Discovery Framework for Reclaiming User Control in the Attention Economy",
+      "url": "https://arxiv.org/abs/2611.34407"
     },
     {
-      "text": "How to Enhance Downstream Adversarial Robustness (almost) without Touching the Pre-Trained Foundation Model?",
-      "url": "https://arxiv.org/abs/2504.10850"
+      "text": "A Threshold Model of Fault Propagation in AI-Native Software Ecosystems",
+      "url": "https://arxiv.org/abs/2604.19827"
     },
     {
-      "text": "Escaping Latent Traps by Remembering: Training-Free Episodic Kernel Repulsion for World-Model Planning",
-      "url": "https://arxiv.org/abs/2611.22470"
+      "text": "The Transformer as a Polar State Estimator",
+      "url": "https://arxiv.org/abs/2605.11007"
     },
     {
-      "text": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
-      "url": "https://arxiv.org/abs/2611.34222"
+      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
+      "url": "https://arxiv.org/abs/2611.33302"
     },
     {
-      "text": "Lightweight Reasoning Transfer via Chain-of-Thought Vector Projection",
-      "url": "https://arxiv.org/abs/2611.34183"
+      "text": "SynVA: A Modular Toolkit for Vessel Generation and Aneurysm Editing",
+      "url": "https://arxiv.org/abs/2605.17620"
     },
     {
-      "text": "Fine-Grained Instruction-Guided Graph Reasoning for Vision-and-Language Navigation",
-      "url": "https://arxiv.org/abs/2503.11006"
+      "text": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
+      "url": "https://arxiv.org/abs/2605.22940"
     }
   ],
   "rightColumn": [
     {
-      "text": "An Information-Theoretic Analysis of Information Hiding in Semantic Communication",
-      "url": "https://arxiv.org/abs/2611.34550"
+      "text": "Sketching for First Order Method: Efficient Algorithm for Low-Bandwidth Channel and Vulnerability",
+      "url": "https://arxiv.org/abs/2210.08371"
     },
     {
-      "text": "Not Every Input Needs Everything: Unifying Expert Gating, Model Cascades, and Agent Orchestration",
-      "url": "https://arxiv.org/abs/2611.34112"
+      "text": "DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement",
+      "url": "https://arxiv.org/abs/2611.34472"
     },
     {
-      "text": "Cell-Type-Specific Expression Is Hard to Predict from Bulk, but It Is Still Useful",
-      "url": "https://arxiv.org/abs/2611.34166"
+      "text": "Caravan MultiMet: Extending Caravan with Multiple Weather Nowcasts and Forecasts",
+      "url": "https://arxiv.org/abs/2411.09459"
     },
     {
-      "text": "Text-Conditioned Low-Rank Adaptation of Time-Series Foundation Models for Multimodal Forecasting",
-      "url": "https://arxiv.org/abs/2611.34206"
+      "text": "Strong Starts, Simple Recipes: Unified Multi-Teacher On-Policy Distillation from Multimodal Specialists",
+      "url": "https://arxiv.org/abs/2611.34397"
     },
     {
-      "text": "Compute-Aware Submodular Online Learning in Open Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2611.34211"
+      "text": "Out-of-Distribution Detection on Graphs: A Survey",
+      "url": "https://arxiv.org/abs/2502.08105"
     },
     {
-      "text": "Change Point Detection with Generative Models",
-      "url": "https://arxiv.org/abs/2611.34228"
+      "text": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL",
+      "url": "https://arxiv.org/abs/2611.34363"
     },
     {
-      "text": "ConceptARC at Scale: Studying Conceptual Understanding in Reasoning Models",
-      "url": "https://arxiv.org/abs/2611.06732"
+      "text": "Improving regional weather forecasts with neural interpolation",
+      "url": "https://arxiv.org/abs/2505.12040"
     },
     {
-      "text": "High-Order Gaussian Approximation of Besov Functions on Manifolds",
-      "url": "https://arxiv.org/abs/2610.27022"
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
     }
   ],
-  "lastUpdated": "2026-11-26T06:40:29Z"
+  "lastUpdated": "2026-11-26T09:34:41Z"
 }

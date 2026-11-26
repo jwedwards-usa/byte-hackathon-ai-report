@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Open questions in AI safety grantmaking",
+    "url": "https://www.lesswrong.com/posts/hFfaqR5xJRQEAcipP/open-questions-in-ai-safety-grantmaking"
+  },
+  "topStories": [
+    {
+      "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
+      "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
+      "url": "https://arxiv.org/abs/2611.33407"
+    },
+    {
+      "text": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+      "url": "https://arxiv.org/abs/2611.33454"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Semantic Density Does Not Predict Agent-Memory Collapse",
+      "url": "https://arxiv.org/abs/2611.33184"
+    },
+    {
+      "text": "Minimax estimation of the pseudo-spectral gap of continuous Markov chains, with applications to empirical concentration bounds",
+      "url": "https://arxiv.org/abs/2610.20007"
+    },
+    {
+      "text": "Agentic Waterfall: An Intent-Driven Information Discovery Framework for Reclaiming User Control in the Attention Economy",
+      "url": "https://arxiv.org/abs/2611.34407"
+    },
+    {
+      "text": "A Threshold Model of Fault Propagation in AI-Native Software Ecosystems",
+      "url": "https://arxiv.org/abs/2604.19827"
+    },
+    {
+      "text": "The Transformer as a Polar State Estimator",
+      "url": "https://arxiv.org/abs/2605.11007"
+    },
+    {
+      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
+      "url": "https://arxiv.org/abs/2611.33302"
+    },
+    {
+      "text": "SynVA: A Modular Toolkit for Vessel Generation and Aneurysm Editing",
+      "url": "https://arxiv.org/abs/2605.17620"
+    },
+    {
+      "text": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
+      "url": "https://arxiv.org/abs/2605.22940"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Sketching for First Order Method: Efficient Algorithm for Low-Bandwidth Channel and Vulnerability",
+      "url": "https://arxiv.org/abs/2210.08371"
+    },
+    {
+      "text": "DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement",
+      "url": "https://arxiv.org/abs/2611.34472"
+    },
+    {
+      "text": "Caravan MultiMet: Extending Caravan with Multiple Weather Nowcasts and Forecasts",
+      "url": "https://arxiv.org/abs/2411.09459"
+    },
+    {
+      "text": "Strong Starts, Simple Recipes: Unified Multi-Teacher On-Policy Distillation from Multimodal Specialists",
+      "url": "https://arxiv.org/abs/2611.34397"
+    },
+    {
+      "text": "Out-of-Distribution Detection on Graphs: A Survey",
+      "url": "https://arxiv.org/abs/2502.08105"
+    },
+    {
+      "text": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL",
+      "url": "https://arxiv.org/abs/2611.34363"
+    },
+    {
+      "text": "Improving regional weather forecasts with neural interpolation",
+      "url": "https://arxiv.org/abs/2505.12040"
+    },
+    {
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
+    }
+  ],
+  "lastUpdated": "2026-11-26T09:34:41Z"
+}
