@@ -1,30 +1,34 @@
 {
   "mainHeadline": {
-    "text": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
-    "url": "https://www.lesswrong.com/posts/L7Q6sBDi6rzbum7HJ/measuring-the-political-impact-of-the-hugging-face-incident"
+    "text": "AI #196: The Return",
+    "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
   },
   "topStories": [
     {
+      "text": "Go seeking mysteries",
+      "url": "https://www.lesswrong.com/posts/f5r7FpLWiFQ7aeJu9/go-seeking-mysteries"
+    },
+    {
+      "text": "GhostBusters: Understanding Hereditary Trait Distillation in Phantom Transfer ",
+      "url": "https://www.lesswrong.com/posts/uAXt43Wg2PWzsagvr/ghostbusters-understanding-hereditary-trait-distillation-in"
+    },
+    {
       "text": "Open questions in AI safety grantmaking",
       "url": "https://www.lesswrong.com/posts/hFfaqR5xJRQEAcipP/open-questions-in-ai-safety-grantmaking"
-    },
-    {
-      "text": "Operationalizing a pre-training R\u0026D pause",
-      "url": "https://www.lesswrong.com/posts/PPzdxdADERWTmHKuG/operationalizing-a-pre-training-r-and-d-pause"
-    },
-    {
-      "text": "Three LLM inflection points in twelve months",
-      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
     }
   ],
   "leftColumn": [
     {
-      "text": "Recursive Self Alignment: The Model is the Estimator",
-      "url": "https://www.lesswrong.com/posts/qvy8Tvhzg2PgfvHcs/recursive-self-alignment-the-model-is-the-estimator"
+      "text": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
     },
     {
-      "text": "Paths to extreme power concentration",
-      "url": "https://www.lesswrong.com/posts/JgbQZ5xoi9qm2mWza/paths-to-extreme-power-concentration"
+      "text": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    },
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
     },
     {
       "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
@@ -35,10 +39,6 @@
       "url": "https://arxiv.org/abs/2611.34781"
     },
     {
-      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
-      "url": "https://arxiv.org/abs/2611.33339"
-    },
-    {
       "text": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
       "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
     },
@@ -47,77 +47,77 @@
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "At least 25 court cases in England and Wales hit by undisclosed AI use",
-      "url": "https://dailyai.com/2026/11/uk-courts-undisclosed-ai-25-cases/"
+      "text": "Reflections on 37 weeks of hosting EA/LW/ACX board games",
+      "url": "https://www.lesswrong.com/posts/y8K3FREw4R7me99ib/reflections-on-37-weeks-of-hosting-ea-lw-acx-board-games"
     }
   ],
   "centerColumn": [
     {
-      "text": "When Rerankers Work Together: Better and Faster Reranking without Joint Training",
-      "url": "https://arxiv.org/abs/2611.33844"
+      "text": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
+      "url": "https://arxiv.org/abs/2611.34222"
     },
     {
-      "text": "ChemoMAE: Self-Supervised Spectral Representation Learning Reveals Chemical Heterogeneity in Historical Wood",
-      "url": "https://arxiv.org/abs/2611.34581"
+      "text": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
+      "url": "https://arxiv.org/abs/2611.33162"
     },
     {
-      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
-      "url": "https://arxiv.org/abs/2611.33925"
+      "text": "Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid",
+      "url": "https://arxiv.org/abs/2611.33828"
     },
     {
-      "text": "Connecting AI Agents to Live Discrete Element Simulations via the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2611.33926"
+      "text": "WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics",
+      "url": "https://arxiv.org/abs/2611.34130"
     },
     {
-      "text": "Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation",
-      "url": "https://arxiv.org/abs/2611.34393"
+      "text": "Reproducer Synthesis for AI-Reported Bugs in the Linux Kernel",
+      "url": "https://arxiv.org/abs/2611.34142"
     },
     {
-      "text": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
-      "url": "https://arxiv.org/abs/2611.34656"
+      "text": "Repairing the Trustworthiness of Distilled Language Models",
+      "url": "https://arxiv.org/abs/2611.34831"
     },
     {
-      "text": "The Danger of Double Precision: Working Precision as a Hidden Constraint in Gaussian Process Maximum Likelihood",
-      "url": "https://arxiv.org/abs/2611.33647"
+      "text": "Improved Sample Complexity of Robust Reinforcement Learning with KL Uncertainty Sets",
+      "url": "https://arxiv.org/abs/2611.33592"
     },
     {
-      "text": "EPPC-CARE: Staged Hierarchical Annotation of Communication Behaviors in Secure Patient-Provider Messages",
-      "url": "https://arxiv.org/abs/2611.34539"
+      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
+      "url": "https://arxiv.org/abs/2611.33302"
     }
   ],
   "rightColumn": [
     {
-      "text": "A Geometric Perspective on Reward Function Updates in Inverse Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.14041"
+      "text": "Change Point Detection with Generative Models",
+      "url": "https://arxiv.org/abs/2611.34228"
     },
     {
-      "text": "Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank",
-      "url": "https://arxiv.org/abs/2610.06621"
+      "text": "RoboEvo$^2$: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
+      "url": "https://arxiv.org/abs/2611.34675"
+    },
+    {
+      "text": "What Does Skill Lift Actually Measure? A Source-Code-Level Audit and Noise-Aware Reanalysis of SkillsBench",
+      "url": "https://arxiv.org/abs/2611.33943"
     },
     {
       "text": "LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees",
       "url": "https://arxiv.org/abs/2611.34275"
     },
     {
-      "text": "VisionQ: Benchmarking VLM Judges on Criterion-Specific Comparisons of Computer Vision Method Outputs",
-      "url": "https://arxiv.org/abs/2610.00666"
+      "text": "One Token, Many Lessons: Sliding-Window Attention within Gated Delta Networks",
+      "url": "https://arxiv.org/abs/2611.33257"
     },
     {
-      "text": "Large-scale factor analysis shows machine intelligence is only partially interpretable",
-      "url": "https://arxiv.org/abs/2609.36515"
+      "text": "FERRETS: A Scalable Symbolic Transform for Time Series Classification",
+      "url": "https://arxiv.org/abs/2611.33249"
     },
     {
-      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
-      "url": "https://arxiv.org/abs/2609.19569"
+      "text": "Typical Angina, Reversed: A Long-Standing Documentation Error in the UCI Heart Disease Data",
+      "url": "https://arxiv.org/abs/2611.33248"
     },
     {
       "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
       "url": "https://arxiv.org/abs/2611.34351"
-    },
-    {
-      "text": "Reification as a Transferable Vocabulary: Zero-Shot Link Prediction with Vanilla GNNs",
-      "url": "https://arxiv.org/abs/2609.11347"
     }
   ],
-  "lastUpdated": "2026-11-26T12:37:04Z"
+  "lastUpdated": "2026-11-26T15:28:55Z"
 }
