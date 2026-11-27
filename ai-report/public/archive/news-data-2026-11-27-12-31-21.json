@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+    "url": "https://arxiv.org/abs/2611.33806"
+  },
+  "topStories": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "A proposal sketch for a neutral organization to evaluate polygenic embryo screening claims",
+      "url": "https://www.lesswrong.com/posts/CznWqNqCXqYueWfef/a-proposal-sketch-for-a-neutral-organization-to-evaluate"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    },
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    },
+    {
+      "text": "Claude sabotaging SOTA ML research tasks",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Measuring and Predicting Image-Token Repair Boundaries in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.33388"
+    },
+    {
+      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
+      "url": "https://arxiv.org/abs/2611.33302"
+    },
+    {
+      "text": "Connecting AI Agents to Live Discrete Element Simulations via the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2611.33926"
+    },
+    {
+      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
+      "url": "https://arxiv.org/abs/2611.33925"
+    },
+    {
+      "text": "Semantic Density Does Not Predict Agent-Memory Collapse",
+      "url": "https://arxiv.org/abs/2611.33184"
+    },
+    {
+      "text": "When Rerankers Work Together: Better and Faster Reranking without Joint Training",
+      "url": "https://arxiv.org/abs/2611.33844"
+    },
+    {
+      "text": "Measuring Generative AI Content in Political Campaigns: Evidence of Rising Adoption and Non-Disclosure",
+      "url": "https://arxiv.org/abs/2611.11658"
+    },
+    {
+      "text": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+      "url": "https://arxiv.org/abs/2611.14949"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Angular Interpolation in Sparse-View Low-Dose CT Reconstruction: Placement Effects and Data-Consistency Step-Size Scaling",
+      "url": "https://arxiv.org/abs/2611.34508"
+    },
+    {
+      "text": "Long-Horizon Planning with Latent World Models via Graph Anchors",
+      "url": "https://arxiv.org/abs/2611.34509"
+    },
+    {
+      "text": "PURA: Video Token Pruning via Unified Spatiotemporal Redundancy Assessment",
+      "url": "https://arxiv.org/abs/2611.34521"
+    },
+    {
+      "text": "AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research",
+      "url": "https://arxiv.org/abs/2609.32472"
+    },
+    {
+      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+      "url": "https://arxiv.org/abs/2609.19569"
+    },
+    {
+      "text": "Recalling the Past to Answer the Present: Context-Aware Multi-Evidence Reasoning for Streaming Video Question Answering",
+      "url": "https://arxiv.org/abs/2611.34545"
+    },
+    {
+      "text": "An Information-Theoretic Analysis of Information Hiding in Semantic Communication",
+      "url": "https://arxiv.org/abs/2611.34550"
+    },
+    {
+      "text": "WorldBridge: Bridging Scattered Views for Coherent 3D World Generation",
+      "url": "https://arxiv.org/abs/2611.34079"
+    }
+  ],
+  "lastUpdated": "2026-11-27T12:31:21Z"
+}
