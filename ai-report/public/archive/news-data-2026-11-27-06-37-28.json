@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+    "url": "https://arxiv.org/abs/2611.33806"
+  },
+  "topStories": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "Where Is Uncertainty Observed? A Mechanistic Understanding of Uncertainty Quantification in LLMs",
+      "url": "https://arxiv.org/abs/2611.15735"
+    },
+    {
+      "text": "REFORGE: LLM-Assisted RTL Bug Repair with Structured Context and Verification Feedback",
+      "url": "https://arxiv.org/abs/2611.33748"
+    },
+    {
+      "text": "Architecture-Agnostic Feature Synergy for Universal Defense Against Heterogeneous Generative Threats",
+      "url": "https://arxiv.org/abs/2603.14860"
+    },
+    {
+      "text": "Thinking Deeper, Not Longer: Memory-Efficient Latent Chain-of-Thought with Depth-Recurrent Transformers for Compositional Generalization",
+      "url": "https://arxiv.org/abs/2603.21676"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Semantic Density Does Not Predict Agent-Memory Collapse",
+      "url": "https://arxiv.org/abs/2611.33184"
+    },
+    {
+      "text": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "url": "https://arxiv.org/abs/2611.33497"
+    },
+    {
+      "text": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "url": "https://arxiv.org/abs/2611.34575"
+    },
+    {
+      "text": "EPPC-CARE: Staged Hierarchical Annotation of Communication Behaviors in Secure Patient-Provider Messages",
+      "url": "https://arxiv.org/abs/2611.34539"
+    },
+    {
+      "text": "When Skills Fail to Compose: Compatibility and Retention in Language Models",
+      "url": "https://arxiv.org/abs/2611.34398"
+    },
+    {
+      "text": "Puzzling-Bench: Evaluating Language Models on 23,777 Human-Written Puzzles with Community-Verified Answers",
+      "url": "https://arxiv.org/abs/2611.34331"
+    },
+    {
+      "text": "CHD-Bench: Diagnosing Congenital Heart Disease through Interactive Examination",
+      "url": "https://arxiv.org/abs/2611.33775"
+    },
+    {
+      "text": "Lightweight Reasoning Transfer via Chain-of-Thought Vector Projection",
+      "url": "https://arxiv.org/abs/2611.34183"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Assessing the Physical Interpretability of AlphaEarth Foundation Embeddings Through Multi-Sensor Satellite Time-Series Benchmarking for Agricultural Mapping",
+      "url": "https://arxiv.org/abs/2611.34019"
+    },
+    {
+      "text": "Recalling the Past to Answer the Present: Context-Aware Multi-Evidence Reasoning for Streaming Video Question Answering",
+      "url": "https://arxiv.org/abs/2611.34545"
+    },
+    {
+      "text": "An Information-Theoretic Analysis of Information Hiding in Semantic Communication",
+      "url": "https://arxiv.org/abs/2611.34550"
+    },
+    {
+      "text": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "url": "https://arxiv.org/abs/2611.33402"
+    },
+    {
+      "text": "MetaDecomp: Adaptive Task Decomposition via Meta-Learned Procedural Memory",
+      "url": "https://arxiv.org/abs/2611.33822"
+    },
+    {
+      "text": "VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences",
+      "url": "https://arxiv.org/abs/2611.34603"
+    },
+    {
+      "text": "From Models to Services: Systematizing Security Assurance for Model-as-a-Service",
+      "url": "https://arxiv.org/abs/2611.34623"
+    },
+    {
+      "text": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
+      "url": "https://arxiv.org/abs/2611.34627"
+    }
+  ],
+  "lastUpdated": "2026-11-27T06:37:28Z"
+}
