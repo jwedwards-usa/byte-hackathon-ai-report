@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
-    "url": "https://arxiv.org/abs/2611.33806"
+    "text": "Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb",
+    "url": "https://www.lesswrong.com/posts/RFTWNPhm8jmnmaF5t/astra-6-2-s-brain-gets-smart-but-its-head-gets-dumb"
   },
   "topStories": [
     {
+      "text": "A Basic Case Against Differentially Accelerating Conceptual Reasoning",
+      "url": "https://www.lesswrong.com/posts/2EQ2y3eGqm952tAZ6/a-basic-case-against-differentially-accelerating-conceptual-1"
+    },
+    {
+      "text": "I don’t expect superposition in transformer MLP neurons",
+      "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
+    },
+    {
+      "text": "Too Big to Govern: The Huang Affair as a Live Case of Extensity.",
+      "url": "https://www.lesswrong.com/posts/hyhdRhDdkh4Bhvxpe/too-big-to-govern-the-huang-affair-as-a-live-case-of"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Five Seconds",
+      "url": "https://www.lesswrong.com/posts/iabLaZZj8TGMGrws9/five-seconds"
+    },
+    {
       "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
       "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
     },
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "A proposal sketch for a neutral organization to evaluate polygenic embryo screening claims",
-      "url": "https://www.lesswrong.com/posts/CznWqNqCXqYueWfef/a-proposal-sketch-for-a-neutral-organization-to-evaluate"
-    }
-  ],
-  "leftColumn": [
-    {
-      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
-      "url": "https://arxiv.org/abs/2601.12095"
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
     },
     {
       "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
       "url": "https://arxiv.org/abs/2608.07437"
     },
     {
-      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
-      "url": "https://arxiv.org/abs/2510.22232"
-    },
-    {
-      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "url": "https://arxiv.org/abs/2611.33161"
-    },
-    {
-      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
-      "url": "https://arxiv.org/abs/2611.32997"
-    },
-    {
       "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
       "url": "https://arxiv.org/abs/2611.33966"
     },
     {
-      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
-      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
-    },
-    {
-      "text": "Claude sabotaging SOTA ML research tasks",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
     }
   ],
   "centerColumn": [
     {
-      "text": "Measuring and Predicting Image-Token Repair Boundaries in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.33388"
+      "text": "Learning from Unreliable Operator References: Claim-Level Rewards for Customer Support Agents",
+      "url": "https://arxiv.org/abs/2611.34341"
     },
     {
-      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
-      "url": "https://arxiv.org/abs/2611.33302"
+      "text": "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts",
+      "url": "https://arxiv.org/abs/2611.34098"
     },
     {
-      "text": "Connecting AI Agents to Live Discrete Element Simulations via the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2611.33926"
+      "text": "Hijacking 3D Generation: Targeted Adversarial Attacks against Image-to-3D Models via Prefix Trajectory Alignment",
+      "url": "https://arxiv.org/abs/2611.34075"
     },
     {
-      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
-      "url": "https://arxiv.org/abs/2611.33925"
+      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "url": "https://arxiv.org/abs/2611.34035"
     },
     {
-      "text": "Semantic Density Does Not Predict Agent-Memory Collapse",
-      "url": "https://arxiv.org/abs/2611.33184"
+      "text": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160"
     },
     {
-      "text": "When Rerankers Work Together: Better and Faster Reranking without Joint Training",
-      "url": "https://arxiv.org/abs/2611.33844"
+      "text": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+      "url": "https://arxiv.org/abs/2611.34899"
     },
     {
-      "text": "Measuring Generative AI Content in Political Campaigns: Evidence of Rising Adoption and Non-Disclosure",
-      "url": "https://arxiv.org/abs/2611.11658"
+      "text": "Evaluating Ukrainian Grammatical Competence in Language Models: Probability Versus Prompting",
+      "url": "https://arxiv.org/abs/2611.34016"
     },
     {
-      "text": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
-      "url": "https://arxiv.org/abs/2611.14949"
+      "text": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "url": "https://arxiv.org/abs/2611.34934"
     }
   ],
   "rightColumn": [
     {
-      "text": "Angular Interpolation in Sparse-View Low-Dose CT Reconstruction: Placement Effects and Data-Consistency Step-Size Scaling",
-      "url": "https://arxiv.org/abs/2611.34508"
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
     },
     {
-      "text": "Long-Horizon Planning with Latent World Models via Graph Anchors",
-      "url": "https://arxiv.org/abs/2611.34509"
+      "text": "LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions",
+      "url": "https://arxiv.org/abs/2611.34328"
     },
     {
-      "text": "PURA: Video Token Pruning via Unified Spatiotemporal Redundancy Assessment",
-      "url": "https://arxiv.org/abs/2611.34521"
+      "text": "VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences",
+      "url": "https://arxiv.org/abs/2611.34603"
     },
     {
-      "text": "AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research",
-      "url": "https://arxiv.org/abs/2609.32472"
+      "text": "From Models to Services: Systematizing Security Assurance for Model-as-a-Service",
+      "url": "https://arxiv.org/abs/2611.34623"
     },
     {
-      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
-      "url": "https://arxiv.org/abs/2609.19569"
+      "text": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
+      "url": "https://arxiv.org/abs/2611.34627"
     },
     {
-      "text": "Recalling the Past to Answer the Present: Context-Aware Multi-Evidence Reasoning for Streaming Video Question Answering",
-      "url": "https://arxiv.org/abs/2611.34545"
+      "text": "WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation",
+      "url": "https://arxiv.org/abs/2611.34292"
     },
     {
-      "text": "An Information-Theoretic Analysis of Information Hiding in Semantic Communication",
-      "url": "https://arxiv.org/abs/2611.34550"
+      "text": "Carrying Feature Ablations Across Sparse Autoencoder Seeds",
+      "url": "https://arxiv.org/abs/2611.34637"
     },
     {
-      "text": "WorldBridge: Bridging Scattered Views for Coherent 3D World Generation",
-      "url": "https://arxiv.org/abs/2611.34079"
+      "text": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
+      "url": "https://arxiv.org/abs/2611.34644"
     }
   ],
-  "lastUpdated": "2026-11-27T12:31:21Z"
+  "lastUpdated": "2026-11-27T15:28:12Z"
 }

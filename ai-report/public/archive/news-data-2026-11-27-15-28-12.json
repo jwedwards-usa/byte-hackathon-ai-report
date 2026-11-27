@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb",
+    "url": "https://www.lesswrong.com/posts/RFTWNPhm8jmnmaF5t/astra-6-2-s-brain-gets-smart-but-its-head-gets-dumb"
+  },
+  "topStories": [
+    {
+      "text": "A Basic Case Against Differentially Accelerating Conceptual Reasoning",
+      "url": "https://www.lesswrong.com/posts/2EQ2y3eGqm952tAZ6/a-basic-case-against-differentially-accelerating-conceptual-1"
+    },
+    {
+      "text": "I don’t expect superposition in transformer MLP neurons",
+      "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
+    },
+    {
+      "text": "Too Big to Govern: The Huang Affair as a Live Case of Extensity.",
+      "url": "https://www.lesswrong.com/posts/hyhdRhDdkh4Bhvxpe/too-big-to-govern-the-huang-affair-as-a-live-case-of"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Five Seconds",
+      "url": "https://www.lesswrong.com/posts/iabLaZZj8TGMGrws9/five-seconds"
+    },
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Learning from Unreliable Operator References: Claim-Level Rewards for Customer Support Agents",
+      "url": "https://arxiv.org/abs/2611.34341"
+    },
+    {
+      "text": "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts",
+      "url": "https://arxiv.org/abs/2611.34098"
+    },
+    {
+      "text": "Hijacking 3D Generation: Targeted Adversarial Attacks against Image-to-3D Models via Prefix Trajectory Alignment",
+      "url": "https://arxiv.org/abs/2611.34075"
+    },
+    {
+      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "url": "https://arxiv.org/abs/2611.34035"
+    },
+    {
+      "text": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160"
+    },
+    {
+      "text": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+      "url": "https://arxiv.org/abs/2611.34899"
+    },
+    {
+      "text": "Evaluating Ukrainian Grammatical Competence in Language Models: Probability Versus Prompting",
+      "url": "https://arxiv.org/abs/2611.34016"
+    },
+    {
+      "text": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "url": "https://arxiv.org/abs/2611.34934"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
+    },
+    {
+      "text": "LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions",
+      "url": "https://arxiv.org/abs/2611.34328"
+    },
+    {
+      "text": "VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences",
+      "url": "https://arxiv.org/abs/2611.34603"
+    },
+    {
+      "text": "From Models to Services: Systematizing Security Assurance for Model-as-a-Service",
+      "url": "https://arxiv.org/abs/2611.34623"
+    },
+    {
+      "text": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
+      "url": "https://arxiv.org/abs/2611.34627"
+    },
+    {
+      "text": "WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation",
+      "url": "https://arxiv.org/abs/2611.34292"
+    },
+    {
+      "text": "Carrying Feature Ablations Across Sparse Autoencoder Seeds",
+      "url": "https://arxiv.org/abs/2611.34637"
+    },
+    {
+      "text": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
+      "url": "https://arxiv.org/abs/2611.34644"
+    }
+  ],
+  "lastUpdated": "2026-11-27T15:28:12Z"
+}
