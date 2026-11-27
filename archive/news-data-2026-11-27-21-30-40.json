@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb",
+    "url": "https://www.lesswrong.com/posts/RFTWNPhm8jmnmaF5t/astra-6-2-s-brain-gets-smart-but-its-head-gets-dumb"
+  },
+  "topStories": [
+    {
+      "text": "Help Peer: Good Teammates Can Be Fooled",
+      "url": "https://www.lesswrong.com/posts/5aBqg4BqrqyqJuggA/help-peer-good-teammates-can-be-fooled"
+    },
+    {
+      "text": "Thinking About LLMs in Terms of Cognitive Patterns",
+      "url": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"
+    },
+    {
+      "text": "A Basic Case Against Differentially Accelerating Conceptual Reasoning",
+      "url": "https://www.lesswrong.com/posts/2EQ2y3eGqm952tAZ6/a-basic-case-against-differentially-accelerating-conceptual-1"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "I don’t expect superposition in transformer MLP neurons",
+      "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "url": "https://arxiv.org/abs/2611.34575"
+    },
+    {
+      "text": "EPPC-CARE: Staged Hierarchical Annotation of Communication Behaviors in Secure Patient-Provider Messages",
+      "url": "https://arxiv.org/abs/2611.34539"
+    },
+    {
+      "text": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160"
+    },
+    {
+      "text": "Fine-Grained Instruction-Guided Graph Reasoning for Vision-and-Language Navigation",
+      "url": "https://arxiv.org/abs/2503.11006"
+    },
+    {
+      "text": "Neural Fidelity Calibration for Informative Sim-to-Real Adaptation",
+      "url": "https://arxiv.org/abs/2504.08604"
+    },
+    {
+      "text": "Failure Broadens, Success Sharpens: Continual Adaptation of Tool-Use Agents Across Diverse Tasks with Dual-Polarity Memory",
+      "url": "https://arxiv.org/abs/2611.33612"
+    },
+    {
+      "text": "IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2512.14166"
+    },
+    {
+      "text": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
+      "url": "https://arxiv.org/abs/2611.34222"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
+      "url": "https://arxiv.org/abs/2611.34644"
+    },
+    {
+      "text": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+      "url": "https://arxiv.org/abs/2611.34852"
+    },
+    {
+      "text": "$\\mu$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+      "url": "https://arxiv.org/abs/2611.34920"
+    },
+    {
+      "text": "DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering",
+      "url": "https://arxiv.org/abs/2611.34671"
+    },
+    {
+      "text": "RoboEvo$^2$: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
+      "url": "https://arxiv.org/abs/2611.34675"
+    },
+    {
+      "text": "Find the Clue, Not the Scene: Rethinking Reasoning for Entity Recognition in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.34681"
+    },
+    {
+      "text": "Noise threshold for learning with quantum memory",
+      "url": "https://arxiv.org/abs/2611.34474"
+    },
+    {
+      "text": "Maco-RL: Scaling Agent Capabilities with Mixed-Task Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.34703"
+    }
+  ],
+  "lastUpdated": "2026-11-27T21:30:40Z"
+}
