@@ -9,95 +9,83 @@
       "url": "https://arxiv.org/abs/2611.33339"
     },
     {
-      "text": "A proposal sketch for a neutral organization to evaluate polygenic embryo screening claims",
-      "url": "https://www.lesswrong.com/posts/CznWqNqCXqYueWfef/a-proposal-sketch-for-a-neutral-organization-to-evaluate"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
-      "url": "https://arxiv.org/abs/2510.22232"
+      "text": "A proposal sketch for a neutral organization to evaluate polygenic embryo screening claims",
+      "url": "https://www.lesswrong.com/posts/CznWqNqCXqYueWfef/a-proposal-sketch-for-a-neutral-organization-to-evaluate"
     }
   ],
   "leftColumn": [
     {
-      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
-      "url": "https://arxiv.org/abs/2611.32997"
-    },
-    {
       "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
       "url": "https://arxiv.org/abs/2601.12095"
-    },
-    {
-      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "url": "https://arxiv.org/abs/2611.33161"
-    },
-    {
-      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
-      "url": "https://arxiv.org/abs/2611.33966"
     },
     {
       "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
       "url": "https://arxiv.org/abs/2608.07437"
     },
     {
-      "text": "Improving fine-grained expressivity of graph neural networks",
-      "url": "https://arxiv.org/abs/2611.20020"
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
     },
     {
-      "text": "PowerFix: Physics-Guided Iterative Repair for LLM-Assisted Power Converter Design",
-      "url": "https://arxiv.org/abs/2611.33712"
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
     },
     {
-      "text": "Shadows in the Code: Exploring the Risks and Defenses of LLM-based Multi-Agent Software Development Systems",
-      "url": "https://arxiv.org/abs/2511.18467"
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    },
+    {
+      "text": "Claude sabotaging SOTA ML research tasks",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
     }
   ],
   "centerColumn": [
     {
-      "text": "Enhancing Maritime Domain Awareness using Latent Space Representations",
-      "url": "https://arxiv.org/abs/2611.34899"
+      "text": "Measuring and Predicting Image-Token Repair Boundaries in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.33388"
     },
     {
-      "text": "Disciplined Anthropomorphism: How to Extend Cognitive Language to Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2611.34090"
+      "text": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
+      "url": "https://arxiv.org/abs/2611.33302"
     },
     {
-      "text": "Repairing the Trustworthiness of Distilled Language Models",
-      "url": "https://arxiv.org/abs/2611.34831"
+      "text": "Connecting AI Agents to Live Discrete Element Simulations via the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2611.33926"
     },
     {
-      "text": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
-      "url": "https://arxiv.org/abs/2611.34830"
+      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
+      "url": "https://arxiv.org/abs/2611.33925"
     },
     {
-      "text": "From Data Room to Report: End-to-End AI Support for M\u0026A Legal Due Diligence",
-      "url": "https://arxiv.org/abs/2611.34120"
+      "text": "Semantic Density Does Not Predict Agent-Memory Collapse",
+      "url": "https://arxiv.org/abs/2611.33184"
     },
     {
-      "text": "EATS: Scaling Tool-Use Experience for Medical Reasoning Agents",
-      "url": "https://arxiv.org/abs/2611.33897"
+      "text": "When Rerankers Work Together: Better and Faster Reranking without Joint Training",
+      "url": "https://arxiv.org/abs/2611.33844"
     },
     {
-      "text": "Multi-Party Authorization of Maintenance Prescriptions on a Permissioned Blockchain",
-      "url": "https://arxiv.org/abs/2611.34662"
+      "text": "Measuring Generative AI Content in Political Campaigns: Evidence of Rising Adoption and Non-Disclosure",
+      "url": "https://arxiv.org/abs/2611.11658"
     },
     {
-      "text": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
-      "url": "https://arxiv.org/abs/2611.34656"
+      "text": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+      "url": "https://arxiv.org/abs/2611.14949"
     }
   ],
   "rightColumn": [
-    {
-      "text": "CARROT: Competitive Adaptive Graph Clustering via Semi-Relaxed Optimal Transport",
-      "url": "https://arxiv.org/abs/2611.34012"
-    },
-    {
-      "text": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
-      "url": "https://arxiv.org/abs/2611.34457"
-    },
-    {
-      "text": "Noise threshold for learning with quantum memory",
-      "url": "https://arxiv.org/abs/2611.34474"
-    },
     {
       "text": "Angular Interpolation in Sparse-View Low-Dose CT Reconstruction: Placement Effects and Data-Consistency Step-Size Scaling",
       "url": "https://arxiv.org/abs/2611.34508"
@@ -111,13 +99,25 @@
       "url": "https://arxiv.org/abs/2611.34521"
     },
     {
-      "text": "When the Proxy Is Wrong: Mismatch-Corrected Bandits for Adaptive Data Sampling",
-      "url": "https://arxiv.org/abs/2611.34707"
+      "text": "AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research",
+      "url": "https://arxiv.org/abs/2609.32472"
     },
     {
-      "text": "Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation",
-      "url": "https://arxiv.org/abs/2611.33993"
+      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+      "url": "https://arxiv.org/abs/2609.19569"
+    },
+    {
+      "text": "Recalling the Past to Answer the Present: Context-Aware Multi-Evidence Reasoning for Streaming Video Question Answering",
+      "url": "https://arxiv.org/abs/2611.34545"
+    },
+    {
+      "text": "An Information-Theoretic Analysis of Information Hiding in Semantic Communication",
+      "url": "https://arxiv.org/abs/2611.34550"
+    },
+    {
+      "text": "WorldBridge: Bridging Scattered Views for Coherent 3D World Generation",
+      "url": "https://arxiv.org/abs/2611.34079"
     }
   ],
-  "lastUpdated": "2026-11-27T09:37:48Z"
+  "lastUpdated": "2026-11-27T12:31:21Z"
 }
