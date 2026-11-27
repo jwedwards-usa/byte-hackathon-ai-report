@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+    "url": "https://arxiv.org/abs/2611.33806"
+  },
+  "topStories": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "A proposal sketch for a neutral organization to evaluate polygenic embryo screening claims",
+      "url": "https://www.lesswrong.com/posts/CznWqNqCXqYueWfef/a-proposal-sketch-for-a-neutral-organization-to-evaluate"
+    },
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    },
+    {
+      "text": "Improving fine-grained expressivity of graph neural networks",
+      "url": "https://arxiv.org/abs/2611.20020"
+    },
+    {
+      "text": "PowerFix: Physics-Guided Iterative Repair for LLM-Assisted Power Converter Design",
+      "url": "https://arxiv.org/abs/2611.33712"
+    },
+    {
+      "text": "Shadows in the Code: Exploring the Risks and Defenses of LLM-based Multi-Agent Software Development Systems",
+      "url": "https://arxiv.org/abs/2511.18467"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+      "url": "https://arxiv.org/abs/2611.34899"
+    },
+    {
+      "text": "Disciplined Anthropomorphism: How to Extend Cognitive Language to Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2611.34090"
+    },
+    {
+      "text": "Repairing the Trustworthiness of Distilled Language Models",
+      "url": "https://arxiv.org/abs/2611.34831"
+    },
+    {
+      "text": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+      "url": "https://arxiv.org/abs/2611.34830"
+    },
+    {
+      "text": "From Data Room to Report: End-to-End AI Support for M\u0026A Legal Due Diligence",
+      "url": "https://arxiv.org/abs/2611.34120"
+    },
+    {
+      "text": "EATS: Scaling Tool-Use Experience for Medical Reasoning Agents",
+      "url": "https://arxiv.org/abs/2611.33897"
+    },
+    {
+      "text": "Multi-Party Authorization of Maintenance Prescriptions on a Permissioned Blockchain",
+      "url": "https://arxiv.org/abs/2611.34662"
+    },
+    {
+      "text": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
+      "url": "https://arxiv.org/abs/2611.34656"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "CARROT: Competitive Adaptive Graph Clustering via Semi-Relaxed Optimal Transport",
+      "url": "https://arxiv.org/abs/2611.34012"
+    },
+    {
+      "text": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+      "url": "https://arxiv.org/abs/2611.34457"
+    },
+    {
+      "text": "Noise threshold for learning with quantum memory",
+      "url": "https://arxiv.org/abs/2611.34474"
+    },
+    {
+      "text": "Angular Interpolation in Sparse-View Low-Dose CT Reconstruction: Placement Effects and Data-Consistency Step-Size Scaling",
+      "url": "https://arxiv.org/abs/2611.34508"
+    },
+    {
+      "text": "Long-Horizon Planning with Latent World Models via Graph Anchors",
+      "url": "https://arxiv.org/abs/2611.34509"
+    },
+    {
+      "text": "PURA: Video Token Pruning via Unified Spatiotemporal Redundancy Assessment",
+      "url": "https://arxiv.org/abs/2611.34521"
+    },
+    {
+      "text": "When the Proxy Is Wrong: Mismatch-Corrected Bandits for Adaptive Data Sampling",
+      "url": "https://arxiv.org/abs/2611.34707"
+    },
+    {
+      "text": "Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation",
+      "url": "https://arxiv.org/abs/2611.33993"
+    }
+  ],
+  "lastUpdated": "2026-11-27T09:37:48Z"
+}
