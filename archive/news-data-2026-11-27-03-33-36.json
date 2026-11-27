@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Update - BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format",
+    "url": "https://www.lesswrong.com/posts/obaXD5iJFbJ2fyXL4/update-bioblue-systematic-runaway-optimiser-like-llm-failure"
+  },
+  "topStories": [
+    {
+      "text": "Chinese AI is a massive supply chain risk",
+      "url": "https://www.lesswrong.com/posts/MucksTgjXKDyh5jup/chinese-ai-is-a-massive-supply-chain-risk"
+    },
+    {
+      "text": "Claudes just want to have fun!",
+      "url": "https://www.lesswrong.com/posts/3MnZt3ZPcgnaDQWod/claudes-just-want-to-have-fun"
+    },
+    {
+      "text": "Diversify AI Safety Approaches",
+      "url": "https://www.lesswrong.com/posts/u7ECnXL4fjh6c4M7m/diversify-ai-safety-approaches"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Announcing: AI Safety Co-Founding Sprint in San Francisco. Starting December 3rd.",
+      "url": "https://www.lesswrong.com/posts/c9wNKhKfkiD2ePpDG/announcing-ai-safety-co-founding-sprint-in-san-francisco"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
+    },
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    },
+    {
+      "text": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
+      "url": "https://arxiv.org/abs/2611.33407"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "url": "https://arxiv.org/abs/2611.34035"
+    },
+    {
+      "text": "Anti-Collapse Dynamics and the Emergence of Multi-Time-Scale Learning in Recurrent Neural Networks",
+      "url": "https://arxiv.org/abs/2606.29519"
+    },
+    {
+      "text": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
+      "url": "https://arxiv.org/abs/2611.34222"
+    },
+    {
+      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
+      "url": "https://arxiv.org/abs/2611.33925"
+    },
+    {
+      "text": "When High Capacity Becomes Undeployable: Pore-Filling Constraints for Multi-Objective Optimization of Direct Air Capture Sorbents",
+      "url": "https://arxiv.org/abs/2611.34154"
+    },
+    {
+      "text": "EXPOSURE: Explaining Sources of Uncertainty in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.34248"
+    },
+    {
+      "text": "Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids",
+      "url": "https://arxiv.org/abs/2605.23194"
+    },
+    {
+      "text": "Variational Principles and Machine Learning: a Numerical Analysis and PDE perspective",
+      "url": "https://arxiv.org/abs/2611.34314"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Change Point Detection with Generative Models",
+      "url": "https://arxiv.org/abs/2611.34228"
+    },
+    {
+      "text": "FERRETS: A Scalable Symbolic Transform for Time Series Classification",
+      "url": "https://arxiv.org/abs/2611.33249"
+    },
+    {
+      "text": "WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2611.33745"
+    },
+    {
+      "text": "LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees",
+      "url": "https://arxiv.org/abs/2611.34275"
+    },
+    {
+      "text": "Typical Angina, Reversed: A Long-Standing Documentation Error in the UCI Heart Disease Data",
+      "url": "https://arxiv.org/abs/2611.33248"
+    },
+    {
+      "text": "Verified experience improves materials prediction with large language models",
+      "url": "https://arxiv.org/abs/2611.33195"
+    },
+    {
+      "text": "Extraneous Cognitive Load in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.33197"
+    },
+    {
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
+    }
+  ],
+  "lastUpdated": "2026-11-27T03:33:36Z"
+}

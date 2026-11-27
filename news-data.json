@@ -5,19 +5,23 @@
   },
   "topStories": [
     {
+      "text": "Chinese AI is a massive supply chain risk",
+      "url": "https://www.lesswrong.com/posts/MucksTgjXKDyh5jup/chinese-ai-is-a-massive-supply-chain-risk"
+    },
+    {
+      "text": "Claudes just want to have fun!",
+      "url": "https://www.lesswrong.com/posts/3MnZt3ZPcgnaDQWod/claudes-just-want-to-have-fun"
+    },
+    {
       "text": "Diversify AI Safety Approaches",
       "url": "https://www.lesswrong.com/posts/u7ECnXL4fjh6c4M7m/diversify-ai-safety-approaches"
-    },
+    }
+  ],
+  "leftColumn": [
     {
       "text": "Announcing: AI Safety Co-Founding Sprint in San Francisco. Starting December 3rd.",
       "url": "https://www.lesswrong.com/posts/c9wNKhKfkiD2ePpDG/announcing-ai-safety-co-founding-sprint-in-san-francisco"
     },
-    {
-      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
-      "url": "https://arxiv.org/abs/2611.33339"
-    }
-  ],
-  "leftColumn": [
     {
       "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
       "url": "https://arxiv.org/abs/2611.33806"
@@ -27,97 +31,93 @@
       "url": "https://arxiv.org/abs/2611.34781"
     },
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
     },
     {
-      "text": "P(doom | no AGI) \u003e 0",
-      "url": "https://www.lesswrong.com/posts/X8GAWzKYQhpxABtT8/p-doom-or-no-agi-greater-than-0"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
       "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
       "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
     },
     {
-      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
-      "url": "https://arxiv.org/abs/2601.12095"
+      "text": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
+      "url": "https://arxiv.org/abs/2611.33407"
     },
     {
-      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
-      "url": "https://arxiv.org/abs/2510.22232"
-    },
-    {
-      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
-      "url": "https://arxiv.org/abs/2611.32997"
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
     }
   ],
   "centerColumn": [
+    {
+      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "url": "https://arxiv.org/abs/2611.34035"
+    },
+    {
+      "text": "Anti-Collapse Dynamics and the Emergence of Multi-Time-Scale Learning in Recurrent Neural Networks",
+      "url": "https://arxiv.org/abs/2606.29519"
+    },
+    {
+      "text": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
+      "url": "https://arxiv.org/abs/2611.34222"
+    },
+    {
+      "text": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
+      "url": "https://arxiv.org/abs/2611.33925"
+    },
+    {
+      "text": "When High Capacity Becomes Undeployable: Pore-Filling Constraints for Multi-Objective Optimization of Direct Air Capture Sorbents",
+      "url": "https://arxiv.org/abs/2611.34154"
+    },
+    {
+      "text": "EXPOSURE: Explaining Sources of Uncertainty in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.34248"
+    },
     {
       "text": "Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids",
       "url": "https://arxiv.org/abs/2605.23194"
     },
     {
-      "text": "BayesFlow 2: Multi-Backend Amortized Bayesian Inference in Python",
-      "url": "https://arxiv.org/abs/2602.07098"
-    },
-    {
-      "text": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
-      "url": "https://arxiv.org/abs/2605.22940"
-    },
-    {
-      "text": "The Transformer as a Polar State Estimator",
-      "url": "https://arxiv.org/abs/2605.11007"
-    },
-    {
-      "text": "EATS: Scaling Tool-Use Experience for Medical Reasoning Agents",
-      "url": "https://arxiv.org/abs/2611.33897"
-    },
-    {
-      "text": "A Threshold Model of Fault Propagation in AI-Native Software Ecosystems",
-      "url": "https://arxiv.org/abs/2604.19827"
-    },
-    {
-      "text": "What Does RL Post-Training Teach Text-to-Image Models? A Skill-Wise Analysis of Flow-GRPO",
-      "url": "https://arxiv.org/abs/2611.33316"
-    },
-    {
-      "text": "Neural Fidelity Calibration for Informative Sim-to-Real Adaptation",
-      "url": "https://arxiv.org/abs/2504.08604"
+      "text": "Variational Principles and Machine Learning: a Numerical Analysis and PDE perspective",
+      "url": "https://arxiv.org/abs/2611.34314"
     }
   ],
   "rightColumn": [
     {
-      "text": "Temporal Exposure to Byzantine Vulnerability Under Intermittent Participation in Federated Learning",
-      "url": "https://arxiv.org/abs/2611.33168"
+      "text": "Change Point Detection with Generative Models",
+      "url": "https://arxiv.org/abs/2611.34228"
     },
     {
-      "text": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
-      "url": "https://arxiv.org/abs/2607.19747"
+      "text": "FERRETS: A Scalable Symbolic Transform for Time Series Classification",
+      "url": "https://arxiv.org/abs/2611.33249"
+    },
+    {
+      "text": "WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2611.33745"
+    },
+    {
+      "text": "LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees",
+      "url": "https://arxiv.org/abs/2611.34275"
+    },
+    {
+      "text": "Typical Angina, Reversed: A Long-Standing Documentation Error in the UCI Heart Disease Data",
+      "url": "https://arxiv.org/abs/2611.33248"
+    },
+    {
+      "text": "Verified experience improves materials prediction with large language models",
+      "url": "https://arxiv.org/abs/2611.33195"
+    },
+    {
+      "text": "Extraneous Cognitive Load in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.33197"
     },
     {
       "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
       "url": "https://arxiv.org/abs/2611.34351"
-    },
-    {
-      "text": "NOLLI: A Difficulty-Calibrated English-Korean Puzzle Benchmark",
-      "url": "https://arxiv.org/abs/2608.04397"
-    },
-    {
-      "text": "HumblePRM: Improving VLM Abstention in Ambiguous Situations through Process Reward Modeling",
-      "url": "https://arxiv.org/abs/2611.33452"
-    },
-    {
-      "text": "DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement",
-      "url": "https://arxiv.org/abs/2611.34472"
-    },
-    {
-      "text": "Auditing Identity and Timing Signals in Operational Logs",
-      "url": "https://arxiv.org/abs/2611.34493"
-    },
-    {
-      "text": "Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios",
-      "url": "https://arxiv.org/abs/2611.31249"
     }
   ],
-  "lastUpdated": "2026-11-27T00:41:18Z"
+  "lastUpdated": "2026-11-27T03:33:36Z"
 }
