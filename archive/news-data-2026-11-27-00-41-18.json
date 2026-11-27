@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Update - BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format",
+    "url": "https://www.lesswrong.com/posts/obaXD5iJFbJ2fyXL4/update-bioblue-systematic-runaway-optimiser-like-llm-failure"
+  },
+  "topStories": [
+    {
+      "text": "Diversify AI Safety Approaches",
+      "url": "https://www.lesswrong.com/posts/u7ECnXL4fjh6c4M7m/diversify-ai-safety-approaches"
+    },
+    {
+      "text": "Announcing: AI Safety Co-Founding Sprint in San Francisco. Starting December 3rd.",
+      "url": "https://www.lesswrong.com/posts/c9wNKhKfkiD2ePpDG/announcing-ai-safety-co-founding-sprint-in-san-francisco"
+    },
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "P(doom | no AGI) \u003e 0",
+      "url": "https://www.lesswrong.com/posts/X8GAWzKYQhpxABtT8/p-doom-or-no-agi-greater-than-0"
+    },
+    {
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    },
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids",
+      "url": "https://arxiv.org/abs/2605.23194"
+    },
+    {
+      "text": "BayesFlow 2: Multi-Backend Amortized Bayesian Inference in Python",
+      "url": "https://arxiv.org/abs/2602.07098"
+    },
+    {
+      "text": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
+      "url": "https://arxiv.org/abs/2605.22940"
+    },
+    {
+      "text": "The Transformer as a Polar State Estimator",
+      "url": "https://arxiv.org/abs/2605.11007"
+    },
+    {
+      "text": "EATS: Scaling Tool-Use Experience for Medical Reasoning Agents",
+      "url": "https://arxiv.org/abs/2611.33897"
+    },
+    {
+      "text": "A Threshold Model of Fault Propagation in AI-Native Software Ecosystems",
+      "url": "https://arxiv.org/abs/2604.19827"
+    },
+    {
+      "text": "What Does RL Post-Training Teach Text-to-Image Models? A Skill-Wise Analysis of Flow-GRPO",
+      "url": "https://arxiv.org/abs/2611.33316"
+    },
+    {
+      "text": "Neural Fidelity Calibration for Informative Sim-to-Real Adaptation",
+      "url": "https://arxiv.org/abs/2504.08604"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "Temporal Exposure to Byzantine Vulnerability Under Intermittent Participation in Federated Learning",
+      "url": "https://arxiv.org/abs/2611.33168"
+    },
+    {
+      "text": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+      "url": "https://arxiv.org/abs/2607.19747"
+    },
+    {
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
+    },
+    {
+      "text": "NOLLI: A Difficulty-Calibrated English-Korean Puzzle Benchmark",
+      "url": "https://arxiv.org/abs/2608.04397"
+    },
+    {
+      "text": "HumblePRM: Improving VLM Abstention in Ambiguous Situations through Process Reward Modeling",
+      "url": "https://arxiv.org/abs/2611.33452"
+    },
+    {
+      "text": "DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement",
+      "url": "https://arxiv.org/abs/2611.34472"
+    },
+    {
+      "text": "Auditing Identity and Timing Signals in Operational Logs",
+      "url": "https://arxiv.org/abs/2611.34493"
+    },
+    {
+      "text": "Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios",
+      "url": "https://arxiv.org/abs/2611.31249"
+    }
+  ],
+  "lastUpdated": "2026-11-27T00:41:18Z"
+}
