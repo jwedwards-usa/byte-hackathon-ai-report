@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Who/What/Where/How of Compute Verification",
+    "url": "https://www.lesswrong.com/posts/isY2zw4fQSRLooMfL/who-what-where-how-of-compute-verification"
+  },
+  "topStories": [
+    {
+      "text": "Help Peer: Good Teammates Can Be Fooled",
+      "url": "https://www.lesswrong.com/posts/5aBqg4BqrqyqJuggA/help-peer-good-teammates-can-be-fooled"
+    },
+    {
+      "text": "Thinking About LLMs in Terms of Cognitive Patterns",
+      "url": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"
+    },
+    {
+      "text": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
+      "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "Capturing My Favorite Electric Piano",
+      "url": "https://www.lesswrong.com/posts/uTrkTFk4wFjb7Xoqq/capturing-my-favorite-electric-piano"
+    },
+    {
+      "text": "I don’t expect superposition in transformer MLP neurons",
+      "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
+    },
+    {
+      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+      "url": "https://arxiv.org/abs/2611.33966"
+    },
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "RoboThink: Let the Agent Think, Let the Policy Act",
+      "url": "https://arxiv.org/abs/2611.30111"
+    },
+    {
+      "text": "MathConstruct: Challenging LLM Reasoning with Constructive Proofs",
+      "url": "https://arxiv.org/abs/2502.10197"
+    },
+    {
+      "text": "Evaluating Ukrainian Grammatical Competence in Language Models: Probability Versus Prompting",
+      "url": "https://arxiv.org/abs/2611.34016"
+    },
+    {
+      "text": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160"
+    },
+    {
+      "text": "ReviewSense: Cluster-Guided Evidence Selection for Actionable Review-to-Advice Generation",
+      "url": "https://arxiv.org/abs/2510.16466"
+    },
+    {
+      "text": "Training language models on first-person reactions can instil the beliefs behind them",
+      "url": "https://arxiv.org/abs/2610.31683"
+    },
+    {
+      "text": "MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules",
+      "url": "https://arxiv.org/abs/2611.33985"
+    },
+    {
+      "text": "Measuring and Predicting Image-Token Repair Boundaries in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.33388"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+      "url": "https://arxiv.org/abs/2611.34852"
+    },
+    {
+      "text": "VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences",
+      "url": "https://arxiv.org/abs/2611.34603"
+    },
+    {
+      "text": "From Models to Services: Systematizing Security Assurance for Model-as-a-Service",
+      "url": "https://arxiv.org/abs/2611.34623"
+    },
+    {
+      "text": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
+      "url": "https://arxiv.org/abs/2611.34627"
+    },
+    {
+      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+      "url": "https://arxiv.org/abs/2611.34351"
+    },
+    {
+      "text": "Carrying Feature Ablations Across Sparse Autoencoder Seeds",
+      "url": "https://arxiv.org/abs/2611.34637"
+    },
+    {
+      "text": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
+      "url": "https://arxiv.org/abs/2611.34644"
+    },
+    {
+      "text": "LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions",
+      "url": "https://arxiv.org/abs/2611.34328"
+    }
+  ],
+  "lastUpdated": "2026-11-28T03:30:33Z"
+}
