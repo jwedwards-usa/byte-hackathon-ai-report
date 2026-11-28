@@ -1,9 +1,13 @@
 {
   "mainHeadline": {
-    "text": "It's a Belief Cascade",
-    "url": "https://www.lesswrong.com/posts/2kZgma6h2epedGBtD/it-s-a-belief-cascade"
+    "text": "Compound Agents Agenda",
+    "url": "https://www.lesswrong.com/posts/WcSLssu8u5ZTcjuBB/compound-agents-agenda"
   },
   "topStories": [
+    {
+      "text": "It's a Belief Cascade",
+      "url": "https://www.lesswrong.com/posts/2kZgma6h2epedGBtD/it-s-a-belief-cascade"
+    },
     {
       "text": "R\u0026D compute explains much of Anthropic's acceleration",
       "url": "https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration"
@@ -11,13 +15,17 @@
     {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "AI’s biggest constraint isn’t Congress — it’s permission",
+      "url": "https://dailyai.com/2026/11/ais-biggest-constraint-isnt-congress-its-permission/"
     },
     {
       "text": "Emergent moral judgment in visual transformer models",
       "url": "https://www.lesswrong.com/posts/Mrcmze6Db9i5ibamR/emergent-moral-judgment-in-visual-transformer-models"
-    }
-  ],
-  "leftColumn": [
+    },
     {
       "text": "Can LLMs Operate Wetlab Equipment?",
       "url": "https://www.lesswrong.com/posts/SjwzazYRZDsq4hhoq/can-llms-operate-wetlab-equipment"
@@ -27,46 +35,30 @@
       "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
     },
     {
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    },
+    {
+      "text": "How to Test LLM State Tracking With a StateBench-Style Deployment Log",
+      "url": "https://towardsdatascience.com/how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log/"
+    },
+    {
       "text": "Insufficiently Rat-Resistant Trash Bins",
       "url": "https://www.lesswrong.com/posts/6w3Cxe7jb8yJ8CFm5/insufficiently-rat-resistant-trash-bins"
     },
     {
       "text": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
       "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
-    },
-    {
-      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
-      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
-    },
-    {
-      "text": "Attack graphs for AI takeover",
-      "url": "https://www.lesswrong.com/posts/bpxEdN7CeEJvkJyq4/attack-graphs-for-ai-takeover"
-    },
-    {
-      "text": "Good domestic politics vs bad state realpolitik",
-      "url": "https://www.lesswrong.com/posts/sQWvX3irLhuoSxpXu/good-domestic-politics-vs-bad-state-realpolitik"
-    },
-    {
-      "text": "Quoting Jack Despain Zhou",
-      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
     }
   ],
   "centerColumn": [
     {
+      "text": "DailyAI Briefing: Japan writes AI rules for its military, plus 4 more",
+      "url": "https://dailyai.com/2026/11/dailyai-briefing-japan-writes-ai-rules-for-its-military-plus-4-more/"
+    },
+    {
       "text": "Iranian state media’s AI video threatens Amazon, Microsoft and SpaceX",
       "url": "https://dailyai.com/2026/11/iranian-state-medias-ai-video-threatens-amazon-microsoft-and-spacex/"
-    },
-    {
-      "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
-    },
-    {
-      "text": "Poland signs a $300 million Palantir deal for battlefield AI",
-      "url": "https://dailyai.com/2026/11/poland-signs-a-300-million-palantir-deal-for-battlefield-ai/"
-    },
-    {
-      "text": "Nvidia’s most advanced chips turn up in a Shanghai loan document",
-      "url": "https://dailyai.com/2026/11/nvidias-most-advanced-chips-turn-up-in-a-shanghai-loan-document/"
     },
     {
       "text": "Claude sabotaging ML research tasks?",
@@ -81,15 +73,19 @@
       "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/"
     },
     {
-      "text": "Sony spinout Altair raises $100m for AI-wearable modem chip",
-      "url": "https://dailyai.com/2026/11/sony-spinout-altair-raises-100m-for-ai-wearable-modem-chip/"
+      "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
+    },
+    {
+      "text": "Poland signs a $300 million Palantir deal for battlefield AI",
+      "url": "https://dailyai.com/2026/11/poland-signs-a-300-million-palantir-deal-for-battlefield-ai/"
+    },
+    {
+      "text": "Nvidia’s most advanced chips turn up in a Shanghai loan document",
+      "url": "https://dailyai.com/2026/11/nvidias-most-advanced-chips-turn-up-in-a-shanghai-loan-document/"
     }
   ],
   "rightColumn": [
-    {
-      "text": "Shuffle the Questions to Catch an LLM That Memorized Its Benchmark",
-      "url": "https://towardsdatascience.com/shuffle-the-questions-to-catch-an-llm-that-memorized-its-benchmark/"
-    },
     {
       "text": "\"Orwell vs Machiavelli\"—A Letter to Vishal Prasad",
       "url": "https://www.lesswrong.com/posts/LFtujcrJQ8gNYkXqr/orwell-vs-machiavelli-a-letter-to-vishal-prasad"
@@ -97,6 +93,18 @@
     {
       "text": "From modal agents to simultaneous proof search: a first attempt",
       "url": "https://www.lesswrong.com/posts/mLsxPqcqreDqwNDg9/from-modal-agents-to-simultaneous-proof-search-a-first"
+    },
+    {
+      "text": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/"
+    },
+    {
+      "text": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3"
+    },
+    {
+      "text": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
     },
     {
       "text": "The proof nobody could read just got 228 times smaller",
@@ -109,15 +117,7 @@
     {
       "text": "Belgian region orders Google to stop building its data center",
       "url": "https://dailyai.com/2026/11/belgian-region-orders-google-to-stop-building-its-data-center/"
-    },
-    {
-      "text": "Our 2027 Innovators Under 35 competition is now open",
-      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/"
-    },
-    {
-      "text": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-      "url": "https://huggingface.co/blog/video-trainium3"
     }
   ],
-  "lastUpdated": "2026-11-28T12:32:09Z"
+  "lastUpdated": "2026-11-28T15:28:44Z"
 }
