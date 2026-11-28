@@ -1,7 +1,7 @@
 {
   "mainHeadline": {
-    "text": "Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb",
-    "url": "https://www.lesswrong.com/posts/RFTWNPhm8jmnmaF5t/astra-6-2-s-brain-gets-smart-but-its-head-gets-dumb"
+    "text": "Who/What/Where/How of Compute Verification",
+    "url": "https://www.lesswrong.com/posts/isY2zw4fQSRLooMfL/who-what-where-how-of-compute-verification"
   },
   "topStories": [
     {
@@ -9,12 +9,12 @@
       "url": "https://www.lesswrong.com/posts/5aBqg4BqrqyqJuggA/help-peer-good-teammates-can-be-fooled"
     },
     {
-      "text": "Thinking About LLMs in Terms of Cognitive Patterns",
-      "url": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"
+      "text": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
+      "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
     },
     {
-      "text": "A Basic Case Against Differentially Accelerating Conceptual Reasoning",
-      "url": "https://www.lesswrong.com/posts/2EQ2y3eGqm952tAZ6/a-basic-case-against-differentially-accelerating-conceptual-1"
+      "text": "Thinking About LLMs in Terms of Cognitive Patterns",
+      "url": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"
     }
   ],
   "leftColumn": [
@@ -35,89 +35,89 @@
       "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
     },
     {
-      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
-      "url": "https://arxiv.org/abs/2611.33966"
-    },
-    {
-      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "url": "https://arxiv.org/abs/2611.33161"
-    },
-    {
-      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
-      "url": "https://arxiv.org/abs/2608.07437"
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
     },
     {
       "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
       "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
     }
   ],
   "centerColumn": [
     {
-      "text": "Sage-Med: Scaling Medical Multimodal Intelligence",
-      "url": "https://arxiv.org/abs/2611.34575"
+      "text": "AI-human hybrid conversations: Can AI Agents Improve Discourse Quality?",
+      "url": "https://arxiv.org/abs/2611.33459"
     },
     {
-      "text": "EPPC-CARE: Staged Hierarchical Annotation of Communication Behaviors in Secure Patient-Provider Messages",
-      "url": "https://arxiv.org/abs/2611.34539"
+      "text": "SpecRead: A Benchmark for Measuring Whether Language Models Understand Hardware Specifications",
+      "url": "https://arxiv.org/abs/2609.33699"
     },
     {
-      "text": "Context Scaling: A New Frontier of AI Scaling",
-      "url": "https://arxiv.org/abs/2611.33160"
+      "text": "Agent Calibration under Deployment Change: Acceptance Contracts, Trajectory Repair, and Adaptation Costs",
+      "url": "https://arxiv.org/abs/2609.35149"
     },
     {
-      "text": "Fine-Grained Instruction-Guided Graph Reasoning for Vision-and-Language Navigation",
-      "url": "https://arxiv.org/abs/2503.11006"
+      "text": "Improving Tail-Augmented Speculative Drafting with Hidden State Mixing and Gradient Detach",
+      "url": "https://arxiv.org/abs/2611.34092"
     },
     {
-      "text": "Neural Fidelity Calibration for Informative Sim-to-Real Adaptation",
-      "url": "https://arxiv.org/abs/2504.08604"
+      "text": "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts",
+      "url": "https://arxiv.org/abs/2611.34098"
     },
     {
-      "text": "Failure Broadens, Success Sharpens: Continual Adaptation of Tool-Use Agents Across Diverse Tasks with Dual-Polarity Memory",
-      "url": "https://arxiv.org/abs/2611.33612"
+      "text": "Hijacking 3D Generation: Targeted Adversarial Attacks against Image-to-3D Models via Prefix Trajectory Alignment",
+      "url": "https://arxiv.org/abs/2611.34075"
     },
     {
-      "text": "IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2512.14166"
+      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "url": "https://arxiv.org/abs/2611.34035"
     },
     {
-      "text": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
-      "url": "https://arxiv.org/abs/2611.34222"
+      "text": "Evaluating Ukrainian Grammatical Competence in Language Models: Probability Versus Prompting",
+      "url": "https://arxiv.org/abs/2611.34016"
     }
   ],
   "rightColumn": [
+    {
+      "text": "From Models to Services: Systematizing Security Assurance for Model-as-a-Service",
+      "url": "https://arxiv.org/abs/2611.34623"
+    },
+    {
+      "text": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
+      "url": "https://arxiv.org/abs/2611.34627"
+    },
+    {
+      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+      "url": "https://arxiv.org/abs/2609.19569"
+    },
+    {
+      "text": "Carrying Feature Ablations Across Sparse Autoencoder Seeds",
+      "url": "https://arxiv.org/abs/2611.34637"
+    },
     {
       "text": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
       "url": "https://arxiv.org/abs/2611.34644"
     },
     {
-      "text": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
-      "url": "https://arxiv.org/abs/2611.34852"
+      "text": "Task-Dependent Linguistic Measures in Aphasia Discourse: A Comparative Analysis of Narrative, Descriptive, and Procedural Speech",
+      "url": "https://arxiv.org/abs/2611.30826"
     },
     {
-      "text": "$\\mu$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
-      "url": "https://arxiv.org/abs/2611.34920"
+      "text": "Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank",
+      "url": "https://arxiv.org/abs/2610.06621"
     },
     {
       "text": "DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering",
       "url": "https://arxiv.org/abs/2611.34671"
-    },
-    {
-      "text": "RoboEvo$^2$: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
-      "url": "https://arxiv.org/abs/2611.34675"
-    },
-    {
-      "text": "Find the Clue, Not the Scene: Rethinking Reasoning for Entity Recognition in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.34681"
-    },
-    {
-      "text": "Noise threshold for learning with quantum memory",
-      "url": "https://arxiv.org/abs/2611.34474"
-    },
-    {
-      "text": "Maco-RL: Scaling Agent Capabilities with Mixed-Task Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.34703"
     }
   ],
-  "lastUpdated": "2026-11-27T21:30:40Z"
+  "lastUpdated": "2026-11-28T00:44:36Z"
 }
