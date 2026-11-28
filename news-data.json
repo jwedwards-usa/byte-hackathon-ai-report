@@ -1,123 +1,123 @@
 {
   "mainHeadline": {
-    "text": "Who/What/Where/How of Compute Verification",
-    "url": "https://www.lesswrong.com/posts/isY2zw4fQSRLooMfL/who-what-where-how-of-compute-verification"
+    "text": "It's a Belief Cascade",
+    "url": "https://www.lesswrong.com/posts/2kZgma6h2epedGBtD/it-s-a-belief-cascade"
   },
   "topStories": [
     {
-      "text": "Help Peer: Good Teammates Can Be Fooled",
-      "url": "https://www.lesswrong.com/posts/5aBqg4BqrqyqJuggA/help-peer-good-teammates-can-be-fooled"
+      "text": "Can LLMs Operate Wetlab Equipment?",
+      "url": "https://www.lesswrong.com/posts/SjwzazYRZDsq4hhoq/can-llms-operate-wetlab-equipment"
     },
     {
-      "text": "Thinking About LLMs in Terms of Cognitive Patterns",
-      "url": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"
+      "text": "R\u0026D compute explains much of Anthropic's acceleration",
+      "url": "https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration"
     },
     {
-      "text": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
-      "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
+      "text": "Eight Existential Risk Scenarios from AI: A Systematic Review",
+      "url": "https://www.lesswrong.com/posts/Ki8rWwBxFccC5Kiye/eight-existential-risk-scenarios-from-ai-a-systematic-review-1"
     }
   ],
   "leftColumn": [
     {
-      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
-      "url": "https://arxiv.org/abs/2611.33339"
-    },
-    {
-      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
-      "url": "https://arxiv.org/abs/2611.33806"
-    },
-    {
       "text": "Sample Blog Post",
       "url": "https://www.anthropic.com/news"
-    },
-    {
-      "text": "Capturing My Favorite Electric Piano",
-      "url": "https://www.lesswrong.com/posts/uTrkTFk4wFjb7Xoqq/capturing-my-favorite-electric-piano"
     },
     {
       "text": "I don’t expect superposition in transformer MLP neurons",
       "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
     },
     {
-      "text": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "url": "https://arxiv.org/abs/2611.33161"
+      "text": "Good domestic politics vs bad state realpolitik",
+      "url": "https://www.lesswrong.com/posts/sQWvX3irLhuoSxpXu/good-domestic-politics-vs-bad-state-realpolitik"
     },
     {
-      "text": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
-      "url": "https://arxiv.org/abs/2611.33966"
+      "text": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
+      "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
     },
     {
-      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
-      "url": "https://arxiv.org/abs/2510.22232"
+      "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
+      "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
+    },
+    {
+      "text": "\"Orwell vs Machiavelli\"—A Letter to Vishal Prasad",
+      "url": "https://www.lesswrong.com/posts/LFtujcrJQ8gNYkXqr/orwell-vs-machiavelli-a-letter-to-vishal-prasad"
+    },
+    {
+      "text": "Capturing My Favorite Electric Piano",
+      "url": "https://www.lesswrong.com/posts/uTrkTFk4wFjb7Xoqq/capturing-my-favorite-electric-piano"
+    },
+    {
+      "text": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
     }
   ],
   "centerColumn": [
     {
-      "text": "RoboThink: Let the Agent Think, Let the Policy Act",
-      "url": "https://arxiv.org/abs/2611.30111"
+      "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
     },
     {
-      "text": "MathConstruct: Challenging LLM Reasoning with Constructive Proofs",
-      "url": "https://arxiv.org/abs/2502.10197"
+      "text": "Poland signs a $300 million Palantir deal for battlefield AI",
+      "url": "https://dailyai.com/2026/11/poland-signs-a-300-million-palantir-deal-for-battlefield-ai/"
     },
     {
-      "text": "Evaluating Ukrainian Grammatical Competence in Language Models: Probability Versus Prompting",
-      "url": "https://arxiv.org/abs/2611.34016"
+      "text": "Nvidia’s most advanced chips turn up in a Shanghai loan document",
+      "url": "https://dailyai.com/2026/11/nvidias-most-advanced-chips-turn-up-in-a-shanghai-loan-document/"
     },
     {
-      "text": "Context Scaling: A New Frontier of AI Scaling",
-      "url": "https://arxiv.org/abs/2611.33160"
+      "text": "Sony spinout Altair raises $100m for AI-wearable modem chip",
+      "url": "https://dailyai.com/2026/11/sony-spinout-altair-raises-100m-for-ai-wearable-modem-chip/"
     },
     {
-      "text": "ReviewSense: Cluster-Guided Evidence Selection for Actionable Review-to-Advice Generation",
-      "url": "https://arxiv.org/abs/2510.16466"
+      "text": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"
     },
     {
-      "text": "Training language models on first-person reactions can instil the beliefs behind them",
-      "url": "https://arxiv.org/abs/2610.31683"
+      "text": "DUTCH GROUPS ASK COURT TO HALT SALES OF META’S AI GLASSES",
+      "url": "https://dailyai.com/2026/11/dutch-groups-ask-court-to-halt-sales-of-metas-ai-glasses/"
     },
     {
-      "text": "MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules",
-      "url": "https://arxiv.org/abs/2611.33985"
+      "text": "Los Angeles schools switch off Google’s AI search summaries",
+      "url": "https://dailyai.com/2026/11/los-angeles-schools-switch-off-googles-ai-search-summaries/"
     },
     {
-      "text": "Measuring and Predicting Image-Token Repair Boundaries in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.33388"
+      "text": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
     }
   ],
   "rightColumn": [
     {
-      "text": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
-      "url": "https://arxiv.org/abs/2611.34852"
+      "text": "The proof nobody could read just got 228 times smaller",
+      "url": "https://dailyai.com/2026/11/the-proof-nobody-could-read-just-got-228-times-smaller/"
     },
     {
-      "text": "VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences",
-      "url": "https://arxiv.org/abs/2611.34603"
+      "text": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
     },
     {
-      "text": "From Models to Services: Systematizing Security Assurance for Model-as-a-Service",
-      "url": "https://arxiv.org/abs/2611.34623"
+      "text": "Belgian region orders Google to stop building its data center",
+      "url": "https://dailyai.com/2026/11/belgian-region-orders-google-to-stop-building-its-data-center/"
     },
     {
-      "text": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
-      "url": "https://arxiv.org/abs/2611.34627"
+      "text": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3"
     },
     {
-      "text": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
-      "url": "https://arxiv.org/abs/2611.34351"
+      "text": "Running 1-Bit LLMs Locally: A Practical Guide to BitNet Inference",
+      "url": "https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/"
     },
     {
-      "text": "Carrying Feature Ablations Across Sparse Autoencoder Seeds",
-      "url": "https://arxiv.org/abs/2611.34637"
+      "text": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/"
     },
     {
-      "text": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
-      "url": "https://arxiv.org/abs/2611.34644"
+      "text": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
     },
     {
-      "text": "LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions",
-      "url": "https://arxiv.org/abs/2611.34328"
+      "text": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html"
     }
   ],
-  "lastUpdated": "2026-11-28T03:30:33Z"
+  "lastUpdated": "2026-11-28T06:30:30Z"
 }
