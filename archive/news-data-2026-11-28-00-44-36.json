@@ -1,0 +1,123 @@
+{
+  "mainHeadline": {
+    "text": "Who/What/Where/How of Compute Verification",
+    "url": "https://www.lesswrong.com/posts/isY2zw4fQSRLooMfL/who-what-where-how-of-compute-verification"
+  },
+  "topStories": [
+    {
+      "text": "Help Peer: Good Teammates Can Be Fooled",
+      "url": "https://www.lesswrong.com/posts/5aBqg4BqrqyqJuggA/help-peer-good-teammates-can-be-fooled"
+    },
+    {
+      "text": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
+      "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
+    },
+    {
+      "text": "Thinking About LLMs in Terms of Cognitive Patterns",
+      "url": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns"
+    }
+  ],
+  "leftColumn": [
+    {
+      "text": "Temporal Weight Surgery: Repairing Video Grounding with LLM Editors",
+      "url": "https://arxiv.org/abs/2611.33339"
+    },
+    {
+      "text": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+      "url": "https://arxiv.org/abs/2611.33806"
+    },
+    {
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "text": "I don’t expect superposition in transformer MLP neurons",
+      "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
+    },
+    {
+      "text": "Rational Adversaries and the Maintenance of Fragility: A Game-Theoretic Theory of Rational Stagnation",
+      "url": "https://arxiv.org/abs/2510.22232"
+    },
+    {
+      "text": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
+      "url": "https://arxiv.org/abs/2601.12095"
+    },
+    {
+      "text": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
+      "url": "https://arxiv.org/abs/2611.32997"
+    },
+    {
+      "text": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437"
+    }
+  ],
+  "centerColumn": [
+    {
+      "text": "AI-human hybrid conversations: Can AI Agents Improve Discourse Quality?",
+      "url": "https://arxiv.org/abs/2611.33459"
+    },
+    {
+      "text": "SpecRead: A Benchmark for Measuring Whether Language Models Understand Hardware Specifications",
+      "url": "https://arxiv.org/abs/2609.33699"
+    },
+    {
+      "text": "Agent Calibration under Deployment Change: Acceptance Contracts, Trajectory Repair, and Adaptation Costs",
+      "url": "https://arxiv.org/abs/2609.35149"
+    },
+    {
+      "text": "Improving Tail-Augmented Speculative Drafting with Hidden State Mixing and Gradient Detach",
+      "url": "https://arxiv.org/abs/2611.34092"
+    },
+    {
+      "text": "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts",
+      "url": "https://arxiv.org/abs/2611.34098"
+    },
+    {
+      "text": "Hijacking 3D Generation: Targeted Adversarial Attacks against Image-to-3D Models via Prefix Trajectory Alignment",
+      "url": "https://arxiv.org/abs/2611.34075"
+    },
+    {
+      "text": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "url": "https://arxiv.org/abs/2611.34035"
+    },
+    {
+      "text": "Evaluating Ukrainian Grammatical Competence in Language Models: Probability Versus Prompting",
+      "url": "https://arxiv.org/abs/2611.34016"
+    }
+  ],
+  "rightColumn": [
+    {
+      "text": "From Models to Services: Systematizing Security Assurance for Model-as-a-Service",
+      "url": "https://arxiv.org/abs/2611.34623"
+    },
+    {
+      "text": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
+      "url": "https://arxiv.org/abs/2611.34627"
+    },
+    {
+      "text": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+      "url": "https://arxiv.org/abs/2609.19569"
+    },
+    {
+      "text": "Carrying Feature Ablations Across Sparse Autoencoder Seeds",
+      "url": "https://arxiv.org/abs/2611.34637"
+    },
+    {
+      "text": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
+      "url": "https://arxiv.org/abs/2611.34644"
+    },
+    {
+      "text": "Task-Dependent Linguistic Measures in Aphasia Discourse: A Comparative Analysis of Narrative, Descriptive, and Procedural Speech",
+      "url": "https://arxiv.org/abs/2611.30826"
+    },
+    {
+      "text": "Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank",
+      "url": "https://arxiv.org/abs/2610.06621"
+    },
+    {
+      "text": "DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering",
+      "url": "https://arxiv.org/abs/2611.34671"
+    }
+  ],
+  "lastUpdated": "2026-11-28T00:44:36Z"
+}
