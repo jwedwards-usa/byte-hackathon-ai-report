@@ -5,16 +5,16 @@
   },
   "topStories": [
     {
-      "text": "Can LLMs Operate Wetlab Equipment?",
-      "url": "https://www.lesswrong.com/posts/SjwzazYRZDsq4hhoq/can-llms-operate-wetlab-equipment"
-    },
-    {
       "text": "R\u0026D compute explains much of Anthropic's acceleration",
       "url": "https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration"
     },
     {
       "text": "Eight Existential Risk Scenarios from AI: A Systematic Review",
       "url": "https://www.lesswrong.com/posts/Ki8rWwBxFccC5Kiye/eight-existential-risk-scenarios-from-ai-a-systematic-review-1"
+    },
+    {
+      "text": "Can LLMs Operate Wetlab Equipment?",
+      "url": "https://www.lesswrong.com/posts/SjwzazYRZDsq4hhoq/can-llms-operate-wetlab-equipment"
     }
   ],
   "leftColumn": [
@@ -27,10 +27,6 @@
       "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
     },
     {
-      "text": "Good domestic politics vs bad state realpolitik",
-      "url": "https://www.lesswrong.com/posts/sQWvX3irLhuoSxpXu/good-domestic-politics-vs-bad-state-realpolitik"
-    },
-    {
       "text": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
       "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
     },
@@ -39,19 +35,27 @@
       "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/"
     },
     {
-      "text": "\"Orwell vs Machiavelli\"—A Letter to Vishal Prasad",
-      "url": "https://www.lesswrong.com/posts/LFtujcrJQ8gNYkXqr/orwell-vs-machiavelli-a-letter-to-vishal-prasad"
+      "text": "Attack graphs for AI takeover",
+      "url": "https://www.lesswrong.com/posts/bpxEdN7CeEJvkJyq4/attack-graphs-for-ai-takeover"
     },
     {
-      "text": "Capturing My Favorite Electric Piano",
-      "url": "https://www.lesswrong.com/posts/uTrkTFk4wFjb7Xoqq/capturing-my-favorite-electric-piano"
+      "text": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
+      "url": "https://twitter.com/superalesha/status/2125682626056839259"
     },
     {
-      "text": "Claude sabotaging ML research tasks?",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+      "text": "Good domestic politics vs bad state realpolitik",
+      "url": "https://www.lesswrong.com/posts/sQWvX3irLhuoSxpXu/good-domestic-politics-vs-bad-state-realpolitik"
+    },
+    {
+      "text": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
     }
   ],
   "centerColumn": [
+    {
+      "text": "Iranian state media’s AI video threatens Amazon, Microsoft and SpaceX",
+      "url": "https://dailyai.com/2026/11/iranian-state-medias-ai-video-threatens-amazon-microsoft-and-spacex/"
+    },
     {
       "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
       "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
@@ -73,12 +77,8 @@
       "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"
     },
     {
-      "text": "DUTCH GROUPS ASK COURT TO HALT SALES OF META’S AI GLASSES",
-      "url": "https://dailyai.com/2026/11/dutch-groups-ask-court-to-halt-sales-of-metas-ai-glasses/"
-    },
-    {
-      "text": "Los Angeles schools switch off Google’s AI search summaries",
-      "url": "https://dailyai.com/2026/11/los-angeles-schools-switch-off-googles-ai-search-summaries/"
+      "text": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
     },
     {
       "text": "datasette-charts 0.4a0",
@@ -86,6 +86,10 @@
     }
   ],
   "rightColumn": [
+    {
+      "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    },
     {
       "text": "The proof nobody could read just got 228 times smaller",
       "url": "https://dailyai.com/2026/11/the-proof-nobody-could-read-just-got-228-times-smaller/"
@@ -113,11 +117,7 @@
     {
       "text": "GPT 6.2 Astra Solves a Historical Mystery",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
-    },
-    {
-      "text": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html"
     }
   ],
-  "lastUpdated": "2026-11-28T06:30:30Z"
+  "lastUpdated": "2026-11-28T09:33:45Z"
 }
