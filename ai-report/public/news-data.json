@@ -9,26 +9,30 @@
       "url": "https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration"
     },
     {
-      "text": "Eight Existential Risk Scenarios from AI: A Systematic Review",
-      "url": "https://www.lesswrong.com/posts/Ki8rWwBxFccC5Kiye/eight-existential-risk-scenarios-from-ai-a-systematic-review-1"
+      "text": "Sample Blog Post",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "text": "Can LLMs Operate Wetlab Equipment?",
-      "url": "https://www.lesswrong.com/posts/SjwzazYRZDsq4hhoq/can-llms-operate-wetlab-equipment"
+      "text": "Emergent moral judgment in visual transformer models",
+      "url": "https://www.lesswrong.com/posts/Mrcmze6Db9i5ibamR/emergent-moral-judgment-in-visual-transformer-models"
     }
   ],
   "leftColumn": [
     {
-      "text": "Sample Blog Post",
-      "url": "https://www.anthropic.com/news"
+      "text": "Can LLMs Operate Wetlab Equipment?",
+      "url": "https://www.lesswrong.com/posts/SjwzazYRZDsq4hhoq/can-llms-operate-wetlab-equipment"
     },
     {
       "text": "I don’t expect superposition in transformer MLP neurons",
       "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons"
     },
     {
-      "text": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
-      "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research"
+      "text": "Insufficiently Rat-Resistant Trash Bins",
+      "url": "https://www.lesswrong.com/posts/6w3Cxe7jb8yJ8CFm5/insufficiently-rat-resistant-trash-bins"
+    },
+    {
+      "text": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
     },
     {
       "text": "CHATGPT BOOSTED CONSULTANTS' SCORES, NOT THEIR KNOWLEDGE",
@@ -37,10 +41,6 @@
     {
       "text": "Attack graphs for AI takeover",
       "url": "https://www.lesswrong.com/posts/bpxEdN7CeEJvkJyq4/attack-graphs-for-ai-takeover"
-    },
-    {
-      "text": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
-      "url": "https://twitter.com/superalesha/status/2125682626056839259"
     },
     {
       "text": "Good domestic politics vs bad state realpolitik",
@@ -69,26 +69,34 @@
       "url": "https://dailyai.com/2026/11/nvidias-most-advanced-chips-turn-up-in-a-shanghai-loan-document/"
     },
     {
-      "text": "Sony spinout Altair raises $100m for AI-wearable modem chip",
-      "url": "https://dailyai.com/2026/11/sony-spinout-altair-raises-100m-for-ai-wearable-modem-chip/"
-    },
-    {
-      "text": "How cutting-edge prosthetics can help probe the human mind",
-      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"
-    },
-    {
       "text": "Claude sabotaging ML research tasks?",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
     },
     {
       "text": "datasette-charts 0.4a0",
       "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
+    },
+    {
+      "text": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/"
+    },
+    {
+      "text": "Sony spinout Altair raises $100m for AI-wearable modem chip",
+      "url": "https://dailyai.com/2026/11/sony-spinout-altair-raises-100m-for-ai-wearable-modem-chip/"
     }
   ],
   "rightColumn": [
     {
-      "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+      "text": "Shuffle the Questions to Catch an LLM That Memorized Its Benchmark",
+      "url": "https://towardsdatascience.com/shuffle-the-questions-to-catch-an-llm-that-memorized-its-benchmark/"
+    },
+    {
+      "text": "\"Orwell vs Machiavelli\"—A Letter to Vishal Prasad",
+      "url": "https://www.lesswrong.com/posts/LFtujcrJQ8gNYkXqr/orwell-vs-machiavelli-a-letter-to-vishal-prasad"
+    },
+    {
+      "text": "From modal agents to simultaneous proof search: a first attempt",
+      "url": "https://www.lesswrong.com/posts/mLsxPqcqreDqwNDg9/from-modal-agents-to-simultaneous-proof-search-a-first"
     },
     {
       "text": "The proof nobody could read just got 228 times smaller",
@@ -103,21 +111,13 @@
       "url": "https://dailyai.com/2026/11/belgian-region-orders-google-to-stop-building-its-data-center/"
     },
     {
+      "text": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/"
+    },
+    {
       "text": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
       "url": "https://huggingface.co/blog/video-trainium3"
-    },
-    {
-      "text": "Running 1-Bit LLMs Locally: A Practical Guide to BitNet Inference",
-      "url": "https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/"
-    },
-    {
-      "text": "The next generation of bionic hands is here—and they can feel",
-      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/"
-    },
-    {
-      "text": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
     }
   ],
-  "lastUpdated": "2026-11-28T09:33:45Z"
+  "lastUpdated": "2026-11-28T12:32:09Z"
 }
